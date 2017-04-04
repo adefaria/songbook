@@ -22,3 +22,4 @@ All your life
 You were only waiting for this moment to arise
 You were only waiting for this moment to arise
 You were only waiting for this moment to arise
+{musicpath:/sdcard/SongBook/Media/Blackbird.mp3}
