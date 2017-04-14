@@ -10,7 +10,7 @@
 [C7]Attracts me like no other [F]lover
 [D]Something in the [D/F#]way she [G]woos me
 [Am]I don't want to leave her now[AmMaj7]
-[Am7]You know I believe and [D/F#]how
+[Am7]You know I believe and [D]how
 
 Somewhere in her smile she knows
 That I don't need no other lover
