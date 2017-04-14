@@ -8,9 +8,9 @@
 
 [C]Something in the way she [Cmaj7]moves
 [C7]Attracts me like no other [F]lover
-[Dm]Something in the [D]way she [G]woos me
+[D]Something in the [D/F#]way she [G]woos me
 [Am]I don't want to leave her now[AmMaj7]
-[Am7]You know I believe and [D]how
+[Am7]You know I believe and [D/F#]how
 
 Somewhere in her smile she knows
 That I don't need no other lover
