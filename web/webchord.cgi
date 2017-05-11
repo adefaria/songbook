@@ -75,7 +75,7 @@ sub musicFileExists ($) {
   debug "ENTER musicFileExists ($song)";
   
   my $title     = fileparse ($song, qr/\.pro/);
-  my $musicfile = "/opt/songbook/Media/$title.mp3";
+  my $musicfile = "/opt/media/$title.mp3";
 
   if (-r $musicfile) {
     debug "Exists!";
