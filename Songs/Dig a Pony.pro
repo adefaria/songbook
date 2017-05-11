@@ -50,4 +50,4 @@ Yes you can syndicate any boat you row, I told you so
 
 [G] [D] [A] 2x
 
-[G]All I [E]want is [A]you
+[G]All I [E]want is [A]you{musicpath:/sdcard/SongBook/Media/Dig a Pony.mp3}
