@@ -1,4 +1,6 @@
 {title:I've Just Seen A Face}
+{subtitle:Beatles}
+{key:G}
 
 [G]I've just seen a face I can't forget 
 The time or place where we just [Em]met

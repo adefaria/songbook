@@ -1,5 +1,5 @@
 {title:All You Need Is Love}
-{subtitle:John Lennon/Paul McCartney}
+{subtitle:Beatles}
 
 {c:Intro}
 
