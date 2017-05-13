@@ -1,56 +1,42 @@
-{title:A Hard Day's Night}
+{title:Nowhere Man}
 {subtitle:Beatles}
-{Key:G}
+{Key:E}
 
-[Fadd2]
+He's a real nowhere man
+Sitt[A]ing in his no[E]where land
+[F#m]Making all his no[A]where plans for [E]nobody
 
-It's been a [G]hard [Cadd2]day's [G]night
-And I been wo[Dm7]rking like a [G]dog
-It's been a [G]hard [Cadd2]day's [G]night
-I should be sl[Dm7]eeping like a [G]log
+Doesn't have a point of view
+Knows not where he's going to
+Isn't he a bit like you and me?
 
-But when I [C]get home to you 
-I find the [D]things that you do
-Will make me [G]feel [Cadd2]alright[G]
+Nowhere[G#m] man please [A]listen
+You don't [G#m]know what you're [A]missing
+Nowhere [G#m]man, The w[F#m]orld is at [A]your command
 
-You know I work all day 
-To get you money to buy you things
-And it's worth it just to hear you say
-You're going to give me everything
+He's as blind as he can be
+Just sees what he wants to see
+Nowhere man, can you see me at all
 
-So why on earth should I moan, 
-'cause when I get you alone
-You know I feel OK
+Nowhere man don't worry
+Take your time, don't hurry
+Leave it all till somebody else
+Lends you a hand
+Ah, la, la, la, la
 
-When I'm [Bm]home 
-Eve[Em]rything seems to be [Bm]right
-When I'm [G]home fe[Em]eling you holding me 
-[Am7]Tight, [D7]tight
+Doesn't have a point of view
+Knows not where he's going to
+Isn't he a bit like you and me?
 
-It's been a hard day's night
-And I been working like a dog
-It's been a hard day's night
-I should be sleeping like a log
+Nowhere man please listen
+You don't know what you're missing
+Nowhere man, The world is at your command
+Ah, la, la, la, la
 
-But when I get home to you 
-I find the things that you do
-Will make me feel alright, oww
+He's a real nowhere man
+Sitting in his nowhere land
+Making all his nowhere plans for nobody
+Making all his nowhere plans for nobody
+Making all his nowhere plans for nobody
 
-{c:Lead}
-
-So why on earth should I moan, 
-'ause when I get you alone
-You know I feel OK
-
-When I'm home 
-Everything seems to be right
-When I'm home feeling you holding me
-Tight, tight
-
-It's been a hard day's night, and I been working like a dog
-It's been a hard day's night, I should be sleeping like a log
-But when I get home to you I find the things that you do
-Will make me feel alright
-You know I feel alright
-You know I feel alright
-{musicpath:/sdcard/SongBook/Media/A Hard Day's Night.mp3}
+{musicpath:/sdcard/SongBook/Media/Nowhere Man.mp3}
