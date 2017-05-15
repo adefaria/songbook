@@ -3,16 +3,18 @@
 {Key:E}
 
 He's a real nowhere man
-Sitt[A]ing in his no[E]where land
-[F#m]Making all his no[A]where plans for [E]nobody
+Sitting in his nowhere land
+[F#m]Making all his no[Am]where plans for [E]nobody
 
-Doesn't have a point of view
-Knows not where he's going to
-Isn't he a bit like you and me?
+[E]Doesn't have a [B]point of view
+[A]Knows not where he's [E]going to
+[F#m]Isn't he a [Am]bit like you and [E]me?
 
 Nowhere[G#m] man please [A]listen
 You don't [G#m]know what you're [A]missing
-Nowhere [G#m]man, The w[F#m]orld is at [A]your command
+Nowhere [G#m]man, The w[F#m]orld is at [A]your com[B]mand
+
+{c:Lead}
 
 He's as blind as he can be
 Just sees what he wants to see
