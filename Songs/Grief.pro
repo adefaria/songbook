@@ -2,6 +2,8 @@
 {subtitle:Mike Fraser}
 {key:C}
 
+[C] [Csus4] [Cadd2] [C] [Fmaj7] [F6] [F]
+
 I carry on my back a lonely soul
 And I can't find the road
 The days last on forever
@@ -10,20 +12,20 @@ And the seasons take their toll
 
 {c:Break}
 
-I bring to you this heartache
-To ask you what it means
-But you wouldn't let me know
-Maybe you don't see it
-Like I see it all to clear
-I need to let you know
+I [Am]bring to you this heartache
+To [Am/G]ask you what it means
+But you [Fmaj7]wouldn't [F6]let me [F]know
+[Am]Maybe you don't see it
+Like I [Am/G]see it all to clear
+I need to [Fmaj7]let you[F6] know [F] [Fmaj7] [G]
 
 {c:Chorus}
 
-I know the reason
-I fight for situations I can't win
-And I know this moment
-It's time to recognize and to begin to see
-My heart still bleeds for you
+[C]I know the [Am]reason
+I f[G]ight for situations I can't [F]win [G]
+And [C]I know this [Am]moment
+It's [G]time to recognize and to [Fmaj7]begin to see
+My heart still bleeds [G]for [C]you
 
 I never had forever
 Or even just a day
