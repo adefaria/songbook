@@ -1,6 +1,6 @@
 {title:The Letter}
 {subtitle:The Box Tops}
-{key Am]
+{key Am}
 
 [Am]Gimme a ticket for an [F]aeroplane 
 [G]Ain't got time to take a [D]fast train 
@@ -25,3 +25,4 @@ A[E7]nyway, yeah!
 {c:Chorus}
 
 {c:First verse}
+{musicpath:/sdcard/SongBook/Media/The Letter.mp3}
