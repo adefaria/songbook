@@ -17,7 +17,7 @@ I [Gm]opened up my eyes and much to my surprise
 So tell me what it's worth
 [Eb]Am I a b[D]eggar or a [Gm]king?
 Got no trouble, got no time, eternity is mine
-[Eb]I got a w[F}hole lot of [D]ever[C]ythi[Bb]ng [A]
+[Eb]I got a w[F]hole lot of [D]ever[C]ythi[Bb]ng [A]
 
 I can take this town and just burn it to the ground
 Smash every window that I see
@@ -39,7 +39,7 @@ It's all mine...
 
 [Gm] [Eb] [D] [Gm] [Eb] [D] e f# d 
 
-[Eb]There's not a single [F]soul to [Bb]talk [A]to me [F] [Gm]
+[Eb]There's not a single [F]soul to [Bb]talk [Am]to me [F] [Gm]
 [Eb]But that's o[Cm]kay I never l[A/C#]iked t[D]hem  [C] [B] [E]
 
 I'm the [Am]last man on earth
