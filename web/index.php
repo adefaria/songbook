@@ -17,13 +17,16 @@ include_once "songbook.php";
 
 <body>
 
-<?php
-  if (file_exists ("news.html")) {
-    print "<a href=\"news.html\"><img src=\"/Icons/news.png\"></a>";
-  } // if
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="left"><a href="news.html"><img src="/Icons/news.png"></a></td>
+      <td align="right"><a href="http://defaria.com/gitweb/?p=songbook.git"><img src="/Icons/history.png"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-  getSongs();
-?>
+<?php getSongs(); ?>
 
 <div class="heading">
   <h1 class="centered">Andrew DeFaria's Songbook</h1>
