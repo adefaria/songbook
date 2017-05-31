@@ -1,33 +1,32 @@
 {title:Goodbye Yellow Brick Road}
 {subtitle:Elton John}
-{key:F}
+{key:E}
 
 {c:Intro}
 
-[F] [C] [Dm] [C] [Bb] [C] [F]
+[E] [B] [C#m] [B] [A] [B] [E]
 
-
-[Gm]When are you gonna [C]come down
-[F]When are you going to [Bb]land
-I [Gm]should have stayed on the [C]farm, should have
-[F]Listened to my old man
-You [Gm]know you can't hold me for[C]ever
-I [F]didn't sign up with [Bb]you
-I'm [Eb]not a present for your [C]friends to open
-This [F]boy's too young to be singing 
-The [Db]blue[Eb]s... [Ab]Ah...[Db]... [Bbm]Ah....[C7]
+[F#m]When are you gonna [B]come down
+[E]When are you going to [A]land
+I [F#m]should have stayed on the [B]farm, should have
+[E]Listened to my old man
+You [F#m]know you can't hold me for[B]ever
+I [E]didn't sign up with [A]you
+I'm [D]not a present for your [B]friends to open
+This [E]boy's too young to be singing 
+The [C]blue[D]s... [G]Ah...[C]... [Am]Ah....[B7]
 
 {c:Chorus}
 
-So [F]Goodbye yellow brick [A7]road
-Where the [Bb]dogs of society [F]howl
-You [D7]can't plant me in your [Gm]penthouse
-I'm [C]going back to my [F]plow
-[Dm]Back to the howling old [A]owl in the woods
-[Bb]Hunting the horny black [Db]toad
-Oh [Eb]I've [F]finally de[C/E]cided my [Dm]future li[Dm/C]es
-Bey[Bb]ond the [C]yellow brick [Db]road[Eb] ...
-[Ab]Ah..[Dd]... [Bbm]Ah...[C...[F]
+So [E]Goodbye yellow brick [G#7]road
+Where the [A]dogs of society [E]howl
+You [C#7]can't plant me in your [F#m]penthouse
+I'm [B]going back to my [E]plow
+[C#m]Back to the howling old [G#]owl in the woods
+[A]Hunting the horny black [C]toad
+Oh [D]I've [E]finally de[B/D#]cided my [C#m]future li[C#m/B]es
+Bey[A]ond the [B]yellow brick [C]road[D] ...
+[G]Ah..[Em]... [Am]Ah...[B]...[E]
 
 What do you think you'll do then?
 I bet to shoot down your plane
