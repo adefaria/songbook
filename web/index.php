@@ -26,8 +26,6 @@ include_once "songbook.php";
   </tbody>
 </table>
 
-<?php getSongs(); ?>
-
 <div class="heading">
   <h1 class="centered">Andrew DeFaria's Songbook</h1>
 </div>
@@ -42,18 +40,19 @@ Windows. More info on this is available <a href="songbook.html">here</a>. For
 people who must remain with paper...</p>
 
 <p>The following songs are available here. Select an artist or a song and then
-Go or type in a lyric or song title into the search box. You can print the 
+Go or type in a lyric or song title into the search box. You can print the
 result if you wish to have a paper copy. If new songs are added by me or others
-this page will automatically update so you can come back here and get your 
+this page will automatically update so you can come back here and get your
 copy.</p>
 
 <?php
 artistsDropdown();
+setsDropdown();
 songsDropdown();
 ?>
 
 <form method="post" action="search.php" name="search">
-Search:&nbsp;&nbsp;<input type="text" name="searchterm"><input type="submit" value="Search">
+Search:&nbsp;<input type="text" name="searchterm"><input type="submit" value="Search">
 
 </form>
 </body>

@@ -1,6 +1,6 @@
 <?php
 $baseDir = getcwd();
-$songs   = glob (dirname($baseDir) . "/Songs/*.pro");
+$songDir = "/opt/songbook/Songs";
 $debug   = $_REQUEST["debug"];
 
 function debug ($msg) {
@@ -12,16 +12,19 @@ function debug ($msg) {
 } // debug
 
 function getSongs () {
-  global $songs;
+  global $songDir;
 
-  $path = "/opt/songbook/Songs";
-
-  // Why didn't the previous one execute correctly?
-  $songs = glob("$path/*.pro");
+  return glob("$songDir/*.pro");
 } // getSongs
 
+function getSets () {
+  global $songDir;
+
+  return glob("$songDir/*.lst");
+} // getSets
+
 function songsDropdown () {
-  global $songs;
+  $songs = getSongs();
 
   print "<form method=\"get\" action=\"webchord.cgi\" name=\"song\">";
   print "Songs:&nbsp;&nbsp;";
@@ -39,14 +42,13 @@ function songsDropdown () {
     } // if
   } // foreach
 
-  print "<input type=\"submit\" value=\"Go\">";
   print "</select>";
+  print "&nbsp;<input type=\"submit\" value=\"Go\">";
   print "</form>";
 } // songsDropdown
 
 function artistsDropdown () {
-  global $songs;
-
+  $songs = getSongs();
   $artists = getArtists ($songs);
 
   print "<form method=\"get\" action=\"displayartist.php\" name=\"artist\">";
@@ -58,10 +60,30 @@ function artistsDropdown () {
     print "<option>$artist</option>";
   } // foreach
 
-  print "<input type=\"submit\" value=\"Go\">";
   print "</select>";
+  print "&nbsp;<input type=\"submit\" value=\"Go\">";
   print "</form>";
 } // artistsDropdown
+
+function setsDropdown () {
+  $sets = getSets();
+
+  print "<form method=\"get\" action=\"displayset.php\" name=\"set\">";
+  print "Sets:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+  print "<select name=\"set\">";
+
+  sort ($sets);
+  foreach ($sets as $set) {
+    print "Processing set<br>";
+    $title = basename ($set, ".lst");
+
+    print "<option value=\"$title.lst\">$title</option>";
+  } // foreach
+
+  print "</select>";
+  print "&nbsp;<input type=\"submit\" value=\"Go\">";
+  print "</form>";
+} // setsDropdown
 
 function getArtist ($song) {
   $lyrics = file_get_contents ($song);
