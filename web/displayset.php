@@ -31,7 +31,7 @@ width: 100%;
 <div id="content">
 
 <?php
-global $songDir;
+global $songDir, $artists;
 
 print "<ol>";
 
@@ -61,14 +61,18 @@ foreach (file("$songDir/$set") as $line) {
     print basename ($song);
   }
 
-  if ($artist <> "") {
-    print " - <a href=\"displayartist.php?artist=$artist\">$artist</a>";
+  print " - ";
+
+  if (in_array ($artist, $artists)) {
+    print "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
+  } else {
+    print $artist;
   } // if
 
   print "</li>";
 } // foreach
 
-print "</okkkl>";
+print "</ol>";
 ?>
 
 </body>
