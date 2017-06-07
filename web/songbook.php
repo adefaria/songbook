@@ -3,6 +3,11 @@ $baseDir = getcwd();
 $songDir = "/opt/songbook/Songs";
 $debug   = $_REQUEST["debug"];
 
+// Initialize music objects
+$songs   = getSongs($songDir);
+$sets    = getSets($songDir);
+$artists = getArtists($songs);
+
 function debug ($msg) {
   global $debug;
 
@@ -11,20 +16,16 @@ function debug ($msg) {
   } // if
 } // debug
 
-function getSongs () {
-  global $songDir;
-
+function getSongs ($songDir) {
   return glob("$songDir/*.pro");
 } // getSongs
 
-function getSets () {
-  global $songDir;
-
+function getSets ($songDir) {
   return glob("$songDir/*.lst");
 } // getSets
 
 function songsDropdown () {
-  $songs = getSongs();
+  global $songs;
 
   print "<form method=\"get\" action=\"webchord.cgi\" name=\"song\">";
   print "Songs:&nbsp;&nbsp;";
@@ -48,8 +49,7 @@ function songsDropdown () {
 } // songsDropdown
 
 function artistsDropdown () {
-  $songs = getSongs();
-  $artists = getArtists ($songs);
+  global $artists;
 
   print "<form method=\"get\" action=\"displayartist.php\" name=\"artist\">";
   print "Artists:&nbsp;&nbsp;";
@@ -66,7 +66,7 @@ function artistsDropdown () {
 } // artistsDropdown
 
 function setsDropdown () {
-  $sets = getSets();
+  global $sets;
 
   print "<form method=\"get\" action=\"displayset.php\" name=\"set\">";
   print "Sets:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
@@ -96,8 +96,6 @@ function getArtist ($song) {
 } // getArtist
 
 function getArtists ($songs) {
-  $artists = array();
-
   foreach ($songs as $song) {
     $artist = getArtist ($song);
 
@@ -109,20 +107,3 @@ function getArtists ($songs) {
   return array_keys ($artists);
 } // getArtists
 
-function formatTable ($songs) {
-  echo "<ol>";
-
-  foreach ($songs as $song) {
-    $artist = getArtist ($song);
-
-    $title = basename ($song, ".pro");
-
-    echo "<li><a href=\"webchord.cgi?chordpro=$song\">$title</a>";
-
-    if ($artist != "") {
-    echo "&nbsp;($artist)";
-    } // if
-  } // foreach
-
-  echo "</ol>";
-} // formatTable

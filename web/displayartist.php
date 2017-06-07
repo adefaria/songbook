@@ -24,9 +24,14 @@ $artist = $_REQUEST ["artist"];
 <div id="content">
 
 <?php
+global $songs;
+
 $artistsSongs = array();
 
+debug ("Processing songs");
+
 foreach ($songs as $song) {
+  debug ("Song: $song");
   $songArtist = getArtist ($song);
 
   if ($songArtist == $artist) {
