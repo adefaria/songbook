@@ -55,5 +55,15 @@ songsDropdown();
 Search:&nbsp;<input type="text" name="searchterm"><input type="submit" value="Search">
 
 </form>
+
+<p>Want to <a href="https://www.dropbox.com/sh/jy385ihkuc5ncn4/AAC9eQEWTVmxYPcuJsxrWT8aa?dl=0">download my Songbook songfiles?</a>
+and then use the Download dropdown in the upper right corner to either <b>Direct
+download</b> (which will download a .zip file with all of the songs) or <b>Save
+to Your Dropbox</b>.</p>
+
+ <p>You can also use the same facility to <a href="https://www.dropbox.com/sh/dkadircz25mnqee/AADUFPXW09ovK5hA-8EfL3Eca?dl=0">download
+ the corresponding Media (MP3) files</a> to listen to, play along with or place in
+ /sdcard/SongBook/Media on your Android tablet so that you can play them directly from
+ Songbook! <b>Note:</b> Do not do a Direct Download as all of the media files are too large for Dropbox to zip.</p>
 </body>
 </html>
