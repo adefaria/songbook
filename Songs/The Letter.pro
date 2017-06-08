@@ -1,5 +1,5 @@
 {title:The Letter}
-{subtitle:The Box Tops}
+{subtitle:Joe Cocker}
 {key Am}
 
 [Am]Gimme a ticket for an [F]aeroplane 
