@@ -1,5 +1,5 @@
 {title:Jenny, Jenny}
-{subtitle:Tommy Tutone|}
+{subtitle:Tommy Tutone}
 {key:F#m}
 
 [F#m] [D] [A] [B] 2x
