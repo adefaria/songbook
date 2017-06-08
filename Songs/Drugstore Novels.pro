@@ -54,4 +54,4 @@ That [A]I'm [C#m]spending all my
 [G]Think if I say [D]that I love
 The [B]way you look, the [E]way you are to me
 
-{musicpath:/storage/sdcard0/SongBook/Media/Drugstore Novels.mp3}
+{musicpath:/sdcard/SongBook/Media/Drugstore Novels.mp3}

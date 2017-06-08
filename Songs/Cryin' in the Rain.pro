@@ -47,4 +47,4 @@ I'm cryin' in the rain (2x)
 Cryin' in the rain (3x)
 {eoc}
 
-{musicpath:/storage/sdcard0/SongBook/Media/Cryin' in the Rain.mp3}
+{musicpath:/sdcard/SongBook/Media/Cryin' in the Rain.mp3}
