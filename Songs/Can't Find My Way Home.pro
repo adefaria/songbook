@@ -9,7 +9,7 @@ Come [D/C]down off your [G/B]throne and [Gm]leave your body [D/A]alone
 
 {c:Chorus}
 
-Well, I'm [G]near the [D/F#]end and I [A]just ain't [GB]got [AC#]the [D]time
+Well, I'm [G]near the [D/F#]end and I [A]just ain't [G/B]got [A/C#]the [D]time
 And I'm [Em]wasted and I ca[G]n't find my way [D]home
 
 Come down on your own and leave your body alone
