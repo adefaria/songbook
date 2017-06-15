@@ -18,9 +18,9 @@ It's gonna be a bright, (bright) bright, (bright) sun shiny day
 [F]Look all around, there's nothing but b[C]lue skies
 [F]Look straight ahead, there's nothing but b[A]lue ski[C#m]iiiii[G]iiii[C#m]iiii[G]ii[C]iiii[Bm]iii[A]es
 
-[D].  I can see [G]clearly now the r[D]ain is gone
-[D].  I can see [G]all obstacles [A]in my way
-[D].  Here is the [G]rainbow I've been [D]praying for
+[D]I can see [G]clearly now the r[D]ain is gone
+[D]I can see [G]all obstacles [A]in my way
+[D]Here is the [G]rainbow I've been [D]praying for
 It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
 It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
 {musicpath:/sdcard/SongBook/Media/I Can See Clearly Now.mp3}
