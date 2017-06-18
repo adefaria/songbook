@@ -6,7 +6,7 @@
 
 Oh when the [G]sun beats down and burns the tar up on the [D7]roof
 And your shoes get so hot you wish your tired feet were fire [G]proof
-Under the bo[G]ardwalk, down by the [G]sea, yeah
+Under the bo[C]ardwalk, down by the [G]sea, yeah
 On a blanket with my baby[D7] is where I'll be
 
 [Em](Under the boardwalk) out of the sun
