@@ -25,11 +25,15 @@ People[F] go just where they will
 I never [Am]noticed them until I got this f[Dm]eeling
 That it's [Bb]later than it s[F]eems.
 
-{c:Chorus}
+Doctor my [Dm]eyes and te[F]ll me what you see
+I hear [Dm]their cri---es,
+Just say if [C]it's too late for m[Bb]e.  [F]
 
 {c:Instrumental Interlude}
 
-{c:Chorus}
+Doctor my e[Dm]yes that ca[F]nnot see the sky
+Is this the pr[Dm]i--ce,
+For having l[Am]earned how not to c[Bb]ry.       [F]
 
 {c:Instrumental fade out}
 
