@@ -1,5 +1,5 @@
-{title:DOCTOR MY EYES - Jackson Browne | E-Chords}
-{subtitle:F}
+{title:Doctor My Eyes}
+{subtitle:Jackson Browne}
 {key:Dm}
 
 {c:Intro}
@@ -32,3 +32,5 @@ That it's [Bb]later than it s[F]eems.
 {c:Chorus}
 
 {c:Instrumental fade out}
+
+{musicpath:/sdcard/SongBook/Media/Doctor My Eyes.mp3}
