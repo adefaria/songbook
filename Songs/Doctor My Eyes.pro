@@ -1,10 +1,12 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{key:Dm}
+{Capo:1}
+
+{key:F}
 
 {c:Intro}
 [F] [Eb] [Bb] [F] 2x
-
+ 
 [F]Doctor my eyes have seen the years  
 And the [Am]slow parade of fears with[Dm]out crying  
 Now I [Bb]want to unders[F]tand  
