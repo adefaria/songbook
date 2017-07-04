@@ -40,3 +40,4 @@ OUTTA THE CAR LONG - HAIR
 Where ya [C]go to rock and roll.
 Where ya [C]go to rock and roll.
 Where ya [C]go to rock and roll.
+{musicpath:/sdcard/SongBook/Media/Your Momma Don't Dance.mp3}

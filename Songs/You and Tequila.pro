@@ -36,3 +36,4 @@ Swore I wouldn't go back there again
 {c:Chorus}
 
 Never enough, you and tequila, you and tequila make me crazy
+{musicpath:/sdcard/SongBook/Media/You and Tequila.mp3}
