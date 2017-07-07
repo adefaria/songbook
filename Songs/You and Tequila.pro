@@ -2,7 +2,7 @@
 {subtitle:Kenny Chesney and Grace Potter}
 {key:G}
 
-{c:Note on the video he's just tuned down 2 steps}
+{c:Note on the video he's just tuned down 1 step}
 
 [G] [G/B] [Cadd2] 4x
 
@@ -32,6 +32,8 @@ Swore I wouldn't go back there again
 [Em]When it comes to you
 [A]Oh, the damage I could do
 [Em]It's always your favorite sins, [C]that do you in
+
+{c:Instrumental}
 
 {c:Chorus}
 

@@ -17,7 +17,7 @@ Pulling tonights dinner from the sea
 In the [A]kitchen, I hear her kneeding dough with her strong [E]fingers
 [A]Flour dusts her cheeks and a tear [E]lingers there
 She's [B]thinking about her mother who had [C#m]died some [B]time [A]ago
-[B]Baking causes memories to [B]rise
+[E]Baking causes memories to [B]rise
 
 {c:Intro}
 
