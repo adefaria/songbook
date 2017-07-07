@@ -33,3 +33,4 @@ If you're gonna act that way
 {c:Lead over verse then bridge riff}
 
 [E7#9]
+{musicpath:/sdcard/SongBook/Media/Funk 49.mp3}
