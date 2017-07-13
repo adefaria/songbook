@@ -1,5 +1,5 @@
 {title:Reason to Believe}
-{subtitle:Tim Hardin (Rod Stewart)}
+{subtitle:Tim Hardin}
 
 If I listened long enough to you
 I'd find a way to believe that it's all true

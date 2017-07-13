@@ -29,4 +29,5 @@ Cast my memory back there lord, sometimes I'm overcome, thinkin'bout
 Making love in the green grass, behind the stadium with you
 My brown eyed girl, you my brown eyed girl
 
-{c:Chorus}{musicpath:/sdcard/SongBook/Media/Brown Eyed Girl.mp3}
+{c:Chorus}
+{musicpath:/sdcard/SongBook/Media/Brown Eyed Girl.mp3}

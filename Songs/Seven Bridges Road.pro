@@ -24,7 +24,7 @@ And I have loved you wild
 {eoc}
 
 [C]Sometimes there's a [D]part of me
-[C]Has to turn form here an[D]d go
+[C]Has to turn from here an[D]d go
 [C]Running like a child from [D]these warm stars
 
 {soc}
