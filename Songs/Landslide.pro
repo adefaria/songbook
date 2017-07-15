@@ -38,9 +38,9 @@ I'm getting older too
 So, take this love, take it down 
 Oh climb a mountain and you turn around 
 If you see my reflection in the snow covered hills 
-Well the landslide will bring you down, down 
+Well the landslide will bring you down
 
 And If you see my reflection in the snow covered hills 
-Well maybe the landslide will bring it down 
+Well the landslide will bring it down 
 Oh oh, the landslide will bring it down
 {musicpath:/sdcard/SongBook/Media/Landslide.mp3}
