@@ -1,8 +1,7 @@
 {title:Hey Jude}
 {subtitle:Beatles}
 {key:F}
-
-{c:Capo 1st fret}
+{capo:1}
 
 Hey [E]Jude, don't make it [B7]bad
 Take a sad song and make it b[E]etter

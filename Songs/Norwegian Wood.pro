@@ -1,6 +1,7 @@
 {title:Norwegian Wood}
 {subtitle:Beatles}
 {key:D}
+{tuning:D A D G B E}
 
 I once had a girl
 Or should I say she once had me

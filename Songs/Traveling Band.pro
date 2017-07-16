@@ -1,8 +1,7 @@
 {title:Traveling Band}
 {subtitle:Creedence Clearwater Revival}
 {key:E}
-
-{c:Capo 1}
+{capo:1}
 
 {c:Intro}
 
@@ -47,5 +46,4 @@ Playing in a traveling band.
 [A]Trying to get a hand,
 [E]Playing in a traveling band,
 
-{zoom-android:1.291761}
 {musicpath:/sdcard/SongBook/Media/Traveling Band.mp3}

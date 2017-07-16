@@ -90,5 +90,4 @@ And [F]you got us [G]feeling [C]alright.
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
 
-
-{zoom-android:1.204616}{musicpath:/sdcard/SongBook/Media/Piano Man.mp3}
+{musicpath:/sdcard/SongBook/Media/Piano Man.mp3}

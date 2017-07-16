@@ -47,4 +47,3 @@ O[C]h woman you got to choose
 [Bb] [Bbsus] [Bb]
 Take a little time
 You [F]got nothing more to loose
-{zoom-android:1.1362374}

@@ -1,8 +1,7 @@
 {t:Here Comes the Sun}
 {st:George Harrison}
 {key:A}
-
-{c:Capo 7th fret}
+{capo:7}
 
 [D]Here comes the [D9/C]sun, [Gmaj7/B]here comes the sun
 And [E7/G#]I say it[D]'s all right

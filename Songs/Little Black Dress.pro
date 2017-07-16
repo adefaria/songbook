@@ -48,4 +48,3 @@ Little Black Dress
 Little Black Dress
 Little Black Dress
 She took me back cause of her Little Black Dress
-{zoom-android:1.3039299}

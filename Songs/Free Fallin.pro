@@ -1,8 +1,7 @@
 {t:Free Fallin}
 {st:Tom Petty}
 {key:F}
-
-{comment:Capo on 3rd fret}
+{capo:3}
 
 [F] [Bb] [F] [C]
 
