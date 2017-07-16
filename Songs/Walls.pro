@@ -1,8 +1,8 @@
 {title:Walls}
 {subtitle:Pam Rose/Tommy Emmanuel/Lizzie Watkins}
 {key:F}
-
-{c:Capo 3rd fret - drop D}
+{capo:3}
+{tuning:D A D G B E}
 
 [D] [F#/D] [G/D] [A] [D] (4x)
 

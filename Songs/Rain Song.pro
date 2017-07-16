@@ -1,6 +1,7 @@
 {title:Rain Song}
 {subtitle:Led Zepplin}
 {key:G}
+{tuning:D G C G C D}
 
 It is the springtime of my loving
 The second season I am to know

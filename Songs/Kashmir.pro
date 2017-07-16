@@ -1,6 +1,7 @@
 {t:Kashmir}
 {st:Led Zepplin}
 {key:D}
+{tuning:D A D G A D}
 
 Oh let the sun beat down upon my face, stars to fill my dream
 I am a traveler of both time and space, to be where I have been

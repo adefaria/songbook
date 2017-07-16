@@ -1,6 +1,6 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{Capo:1}
+{capo:1}
 
 {key:F}
 

@@ -1,8 +1,7 @@
 {title:Suite Judy Blue Eyes}
 {subtitle:Crosby, Stills and Nash}
 {key:D}
-
-{c:Odd tuning: DADDAD}
+{tuning:D A D D A D}
 
 {soc}
 It's getting to the point where I'm no fun anymore,

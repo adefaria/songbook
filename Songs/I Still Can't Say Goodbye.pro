@@ -1,8 +1,7 @@
 {t:I Still Can't Say Goodbye}
 {st:Chet Atkins}
 {key:A}
-
-{comment:Capo II}
+{capo:2}
 
 [G] [C] [D] [G] [C] [D]
 

@@ -32,5 +32,4 @@ Yeah, she could drag me over the rainbow, send me away
 
 {chorus}
 
-{tempo-android:50}
 {musicpath:/sdcard/SongBook/Media/Down by the River.mp3}

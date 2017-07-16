@@ -1,6 +1,7 @@
 {t:Black Water}
 {st:Doobie Brothers}
 {key:D}
+{tuning:D A D G B E}
 
 Well, I built me a raft and she's ready for floatin'
 Ol' Mississippi, she's callin' my name

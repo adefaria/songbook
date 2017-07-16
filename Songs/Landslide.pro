@@ -1,10 +1,8 @@
 {title:Landslide}
 {subtitle:Fleetwood Mac}
 {key:C}
+{capo:2}
 
-{c:Capo on 2nd fret}
-
-{c:This song is played fingerstyle. The important thing to do is to get the rolling pattern going. The pattern repeats on all of the chords throughout the song. The plucking pattern is basically: p i p m or thumb index thumb middle. So for the C chord that would be C on the 3rd fret of the 5th string with the thumb, followed by open G string with the index finger. Next would be E on the 2nd fret of the 4th string with the thumb and finally C on the 1st fret of the 2nd string with the middle finger. Practice this until the pattern flows smoothly. When the next chord happens (G/B) you change your left hand fingering but your right hand does the same plucking pattern. This continues more or less for the rest of the chords.}
 [C] [G/B] [Am] [G/B]
 
 [C]I took my [G/B]love and I took it down [Am] [G/B] 

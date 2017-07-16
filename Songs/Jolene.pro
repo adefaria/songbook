@@ -1,6 +1,7 @@
-{title:Jolene - capo 2}
+{title:Jolene}
 {subtitle:Dolly Parton}
 {key:Am}
+{capo:2}
 
 2) He t[Am]alks about you [C]in his sleep,   There[G]`s nothing i can [Am]do to keep
 From [G]crying when he c[Em]alls your name, J[Am]olene

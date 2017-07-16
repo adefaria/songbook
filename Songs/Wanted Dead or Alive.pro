@@ -1,5 +1,6 @@
 {title:Wanted Dead or Alive}
 {subtitle:Bon Jovi}
+{tuning:D A D G B E}
 
 {c:Intro}
 

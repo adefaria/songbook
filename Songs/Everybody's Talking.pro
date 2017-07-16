@@ -1,8 +1,7 @@
 {t:Everybody's Talking}
 {st:Harry Nilsson}
 {key:E}
-
-{c:Capo up 2}
+{tuning:D A D G B E}
 
 [D]  [Dmaj7]Everybody's [D6]talking [Dmaj7]at me
 [D7]  [D6]I don't hear a [D7]word th[D6]ey're saying
