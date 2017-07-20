@@ -39,8 +39,8 @@ That's never free
 
 [E] [B] [A] 2x
 
-[E]When my fist c[B]lenches, c[A]rack it open
-[E]Before I use [B]it and los[G]e my cool [D]
+[E]When my fist c[Bm]lenches, c[A]rack it open
+[E]Before I use [Bm]it and los[G]e my cool [D]
 When I smil[Bm]e, [A]tell me some [D]bad news
 Before I [Bm]laugh and [A]act like a [E]fool
 
