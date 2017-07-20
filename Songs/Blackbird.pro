@@ -1,5 +1,6 @@
 {title:Blackbird}
 {subtitle:Beatles}
+{metronome:92}
 
 Blackbird singing in the dead of night
 Take these broken wings and learn to fly
