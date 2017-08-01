@@ -1,7 +1,10 @@
 <?php
 $baseDir = getcwd();
 $songDir = "/opt/songbook/Songs";
-$debug   = $_REQUEST["debug"];
+
+if (isset ($_REQUEST['debug'])) {
+  $debug = $_REQUEST['debug'];
+} // if
 
 // Initialize music objects
 $songs   = getSongs($songDir);
@@ -86,7 +89,7 @@ function setsDropdown () {
 } // setsDropdown
 
 function getArtist ($song) {
-  $lyrics = file_get_contents ($song);
+  $lyrics = @file_get_contents ($song);
 
   if (preg_match ("/\{(st|subtitle):(.*)\}/", $lyrics, $matches)) {
     return trim ($matches[2]);
