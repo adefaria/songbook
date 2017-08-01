@@ -11,7 +11,7 @@
 
 <?php
 include_once "songbook.php";
-$set = $_REQUEST ["set"];
+$set = $_REQUEST["set"];
 ?>
 
 <style>
@@ -44,29 +44,33 @@ foreach (file("$songDir/$set") as $line) {
     continue;
   } // if
 
-  if (preg_match ("/(.*)\s+-\s+(.*)/", $line, $matches)) {
-    $song   = trim ($matches[1]);
-    $artist = trim ($matches[2]);
+  if (preg_match("/(.*)\s+-\s+(.*)/", $line, $matches)) {
+    $song   = trim($matches[1]);
+    $artist = trim($matches[2]);
   } else {
-    $song   = trim ($line);
-    $artist = "";
+    $song   = trim($line);
+    $artist = '';
   } // if
 
   if (file_exists ("$songDir/$song.pro")) {
     print "<li><a href=\"webchord.cgi?chordpro=$song.pro\">";
-    print basename ($song);
+    print basename($song);
     print "</a>";
   } else {
     print "<li>";
-    print basename ($song);
-  }
+    print basename($song);
+  } // if
 
-  print " - ";
+  $artist = getArtist ("$songDir/$song.pro"); 
 
-  if (in_array ($artist, $artists)) {
-    print "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
-  } else {
-    print $artist;
+  if ($artist != '') {
+    print " - ";
+
+    if (in_array ($artist, $artists)) {
+      print "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
+    } else {
+       print $artist;
+    } // if
   } // if
 
   print "</li>";
