@@ -29,7 +29,7 @@ That it's [Bb]later than it s[F]eems.
 
 Doctor my [Dm]eyes and te[F]ll me what you see
 I hear [Dm]their cri---es,
-Just say if [C]it's too late for m[Bb]e.  [F]
+Just say if [C]it's too late for m[Eb]e. [Bb] [F]
 
 {c:Instrumental Interlude}
 
