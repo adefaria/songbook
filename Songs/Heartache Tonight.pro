@@ -42,3 +42,4 @@ Oh!Oh!
 
 [Bb]  [F]  [F/C]  [G] 4X
  Heartache baby
+{musicpath:/sdcard/SongBook/Media/Heartache Tonight.mp3}
