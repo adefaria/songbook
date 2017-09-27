@@ -37,4 +37,4 @@ Alone I will look beyond my heart
 
 {c:Chorus}
 
-{musicpath:/sdcard/SongBook/Media/Young as You.wma}
+{musicpath:/sdcard/SongBook/Media/Young as You.mp3}
