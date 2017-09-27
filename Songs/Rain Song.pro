@@ -35,3 +35,4 @@ This is the mystery of the quotient, quotient
 Upon us all, upon us all a little rain must fall
 Just a little rain, oh
 Ooh, yeah-yeah-yeah
+{musicpath:/sdcard/SongBook/Media/Rain Song.mp3}
