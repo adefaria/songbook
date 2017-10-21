@@ -25,3 +25,4 @@ I'm [Am]goin' [C]back to [D]end my [F]life, down [Am]in the [E]Rising [Am]Sun
 . . .
 There [Am]is a [C]house in [D]New Or-[F]leans, they [Am]call the [C]Rising [E]Sun
 And it's [Am]been the [C]ruin of [D]many a po' [F]girl, and [Am]me, Oh [E]God, I'm [Am]one.
+{musicpath:/sdcard/SongBook/Media/House of the Rising Sun.mp3}
