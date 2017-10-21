@@ -1,7 +1,6 @@
 {title:Hey Jude}
 {subtitle:Beatles}
-{key:F}
-{capo:1}
+{key:E}
 
 Hey [E]Jude, don't make it [B7]bad
 Take a sad song and make it b[E]etter
