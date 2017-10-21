@@ -21,7 +21,7 @@ include_once "songbook.php";
   <tbody>
     <tr>
       <td align="left"><a href="news.html"><img src="/Icons/news.png"></a></td>
-      <td align="right"><a href="http://defaria.com/gitweb/?p=songbook.git"><img src="/Icons/history.png"></a></td>
+      <td align="right"><a href="/gitweb/?p=songbook.git"><img src="/Icons/history.png"></a></td>
     </tr>
   </tbody>
 </table>
