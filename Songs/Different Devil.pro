@@ -63,3 +63,4 @@ I'm right here waiting for you
 Oh, yeah, come on, girl
 I'm right here waiting for you
 Turn around girl
+{musicpath:/sdcard/SongBook/Media/Different Devil.mp3}
