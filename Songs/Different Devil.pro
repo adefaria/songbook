@@ -40,7 +40,8 @@ No one's gonna change
 
 {c:Chorus}
 
-[G] [A] [E]
+
+[G] [A] [E] 2x
 
 There's a sweet dark angel
 On my shoulder
