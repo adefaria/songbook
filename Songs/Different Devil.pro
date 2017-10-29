@@ -35,10 +35,8 @@ Some things stay the same
 Yeah, but you want your freedom
 But I'm so jealous
 No one's gonna change
-We all know somebody
-Gonna tell what's right to do
-Hey, I'm sitting here
-Listen baby, I'm missing you
+
+{c:Bridge}
 
 {c:Chorus}
 
