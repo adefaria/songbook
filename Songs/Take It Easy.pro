@@ -31,7 +31,7 @@ we will never be here again
 so open up, I'm climbin' in, so take it easy
 
 {c:Lead chord pattern}
-[G][D][C][G][D][C][G][Em][D][C][G][Am][C][G][D]
+[G][D][C][G][D][C][G][Em][D][C][G][Am][C][Em][D7]
 
 Well I'm [G]running down the road trying to loosen
 my load, got a world of trouble [D]on my [Am]mind
