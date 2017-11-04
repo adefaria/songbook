@@ -26,29 +26,31 @@ It's those restless hearts that never mend
 [C#m]Will she still l[F#]ove you
 [F#m7]when you're not a[B7]round?
 
+[A] [E] [F#m] [E]
 
 [B7]There's so many things you should have [E]told her
 [B7]But night after night you're willing to hol[C#m]d her,
-Just [F#7]hold her, t[Am7]ears on your [C]shoul[D]der.
+Just [F#7]hold her, t[Am7]ears on your shoul[D7]der.
 
 {c:Key change to G}
 
 [G]There's talk on the street, it's there to re[Am7]mind[D]you [Am7] [D]
 [C]Doesn't really [D]matter which s[G]ide you're on.
 [G]You're walkin' away and they're talkin' behi[Am7]nd yo[D]u, [Am7] [D]
-They will [C]never forget you 'til [D]somebody new comes a[G]long.
+They will [C]never forget you 'til [D]somebody new comes a[G]long [B7]
 
 {c:Key change back to E}
 
-[Em7]Where've you been late[A]ly? 
-[Em7]There's a new kid in town[A].
+[Em7]Where've you been late[A]ly?
+[Em7]There's a new kid in town[A]
 [Em7]Ev'rybody love[A]s him (don't they?)
-[Am7]Now he's holdin' [B7]her but you're still around.[E] [Abm7][A]
+[Am7]Now he's holdin' [B7]her but you're still around.[E] [G#m7][A]
 
-[[B7]]There's a new kid in to[E]wn,       [Abm7][A]
-[[B7]]just another new kid in to[E]wn.    [Abm7][A]
-[Am7][E]oo oo Ev'rybody's talkin' 'bout the n[C#m]ew kid in town.
-[E]Ev'rybody's talkin' 'bout the n[C#m]ew kid in town.
+[B7]There's a new kid in to[E]wn, [G#m7] [A]
+[B7]just another new kid in to[E]wn [G#m7][A] [Am7]
+
+[E]oo oo Ev'rybody's talkin' 'bout the n[C#m]ew kid in town
+[E]Ev'rybody's talkin' 'bout the n[C#m]ew kid in town
 There's a [E]new kid in town, (I don't want to hear it)
 There's a [C#m]new kid in town, (I don't want to hear it)
 {musicpath:/sdcard/SongBook/Media/New Kid in Town.mp3}
