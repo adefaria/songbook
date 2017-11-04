@@ -16,7 +16,7 @@ Da da [D]da da da [G]da
 {soc}
 [D]Falling yes I am [C]falling 
 And she keeps [G]calling [C]me back [G]again
-{eoc
+{eoc}
 
 I have never known the likes of this 
 I've been alone and I have 
@@ -28,7 +28,7 @@ Da da da da da da
 
 {c:Guitar solo}
 
-{c:Chorus]
+{c:Chorus}
 
 {c:First verse}
 
