@@ -38,9 +38,9 @@ I'm a soul man
 
 [C]Well grab the rope and [G]I'll pull you in
 [A]Give you hope and [B]be your only boyfriend
-Yeah, yeah, yeah, yeah
+[C]Yeah, yeah, yeah, yeah
 
-{c:Key change to F]
+{c:Key change to F}
 
 [F] [Eb] [Ab] [b] [d] [f] [C]
 
