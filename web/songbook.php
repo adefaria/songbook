@@ -1,6 +1,8 @@
 <?php
-$baseDir = getcwd();
-$songDir = "/opt/songbook/Songs";
+$baseDir    = getcwd();
+$songbook   = "/opt/songbook";
+$songFolder = "Andrew";
+$songDir    = "/opt/songbook/$songFolder";
 
 if (isset ($_REQUEST['debug'])) {
   $debug = $_REQUEST['debug'];
