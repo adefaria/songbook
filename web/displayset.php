@@ -61,7 +61,9 @@ foreach (file("$songDir/$set") as $line) {
     print basename($song);
   } // if
 
-  $artist = getArtist ("$songDir/$song.pro"); 
+  if ($artist == '') {
+    $artist = getArtist ("$songDir/$song.pro");
+  } // if
 
   if ($artist != '') {
     print " - ";
