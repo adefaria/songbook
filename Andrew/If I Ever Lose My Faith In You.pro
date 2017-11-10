@@ -1,4 +1,4 @@
-{title:If I Ever Loose My Faith In You}
+{title:If I Ever Lose My Faith In You}
 {subtitle:Sting}
 
 [Am] [A] [Asus4] [Ab5]
@@ -53,3 +53,4 @@ If I ever lose my faith
 If I ever lose my faith
 If I ever lose my faith 
 In you
+{musicpath:/sdcard/SongBook/Media/If I Ever Lose My Faith In You.mp3}
