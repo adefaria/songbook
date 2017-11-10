@@ -1,15 +1,16 @@
 {title:Different Devil}
 {subtitle:Chickenfoot}
+{metronome:120}
 {key:E}
 
 [E] [Emaj7] [Cm9] [Cm] 2x
 
 There's a [E]wise old tale
 'Bout the [Emaj7]same old hell
-Only [Cm9]the devil is [Cm]changed
+Only [C#m9]the devil is [C#m]changed
 With the [E]brand new lovers
 Ro[Emaj7]lling in the covers
-Every[Cm9]body wants some s[Cm]trange
+Every[C#m9]body wants some s[C#m]trange
 
 {c:Bridge 1}
 
