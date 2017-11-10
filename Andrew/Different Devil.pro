@@ -11,7 +11,7 @@ With the [E]brand new lovers
 Ro[Emaj7]lling in the covers
 Every[Cm9]body wants some s[Cm]trange
 
-{C:Bridge}
+{c:Bridge 1}
 
 We all[A] know someb[E]ody
 Gonna t[B]ell you just what to do
@@ -36,10 +36,14 @@ Yeah, but you want your freedom
 But I'm so jealous
 No one's gonna change
 
-{c:Bridge}
+{c:Bridge 2}
+
+We all[A] know someb[E]ody
+Gonna t[B]ell you what's right to do
+Hey I'm [A]sitting here listening
+[E]Baby I'm missing [B]you
 
 {c:Chorus}
-
 
 [G] [A] [E] 2x
 
@@ -50,7 +54,7 @@ From the bad side of heaven
 With all her glory
 Salvation's here
 
-{c:Bridge}
+{c:Bridge 1}
 
 {c:Chorus}
 
