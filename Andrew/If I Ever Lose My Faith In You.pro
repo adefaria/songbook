@@ -1,11 +1,19 @@
 {title:If I Ever Lose My Faith In You}
 {subtitle:Sting}
 
-[Am] [A] [Asus4] [Ab5]
+{define: Am*    base-fret 0 frets x 0 2 5 5 5 fingers x 0 1 4 4 4}
+{chord: A*     base-fret 0 frets x 0 2 2 2 5 fingers x 0 1 1 1 4}
+{chord: Asus4* base-fret 0 frets x 0 2 2 3 5 fingers x 0 1 1 2 4}
+{chord: Ab5*   base-fret 0 frets x 0 2 2 4 5 fingers x 0 1 1 3 4}
+
+[Am*] [A*] [Asus4*] [Ab5*]
 
 {c:Harmonica}
 
-[Aadd2] [A] You could say I [Gaqdd2]lost my 
+{chord: Aadd2s base-fret 0 frets x 0 2 4 x x fingers x 0 1 3 x x}
+{chord: As2    base-fret 0 frets x 0 2 6 x x fingers x 0 1 4 x x}
+
+[Aadd2] [As2] You could say I [Gaqdd2]lost my 
 [G]Faith in sci[Dadd2]ence and [D]progress [Dadd2] [D]
 [Aadd2] [A] You could say I [Gadd2]lost my 
 [G]Belief in the [Dadd2]holy ch[D]urch [Dadd2] [D]
