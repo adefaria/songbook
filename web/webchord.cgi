@@ -12,7 +12,6 @@
 # 2003-08-03 Version 1.1 Uses stylesheets
 # 2014-02-05 Added things particular to my implementation of Songbook at
 #            http://defaria.com/songbook
-
 use strict;
 use warnings;
 
@@ -41,11 +40,11 @@ unless (-f $infile) {
 
 sub debug ($) {
   my ($msg) = @_;
-  
+
   return unless $debug;
-  
+
   print "<font color=red><b>Debug:</b></font> $msg<br>";  
-  
+
   return;
 } # debug
 
@@ -56,16 +55,16 @@ sub warning ($) {
 
   print "<font color=orange><b>Warning</b></font> $msg<br>";
 
-  return;  
+  return;
 } # warning
 
 sub error {
   my ($msg) = @_;
-  
+
   print "<html><head><title>Web Chord: Error</title></head>" .
     "<body><h1>Error</h1><p>\n$msg\n</p>" .
     "</body></html>";
-  
+
   exit;
 } # error
 
@@ -73,17 +72,17 @@ sub musicFileExists ($) {
   my ($song) = @_;
 
   debug "ENTER musicFileExists ($song)";
-  
+
   my $title     = fileparse ($song, qr/\.pro/);
   my $musicfile = "/opt/media/$title.mp3";
 
   if (-r $musicfile) {
     debug "Exists!";
-    
+
     return $title;
   } else {
     debug "Could not find $musicfile";
-    
+
     return undef;
   } # if
 } # musicFileExists
@@ -92,10 +91,10 @@ sub updateMusicpath ($$) {
   my ($chopro, $song) = @_;
 
   my $title = musicFileExists $song;
-  
+
   # If there's no corresponding music file then do nothing
   return unless $title;
-  
+
   # If the .pro file already has musicpath then do nothing
   if ($chopro =~ /\{musicpath:.*\}/) {
     debug "$song already has musicpath";
@@ -105,26 +104,26 @@ sub updateMusicpath ($$) {
 
   # Otherwise append the musicpath
   my $songfile;
-  
+
   open $songfile, '>>', $song
     or undef $songfile;
-  
+
   unless (defined $songfile) {
     my $msg  = "Unable to open $song for append - $!<br>";
        $msg .= "<br>Please notify <a href=\"mailto:adefaria\@gmail.com?subject=Please chmod 666 $song\">Andrew DeFaria</a> so this can be corrected.<br>";
        $msg .= "<br>Thanks"; 
     warning $msg;
-    
+
     return;
   } # unless
 
   my $songbase = '/sdcard';
-  
+
   print $songfile "{musicpath:$songbase/SongBook/Media/$title.mp3}\n";
-  
+
   close $songfile;
 
-  return;  
+  return;
 } # updateMusicPath
 
 # Outputs the HTML code of the chordpro file in the first parameter
@@ -135,95 +134,53 @@ sub chopro2html ($$) {
   $chopro =~ s/\>/\&gt;/g; # replace > with &gt;
   $chopro =~ s/\&/\&amp;/g; # replace & with &amp;
 
-  my $title;
-  
-  if(($chopro =~ /^{title:(.*)}/mi) || ($chopro =~ /^{t:(.*)}/mi)) {
+  my $title = "ChordPro Song";
+  my $artist = "Unknown";
+
+  if (($chopro =~ /^{title:(.*)}/mi) || ($chopro =~ /^{t:(.*)}/mi)) {
     $title = $1;
-  } else {
-    $title = "ChordPro song";
-  }
+  } # if
+
+  if (($chopro =~ /^{subtitle:(.*)}/mi) || ($chopro =~ /^{st:(.*)}/mi)) {
+    $artist = $1;
+  } # if
+  
   print <<END;
 <html>
 <head>
 <title>$title</title>
-<style type="text/css">
-body {
-  background-image: url('/songbook/background.jpg');
-  padding-left: 100px;
-}
-h1 {
-  text-align: center;
-  font-family: Arial, Helvetica;
-  font-size: 28pt;
-  line-height: 10%;
-}
-h2 {
-  text-align: center;
-  font-family: Arial, Helvetica;
-  font-size: 22pt;
-  line-height: 50%;
-}
-.lyrics, .lyrics_chorus {
-  font-size: 22pt;
-}
-.lyrics_tab, .lyrics_chorus_tab {
-  font-family: "Courier New", Courier;
-  font-size: 18pt;
-}
-.lyrics_chorus, .lyrics_chorus_tab, .chords_chorus, .chords_chorus_tab {
-  font-weight: bold;
-}
-.chords, .chords_chorus, .chords_tab, .chords_chorus_tab {
-  font-size: 18pt;
-  color: blue;
-  padding-right: 4pt;
-}
-.comment, .comment_italic {
-  color: #999;
-  font-size: 18pt;
-}
-.comment_box {
-  background-color: #ffbbaa;
-  text-align: center;
-}
-.comment_italic {
-  font-style: italic;
-}
-.comment_box {
-  border: solid;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="songbook.css">
+<link rel="stylesheet" type="text/css" href="question.mark.css">
+<script src="songbook.js"></script>
+<script src="question.mark.js"></script>
 </head>
+
 <body>
 END
 
       $title = musicFileExists $song;
-      
+
       if ($title) {
         updateMusicpath $chopro, $song;
       } # if
-      
+
       print << "END";
-<table border="0" width="100%">
+<table id="heading">
   <tbody>
     <tr>
       <td align="left"><a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a></td>
-END
-      
-      if ($title) {
-        print <<"END";
-<td align="right">
-<audio controls autoplay>
- <source src="http://defaria.com/Media/$title.mp3" type='audio/mp3'>
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
-</td>
-END
-      } # if
-print <<"END";
+      <td><div id="title">$title</div>
+          <div id="artist"><a href="/songbook/displayartist.php?artist=$artist">$artist</a></div></td>
+      <td align="right" width="300px">
+        <audio id="song" controls autoplay style="padding:0; margin:0">
+          <source src="http://defaria.com/Media/$title.mp3" style="padding:0; margin:0" type='audio/mp3'>
+          Your user agent does not support the HTML5 Audio element.
+        </audio>
+      </td>
     </tr>
   </tbody>
 </table>
+<div id="song">
 END
   my $mode = 0; # mode defines which class to use
 
@@ -237,27 +194,23 @@ END
     $_ = $1;
     chomp;
 
-    if(/^#(.*)/) {                                # a line starting with # is a comment
-      print "<!--$1-->\n";                        # insert as HTML comment
-    } elsif(/{(.*)}/) {                           # this is a command
+    if (/^#(.*)/) {                                # a line starting with # is a comment
+      print "<!--$1-->\n";                         # insert as HTML comment
+    } elsif (/{(.*)}/) {                           # this is a command
       $_ = $1;
-      if(/^title:/i || /^t:/i) {                  # title
-        print "<H1>$'</H1>\n";
-      } elsif(/^subtitle:/i || /^st:/i) {         # subtitle
-        print "<H2>$'</H2>\n";
-      } elsif(/^start_of_chorus/i || /^soc/i) {   # start_of_chorus
+      if (/^start_of_chorus/i || /^soc/i) {        # start_of_chorus
         $mode |= 1;
-      } elsif(/^end_of_chorus/i || /^eoc/i) {     # end_of_chorus
+      } elsif (/^end_of_chorus/i || /^eoc/i) {     # end_of_chorus
         $mode &= ~1;
-      } elsif(/^comment:/i || /^c:/i) {           # comment
+      } elsif (/^comment:/i || /^c:/i) {           # comment
         print "<span class=\"comment\">($')</span>\n";
-      } elsif(/^comment_italic:/i || /^ci:/i) {   # comment_italic
+      } elsif (/^comment_italic:/i || /^ci:/i) {   # comment_italic
         print "<span class=\"comment_italic\">($')</span>\n";
-      } elsif(/^comment_box:/i || /^cb:/i) {      # comment_box
+      } elsif (/^comment_box:/i || /^cb:/i) {      # comment_box
         print "<P class=\"comment_box\">$'</P>\n";
-      } elsif(/^start_of_tab/i || /^sot/i) {      # start_of_tab
+      } elsif (/^start_of_tab/i || /^sot/i) {      # start_of_tab
         $mode |= 2;
-      } elsif(/^end_of_tab/i || /^eot/i) {        # end_of_tab
+      } elsif (/^end_of_tab/i || /^eot/i) {        # end_of_tab
         $mode &= ~2;
       } else {
         print "<!--Unsupported command: $_-->\n";
@@ -273,37 +226,39 @@ END
       }
       push(@lyrics,$_);       # rest of line (after last chord) into @lyrics
 
-      if($lyrics[0] eq "") {  # line began with a chord
+      if ($lyrics[0] eq "") {  # line began with a chord
         shift(@chords);       # remove first item
         shift(@lyrics);       # (they are both empty)
       }
 
-      if(@lyrics==0) {  # empty line?
+      if (@lyrics==0) {  # empty line?
         print "<BR>\n";
-      } elsif(@lyrics==1 && $chords[0] eq "") { # line without chords
-        print "<DIV class=\"$lClasses[$mode]\">$lyrics[0]</DIV>\n";
+      } elsif (@lyrics==1 && $chords[0] eq "") { # line without chords
+        print "<div class=\"$lClasses[$mode]\">$lyrics[0]</div>\n";
       } else {
-        print "<TABLE cellpadding=0 cellspacing=0>";
-        print "<TR>\n";
+        print "<table cellpadding=0 cellspacing=0>";
+        print "<tr>\n";
         my($i);
         for($i = 0; $i < @chords; $i++) {
-          print "<TD class=\"$cClasses[$mode]\">$chords[$i]</TD>";
+          print "<td class=\"$cClasses[$mode]\">$chords[$i]</td>";
         }
-        print "</TR>\n<TR>\n";
+        print "</tr>\n<tr>\n";
         for($i = 0; $i < @lyrics; $i++) {
-          print "<TD class=\"$lClasses[$mode]\">$lyrics[$i]</TD>";
+          print "<td class=\"$lClasses[$mode]\">$lyrics[$i]</td>";
         }
-        print "</TR></TABLE>\n";
+        print "</tr></table>\n";
       } # if
     } # if
   } # while
+  
+  print "</div>";
 } # chordpro2html
 
 ## Main
 print header;
 
 unless ($infile) {
-	error "No chordpro parameter";
+  error "No chordpro parameter";
 } # unless
 
 open my $file, '<', $infile
@@ -319,5 +274,3 @@ chopro2html ($chopro, $infile);
 print end_html();
 
 exit;
-
-

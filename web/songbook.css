@@ -1,0 +1,58 @@
+body {
+  background-image: url('/songbook/background.jpg');
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+#title {
+  text-align: center;
+  font-family: Arial, Helvetica;
+  font-size: 28pt;
+}
+#artist {
+  text-align: center;
+  font-family: Arial, Helvetica;
+  font-size: 22pt;
+}
+#song {
+  padding-top: 100px;
+  padding-left: 20px;
+}
+#heading {
+  border: 0;
+  border-bottom: 1px solid black;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  background-color: #ddd;
+  width: 100%;
+}
+.lyrics, .lyrics_chorus {
+  font-size: 22pt;
+}
+.lyrics_tab, .lyrics_chorus_tab {
+  font-family: "Courier New", Courier;
+  font-size: 18pt;
+}
+.lyrics_chorus, .lyrics_chorus_tab, .chords_chorus, .chords_chorus_tab {
+  font-weight: bold;
+}
+.chords, .chords_chorus, .chords_tab, .chords_chorus_tab {
+  font-size: 18pt;
+  color: blue;
+  padding-right: 4pt;
+}
+.comment, .comment_italic {
+  color: #999;
+  font-size: 18pt;
+}
+.comment_box {
+  background-color: #ffbbaa;
+  text-align: center;
+}
+.comment_italic {
+  font-style: italic;
+}
+.comment_box {
+  border: solid;
+}
