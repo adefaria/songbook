@@ -30,3 +30,4 @@ So don't you go and say goodbye
 You can lay your worries down and stay with me
 
 {c:Chorus 2x}
+{musicpath:/sdcard/SongBook/Media/Lay Down Sally.mp3}
