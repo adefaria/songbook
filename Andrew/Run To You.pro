@@ -1,9 +1,12 @@
 {title:Run To You}
 {subtitle:Bryan Adams}
+{capo:2}
 {key:F#m}
 
-[F#m]                          [A]        [E]
-[f#][c#][e][f#][c#][e][c#][f#] [a][c#][e] [b][d#][e][d#][b] 2x
+
+[F#m]                       [A]       [E]
+{c:Picking roll}
+[e][b][d] [e][b][d] [e][f#] [g][b][d] [a][c#][d][c#][a] 2x
 
 She says her love for me could never die
 But that'd change if she ever found out about you and I
@@ -18,7 +21,7 @@ It wouldn't hurt her if she didn't know, 'cause...
 
 I'm gonna [F#m]run to you[A] [E] [B]
 I'm gonna [F#m]run to you[A] [E] [B]
-Cause when the [Fm#]feelin's [A]right I'm gonna[E] run all [B]night
+Cause when the [F#m]feelin's [A]right I'm gonna[E] run all [B]night
 I'm gonna [F#m]run to you[A] [E]
 
 She's got a heart of gold she'd never let me down
