@@ -36,13 +36,15 @@ I'm a soul man
 I'm a soul man
 I'm a soul man
 
+{c:Key change to C}
+
 [C]Well grab the rope and [G]I'll pull you in
 [A]Give you hope and [B]be your only boyfriend
 [C]Yeah, yeah, yeah, yeah
 
 {c:Key change to F}
 
-[F] [Eb] [Ab] [b] [d] [f] [C]
+[F] [Eb] [Ab] [Bb] [C] [F] [Eb] [Ab] [bb] [c-d] [f] [C]
 
 [F7]I'm a soul man
 I'm a soul man
