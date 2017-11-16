@@ -30,3 +30,4 @@ Your black cards can make you money so you hide them when you're able
 In the land of milk and honey you must put them on the table
 
 {c:Chorus}
+{musicpath:/sdcard/SongBook/Media/Do It Again.mp3}
