@@ -48,9 +48,9 @@ That didn't go from a, a blessing to a curse
 Never saw no, military solution
 Didn't always end up as something worse but
 
-[E]Let me say this [C#]first
+[E]Let me say this [C#m]first
 
-[Badd2] [B]If I ever [C#sus4]lose my [C#]faith in you [Db5][D] [Esus4] [E]
+[Badd2] [B]If I ever [C#sus4]lose my [C#]faith in you [Dadd#4][D] [Esus4] [E]
 (If I ever lose my faith in you)
 
 [Badd2] [B]There'd be nothing [C#sus4]left for[C#] me to do [Db5][D] [Esus4] [E]

@@ -1,13 +1,19 @@
-// Javascript functions for controling audio
+// Javascript functions for controlling audio
 starttime = null;
 endtime   = null;
 
+// Keycodes
 spacebar       = 32;
-return2start   = 82;
-backfewsecs    = 66;
-forwardfewsecs = 70;
+leftarrow      = 37;
+uparrow        = 38;
+rightarrow     = 39;
+downarrow      = 40;
 seta           = 65;
+backfewsecs    = 66;
 cleara         = 67;
+forwardfewsecs = 70;
+return2start   = 82;
+
 howmanysecs    = 10;
 
 window.onload = function() {
@@ -41,7 +47,7 @@ window.onload = function() {
 
         e.preventDefault();
         return;
-      } else if (ev.keyCode == return2start) {
+      } else if (ev.keyCode == return2start || ev.keyCode == uparrow) {
         if (starttime != null) {
           song.currentTime = starttime;
         } else {
@@ -49,12 +55,12 @@ window.onload = function() {
         } // if
 
         return;
-      } else if (ev.keyCode == backfewsecs) {
+      } else if (ev.keyCode == backfewsecs || ev.keyCode == leftarrow) {
         song.currentTime -= howmanysecs;
         song.play()
 
         return;
-      } else if (ev.keyCode == forwardfewsecs) {
+      } else if (ev.keyCode == forwardfewsecs || ev.keyCode == rightarrow) {
         song.currentTime += howmanysecs;
         song.play();
 
