@@ -1,5 +1,5 @@
 {title:Taking Care of Business}
-{subtitle:Bauchman, Turner Overdrive}
+{subtitle:Bachman Turner Overdrive}
 {Key: B}
 
 {c:Intro}

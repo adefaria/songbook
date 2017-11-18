@@ -1,5 +1,5 @@
 {title:You Ain't Seen Nothing Yet}
-{subtitle:Backman Turner Overdrive}
+{subtitle:Bachman Turner Overdrive}
 
 {c:Intro}
 
