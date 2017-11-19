@@ -3,7 +3,7 @@
 {metronome:120}
 {key:E}
 
-[E] [Emaj7] [Cm9] [Cm] 2x
+[E] [Emaj7] [C#m9] [C#m] 2x
 
 There's a [E]wise old tale
 'Bout the [Emaj7]same old hell
