@@ -8,7 +8,7 @@ You get a [Dm]shiver in the dark,
 It's [C]a raining in the [Bb]park but [A7]meantime [b-c#]
 [Dm]South of the river you [C]stop and you [Bb]hold [A7]everything [c# a 3x]
 [F]A band is blowing Dixie, double [C]four time
-[Bb]You feel alright when you hear the music [Dm]ring [g a c a f c]
+[Bb]You feel alright when you hear the music [Dm]ring [g a c a f d]
 
 [Bb] [C]
 [e g a c]
