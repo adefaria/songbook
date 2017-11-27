@@ -19,7 +19,7 @@ use CGI qw(:standard);
 use CGI::Carp qw (fatalsToBrowser);
 use File::Basename;
 
-my ($chopro, $output, $i);
+my ($chopro, $i);
 
 my $documentRoot = "/web";
 my $debug        = param ('debug');
@@ -83,7 +83,7 @@ sub musicFileExists ($) {
   } else {
     debug "Could not find $musicfile";
 
-    return undef;
+    return;
   } # if
 } # musicFileExists
 
@@ -144,8 +144,8 @@ sub chopro2html ($$) {
   if (($chopro =~ /^{subtitle:(.*)}/mi) || ($chopro =~ /^{st:(.*)}/mi)) {
     $artist = $1;
   } # if
-  
-  print <<END;
+
+  print <<"END";
 <html>
 <head>
 <title>$title</title>
@@ -164,12 +164,13 @@ END
         updateMusicpath $chopro, $song;
       } # if
 
+      my $titleLink = "<a href=\"/songbook/pro/$title.pro\">$title</a>";
       print << "END";
 <table id="heading">
   <tbody>
     <tr>
       <td align="left"><a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a></td>
-      <td><div id="title">$title</div>
+      <td><div id="title">$titleLink</div>
           <div id="artist"><a href="/songbook/displayartist.php?artist=$artist">$artist</a></div></td>
       <td align="right" width="300px">
         <audio id="song" controls autoplay style="padding:0; margin:0">
@@ -242,8 +243,7 @@ END
       } else {
         print "<table cellpadding=0 cellspacing=0>";
         print "<tr>\n";
-        my($i);
-        for($i = 0; $i < @chords; $i++) {
+        for(my $i = 0; $i < @chords; $i++) {
           print "<td class=\"$cClasses[$mode]\">$chords[$i]</td>";
         }
         print "</tr>\n<tr>\n";

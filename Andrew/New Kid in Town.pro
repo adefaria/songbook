@@ -50,7 +50,16 @@ They will [C]never forget you 'til [D]somebody new comes a[G]long [B7]
 [B7]just another new kid in to[E]wn [G#m7][A] [Am7]
 
 [E]oo oo Ev'rybody's talkin' 'bout the n[C#m]ew kid in town
-[E]Ev'rybody's talkin' 'bout the n[C#m]ew kid in town
+[E]Ev'rybody's walking like the n[C#m]ew kid in town
+
 There's a [E]new kid in town, (I don't want to hear it)
 There's a [C#m]new kid in town, (I don't want to hear it)
+There's a [E]new kid in town, (Ah ooooo)
+There's a [C#m]new kid in town,
+There's a [E]new kid in town, (Everybody's talking)
+There's a [C#m]new kid in town (People started walking)
+There's a [E]new kid in town, (hmmmm)
+There's a [C#m]new kid in town, (hmmmm)
+
+[E]
 {musicpath:/sdcard/SongBook/Media/New Kid in Town.mp3}
