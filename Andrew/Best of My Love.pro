@@ -44,7 +44,7 @@ You get the best of my love
 And it's a [C]sweet dream
 It was [Fm7]a quiet night
 And I would be alright
-If I could [DM7]go on sl[G]eeping
+If I could [Dm7]go on sl[G]eeping
 
 But every morning', I wake up and worry
 What's gonna happen today
