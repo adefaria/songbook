@@ -7,7 +7,7 @@
 [F4] [Fmaj7] [F4] [Fmaj7]
 
 [C]Every night, I'm lying in bed
-[Fmaj7]]Holdin' you close in my dreams
+[Fmaj7]Holdin' you close in my dreams
 [C]Thinkin' about all the things that we said
 And [Fmaj7]comin' apart at the seams
 
