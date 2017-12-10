@@ -12,7 +12,7 @@
 And [Fmaj7]comin' apart at the seams
 
 [Em7]We try to talk it [Dm7]over
-But the [Em7]words come out too rough F/G
+But the [Em7]words come out too rough [F/G]
 
 [C]I know you were tryin'
 To [Fmaj7]give me the best of your [C]love
@@ -24,12 +24,14 @@ Look at the way that we live
 Wastin' our time, on cheap talk and wine
 Left us so little to give
 
-The same old crowd
-Was like a cold dark cloud
-That we could never rise above [F] [G]
+The [Em7]same old crowd
+Was like a [Dm7]cold dark cloud
+That [Em7]we could never [Dm7]rise above [G]
 
 But here in my heart
 I give you the best of my love
+
+[G] [F] [C] [G]
 
 Oh, sweet darlin'
 You get the best of my love
@@ -42,7 +44,7 @@ You get the best of my love
 And it's a [C]sweet dream
 It was [Fm7]a quiet night
 And I would be alright
-If I could [C]go on sl[G]eeping
+If I could [DM7]go on sl[G]eeping
 
 But every morning', I wake up and worry
 What's gonna happen today
@@ -50,7 +52,7 @@ You see it your way, and I see it mine
 But we both see it slippin' away
 
 You know, we always had each other, baby
-I guess that wasn't enough [F] [G]
+I guess that wasn't enough [Dm7] [G]
 
 Oh, but here in my heart
 I give you the best of my love
