@@ -1,4 +1,5 @@
-{t:What Child is This}
+{title:What Child is This}
+{subtitle:Traditional}
 {key:C}
 
 What [Am]Child is [C]this who, [G]laid to [Em]rest

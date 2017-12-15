@@ -1,4 +1,5 @@
-{t:I saw Mommy Kissing Santa Claus}
+{title:I saw Mommy Kissing Santa Claus}
+{subtitle:Traditional}
 {key:C}
 
 [C]I saw mommy [Am]kissing [Em]Santa Claus

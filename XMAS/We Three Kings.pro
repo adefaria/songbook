@@ -1,4 +1,5 @@
-{t:We Three Kings}
+{title:We Three Kings}
+{subtitle:Traditional}
 {key:G}
 
 [Em]We three kings of [B7]Orient [Em]are

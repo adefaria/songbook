@@ -1,4 +1,5 @@
-{t:Home for the Holidays}
+{title:Home for the Holidays}
+{subtitle:Traditional}
 {key:G}
 
 Oh, the[G7]re's no p[C]lace like h[F]ome for t[C]he holidays

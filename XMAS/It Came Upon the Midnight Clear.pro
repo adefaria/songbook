@@ -1,4 +1,5 @@
-{t:It Came Upon the Midnight Clear}
+{title:It Came Upon the Midnight Clear}
+{subtitle:Traditional}
 {key:C}
 
 It c[C]ame up[F]on the m[C]idnight clear,

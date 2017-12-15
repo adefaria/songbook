@@ -1,4 +1,5 @@
-{t:Go Tell it on the Mountain}
+{title:Go Tell it on the Mountain}
+{subtitle:Traditional}
 {key:D}
 
 [D]Go tell it on the mountain,

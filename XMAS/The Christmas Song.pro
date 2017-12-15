@@ -1,4 +1,5 @@
-{t:The Christmas Song}
+{title:The Christmas Song}
+{subtitle:Traditional}
 {key:C}
 
 [C]Chestnuts roast[Dm6]ing on an open fire[Em] [Am], 

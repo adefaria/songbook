@@ -1,4 +1,5 @@
-{t:Rockin' Around the Christmas Tree}
+{title:Rockin' Around the Christmas Tree}
+{subtitle:Traditional}
 {key:G}
 
 {c:Intro}

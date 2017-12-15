@@ -1,4 +1,5 @@
-{t:Jingle Bell Rock}
+{title:Jingle Bell Rock}
+{subtitle:Traditional}
 {key:A}
 
 J[A]ingle bell, j[Amaj7]ingle bell, j[A6]ingle bell [Amaj7]rock

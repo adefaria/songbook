@@ -1,5 +1,5 @@
 {title:Blue Christmas}
-{st:Elvis Presley}
+{subtitle:Elvis Presley}
 
 {Key: D}
 

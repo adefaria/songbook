@@ -1,5 +1,5 @@
-{t:Merry Christmas from the Family}
-{st:Montgomery Gentry}
+{ttile:Merry Christmas from the Family}
+{subtitle:Montgomery Gentry}
 {key:G}
 
 [G] [C]

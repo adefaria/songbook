@@ -1,4 +1,5 @@
-{t:Jingle Bells}
+{title:Jingle Bells}
+{subtitle:Traditional}
 {key:D}
 
 [D]Dashing through the snow in a one horse open [G]sleigh
@@ -11,17 +12,17 @@ Oh, [G]what fun it is [D]to ride in a [E7]one horse open [A7]sleigh
 [D]Jingle bells, jingle bells, jingle all the way
 Oh, [G]what fun it [D]is to ride in [A7] a one horse open s[D]leigh
 
-A day or two ago I thought I'd take a ride
-And soon Miss Fanny Bright Was seated by my side
-The horse was lean and lank Misfortune seemed his lot
-We got into a drifted bank And then we got upsot
+[D]A day or two ago I thought I'd take a [G]ride
+And soon Miss Fanny [A7]Bright Was seated by my [D]side
+The horse was lean and lank Misfortune seemed his [G]lot
+We got into a [D]drifted bank And [A7]then we got [D]upsot
 
-Oh, jingle bells, jingle bells, jingle all the way
-Oh, what fun it is to ride in a one horse open sleigh
-Jingle bells, jingle bells jingle all the way
-Oh, what fun it is to ride in a one horse open sleigh yeah
+[A7]Oh, [D]jingle bells, jingle bells, jingle all the way
+Oh, [G]what fun it is [D]to ride in a [E7]one horse open [A7]sleigh
+[D]Jingle bells, jingle bells, jingle all the way
+Oh, [G]what fun it [D]is to ride in [A7] a one horse open s[D]leigh
 
-Jingle bells, jingle bells, jingle all the way
-Oh, what fun it is to ride in a one horse open sleigh
-Jingle bells, jingle bells, jingle all the way
-Oh, what fun it is to ride in a one horse open sleigh 
+[A7]Oh, [D]jingle bells, jingle bells, jingle all the way
+Oh, [G]what fun it is [D]to ride in a [E7]one horse open [A7]sleigh
+[D]Jingle bells, jingle bells, jingle all the way
+Oh, [G]what fun it [D]is to ride in [A7] a one horse open s[D]leigh

@@ -1,4 +1,5 @@
-{t:I'll be Home for Christmas}
+{title:I'll be Home for Christmas}
+{subtitle:Traditional}
 {key:G}
 
 [G]I'll be[B5Dim] home for [Am7]Chris[D7]tmas

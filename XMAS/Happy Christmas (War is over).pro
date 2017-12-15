@@ -1,5 +1,5 @@
-{t:War Is Over Happy Christmas}
-{st:John Lennon}
+{title:War Is Over Happy Christmas}
+{subtitle:John Lennon}
 
 So this is [A]Christmas
 And what have y[Bm]ou done
