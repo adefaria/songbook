@@ -26,4 +26,4 @@ From the [G]bottom of my h[C]eart
 [Am]I wanna wish you a [F]Merry Christmas
 From the [G]bottom of my h[C]eart
 
-{c:Repeat}
+{c:Repeat twice}
