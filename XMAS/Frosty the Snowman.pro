@@ -1,4 +1,5 @@
-{t:Frosty the Snowman}
+{title:Frosty the Snowman}
+{subtitle:Traditional}
 {key:C}
 
 [C]Frosty the snowman was a [F]jolly happy [C]soul,

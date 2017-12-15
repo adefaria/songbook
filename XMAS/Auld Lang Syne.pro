@@ -1,4 +1,5 @@
-{t:Auld Lang Syne}
+{title:Auld Lang Syne}
+{subtitle:Traditional}
 {key:D}
 
 [D]Should auld acquaintance [A]be forgot, 

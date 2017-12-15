@@ -1,4 +1,5 @@
-{t:We Wish You a Merry Christmas}
+{title:We Wish You a Merry Christmas}
+{subtitle:Traditional}
 {key:G}
 
 We [G]wish you a Merry [C]Christmas; 

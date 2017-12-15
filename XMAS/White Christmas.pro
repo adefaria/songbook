@@ -1,4 +1,5 @@
-{t:White Christmas}
+{title:White Christmas}
+{subtitle:Traditional}
 {key:C}
 
 {c:Intro}

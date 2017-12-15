@@ -1,4 +1,5 @@
-{t:Grandma Got Run Over by a Reindeer}
+{title:Grandma Got Run Over by a Reindeer}
+{subtitle:Elmo & Patsy}
 {key:E}
 
 {c:Chorus}

@@ -1,4 +1,5 @@
-{t:Jolly Ole Saint Nick}
+{title:Jolly Ole Saint Nick}
+{subtitle:Traditional}
 {key:D}
 
 [D]Jolly old Saint [A]Nickolas

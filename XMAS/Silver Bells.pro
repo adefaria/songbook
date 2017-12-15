@@ -1,4 +1,5 @@
-{t:Silver Bells}
+{title:Silver Bells}
+{subtitle:Traditional}
 {key:D}
 
 [D]City sidewalks busy sidewalks .

@@ -1,4 +1,5 @@
-{t:Silent Night}
+{title:Silent Night}
+{subtitle:Traditional}
 {key:C}
 
 [C]Silent night! holy night

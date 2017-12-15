@@ -1,4 +1,5 @@
-{t:Deck the Halls}
+{title:Deck the Halls}
+{subtitle:Traditional}
 {key:D}
 
 [D]Deck the halls with [Bm]boughs of holly, 

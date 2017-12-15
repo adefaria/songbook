@@ -1,4 +1,5 @@
-{t:Oh Christmas Tree}
+{title:Oh Christmas Tree}
+{subtitle:Traditional}
 {key:D}
 
 O [D]Christmas Tree! [A7]O [D]Christmas Tree!

@@ -1,4 +1,5 @@
-{t:The First Noel}
+{title:The First Noel}
+{subtitle:Traditional}
 {key:D}
 
 The [D]First No[D]el, the [D]Angels did [A]say
