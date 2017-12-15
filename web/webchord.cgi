@@ -68,38 +68,30 @@ sub error {
   exit;
 } # error
 
+sub getTitle ($) {
+  my ($song) = @_;
+
+  return fileparse ($song, qr/\.pro/);
+} # getTitle
+
 sub musicFileExists ($) {
   my ($song) = @_;
 
   debug "ENTER musicFileExists ($song)";
 
-  my $title     = fileparse ($song, qr/\.pro/);
+  my $title     = getTitle ($song);
   my $musicfile = "/opt/media/$title.mp3";
 
-  if (-r $musicfile) {
-    debug "Exists!";
-
-    return $title;
-  } else {
-    debug "Could not find $musicfile";
-
-    return;
-  } # if
+  return -r $musicfile;
 } # musicFileExists
 
 sub updateMusicpath ($$) {
   my ($chopro, $song) = @_;
 
-  my $title = musicFileExists $song;
-
   # If there's no corresponding music file then do nothing
-  return unless $title;
+  return unless musicFileExists $song;
 
   # If the .pro file already has musicpath then do nothing
-  if ($chopro =~ /\{musicpath:.*\}/) {
-    debug "$song already has musicpath";
-  } # if
-  
   return if $chopro =~ /\{musicpath:.*\}/;
 
   # Otherwise append the musicpath
@@ -118,6 +110,7 @@ sub updateMusicpath ($$) {
   } # unless
 
   my $songbase = '/sdcard';
+  my $title    = getTitle $song;
 
   print $songfile "{musicpath:$songbase/SongBook/Media/$title.mp3}\n";
 
@@ -158,7 +151,7 @@ sub chopro2html ($$) {
 <body>
 END
 
-      $title = musicFileExists $song;
+      $title = getTitle $song;
 
       if ($title) {
         updateMusicpath $chopro, $song;
@@ -254,7 +247,7 @@ END
       } # if
     } # if
   } # while
-  
+
   print "</div>";
 } # chordpro2html
 
