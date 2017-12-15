@@ -40,7 +40,7 @@
       <td>Feliz Navidad</td>
       <td align="center">C</td>
       <td align="center"><a href="/songbook/webchord.cgi?chordpro=Feliz%20Navidad.pro">Lyrics</a></td>
-      <td align="center"><a href="http://www.youtube.com/watch?v=wGuCvFdrWPg">Audio</a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=XD3iGaXzFlA">Audio</a></td>
     </tr>
 
     <tr bgcolor="white">

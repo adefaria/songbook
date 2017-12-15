@@ -16,14 +16,14 @@ Repeat the sounding joy
 Rep[A]eat the sounding joy
 Rep[D]eat, repeat the sound[A]ing [D]joy
 
-[D]No more let sings and sorrows grow
+[D]No more let sins and sorrows grow
 Nor [G]thorns infe[A]st the [D]ground
 He comes to make his blessings flow
 Far as the curse is found
 Far [A]as the curse is found
 Far [D]as, far as the c[A]urse is [D]found
 
-[D]He rules the Earth with truth and grace,
+[D]He rules the world with truth and grace,
 And [G]makes the n[A]ations [D]prove
 The glories of his righteousness
 And wonders of his love
