@@ -1,7 +1,6 @@
 {title:Landslide}
 {subtitle:Fleetwood Mac}
-{key:C}
-{capo:2}
+
 
 [C] [G/B] [Am] [G/B]
 

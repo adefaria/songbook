@@ -3,25 +3,29 @@
 
 {c:Intro}
 
-[C] [G] [Am] [Dm7] [G7]
+[G] [D] [Em] [Am7] [D7]
  
-[C]Love, [G]love, [Am]love. 
-[C]Love, [G]love, [Am]love. 
-[G7]Love, [C]love, [G7]love.
+[G]Love, [D]love, [Em]love. 
+[G]Love, [D]love, [Em]love. 
+[Am]Love, [G]love, [D7]love.
 
-The[C]re's nothing you can [G]do that can't be [Am]done
-Not[C]hing you can [G]sing that can't be [Am]sung
-Noth[Dm]ing you can s[C]ay but you can lear[G7]n how to play the game. I[g]t's eas[f]y. [e] [d]
+The[G]re's nothing you can [D]do that can't be [Em]done
+Not[G]hing you can [D]sing that can't be [Em]sung
+Noth[Am]ing you can s[G]ay but you can lear[D7]n how to play the game. I[g]t's eas[f]y. [e] [d]
 
 There's nothing you can make that can't be made.
 No one you can save that can't be saved.
 Nothing you can do but you can learn how to be you in time. It's easy.
 
 {c:Chorus}
-[C]All you [Dm7]need is [G7]ove [f] [e] [d] [c#]
-[C]All you [Dm7]need is [G7]love [f] [e] [d] [c#]
-[C]All you [E7]need is [Am]love, [C]love
-[F]Love is [G7]all you [C]need.
+[G]All you [Am7]need is [D7]ove [f] [e] [d] [c#]
+[G]All you [Am7]need is [D7]love [f] [e] [d] [c#]
+[G]All you [B7]need is [Em]love, [G]love
+[C]Love is [D7]all you [G]need.
+
+{c:love, love with little lead}
+
+{c:Chorus}
 
 There's nothing you can know that isn't known.
 Nothing you can see that isn't shown.
