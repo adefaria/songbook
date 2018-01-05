@@ -10,19 +10,17 @@
 
 She whispers "Please remember me When I am gone from here" 
 She whispers "Please remember me but not with tears"
+
 Remember I was always true, 
 Remember that I always tried, 
 Remember I loved only you,
 Remember me and smile
-
 For it's better to forget 
-Than to remember me 
-And cry
+Than to remember me and cry
+
 Remember I was always true 
 Remember that I always tried 
 Remember I loved only you 
 Remember me and smile
-
 For it's better to forget 
-Than to remember me 
-And cry
+Than to remember me and cry
