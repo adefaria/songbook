@@ -24,3 +24,4 @@ Remember I loved only you
 Remember me and smile
 For it's better to forget 
 Than to remember me and cry
+{musicpath:/sdcard/SongBook/Media/Treasure.mp3}
