@@ -1,6 +1,5 @@
 {title:California Dreamin}
 {subtitle:Moma's and Papa's}
-{capo 3}
 
 {c:Intro}
 
