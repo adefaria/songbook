@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
-  <title>Songbook Artist</title>
+  <title>Songbook List</title>
   <link rel="stylesheet" type="text/css" media="screen" href="/css/Music.css">
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
   <link rel="SHORTCUT ICON" href="http://defaria.com/favicon.ico" type="image/png">
@@ -37,7 +37,7 @@ print "<ol>";
 
 $firstLine = true;
 
-foreach (file("$songDir/$set") as $line) {
+foreach (file("$songDir/Lists/$set") as $line) {
   // Skip first line which is merely the set name again
   if ($firstLine) {
     $firstLine = false;
