@@ -37,7 +37,7 @@ print "<ol>";
 
 $firstLine = true;
 
-foreach (file("$songDir/Lists/$set") as $line) {
+foreach (file("$songDir/$set") as $line) {
   // Skip first line which is merely the set name again
   if ($firstLine) {
     $firstLine = false;

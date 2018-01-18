@@ -26,7 +26,7 @@ function getSongs ($songDir) {
 } // getSongs
 
 function getSets ($songDir) {
-  return glob("$songDir/Lists/*.lst");
+  return glob("$songDir/*.lst");
 } // getSets
 
 function songsDropdown () {
