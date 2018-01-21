@@ -18,8 +18,8 @@ No one you can save that can't be saved.
 Nothing you can do but you can learn how to be you in time. It's easy.
 
 {c:Chorus}
-[G]All you [Am7]need is [D7]ove [f#] [f] [e] [d#] [d]
-[G]All you [Am7]need is [D7]love [f#] [f] [e] [d#] [d]
+[G]All you [A7]need is [D7]ove [f#] [f] [e] [d#] [d]
+[G]All you [A7]need is [D7]love [f#] [f] [e] [d#] [d]
 [G]All you [B7]need is [Em]love, [G]love
 [C]Love is [D7]all you [G]need.
 

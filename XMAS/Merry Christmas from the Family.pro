@@ -1,4 +1,4 @@
-{ttile:Merry Christmas from the Family}
+{title:Merry Christmas from the Family}
 {subtitle:Montgomery Gentry}
 {key:G}
 
