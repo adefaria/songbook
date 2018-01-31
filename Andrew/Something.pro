@@ -20,10 +20,10 @@ You know I believe and how
 
 [F] [Eb] [G] [A]
 
-[A]You're asking [Amaj7]me will my love [A7]grow
-I don't [D]know, [G]I don't know [A]
+[A]You're asking [Amaj7]me will my love [F#m]grow [E]
+I don't [D]know, [G]I don't know [A] [a] [g#] [g] [f#] [f] [e] 
 You stick aro[Amaj7]und and it may [A7]show
-I don't [D]know, [G]I don't know [C]
+I don't [D]know, [G]I don't know [C] [c] [b] [a] [g] [e] [d]
 
 {c:Lead}
 
