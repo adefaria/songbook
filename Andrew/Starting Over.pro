@@ -26,7 +26,7 @@ Starting over [G]
 
 Why don't we take off [Am]alone [D7]
 Take a trip somewhere [G]far, far away [Em]
-We'll be together all [Am]alone again [D7
+We'll be together all [Am]alone again [D7]
 Like we used to in the [G]early days [E]
 Well, well, well darling
 
