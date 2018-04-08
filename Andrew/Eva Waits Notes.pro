@@ -21,7 +21,7 @@
 
 {c:Landing on Bm then back to Part B (twice)}
 
-[c:Part D}
+{c:Part D}
 
 [Em] [Bm]
 [Gmaj6] [Gmaj7]
