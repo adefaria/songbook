@@ -12,9 +12,9 @@ They should put it in a 'Crusher!' I suppose
 You don't wanna get you one of those
 
 Leave her over there behind the barn
-Where , she’ll be 'out of the way!'
-She's got Chassis rot 
-The gear box shot! 
+Where , she'll be 'out of the way!'
+She's got Chassis rot
+The gear box shot!
 She's had her day
 
 It's all over for that old heap
@@ -25,9 +25,9 @@ You don't wanna get you one of those
 Guitar solo
 
 Leave her over there behind the barn
-Where, she’ll be 'out of the way!'
-She's got Chassis rot 
-The gear box shot! 
+Where, she'll be 'out of the way!'
+She's got Chassis rot
+The gear box shot!
 She's had her day
 
 It's all over for that old heap
