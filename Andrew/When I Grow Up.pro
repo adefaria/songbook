@@ -47,3 +47,4 @@ Will spend all day just lying in the sun
 And I won't burn because I'll be all grown up
 
 When I grow up (3x)
+{musicpath:/sdcard/SongBook/Media/When I Grow Up.mp3}
