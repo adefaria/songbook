@@ -29,7 +29,7 @@ When I grow up
 When I grow up, when I grow up
 I will be strong enough to carry all
 The heavy things you have to haul around with you
-When you a grown up
+When you're a grown up
 
 And when I grow up, when I grow up
 I will be brave enough to fight the creatures

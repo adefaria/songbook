@@ -43,6 +43,6 @@ The world keeps on revolving
 And I see it all to clear
 I need to let you know
 
-{c:Chorus 2x)
+{c:Chorus 2x}
 
 {musicpath:/sdcard/SongBook/Media/Grief.mp3}
