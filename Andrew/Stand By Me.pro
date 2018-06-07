@@ -1,12 +1,12 @@
 {title:Stand By Me}
 {subtitle:John Lennon}
 
-When the [A]night has come
-And the [F#m]land is dark
-And the [D]moon is the [E]only light we [A]see
-No I w[A]on't be afraid
-No I w[F#m]on't be afraid
-Just as [D]long as you s[E]tand, stand by [A]me
+When the [D]night has come
+And the [Bm]land is dark
+And the [G]moon is the [A]only light we [D]see
+No I w[D]on't be afraid
+No I w[Bm]on't be afraid
+Just as [G]long as you s[A]tand, stand by [D]me
 
 {c:Chorus}
 

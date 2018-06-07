@@ -19,7 +19,7 @@ Oh [Em]I [C]want to [G]find a [Asus4]way [A]
 Cause I need your arms a[D]round me [Dmaj7add2]
 And I'm finding that [D7add2]much to my surprise [Gsus4] [G]
 You never came to [D]hold me [Dmaj7add2]
-Like I see that the [D7add2]sun going ray
+I can see that the [D7add2]sun going ray
 It's [Gsus4]right here[G] to stay [Em]forever [C]
 
 I think that I'm finding
