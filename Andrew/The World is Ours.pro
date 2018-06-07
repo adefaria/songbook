@@ -1,4 +1,4 @@
-{title:The World Is Ours}
+{title:The World is Ours}
 {subtitle:Red Shoes For Romeo}
 {key:A}
 
