@@ -7,7 +7,7 @@
 I carry on my back a lonely soul
 And I can't find the road
 The days last on forever
-The nights are grwoing cold
+The nights are growing cold
 And the seasons take their toll
 
 {c:Break}
