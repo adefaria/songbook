@@ -89,7 +89,7 @@ And give me something to believe in
 
 And give me something to believe in
 
-{c:2x)
+{c:2x}
 
 Yeah sometimes I wish I didn't know now
 The things I didn't know then, yeah

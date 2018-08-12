@@ -6,7 +6,7 @@
 
 [G]Wish me luck, as we [D]reach this day
 [G]My feelings trying to tell me [D]what to say
-[G]I could go on, [D]wishing [D/C#]but that [Bm]would never [A]change the [G]way
+[G]I could go on, [D]wishing [A/C#]but that [Bm]would never [A]change the [G]way
 The [A]way I feel today
 
 Tarnished heart, broke with fear
@@ -17,7 +17,7 @@ With no one left to blame
 {c:Chorus}
 
 {soc}
-[C]Always [G]cryin' in the [G]rain
+[C]Always [G]cryin' in the [D]rain
 [C]Never [G]feeling quite the [G]same
 [C]All alone, [G]calling out your [Bm]name
 {eoc}
