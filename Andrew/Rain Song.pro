@@ -9,6 +9,7 @@ You are the sunlight in my growing
 So little warmth I've felt before
 It isn't hard to feel me glowing
 I watched the fire that grew so low, oh
+
 It is the summer of my smiles
 Flee from me, keepers of the gloom
 Speak to me only with your eyes
@@ -26,6 +27,7 @@ I cursed the gloom that set upon us, 'pon us, 'pon us, 'pon us
 But I know that I love you so
 Oh, but I know
 That I love you so
+
 These are the seasons of emotion
 And like the wind, they rise and fall
 This is the wonder of devotion
