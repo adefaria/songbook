@@ -1,6 +1,6 @@
 {title:Fire and Rain}
 {st:James Taylor}
-{capo:3}
+
 
 [A] [G] [D] [A] [E] [G]
 
