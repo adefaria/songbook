@@ -1,44 +1,38 @@
-Come Together
-Beatles
-Key: B
+{title:Come Together}
+{subtitle:Beatles}
+{key:D}
 
-Verse 1:
-B5                                                 
-Here come old flat top, He come grooving up slowly,
-B5                                               F#7                  
-He got juju eyeball, He one holy roller, He got hair down to his knee,
-E7                                          
-Got to be a joker, he just do what he please
+[D]Here come old flat top, 
+He come grooving up slowly,
+He got juju eyeball, 
+He one holy roller, 
+He got [A]hair down to his knee,
+[G]Got to be a joker, he just do what he please
 
-
-Verse 2:
-B5                                            
-He wear no shoe shine, he got toe jam football
-B5                                               F#7                     
-He got monkey finger, he shoot coca cola, He say, I know you, you know me
-E7                                            
+He wear no shoe shine, 
+He got toe jam football
+He got monkey finger, 
+He shoot coca cola, 
+He say, I know you, you know me
 One thing I can tell you is you got to be free
-     G#m      G#m/F#      E    F#        
-Come Together,  Right    now,     over me
 
+Come [Bm]together, [A]right [G]now, [A]   over me
 
-Verse 3:
-B5                                       
-He bag production, He got walrus gumboot,
-B5                                                    F#7                      
-He got oh no sideboard, He one spinal cracker, He got feet down below his knee,
-E7                                                
+He bag production,
+He got walrus gumboot,
+He got oh no sideboard,i
+He one spinal cracker,
+He got feet down below his knee,
 Hold you in his armchair, you can feel his disease
-     G#m      G#m/F#      E    F#        
-Come Together,  Right    now,     over me
 
+Come together, right now, over me
 
-Verse 4:
-B5                                      
-He roller coaster, he got early warning,
-B5                                             F#7                           
-He got muddy water, He one mojo filter, He say, One and one and one is three,
-E7                                             
+He roller coaster, 
+He got early warning,
+He got muddy water,
+He one mojo filter,
+He say, one and one and one is three,
 Got to be good looking 'cause he so hard to see
-     G#m      G#m/F#      E    F#        
-Come Together,  Right    now,     over me
+
+Come together, right now, over me
+{musicpath:/sdcard/SongBook/Media/Come Together.mp3}
