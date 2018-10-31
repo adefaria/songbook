@@ -16,10 +16,10 @@ Makin' [F]love to his [G]tonic and [C]gin
 
 [G/B] [Am] [G] [F] [G] [C] [Csus4]
 
-He says "[C]Son can you [G/B]play me a [Am]memory[G] ?
-I'm [F]not really [C/E]sure how it [D7]goes [G]
-But it's [C]sad and it's [G/B]sweet and I [Am]knew it com[G]plete
-when [F]I wore a [G]younger man's [C]clothes"
+He says "Son can you play me a memory?
+I'm not really sure how it goes
+But it's sad and it's sweet and I knew it complete
+when I wore a younger man's clothes"
 
 {soc}
 [Am]Da da da[Am/G] de de [D7/F#]da [F] [Am]
@@ -33,59 +33,61 @@ and [F]you've got us [G]feeling all [C]right
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
 
-Now [C]John at the [G/B]bar is a [Am]friend of mine, [G]
-he [F]gets me my [C/E]drinks for [D7]free [G]
-And he's [C]quick with a [G/B]joke or to [Am]light up your [G]smoke,
-but there's [F]some place that [G]he'd rather [C]be [Csus4]
+Now John at the bar is a friend of mine,
+he gets me my drinks for free
+And he's quick with a joke or to light up your smoke,
+but there's some place that he'd rather be [Csus4]
 
-He says "[C]Bill I be[G/B]lieve this is [Am]killing me"[G]
-As a [F]smile ran a[C/E]way from his [D7]face [G]
-"Well I'm [C]sure that I [G/B]could be a [Am]movie [G]star
-If [F]I could get [G]out of this [C]place"
+He says "Bill I believe this is killing me"
+As a smile ran away from his face
+"Well I'm sure that I could be a movie star
+If I could get out of this place"
 
 {c:Chorus}
 
-Now [C]Paul is a [G/B]real estate [Am]novelist [G]
-who [F]never had [C/E]time for a [D7]wife [G]
-And he's [C]talking with [G/B]Davy, who's [Am]still in the [G]Navy,
-and [F]probably [G]will be for [C]life 
+
+Now Paul is a real estate novelist
+who never had time for a wife
+And he's talking with Davy, who's still in the Navy,
+and probably will be for life 
 
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [Csus4]
 
-And the [C]waitress is [G/B]practicing [Am]politics, [G]
-as the [F]businessmen [C/E]slowly get [D7]stoned [G]
-Yes they're [C]sharing a [G/B]drink they call [Am]loneli[G]ness,
-but it's [F]better than [G]drinking a[C]lone
+And the waitress is practicing politics,
+as the businessmen slowly get stoned
+Yes they're sharing a drink they call loneliness,
+but it's better than drinking alone
 
 {c:Chorus Instrumental} 
 
 [Am] [Am/G] [D/F#] [F] 3x
 [G] [F] [Em] [D]
 
-[C]Sing us a [G/B]song you're the [Am]piano man[G]
-[F]Sing us a [C/E]song to[D7]night [G]
-Cause we're [C]all in the [G/B]mood for a [Am]melody [G]
-And [F]you got us [G]feeling [C]alright.
+Sing us a song you're the piano man
+Sing us a song tonight
+Cause we're all in the mood for a melody
+And you got us feeling alright.
 
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
 
-It's a [C]pretty good [G/B]crowd for a [Am]saturday [G]
-and the [F]manager [C/E]gives me a [D7]smile [G]
-`Cause he [C]knows that it's [G/B]me that they've been [Am]coming to [G]see
-To for[F]get about [G]life for a [C]while [Csus4]
-And the [C]piano [G/B]sounds like a [Am]carnival[G]
-and the [F]microphone [C/E]smells like a [D7]beer [G]
-And they [C]sit at the [G/B]bar and put [Am]bread in my [G]jar
-and say "[F]Man what are [G]you doing [C]here ?"
+It's a pretty good crowd for a saturday
+and the manager gives me a smile
+`Cause he knows that it's me that they've been coming to see
+To forget about life for a while [Csus4]
+
+And the piano sounds like a carnival
+and the microphone smells like a beer
+And they sit at the bar and put bread in my jar
+and say "Man what are you doing here?"
 
 {c:Chorus}
 
-[C]Sing us a [G/B]song you're the [Am]piano man[G]
-[F]Sing us a [C/E]song to[D7]night [G]
-Cause we're [C]all in the [G/B]mood for a [Am]melody [G]
-And [F]you got us [G]feeling [C]alright.
+Sing us a song you're the piano man
+Sing us a song tonight
+Cause we're all in the mood for a melody
+And you got us feeling alright.
 
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
