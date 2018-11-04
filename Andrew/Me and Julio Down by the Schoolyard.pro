@@ -21,7 +21,7 @@ Everytime my name gets mentioned
 The papa said oy if I get that boy
 I'm gonna stick him in the house of detention
 
-Well I'm on my [D]way
+Well I'm on my [E]way
 I don't know wh[A]ere I'm going
 I'm on my w[D]ay I'm taking my [A]time
 But I [B]don't know [E]where

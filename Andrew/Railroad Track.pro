@@ -1,5 +1,5 @@
 {title:Railroad Track}
-{subtitle:Mike Stables}
+{subtitle:Mike Staples}
 
 [D]I'm sitting on the railroad tracks o[G]n a Sunday afternoon
 Don't know which way to g[D]o
