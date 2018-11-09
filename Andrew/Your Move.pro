@@ -8,7 +8,7 @@ To the [G#m]corner of your [F#m]life
 [G#m]She hasn't got [F#m]time to make you a [E]wife [F#m] [G#m] [F#m]
 
 'Cause it's time, it's time in time with your time
-And its news is captured
+And its news is [A]captured
 For the queen to use!
 
 Move me on to any black square
@@ -24,7 +24,7 @@ Initial it with loving care
 (Don't surround yourself)
 
 'Cause it's time, it's time in time with your time
-And its news is [A}captured
+And its news is [A]captured
 For the queen to use!
 
 Diddit diddit diddit diddit diddit diddit diddit didda
@@ -39,7 +39,7 @@ Initial it with loving care
 (Don't surround yourself)
 
 'Cause it's time, it's time in time with your time
-And its news is captured
+And its news is [A]captured
 For the queen to use!
 
 Diddit diddit diddit diddit diddit diddit diddit didda (All we are saying)
