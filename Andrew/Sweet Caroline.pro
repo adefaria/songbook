@@ -12,7 +12,7 @@
 
 [A]Hands, t[F#m]ouching hands, 
 [E]Reaching out, [D]touching me, 
-Touching y[E]ou
+Touching y[E]ou [E] [D] [E]
 
 {c:Chorus}
 
@@ -22,21 +22,23 @@ Touching y[E]ou
 To believe there n[E]ever would, 
 [D]But  [C#m]now  I[Bm]’m
 
-[A]Look at the night,
-[D] and it don’t seem so lonely, 
-[A]We fill it up with only t[E]wo
+Look at the night,
+and it don’t seem so lonely, 
+We fill it up with only two
 
-[A]And when I hurt, 
-[D]Hurting runs off my shoulder, 
-[A]How can I hurt when holding y[E]ou
+And when I hurt, 
+Hurting runs off my shoulder, 
+How can I hurt when holding you
 
-[A]Warm, to[D]uching Warm, 
-R[E]eaching out, 
-t[D]ouching me, 
-touching y[E]ou
+Warm, touching Warm, 
+Reaching out, 
+touching me, 
+touching you
 
 {C:Chorus}
 
-Intro:
+{c:Intro}
 
-Chorus:
+{c:Chorus}
+{musicpath:/sdcard/SongBook/Media/Sweet Carolinie.mp3}
+
