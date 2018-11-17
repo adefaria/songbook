@@ -12,7 +12,7 @@ And [E7/G#]I say it[D]'s all right
 Here comes the sun, here comes the sun
 And I say it's all right
 
-Little darling, the smiles returning to the faces
+Little darling, the smiles returning to their faces
 Little darling, it seems like years since it's been here
 
 Here comes the sun, here comes the sun
