@@ -49,4 +49,5 @@ Got no troubles, got no time, and everything is fine
 [F]Coz I'm the k[G]ing of [E]eve[D]ryt[C]hin[B]g
 [Am]It's all mine...
 Mine, mine, mine, mine, mine, mine
-{musicpath:/sdcard/SongBook/Media/Last Man on Earth.mp3}
+
+{musicpath:/storage/emulated/0/SongBook/Media/Last Man on Earth.mp3}
