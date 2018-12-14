@@ -4,7 +4,7 @@
 
 [Em] [C] [Dsus4add2]
 
-There's a [Em]monster in my [C]head
+There's a [Em]monster in my [C]brain
 I'd let him [Dsus4add2]out to meet you 
 But I [Em]don't think I can [C]keep him down too [Dsus4]long
 

@@ -55,4 +55,4 @@ All I need is love
 
 {c:Vamp}
 
-{musicpath:/sdcard/SongBook/Media/Good Lovin.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Good Lovin.mp3}

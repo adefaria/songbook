@@ -1,4 +1,4 @@
-{title:Grief}
+6{title:Grief}
 {subtitle:Mike Fraser}
 {key:C}
 
@@ -45,4 +45,4 @@ I need to let you know
 
 {c:Chorus 2x}
 
-{musicpath:/sdcard/SongBook/Media/Grief.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Grief.mp3}

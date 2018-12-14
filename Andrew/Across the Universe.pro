@@ -1,5 +1,6 @@
-to{t:Across the Universe}
-{st:Beatles}
+{title:Across the Universe}
+{subtitle:Beatles}
+{time:2:54}
 {key:D}
 
 {c:Intro}
@@ -38,4 +39,7 @@ Inc[Em]iting and inv[Gm]iting me
 It c[Em]alls me on and on [A]across the universe
 
 {c:Chorus}
-{musicpath:/sdcard/SongBook/Media/Across the Universe.mp3}
+
+/storage/emulated/0/SongBook/Media/Across the Universe.mp3
+
+{musicpath:Media/Across the Universe.mp3}

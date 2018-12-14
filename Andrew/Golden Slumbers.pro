@@ -1,4 +1,4 @@
-{t:Golden Slumbers}
+pop{t:Golden Slumbers}
 {st:Beatles}
 {key:Am}
 
@@ -59,5 +59,5 @@ Is [F]equal to the [G]love you [C]make
 
 [D7] [D#] [F] [C]
 
-{musicpath:/sdcard/SongBook/Media/Golden Slumbers.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Golden Slumbers.mp3}
 
