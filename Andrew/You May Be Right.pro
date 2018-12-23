@@ -7,9 +7,9 @@
 Saturday I said I'm sorry
 Sunday came and trashed me out [E]again
 
-I was [D]only having fun
-Wasn't hu[F#m]rting any one
-And we [D]all enjoyed the wee[E]kend for a [A]change
+I was [Bm]only having fun
+Wasn't hu[G]rting any one
+And we [E]all enjoyed the weekend for a [A]change
 
 I've been stranded in the combat zone
 I walked through Bedford Stuy alone

@@ -50,4 +50,4 @@ See you, me and Julio
 Down by the schoolyard
 See you, me and Julio
 Down by the schoolyard
-nfs{musicpath:/sdcard/SongBook/Media/Me and Julio Down by the Schoolyard.mp3}
+{musicpath:/sdcard/SongBook/Media/Me and Julio Down by the Schoolyard.mp3}
