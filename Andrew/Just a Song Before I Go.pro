@@ -2,6 +2,7 @@
 {subtitle:Graham Nash}
 {musicpath:/sdcard/SongBook/Media/Just a Song Before I Go.mp3}
 
+
 [Em]Just a song [Bm7]before I go,
 [Cmaj7]To whom it may [Asus2]concern
 [Em]Traveling twice the [Bm7]speed of sound

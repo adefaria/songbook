@@ -15,7 +15,7 @@ Koda[A]chr[C#m]ome [F#m]
 They give us those [Bm]nice bright c[E]olors
 They give us the [A]greens of s[D]ummers
 Makes you think [Bm]all the wo[E]rld's a sunny [A]day [C#m] [F#m]
-I got a Nikon [E]camera
+I got a Nikon [Bm]camera[E]
 I love to take a [A]photogra[D]ph
 So mama don't t[Bm]ake my Kodac[E]hrome a[A]way
 
