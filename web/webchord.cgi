@@ -24,6 +24,7 @@ my ($chopro, $i);
 my $documentRoot = "/web";
 my $debug        = param ('debug');
 my $infile       = param ('chordpro');
+my $title;
 
 unless (-f $infile) {
   $infile = '/opt/songbook/Andrew/' . $infile;
@@ -79,7 +80,6 @@ sub musicFileExists ($) {
 
   debug "ENTER musicFileExists ($song)";
 
-  my $title     = getTitle ($song);
   my $musicfile = "/opt/media/$title.mp3";
 
   return -r $musicfile;
@@ -110,7 +110,6 @@ sub updateMusicpath ($$) {
   } # unless
 
   my $songbase = '/sdcard';
-  my $title    = getTitle $song;
 
   print $songfile "{musicpath:$songbase/SongBook/Media/$title.mp3}\n";
 
@@ -127,7 +126,6 @@ sub chopro2html ($$) {
   $chopro =~ s/\>/\&gt;/g; # replace > with &gt;
   $chopro =~ s/\&/\&amp;/g; # replace & with &amp;
 
-  my $title = "ChordPro Song";
   my $artist = "Unknown";
 
   if (($chopro =~ /^{title:(.*)}/mi) || ($chopro =~ /^{t:(.*)}/mi)) {
@@ -150,8 +148,6 @@ sub chopro2html ($$) {
 
 <body>
 END
-
-      $title = getTitle $song;
 
       if ($title) {
         updateMusicpath $chopro, $song;
@@ -265,6 +261,8 @@ open my $file, '<', $infile
   local $/;
   $chopro = <$file>;
 }
+
+$title = getTitle $infile;
 
 chopro2html ($chopro, $infile);
 
