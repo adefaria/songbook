@@ -1,4 +1,4 @@
-6{title:Everybody Wants to Rule the World}
+{title:Everybody Wants to Rule the World}
 {subtitle:Tears For Fears}
 {key:D}
 
@@ -6,14 +6,14 @@
 
 [Dmaj7] [G] 4x
 
-[Dmaj 7] [G]Welcome to your life
-[Dmaj 7] [G]There's no turning back
-[Dmaj 7] [G]Even while we sleep 
-[Dmaj 7] [G]We will find you a[Em]cting on your [F#m]best behavior
+[Dmaj7] [G]Welcome to your life
+[Dmaj7] [G]There's no turning back
+[Dmaj7] [G]Even while we sleep 
+[Dmaj7] [G]We will find you a[Em]cting on your [F#m]best behavior
 [G]Turn your back on [F#m]mother nature
 [Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
 
-[Dmaj 7] [G] 2x
+[Dmaj7] [G] 2x
 
 It's my own desire
 It's my own remorse
@@ -29,16 +29,25 @@ Everybody wants to rule the world
 [G]So sad they had to f[F#m]ade it
 [Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
 
-[D]
+[G] [A] [D] 3x [G] [A]
 
-I can't stand this indecision
-Married with a lack of vision
-Everybody wants to rule the world
-Say that you'll never, never, never, need it
-One headline, why believe it?
-Everybody wants to rule the world
-All for freedom and for pleasure
-Nothing ever lasts forever
-Everybody wants to rule the world
+[Bm] [C] 2x
+
+[G] [A]
+
+[Dmaj7] [G] 4x
+
+[Em]I can't stand this [F#m]indecision
+[G]Married with a la[F#m]ck of vision
+[Em]Every[F#m]body w[G]ants to r[A]ule the world
+[Em]Say that you'll n[F#m]ever, never, never, need it
+[G]One headline, [F#m]why believe it?
+[Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
+
+[G] [D] 2x
+
+[Em]All for freedom a[F#m]nd for pleasure
+[G]Nothing ever la[F#m]sts forever
+[Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
 
 {musicpath:/sdcard/SongBook/Media/Everybody Wants to Rule the World.mp3}
