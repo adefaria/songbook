@@ -29,9 +29,11 @@ Everybody wants to rule the world
 [G]So sad they had to f[F#m]ade it
 [Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
 
-[G]   [D]   [A] 3x
+[G] 
 
-[G]   [A]
+[D]   [A]   [G] 3x
+
+[D]   [A]
 
 [Bm]   [C] 2x
 
