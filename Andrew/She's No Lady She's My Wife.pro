@@ -1,5 +1,5 @@
-{title: She's No Lady She's My Wife}
-{subtitle: Lyle Lovett}
+{title:She's No Lady She's My Wife}
+{subtitle:Lyle Lovett}
 {key:G}
 
 She hates my [G7]mama, [Bm7]she hates [Am7]my daddy too[D9].
