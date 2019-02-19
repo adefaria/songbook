@@ -23,8 +23,8 @@ For making [D]women [E]feel like [A]objects
 
 Fuck, I love boobs, [E7]though I just really love [A7]them
 Fuck, I love boobs, [E7]though I just want to [A7]rub them
-They're just so [D]jooby they make me feel [D#dim7groovy
-I would [E]rather watch [A7]boobs [G#7[than [G7]a mov[F#7]ie
+They're just so [D]jooby they make me feel [D#dim7]groovy
+I would [E]rather watch [A7]boobs [G#7] than [G7]a mov[F#7]ie
 Ba-doop-[D]e-do [E] I just really love [D6]boobs
 
 I believe the people are entitled to basic human rights
