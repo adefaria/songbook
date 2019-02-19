@@ -18,7 +18,7 @@
 It's my own desire
 It's my own remorse
 Help me to decide
-Help me make the most Of freedom and of pleasure
+Help me make the most of freedom and of pleasure
 Nothing ever lasts forever
 Everybody wants to rule the world
 
