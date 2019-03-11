@@ -18,6 +18,7 @@ Drinking her wine
 We talked until two and then she said
 "It's time for bed"
 
+{c:Lead}
 She told me she worked
 In the morning and started to laugh
 I told her I didn't

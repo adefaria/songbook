@@ -8,7 +8,7 @@
 And [F#m]not be afra[Bm]id for their [A]lives
 
 And I believe a woman has the right to choose what happens to her body
-Without suffering the judgement Of the conservative right
+Without suffering the judgement of the conservative right
 
 And I believe a woman has the right to wear the clothes she likes
 Without being treated like dirt
@@ -44,7 +44,7 @@ They're just so jubbly they make me feel lovely
 I would rather own boobs than a pubBa-doop-e-do
 I just really love boobs
 
-[A/C#}I believe the [D]planet that we live in Is a [E]living organism
+[A/C#]I believe the [D]planet that we live in Is a [E]living organism
 And we [F]must treat her carefully [F#7] 
 I don't [E]think we should [D]assume we can go on [E]consuming
 Her [C#m7]resources indefinitel[F#7]y
