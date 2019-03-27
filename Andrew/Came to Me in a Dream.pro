@@ -1,5 +1,5 @@
 {title:Came to Me in a Dream}
-{subtitle:Greg Lee}
+{subtitle:Greg Lee/Chris Bundy}
 
 [D]  [Dadd2]  [Cadd2] [G/B] 2x
 

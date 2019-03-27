@@ -1,5 +1,5 @@
 {title:For Me, For You}
-{subtitle:Greg Lee}
+{subtitle:Greg Lee/Chris Bundy}
 
 [D] [C6add2] [Bm7] [C6add2]
 [D] [C6add2]
