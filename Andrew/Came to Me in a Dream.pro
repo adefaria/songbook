@@ -34,3 +34,4 @@ And find out it’s you?
 [F] [E] 4x
 
 {c:Chorus} 2x
+{musicpath:/sdcard/SongBook/Media/Came to Me in a Dream.mp3}
