@@ -17,13 +17,13 @@ And [F#m7]climbing to the top
 Will [F#m7b5]throw myself off
 
 In an [E]effort to
-Make it [E7b5]clear to who
+Make it [Eaug]clear to who
 Ever [Eadd2]what it's like when you're [Eb]shattered
 
 Left [G#m7]standing in the lurch at a church
 Were [G#m7b5]people [D#7]saying, 
-My [F#m7]God, that's tough she [F#m7b5]stood him up
-No point in us [B7]remaining
+My [F#m7]God, that's tough she stood him up
+No [F#m7b5] point in us [B7]remaining
 
 We may as well go home
 As I did on my own
@@ -83,4 +83,4 @@ I cried and cried all day
 
 Alone again, naturally
 Alone again, naturally
-{musicpath:/sdcard/SongBook/Media/Alone Again (Naturally).mp3}
+{musicpath:/storage/emulated/0/Download/Alone Again (Naturally).mp3}

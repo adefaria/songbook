@@ -8,7 +8,7 @@
 
 [D]As the [Cadd2]mist comes [G]rolling down [D6/F#]
 [D]I wonder [Cadd2]why you laid your [G]body [D6/F#]down for [D] me [Cadd2] [G] [D6/F#]
-[D]Isn’t it a[Cadd2]mazing [G}being [D6/F#]loved
+[D]Isn't it a[Cadd2]mazing [G]being [D6/F#]loved
 [D]You know the [Cadd2]feeling comes [G]from [D6/F#]above for [D]you
 
 [Cadd2] [G] [D6/F#]
