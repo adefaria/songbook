@@ -5,23 +5,23 @@
 
 {c:Chorus}
 
-[D]  [Dadd2]Came to me in a [Cadd2]dream [G/B]
+[D]  [Dadd2] [Cadd2]Came to me in a dream [G/B]
 Was it all in my [D]head? [Dadd2]
 Came to me in a [Cadd2]dream [G/B]
 Heard the words that she [D]said [Dadd2]
 Came to me in a [Cadd2]dream [G/B]
 
 [G]Answers to the [A]questions
-[G]You know I’m falling [A]behind
+[G]You know I'm falling [A]behind
 [G]I keep on running and [A]running
-[G]I think I’m losing my [A]mind
+[G]I think I'm losing my [A]mind
 
 {c:Chorus}
 
 Will I wake up tomorrow
-And find out it’s true?
+And find out it's true?
 Will I wake from this dream
-And find out it’s you?
+And find out it's you?
 
 {c:Lead}
 
