@@ -1,4 +1,4 @@
-{t:Back In the USSR}
+{t:Back in the USSR}
 {st:Beatles}
 
 Oh,[A] flew in from Miami Beach B.O[D].A.C. 

@@ -1,4 +1,4 @@
-{title:I've Just Seen A Face}
+{title:I've Just Seen a Face}
 {subtitle:Beatles}
 {key:G}
 
