@@ -1,7 +1,7 @@
 {title:You May Be Right}
 {subtitle:Billy Joel}
 {key:A}
-{musicpath:/sdcard/SongBook/You May Be Right.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/You May Be Right.mp3}
 
 [A]Friday night I crashed your party
 Saturday I said I'm sorry
