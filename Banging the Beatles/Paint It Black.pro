@@ -1,4 +1,4 @@
-[title:Paint It Black}
+{title:Paint It Black}
 {subtitle:The Rolling Stones}
 
 I see a red door and I want it painted black
