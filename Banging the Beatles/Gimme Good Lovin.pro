@@ -1,4 +1,4 @@
-{title:Gimme Gimme Good Lovin}
+{title:Gimme Good Lovin}
 {subtitle:Crazy Elephant}
 
 From Atlanta, Georgia, to the Gulf Stream water
@@ -16,4 +16,4 @@ I say, gimme, gimme good lovin' every night
 Gimme, gimme good lovin' make it alright
 Ha, ha, ha, ha, ha
 
-{musicpath:/sdcard/SongBook/Media/Gimme Good Lovin.mp3}
+{musicpath:/sdcard/SongBook/Media/Gimme Good Lovin.mp3

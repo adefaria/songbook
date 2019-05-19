@@ -1,5 +1,5 @@
 {title:I Saw Her Standing There}
-[subtitle:Beatles}
+{subtitle:Beatles}
 
 [E]Well, she was just seventeen
 You [A]know what I [E]mean
