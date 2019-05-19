@@ -38,4 +38,4 @@ I, need to run free and then
 And I'm choosing to find my way
 
 {c:Chorus} 4X and fade
-{musicpath:/sdcard/SongBook/Media/Full Circle.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Full Circle.mp3}
