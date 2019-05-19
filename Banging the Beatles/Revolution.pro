@@ -1,1 +1,1 @@
-../Revolution.pro
+../Andrew/Revolution.pro

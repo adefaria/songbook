@@ -56,6 +56,10 @@ foreach (file("$songDir/$set") as $line) {
     print "<li><a href=\"webchord.cgi?chordpro=$song.pro\">";
     print basename($song);
     print "</a>";
+  } elseif (file_exists ("$songDir/../Banging the Beatles/$song.pro")) {
+    print "<li><a href=\"webchord.cgi?chordpro=../Banging the Beatles/$song.pro\">";
+    print basename($song);
+    print "</a>";
   } else {
     print "<li>";
     print basename($song);
