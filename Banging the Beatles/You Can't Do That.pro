@@ -1,4 +1,4 @@
-{title:You Can’t Do That}
+{title:You Can't Do That}
 {subtitle:Beatles}
 
 [G7]I got something to say that might 'cause you pain
