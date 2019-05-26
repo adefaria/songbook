@@ -26,7 +26,7 @@ And look like [C]nothing's gonna[B/G] come my [A7]way
 [G]Look [D]like [C7]nothing's gonna change.
 [G]Every[D]thing [C7]still remains the same
 [G]I can't [D]do what [C7]ten people tell [G]me to do
-[C]So I guess I'll re[D]main the same
+[F]So I guess I'll re[D7]main the same
 
 [G]Sittin here resting my [B]bones
 And this [C]loneliness won't[G/B] leave me [A7]alone

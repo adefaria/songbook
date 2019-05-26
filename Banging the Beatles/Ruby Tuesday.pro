@@ -1,18 +1,18 @@
 {title:Ruby Tuesday}
 {subtitle:The Rolling Stones}
 
-She would never say where she came from
-Yesterday don't matter if it's gone
-While the sun is bright
-Or in the darkest night
-No one knows, she comes and goes
+She[Am] would nev[G]er sa[F]y where sh[G]e came fr[C]om
+Ye[Am]sterda[G]y don't [F]matter [C]if it's gon[G]e
+Wh[Am]ile the s[D7]un is brig[G]ht
+Or [Am]in the da[D7]rkest nig[G]ht
+No one know[C]s, she comes and goe[G]s
 
 {c:Chorus}
 
-Goodbye Ruby Tuesday
-Who could hang a name on you?
-When you change with every new day
-Still I'm gonna miss you
+[C]Good[G]bye [C]Ruby Tuesday
+Who could [G]hang a [C]name on you?
+[C]When you [G]change with ev[Bb]ery ne[F]w day
+[G]Still I'm gonna [C]miss you
 
 Don't question why she needs to be so free
 She'll tell you it's the only way to be

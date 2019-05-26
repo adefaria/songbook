@@ -1,10 +1,10 @@
 {title:Paint It Black}
 {subtitle:The Rolling Stones}
 
-I see a red door and I want it painted black
-No colors anymore I want them to turn black
-I see the girls walk by dressed in their summer clothes
-I have to turn my head until my darkness goes
+[Em]I see a red door and I [B7]want it painted black
+[Em]No colors anymore I [B7]want them to turn black
+[Em]I [D]see the [G]girls walk [D]by dressed [Em]in their summer clothes
+[Em]I [D]have to [G]turn my [D]head [A]until my darkness [B7]goes
 
 I see a line of cars and they're all painted black
 With flowers and my love both never to come back

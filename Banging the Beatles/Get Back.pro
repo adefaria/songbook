@@ -1,20 +1,31 @@
 {title:Get Back}
 {subtitle:Beatles}
 
-Jojo was a man who thought he was a loner
-But he knew it wouldn't last
+[A] [G] [D]
+
+[A]Jojo was a man who thought he was a loner
+[D]But he knew it wouldn't last [A]
 Jojo left his home in Tucson, Arizona
-For some California grass
+[D]For some California grass
 
 {c:Chorus}
 
-Get back, get back
-Get back to where you once belonged
-Get back, get back
-Get back to where you once belonged
-Get back Jojo, go home
+[A7]Get back, get back
+[D7]Get back to where you once belonged [A] [G] [D]
+[A7]Get back, [A7] get back [A7]
+[D7]Get back to where you once belonged [A]
+Get back Jojo
 
-{c:Chorus}
+{c:Lead}
+
+Go home
+
+[A7]Get back, get back
+[D7]Get back to where you once belonged [A] [G] [D]
+[A7]Get back, [A7] get back [A7]
+[A7]Get back to where you once [C]belonged [D]
+
+{c:Keyboard}
 
 Sweet Loretta Martin thought she was a woman
 But she was another man

@@ -33,5 +33,5 @@ Like I please you
 (Please me) whoa yeah, like I please you
 (Please me) whoa yeah, like I please yo[E]u [G] [C] [B] [E]
 
-{musicpath:/sdcard/SongBook/Media/Please Please Me.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Please Please Me.mp3}
 

@@ -1,12 +1,13 @@
 {title:Slow Down}
 {subtitle:Beatles}
 
+[C7] [F7] [C7] [G7] [F7] [C7]
+
 Well, come on pretty baby won't you walk with me
 Come on pretty baby won't you talk with me
 Come on pretty baby give me one more chance
 Try and save our romance
-Slow down
-Baby, now you're moving way too fast
+Slow down baby, now you're moving way too fast
 You gotta gimme little loving
 Gimme little loving
 Ow, if you want our love to last
@@ -20,6 +21,8 @@ Baby, now you're moving way too fast
 You gotta gimme little loving
 Gimme little loving
 Brrr, if you want our love to last
+
+{c:Lead}
 
 Well, you know that I love you, tell the world I do
 Come on pretty baby, why can't you be true
