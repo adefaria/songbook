@@ -1,11 +1,13 @@
 {title:Boys}
 {subtitle:Beatles}
 
-I been told when a boy kiss a girl
+[B7] [A7] [E]
+
+[E]I been told when a boy kiss a girl
 Take a trip around the world
-Hey, hey (bop shuop, m'bop bop shuop)
-Hey, hey (bop shuop, m'bop bop shuop)
-Hey, hey (bop shuop), yeah, she say ya do (bop shuop)
+Hey, [A7]hey (bop shuop, m'bop bop shuop)
+Hey, [E7]hey (bop shuop, m'bop bop shuop)
+Hey, [B7]hey (bop shuop), yeah, she say ya do (bop shuop)
 
 My girl says when I kiss her lips
 Gets a thrill through her fingertips

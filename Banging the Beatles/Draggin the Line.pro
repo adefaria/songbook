@@ -1,10 +1,12 @@
 {title:Draggin the Line}
 {subtitle:Tommy James}
 
+[F#]
+
 Makin' a livin' the old, hard way
 Takin' and givin' by day by day
-I dig snow and rain and the bright sunshine
-Draggin' the line (draggin' the line)
+I dig snow and rain and the bright [E]sunshine
+Draggin' the [F#]line (draggin' the line)
 
 My dog, Sam, eats purple flowers
 Ain't got much, but what we got's ours
@@ -14,9 +16,9 @@ Draggin' the line (draggin' the line)
 
 {c:Chorus}
 
-I feel fine. I'm talkin' 'bout peace of mind
-I'm gonna take my time. I'm gettin' the good sign
-Draggin' the line (draggin' the line)
+[F#]I f[E]eel [F#]fine. I'm talkin' 'bout [F#]peace [E]of [F#]mind
+I'm gonna [F#]take [E]my [F#]time. I'm gettin' the [E]good sign
+[F#]Draggin' the line (draggin' the line)
 Draggin' the line (draggin' the line)
 
 Lovin' the free and feelin' spirit

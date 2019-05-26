@@ -1,13 +1,18 @@
 {title:Tell Me Why}
 {subtitle:Beatles}
 
-Tell me why you cried, and why you lied to me
-Tell me why you cried, and why you lied to me
+[Em7] [A] 4x
 
-Well, I gave you everything I had
-But you left me sitting on my own
-Did you have to treat me oh, so bad?
-All I do is hang my head and moan
+Tell me [D]why [Bm]you cried, [Em] and why you [A]lied to [D]me [Bm]
+
+[Em7] [A]
+
+2x
+
+Well, I [D]gave you everything I [Bm]had
+But you [Em]left me sitting on my [A]own
+Did you [D]have to treat me oh, so [Bm]bad?
+All I do [Em]is hang my head and [A]moan
 
 Tell me why you cried, and why you lied to me
 Tell me why you cried, and why you lied to me
@@ -19,10 +24,13 @@ Holding back these tears in my eyes
 
 Tell me why you cried, and why you lied to me
 Tell me why you cried, and why you lied to me
-Well, I beg you on my bended knees
-If you'll only listen to my pleas
-(Is there anything I can do?)
-'Cause I really can't stand it, I'm so in love with you
+
+[D7]
+
+Well, [G7]I beg you on my bended knees
+If you'll [A7]only listen to my pleas
+(Is there [Bm]anything I can do?)
+'Cause I r[Em7]eally can't stand it, I'm so in love with [A]you
 
 Tell me why you cried, and why you lied to me
 Tell me why you cried, and why you lied to me
