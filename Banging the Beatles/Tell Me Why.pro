@@ -5,9 +5,7 @@
 
 Tell me [D]why [Bm]you cried, [Em] and why you [A]lied to [D]me [Bm]
 
-[Em7] [A]
-
-2x
+[Em7] [A] 2x
 
 Well, I [D]gave you everything I [Bm]had
 But you [Em]left me sitting on my [A]own
@@ -30,9 +28,9 @@ Tell me why you cried, and why you lied to me
 Well, [G7]I beg you on my bended knees
 If you'll [A7]only listen to my pleas
 (Is there [Bm]anything I can do?)
-'Cause I r[Em7]eally can't stand it, I'm so in love with [A]you
+'Cause I r[Em7]eally can't stand it, I'm [A]so in love with [D]you
 
 Tell me why you cried, and why you lied to me
-Tell me why you cried, and why you lied to me
+Tell me why you cried, and why you lied to me [Bm] [Bb] [A7sus4] [A7] [D]
 
 {musicpath:/sdcard/SongBook/Media/Tell Me Why.mp3}
