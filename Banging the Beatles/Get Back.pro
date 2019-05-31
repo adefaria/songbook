@@ -34,4 +34,13 @@ But she gets it while she can
 
 {c:Chorus 3x}
 
+Get back Loretta
+Your mommy's waiting for ya
+Well no matter how you choose
+And I love that sweater
+Get back home Loretta
+
+Get back, get back
+Get back to where you wonce belonged
+
 {musicpath:/sdcard/SongBook/Media/Get Back.mp3}
