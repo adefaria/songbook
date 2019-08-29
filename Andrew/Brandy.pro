@@ -37,9 +37,9 @@ The sailors say, "Brandy, you're a fine girl" (you're a fine girl)
 
 Yeah, [C#m]Brandy used to wat[B]ch his eyes
 When he [A]told his sailor [B]stories
-She could [C#m]feel the ocean fal[B] and rise
+She could [C#m]feel the ocean fall[B] and rise
 She saw[A] its ragin' [B]glory
-But he had [C#m]always told the [D}truth, Lord, [E]he was an honest [A]man
+But [C#m]he had always told the [D]truth, Lord, [E]he was an honest [A]man
 And [E]Brandy does her [B]best to under[A]stand [E] [F#m] [B]
 
 At night when the bars close down
