@@ -17,7 +17,7 @@ She serves them whiskey and wine
 
 The sailors say, [C##m]"Brandy, you're a [A]fine girl" (you're a fine girl)
 "What a [C#m]good wife you would [A]be" (such a fine girl)
-Yeah, your [A]eyes could steal a [E]sailor from the sea[A] [E] [F#m] [B] 
+Yeah, your [E]eyes could steal a [B]sailor from the sea[A] [E] [F#m] [B] 
 
 Brandy wears a braided chain
 Made of finest silver from the North of Spain
@@ -39,7 +39,7 @@ Yeah, [C#m]Brandy used to wat[B]ch his eyes
 When he [A]told his sailor [B]stories
 She could [C#m]feel the ocean fall[B] and rise
 She saw[A] its ragin' [B]glory
-But [C#m]he had always [D]told the ruth, Lord, [E]he was an honest [A]man
+But [C#m]he had always [D]told the truth, Lord, [E]he was an honest [A]man
 And [E]Brandy does her [B]best to under[A]stand [E] [F#m] [B]
 
 At night when the bars close down

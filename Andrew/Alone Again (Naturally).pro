@@ -53,7 +53,7 @@ Alone again, naturally
 [G]It seems to me that
 There are more hearts [D]broken in the world
 That can't be m[F#m7]ended [B7]
-Left un[G]attended [Eb]
+Left un[G]attended [Ebdim]
 [Bmaj7]What do we do 
 What do we do [F#m7] [B7]
 
@@ -76,7 +76,7 @@ She had ever loved had been taken
 Leaving her to start
 With a heart so badly broken
 Despite encouragement from me
-No words were ever
+No words were ever spoken
 
 And when she passed away
 I cried and cried all day
