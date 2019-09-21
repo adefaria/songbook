@@ -15,7 +15,7 @@ She serves them whiskey and wine
 
 {c:Chorus}
 
-The sailors say, [C##m]"Brandy, you're a [A]fine girl" (you're a fine girl)
+The sailors say, [C#m]"Brandy, you're a [A]fine girl" (you're a fine girl)
 "What a [C#m]good wife you would [A]be" (such a fine girl)
 Yeah, your [E]eyes could steal a [B]sailor from the sea[A] [E] [F#m] [B] 
 
