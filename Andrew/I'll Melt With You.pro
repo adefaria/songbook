@@ -18,7 +18,7 @@
 
 (He should know better) Dream of better lives the kind which never hates
 (Hey should see why) Trapped in the state of imaginary grace
-(He should know better) I m ade a pilgrimage to save this humans race
+(He should know better) I made a pilgrimage to save this humans race
 (He should see why) Never comprehending the race has long gone bye
 
 I'll stop the world and melt with you (Let's stop the world)
