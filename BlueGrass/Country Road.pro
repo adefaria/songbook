@@ -20,7 +20,7 @@ Misty taste of moonshine, teardrops in my eyes
 
 {c:Chorus}
 
-I [G]hear her [D]voice in the [G]mornin' hour she calls me
+I [G]hear her [D]voice in the [Em]mornin' hour she calls me
 The [C]radio remi[G]nds me of my [D]home far away
 And [Em]drivin' down the [F]road I get a [C]feeling
 That I should have been home [D]yesterday, yesterday

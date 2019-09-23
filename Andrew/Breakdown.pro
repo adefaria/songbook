@@ -26,4 +26,5 @@ Breakdown honey take me through the night
 Breakdown now I standin' here can't you see
 Breakdown, it's all right
 It's all right
-It's all right{musicpath:/sdcard/SongBook/Media/Breakdown.mp3}
+It's all right
+{musicpath:/storage/emulated/0/Music/Breakdown.mp3}
