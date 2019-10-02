@@ -36,4 +36,4 @@ Yeah
 
 Hmm, hmm, hmm, hmm, hmm, hmm 4x
 
-{musicpath:/sdcard/SongBook/Media/Paint It Black.mp3}
+{musicpath:/storage/emulated/0/Music/Paint It Black.mp3}

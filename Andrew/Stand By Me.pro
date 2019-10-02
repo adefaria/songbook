@@ -34,4 +34,4 @@ Darling, darling stand by me
 Stand by me
 Oh stand by me, stand by me, stand by me
 
-{musicpath:/sdcard/SongBook/Media/Stand By Me.mp3}
+{musicpath:/storage/emulated/0/Music/Stand By Me.mp3}

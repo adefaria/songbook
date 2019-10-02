@@ -28,4 +28,4 @@ And I fall asleep, and I fall asleep and dream....
 
 About love
 
-{musicpath:/sdcard/SongBook/Media/Naptime.mp3}
+{musicpath:/storage/emulated/0/Music/Naptime.mp3}

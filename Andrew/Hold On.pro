@@ -45,4 +45,4 @@ You're on the right track
 
 {c:2x}
 {c:chorus}
-{musicpath:/sdcard/SongBook/Media/Hold On.mp3}
+{musicpath:/storage/emulated/0/Music/Hold On.mp3}

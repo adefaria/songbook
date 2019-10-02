@@ -96,4 +96,4 @@ And the [G]roadies don’t [Em]mind [C] [D]
 If we t[G]ake a little [Em]time
 And we [C]leave it all [D]behind singing
 [Em]One more song
-{musicpath:/sdcard/SongBook/Media/The Load Out - Stay.mp3}
+{musicpath:/storage/emulated/0/Music/The Load Out - Stay.mp3}

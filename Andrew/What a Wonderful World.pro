@@ -25,4 +25,4 @@ And I [C]think to myself, [F#m7]what a won[B7]derful [E]world[E7] [C#7]
 Yes I [F#m7]think to myself[B7], what a [B7b9]wonderful [E]wo[Eaug]rl[Amaj7]d [Am7]
 
 [Emaj7]
-{musicpath:/sdcard/SongBook/Media/What a Wonderful World.mp3}
+{musicpath:/storage/emulated/0/Music/What a Wonderful World.mp3}

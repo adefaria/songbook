@@ -32,4 +32,4 @@ Keeps Georgia on my [Db9]mind [C9]
 I said just an [Am7]old [G/B]sweet [C]song [C/E] [D9] [C/E]
 Keeps [D9]Georgia [Am]on my [G]mind [C9] [G] [F#9] [G9]
 
-{musicpath:/sdcard/SongBook/Media/Georgia on My Mind.mp3}
+{musicpath:/storage/emulated/0/Music/Georgia on My Mind.mp3}

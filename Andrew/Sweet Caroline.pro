@@ -40,5 +40,5 @@ touching you
 {c:Intro}
 
 {c:Chorus}
-{musicpath:/sdcard/SongBook/Media/Sweet Carolinie.mp3}
+{musicpath:/storage/emulated/0/Music/Sweet Carolinie.mp3}
 

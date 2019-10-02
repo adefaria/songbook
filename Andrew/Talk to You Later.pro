@@ -71,4 +71,4 @@ But I'm finished with you
 {c:Lead over chorus2}
 
 {c:1/2 of chorus2}
-{musicpath:/sdcard/SongBook/Media/Talk to You Later.mp3}
+{musicpath:/storage/emulated/0/Music/Talk to You Later.mp3}

@@ -49,4 +49,4 @@ We oughta take it [G]easy [F]easy[C]
 
 {c:Big chord ending:}
 [Em]
-{musicpath:/sdcard/SongBook/Media/Take It Easy.mp3}
+{musicpath:/storage/emulated/0/Music/Take It Easy.mp3}

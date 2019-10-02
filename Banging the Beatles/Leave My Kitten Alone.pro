@@ -33,4 +33,4 @@ Hey hey you better leave, you better leave
 You better leave, yeah you better leave
 You better leave, oh you got to leave
 
-{musicpath:/sdcard/SongBook/Media/Leave My Kitten Alone.mp3}
+{musicpath:/storage/emulated/0/Music/Leave My Kitten Alone.mp3}

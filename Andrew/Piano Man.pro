@@ -92,4 +92,4 @@ And you got us feeling alright.
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
 
-{musicpath:/sdcard/SongBook/Media/Piano Man.mp3}
+{musicpath:/storage/emulated/0/Music/Piano Man.mp3}

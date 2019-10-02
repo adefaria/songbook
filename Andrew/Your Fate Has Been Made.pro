@@ -52,4 +52,4 @@ Your fate has been made
 Your fate has been made [E7]
 
 {c:Quiet part}
-{musicpath:/sdcard/SongBook/Media/Your Fate Has Been Made.mp3}
+{musicpath:/storage/emulated/0/Music/Your Fate Has Been Made.mp3}

@@ -31,4 +31,4 @@ Something in the way she knows
 And all I have to do is think of her
 Something in the things she shows me
 I don't want to leave her now
-You know I believe and how{musicpath:/sdcard/SongBook/Media/Something.mp3}
+You know I believe and how{musicpath:/storage/emulated/0/Music/Something.mp3}

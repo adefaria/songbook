@@ -22,4 +22,4 @@ I'll be your baby tonight
 
 
 Enjoy!
-{musicpath:/sdcard/SongBook/Media/I'll Be Your Baby Tonight.mp3}
+{musicpath:/storage/emulated/0/Music/I'll Be Your Baby Tonight.mp3}

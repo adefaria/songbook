@@ -48,4 +48,4 @@ But not to fear that you've seen better days
 {c:Break}
 
 {c:Chorus 3x fade} 
-{musicpath:/sdcard/SongBook/Media/Strong Enough to Win.mp3}
+{musicpath:/storage/emulated/0/Music/Strong Enough to Win.mp3}

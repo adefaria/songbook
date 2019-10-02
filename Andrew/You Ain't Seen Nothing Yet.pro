@@ -44,4 +44,4 @@ You ain't seen nothin' yet,
 B-B-B-Baby, you just ain't seen n-n-n-nothin' yet,
 Here's some lovin' that you never gonna forget,
 B-B-B-Baby, you just ain't seen n-n-n-n-nothin' yet. 
-{musicpath:/sdcard/SongBook/Media/You Ain't Seen Nothing Yet.mp3}
+{musicpath:/storage/emulated/0/Music/You Ain't Seen Nothing Yet.mp3}

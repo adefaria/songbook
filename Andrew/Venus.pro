@@ -34,4 +34,4 @@ Got what now one elese has, wow!
 {c:Vocal break}
 
 {c:Chorus}
-{musicpath:/sdcard/SongBook/Media/Venus.mp3}
+{musicpath:/storage/emulated/0/Music/Venus.mp3}

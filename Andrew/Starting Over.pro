@@ -44,4 +44,4 @@ Although our love still is special
 Let's take a chance and fly away somewhere
 
 Starting over (over and over and over)
-{musicpath:/sdcard/SongBook/Media/Starting Over.mp3}
+{musicpath:/storage/emulated/0/Music/Starting Over.mp3}

@@ -1,6 +1,6 @@
 {title:Just a Song Before I Go}
 {subtitle:Graham Nash}
-{musicpath:/sdcard/SongBook/Media/Just a Song Before I Go.mp3}
+{musicpath:/storage/emulated/0/Music/Just a Song Before I Go.mp3}
 
 
 [Em]Just a song [Bm7]before I go,

@@ -43,4 +43,4 @@ Come come come come along ooh yea come along
 Come along [C]way come along [Em]right
 Come along [C]way [Em] [A7]Sing it tonight [D]
 Ooh ooh
-{musicpath:/sdcard/SongBook/Media/Give a Little Bit.mp3}
+{musicpath:/storage/emulated/0/Music/Give a Little Bit.mp3}

@@ -45,4 +45,4 @@ You've got a friend, yeah
 Ain't it good to know you've got a friend
 Ain't it good to know you've got a friend
 Oh, ye yeah, you've got a friend
-{musicpath:/sdcard/SongBook/Media/You've Got a Friend.mp3}
+{musicpath:/storage/emulated/0/Music/You've Got a Friend.mp3}

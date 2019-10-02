@@ -49,4 +49,4 @@ Ouh, ouh, ouh
 Cause you're in my song
 
 Ouh, ouh, ouh here today...
-{musicpath:/sdcard/SongBook/Media/Here Today.mp3}
+{musicpath:/storage/emulated/0/Music/Here Today.mp3}

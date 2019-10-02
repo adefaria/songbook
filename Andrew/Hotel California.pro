@@ -47,4 +47,4 @@ but they [F#]just can't kill the beast
 [A]I had to find the passage back to the [E]place I was before
 [G]"Relax" said the nightman, "We are [D]programmed to receive"
 [Em]"You can check out anytime you like, [F#]but you can never leave"
-{musicpath:/sdcard/SongBook/Media/Hotel California.mp3}
+{musicpath:/storage/emulated/0/Music/Hotel California.mp3}

@@ -43,4 +43,4 @@ Get back home Loretta
 Get back, get back
 Get back to where you wonce belonged
 
-{musicpath:/sdcard/SongBook/Media/Get Back.mp3}
+{musicpath:/storage/emulated/0/Music/Get Back.mp3}

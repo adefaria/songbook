@@ -61,4 +61,4 @@ Free failing never
 ...
 {eoc}
 
-{musicpath:/sdcard/SongBook/Media/Free Fallin.mp3}
+{musicpath:/storage/emulated/0/Music/Free Fallin.mp3}

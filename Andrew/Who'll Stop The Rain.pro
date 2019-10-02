@@ -23,4 +23,4 @@
 [C]And I wonder, [D]still I wonder, [Em]who'll stop the [Em]rain
 
 [G] [Em]  [G] [Em][G] [Em].  end  G
-{musicpath:/sdcard/SongBook/Media/Who'll Stop The Rain.mp3}
+{musicpath:/storage/emulated/0/Music/Who'll Stop The Rain.mp3}

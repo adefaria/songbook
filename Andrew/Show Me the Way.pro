@@ -32,4 +32,4 @@ I watch you when you're sleeping
 And then I want to take your love
 
 {c:Chorus}
-{musicpath:/sdcard/SongBook/Media/Show Me the Way.mp3}
+{musicpath:/storage/emulated/0/Music/Show Me the Way.mp3}

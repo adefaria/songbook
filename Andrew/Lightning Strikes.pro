@@ -59,4 +59,4 @@ Help me get me some... come on
 
 Ooh ya... ooh ya... ooh ya... ooh ya
 Ooh ya... ooh ya... ooh ya
-{musicpath:/sdcard/SongBook/Media/Lightning Strikes.mp3}
+{musicpath:/storage/emulated/0/Music/Lightning Strikes.mp3}

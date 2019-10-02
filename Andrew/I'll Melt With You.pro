@@ -49,4 +49,4 @@ I'll stop the world and melt with you
 
 (Let's stop the world) I'll stop the world and melt with you 4x 
 
-{musicpath:/sdcard/SongBook/Media/I'll Melt With You.mp3}
+{musicpath:/storage/emulated/0/Music/I'll Melt With You.mp3}

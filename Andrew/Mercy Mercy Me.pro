@@ -28,4 +28,4 @@ My sweet Lord, na, na, na
 My Lord, my sweet Lord
 
 {c:Change key to F}
-{musicpath:/sdcard/SongBook/Media/Mercy Mercy Me.mp3}
+{musicpath:/storage/emulated/0/Music/Mercy Mercy Me.mp3}
