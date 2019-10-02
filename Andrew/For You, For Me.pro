@@ -51,4 +51,4 @@ Don’t give a damn if it’s a crying shame for me
 As the mist comes rolling down
 I wonder why you laid your body down for me
 
-{musicpath:/sdcard/SongBook/Media/For You, For Me.mp3}
+{musicpath:/storage/emulated/0/Music/For You, For Me.mp3}

@@ -38,4 +38,4 @@ Seven horses seem to be on the mark
 
 Don't you love her madly? (3x)
 
-{musicpath:/sdcard/SongBook/Media/Love Her Madly.mp3}
+{musicpath:/storage/emulated/0/Music/Love Her Madly.mp3}

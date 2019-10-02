@@ -47,4 +47,4 @@ And leave you flat
 Because I've told you before, oh
 You can't do that
 
-{musicpath:/sdcard/SongBook/Media/You Can't Do That.mp3}
+{musicpath:/storage/emulated/0/Music/You Can't Do That.mp3}

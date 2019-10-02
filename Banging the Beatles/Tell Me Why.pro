@@ -33,4 +33,4 @@ If you'll [A7]only listen to my pleas
 Tell me why you cried, and why you lied to me
 Tell me why you cried, and why you lied to me [Bm] [Bb] [A7sus4] [A7] [D]
 
-{musicpath:/sdcard/SongBook/Media/Tell Me Why.mp3}
+{musicpath:/storage/emulated/0/Music/Tell Me Why.mp3}

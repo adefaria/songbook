@@ -24,4 +24,4 @@ I just can't recall
 It doesn't matter at all
 
 {c:Chorus}
-{musicpath:/sdcard/SongBook/Media/From the Beginning.mp3}
+{musicpath:/storage/emulated/0/Music/From the Beginning.mp3}

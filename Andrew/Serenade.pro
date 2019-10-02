@@ -38,4 +38,4 @@ And it shines all around you
 You're lost in space
 And the earth is your own
 
-{c:Chorus and fade}{musicpath:/sdcard/SongBook/Media/Serenade.mp3}
+{c:Chorus and fade}{musicpath:/storage/emulated/0/Music/Serenade.mp3}

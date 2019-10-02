@@ -41,4 +41,4 @@ but I [Em/C#]miss my [A7]Dad tonight [Dsus4] [D7]
 [D]No matter how many [Em]tears [Em/D]I [Em/C#]cry
 I [C]still can't [D]say good[C]bye
 [C/E] [D/F#add6] [G] [D] [C] [D] [C] [G]
-{musicpath:/sdcard/SongBook/Media/I Still Can't Say Goodbye.mp3}
+{musicpath:/storage/emulated/0/Music/I Still Can't Say Goodbye.mp3}

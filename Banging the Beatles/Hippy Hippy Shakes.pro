@@ -34,4 +34,4 @@ Hippy hippy shake
 Ow! the hippy hippy shake
 Ow! the hippy hippy shake
 
-{musicpath:/sdcard/SongBook/Media/Hippy Hippy Shakes.mp3}
+{musicpath:/storage/emulated/0/Music/Hippy Hippy Shakes.mp3}

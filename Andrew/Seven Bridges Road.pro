@@ -38,4 +38,4 @@ You should go
 There is a taste of time sweetened honey
 Down the Seven Bridges Road
 
-{musicpath:/sdcard/SongBook/Media/Seven Bridges Road.mp3}
+{musicpath:/storage/emulated/0/Music/Seven Bridges Road.mp3}

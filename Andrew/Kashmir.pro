@@ -35,4 +35,4 @@ Ooh, yeah-yeah, ooh, yeah-yeah, when I'm down...
 Ooh, yeah-yeah, ooh, yeah-yeah, well I'm down, so down
 Ooh, my baby, oooh, my baby, let me take you there
 
-Let me take you there. Let me take you there{musicpath:/sdcard/SongBook/Media/Kashmir.mp3}
+Let me take you there. Let me take you there{musicpath:/storage/emulated/0/Music/Kashmir.mp3}

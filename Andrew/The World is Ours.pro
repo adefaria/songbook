@@ -36,4 +36,4 @@ To [Dm]share... all night long
 {c:Chorus}
 
 All night long
-{musicpath:/sdcard/SongBook/Media/The World is Ours.mp3}
+{musicpath:/storage/emulated/0/Music/The World is Ours.mp3}

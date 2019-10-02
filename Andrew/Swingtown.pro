@@ -30,4 +30,4 @@ You know the night is fallin'
 And the music's callin'
 And we've got to get down to Swingtown
 
-{musicpath:/sdcard/SongBook/Media/Swingtown.mp3}
+{musicpath:/storage/emulated/0/Music/Swingtown.mp3}

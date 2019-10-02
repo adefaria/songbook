@@ -41,4 +41,4 @@ And let me know that you're might, (know you're mine)
 
 Well shake it shake it shake it baby now (4X)
 
-{musicpath:/sdcard/SongBook/Media/Twist and Shout.mp3}
+{musicpath:/storage/emulated/0/Music/Twist and Shout.mp3}

@@ -43,4 +43,4 @@ I'll be there for you
 Na na na na na
 Na na na na na
 Na na na na na ...
-{musicpath:/sdcard/SongBook/Media/Farewell to You.mp3}
+{musicpath:/storage/emulated/0/Music/Farewell to You.mp3}

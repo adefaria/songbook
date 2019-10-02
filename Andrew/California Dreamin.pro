@@ -36,4 +36,4 @@ California dreamin' (California dreamin')
 On such a winter's day (California dreamin')
 On such a winter's day (California dreamin')
 On such a winter's day
-{musicpath:/sdcard/SongBook/Media/California Dreamin.mp3}
+{musicpath:/storage/emulated/0/Music/California Dreamin.mp3}

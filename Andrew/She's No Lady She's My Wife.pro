@@ -37,4 +37,4 @@ She's no lady, she's my wife.
 
 [Am7] [Bbm7] [Bm7] [C7] [D7] [G7] [G#13] [G13]
 
-{musicpath:/sdcard/SongBook/Media/She's No Lady She's My Wife.mp3}
+{musicpath:/storage/emulated/0/Music/She's No Lady She's My Wife.mp3}

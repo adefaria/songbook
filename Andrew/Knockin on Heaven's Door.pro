@@ -23,4 +23,4 @@ There's a long black cloud comin' on down
 I feel like I'm knockin' on heaven's door.
 
 Knock, knock, knockin' on heaven's door 4x
-{musicpath:/sdcard/SongBook/Media/Knockin on Heaven's Door.mp3}
+{musicpath:/storage/emulated/0/Music/Knockin on Heaven's Door.mp3}

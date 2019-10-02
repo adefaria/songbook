@@ -26,4 +26,4 @@ I [G]know,      and I can't stop. I [C]wonder.[C]
 
 repeat chorus           Bill C. ultimate guitar
 
-{musicpath:/sdcard/SongBook/Media/Have You Ever Seen the Rain.mp3}
+{musicpath:/storage/emulated/0/Music/Have You Ever Seen the Rain.mp3}

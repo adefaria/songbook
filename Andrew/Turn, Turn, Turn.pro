@@ -33,4 +33,4 @@ A time to rend a time to sew;
 A time to love, a time to hate;
 A time for peace, I swear it's not too late.
 
-{c:Chorus}{musicpath:/sdcard/SongBook/Media/Turn, Turn, Turn.mp3}
+{c:Chorus}{musicpath:/storage/emulated/0/Music/Turn, Turn, Turn.mp3}

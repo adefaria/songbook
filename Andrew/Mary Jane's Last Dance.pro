@@ -44,4 +44,4 @@ I hit the last number, I walked to the road
 
 {c:Chorus}
 
-{musicpath:/sdcard/SongBook/Media/Mary Jane's Last Dance.mp3}
+{musicpath:/storage/emulated/0/Music/Mary Jane's Last Dance.mp3}

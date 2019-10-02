@@ -33,4 +33,4 @@ And I'll send all my loving to you
 
 {c:Chorus}
 
-{musicpath:/sdcard/SongBook/Media/All My Loving.mp3}
+{musicpath:/storage/emulated/0/Music/Turn, Turn, Turn.mp3}

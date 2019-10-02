@@ -44,4 +44,4 @@ So sublime, hot sweet cherries on the vine
 
 [A]Your love, [E]your love, [C#] [B] 
 [A]Your love [F#m]just takes me [E]away
-{musicpath:/sdcard/SongBook/Media/Your Love is Driving Me Crazy.mp3}
+{musicpath:/storage/emulated/0/Music/Your Love is Driving Me Crazy.mp3}

@@ -16,4 +16,4 @@ I say, gimme, gimme good lovin' every night
 Gimme, gimme good lovin' make it alright
 Ha, ha, ha, ha, ha
 
-{musicpath:/sdcard/SongBook/Media/Gimme Good Lovin.mp3
+{musicpath:/storage/emulated/0/Music/Gimme Good Lovin.mp3

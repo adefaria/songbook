@@ -34,4 +34,4 @@ You gotta gimme little loving
 Gimme little loving
 Ow, if you want our love to last
 
-{musicpath:/sdcard/SongBook/Media/Slow Down.mp3}
+{musicpath:/storage/emulated/0/Music/Slow Down.mp3}

@@ -54,4 +54,4 @@ Whisper words of wisdom, let it be
 {eoc}
 
 [F] [Em] [Dm7] [C] [Bb] [F/A] [G] [F] [C]
-{musicpath:/sdcard/SongBook/Media/Let It Be.mp3}
+{musicpath:/storage/emulated/0/Music/Let It Be.mp3}

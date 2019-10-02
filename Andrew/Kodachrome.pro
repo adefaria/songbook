@@ -1,6 +1,6 @@
 {title:Kodachrome}
 {subtitle:Paul Simon}
-{musicpath:/sdcard/SongBook/Media/Kodachrome.mp3}
+{musicpath:/storage/emulated/0/Music/Kodachrome.mp3}
 
 When I think [E]back
 On all the crap I learned in [A]high school

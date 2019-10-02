@@ -30,4 +30,4 @@ Ain't life unkind?
 
 {c:Chorus 2x}
 
-{musicpath:/sdcard/SongBook/Media/Ruby Tuesday.mp3}
+{musicpath:/storage/emulated/0/Music/Ruby Tuesday.mp3}

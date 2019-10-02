@@ -39,4 +39,4 @@ And the [Em]wind it catches your [C]feet, it sets you [D]flyin', cryin'
 Wild [D]night is [G]callin'
 [Em]Ooh [C]ooh [D]ooh [Em]wee
 The [D]wild night is [G]fallin'
-{musicpath:/sdcard/SongBook/Media/Wild Nights.mp3}
+{musicpath:/storage/emulated/0/Music/Wild Nights.mp3}

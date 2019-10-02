@@ -42,4 +42,4 @@ Yeah (yeah), yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
-{musicpath:/sdcard/SongBook/Media/Bring it on Home.pro}
+{musicpath:/storage/emulated/0/Music/Bring it on Home.pro}

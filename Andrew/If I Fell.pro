@@ -38,4 +38,4 @@ If I [Fm]fell in love with [G]you
 
 [Fm] [C]
 
-{musicpath:/sdcard/SongBook/Media/If I Fell.mp3}
+{musicpath:/storage/emulated/0/Music/If I Fell.mp3}
