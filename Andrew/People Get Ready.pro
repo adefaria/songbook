@@ -58,4 +58,4 @@ I'm getting ready
 Getting ready, oh yeah
 I'm getting ready, yes I am
 
-{musicpath:/storage/emulated/0/Music/People Get Ready.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/People Get Ready.mp3}

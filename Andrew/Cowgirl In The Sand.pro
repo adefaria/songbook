@@ -25,4 +25,4 @@ It's the [Dm]woman in you that makes you want to [C]play this [F]game
 [C]          [E7]           [A]           [E7]            [A]
 
 [Am F]       Repeat and fade
-{musicpath:/storage/emulated/0/Music/Cowgirl In The Sand.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Cowgirl In The Sand.mp3}

@@ -66,4 +66,4 @@ The way things are going
 They're gonna crucify me
 The way things are going
 They're gonna crucify me
-{musicpath:/storage/emulated/0/Music/The Ballad of John and Yoko.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/The Ballad of John and Yoko.mp3}

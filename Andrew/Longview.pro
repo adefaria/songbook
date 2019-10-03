@@ -47,4 +47,4 @@ I was slipping away to paradise
 Some say, "Quit or I'll go blind."
 But it's just a myth
 
-{musicpath:/storage/emulated/0/Music/Longview.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Longview.mp3}

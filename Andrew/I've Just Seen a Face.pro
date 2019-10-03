@@ -33,4 +33,4 @@ Da da da da da da
 {c:First verse}
 
 {c:Chorus 3X}
-{musicpath:/storage/emulated/0/Music/I've Just Seen a Face.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/I've Just Seen a Face.mp3}

@@ -95,4 +95,4 @@ Yeah sometimes I wish I didn't know now
 The things I didn't know then, yeah
 
 And give me something to believe in, yeah, yeah
-{musicpath:/storage/emulated/0/Music/Something to Believe In.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Something to Believe In.mp3}

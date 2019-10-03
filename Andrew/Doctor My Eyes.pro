@@ -45,4 +45,4 @@ For having l[C]earned how not to c[Bbsus4]ry.  [F]
 
 {c:Instrumental fade out}
 
-{musicpath:/storage/emulated/0/Music/Doctor My Eyes.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Doctor My Eyes.mp3}

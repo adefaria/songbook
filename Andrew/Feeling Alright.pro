@@ -37,4 +37,4 @@ With a different name, oh, and a different face
 
 {c:Chorus} 2x fade
 
-{musicpath:/storage/emulated/0/Music/Feeling Alright.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Feeling Alright.mp3}

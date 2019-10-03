@@ -38,4 +38,4 @@ When you're strange
 No one remembers your name 
 When you're strange 
 When you're strange 
-When you're strange{musicpath:/storage/emulated/0/Music/People Are Strange.mp3}
+When you're strange{musicpath:/storage/emulated/0/Songbook/Media/People Are Strange.mp3}

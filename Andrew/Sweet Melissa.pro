@@ -37,4 +37,4 @@ Yes, I know that he won't stay, yeah
 Without Melissa
 Lord, Lord, it's all the same 
 Mmmmm-hmmmmm
-{musicpath:/storage/emulated/0/Music/Sweet Melissa.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Sweet Melissa.mp3}

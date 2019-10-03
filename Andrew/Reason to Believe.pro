@@ -26,4 +26,4 @@ somebody else
 Someone like you makes it easy to give
 never think about myself
 
-{musicpath:/storage/emulated/0/Music/Reason to Believe.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Reason to Believe.mp3}

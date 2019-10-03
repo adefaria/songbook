@@ -52,4 +52,4 @@ You're a soul man
 I'm a soul man
 I'm a soul man
 I'm a soul man
-{musicpath:/storage/emulated/0/Music/Soul Man.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Soul Man.mp3}

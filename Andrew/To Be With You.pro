@@ -44,4 +44,4 @@ Let me be the one to show you
 
 {comment:Chorus in G w/Em chord}
 
-{comment:Chorus in E w/C#m7 chord} {musicpath:/storage/emulated/0/Music/To Be With You.mp3}
+{comment:Chorus in E w/C#m7 chord} {musicpath:/storage/emulated/0/Songbook/Media/To Be With You.mp3}

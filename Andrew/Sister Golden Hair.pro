@@ -31,4 +31,4 @@ Well I tried to fake it, I don't mind sayin', I just can't make it
 
 Doo wop doo wop ...
 
-{musicpath:/storage/emulated/0/Music/Sister Golden Hair.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Sister Golden Hair.mp3}

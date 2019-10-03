@@ -59,4 +59,4 @@ You're still the same old girl you used to be
 There ain't no way to hide your lyin' eyes
 Honey, you can't hide your lyin' eyes
 
-{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Lyin Eyes.mp3}

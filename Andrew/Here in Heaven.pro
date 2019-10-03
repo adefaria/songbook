@@ -40,4 +40,4 @@ And I can't waste a fantasy - I have for you and me
 I wanna stay with you here in Heaven
 I wanna stay with you here in Heaven
 
-{musicpath:/storage/emulated/0/Music/Here in Heaven.wma}
+{musicpath:/storage/emulated/0/Songbook/Media/Here in Heaven.wma}

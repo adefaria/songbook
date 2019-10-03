@@ -42,4 +42,4 @@ Nah nah nah nah nah nah nah nah nah yeah
 Better better better better better better, oh
 
 [E]Nah nah nah [D]nah nah nah, [A]nah nah nah, [E]hey Jude
-{musicpath:/storage/emulated/0/Music/Hey Jude.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Hey Jude.mp3}

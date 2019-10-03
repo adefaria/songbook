@@ -54,4 +54,4 @@ Everybody wants to rule the world
 [G]Nothing ever la[F#m]sts forever
 [Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
 
-{musicpath:/storage/emulated/0/Music/Everybody Wants to Rule the World.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Everybody Wants to Rule the World.mp3}

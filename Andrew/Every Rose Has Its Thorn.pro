@@ -57,4 +57,4 @@ To hear that tears me up inside
 And to see you cuts me like a knife I guess
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Every Rose Has Its Thorn.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Every Rose Has Its Thorn.mp3}
