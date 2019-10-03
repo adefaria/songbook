@@ -57,4 +57,4 @@ Yes a few old gray federales still say
 They could have had him any day
 They only let him go so wrong
 Out of kindness, I suppose
-{musicpath:/storage/emulated/0/Music/Pancho and Lefty.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Pancho and Lefty.mp3}

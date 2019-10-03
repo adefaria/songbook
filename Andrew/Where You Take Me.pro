@@ -39,4 +39,4 @@ All I can do is sit and stare sometimes
 And it hurts me when you think that I don't care
 
 {c:Chorus 2X}
-{musicpath:/storage/emulated/0/Music/Where You Take Me.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Where You Take Me.mp3}

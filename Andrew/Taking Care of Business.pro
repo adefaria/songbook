@@ -83,4 +83,4 @@ Takin' care of business (4x)
 
 Takin care of business 
 
-{musicpath:/storage/emulated/0/Music/Taking Care of Business.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Taking Care of Business.mp3}

@@ -36,4 +36,4 @@ He sits back and lights a smoke as if he never was around
 He's a trained runner, trained runner
 Trained runner, trained runner, ah you know he is
 
-{musicpath:/storage/emulated/0/Music/Trained Runner.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Trained Runner.mp3}

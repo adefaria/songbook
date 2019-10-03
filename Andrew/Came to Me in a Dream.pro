@@ -34,4 +34,4 @@ And find out it's you?
 [F] [E] 4x
 
 {c:Chorus} 2x
-{musicpath:/storage/emulated/0/Music/Came to Me in a Dream.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Came to Me in a Dream.mp3}

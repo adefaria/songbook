@@ -41,4 +41,4 @@ Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
 
-{musicpath:/storage/emulated/0/Music/Nowhere Man.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Nowhere Man.mp3}

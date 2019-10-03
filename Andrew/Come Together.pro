@@ -35,4 +35,4 @@ He say, one and one and one is three,
 Got to be good looking 'cause he so hard to see
 
 Come together, right now, over me
-{musicpath:/storage/emulated/0/Music/Come Together.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Come Together.mp3}

@@ -24,4 +24,4 @@ Than to remember me and [C]cry
 
 {c:Chorus}
 
-{musicpath:/storage/emulated/0/Music/Treasure.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Treasure.mp3}

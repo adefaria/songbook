@@ -24,4 +24,4 @@
 [Em7] [Bm] [D] [A] 2x Verse
 
 {c:End}
-{musicpath:/storage/emulated/0/Music/The Promise Land.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/The Promise Land.mp3}

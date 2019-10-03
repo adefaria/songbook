@@ -29,4 +29,4 @@ Or the tropic of Sir Galahad
 
 So please believe in me
 
-{musicpath:/storage/emulated/0/Music/Tin Man.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Tin Man.mp3}

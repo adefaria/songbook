@@ -50,4 +50,4 @@ But if you go carrying pictures of Chairman Mao
 You ain't going to make it with anyone anyhow
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Revolution.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Revolution.mp3}

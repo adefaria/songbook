@@ -47,4 +47,4 @@ In my [C]life, don't slow it [D]down, cause it's my [A]life
 {c:Break}
 
 {c:Chorus 3x fade}
-{musicpath:/storage/emulated/0/Music/My Life.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/My Life.mp3}

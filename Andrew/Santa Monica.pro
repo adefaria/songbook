@@ -36,4 +36,4 @@ I just want to find some place to be alone
 
 {c:Chorus 4x}
 
-Yeah, watch the world die 4x{musicpath:/storage/emulated/0/Music/Santa Monica.mp3}
+Yeah, watch the world die 4x{musicpath:/storage/emulated/0/Songbook/Media/Santa Monica.mp3}

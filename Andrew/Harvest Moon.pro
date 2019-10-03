@@ -60,4 +60,4 @@ On this harvest moon.
 I want to see you dance again
 [A7sus4]Because I'm still in love with you[A]
 On this harvest moon.
-{musicpath:/storage/emulated/0/Music/Harvest Moon.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Harvest Moon.mp3}

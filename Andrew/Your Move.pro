@@ -50,4 +50,4 @@ Diddit diddit diddit diddit diddit diddit diddit didda (Is give peace a chance
 'Cause it's time, it's time in time with your time
 And it's news is captured
 
-{musicpath:/storage/emulated/0/Music/Your Move.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Your Move.mp3}

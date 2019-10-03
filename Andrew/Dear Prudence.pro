@@ -30,4 +30,4 @@ The sun is up, the sky is blue
 It's beautiful and so are you
 Dear Prudence won't you come out to play
 
-{musicpath:/storage/emulated/0/Music/Dear Prudence.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Dear Prudence.mp3}

@@ -51,4 +51,4 @@
 [Em]Keep me searchin' for a [G]heart of gold,
 [C]Hmmmm ( ** base run) [G]
 {eoc}
-{musicpath:/storage/emulated/0/Music/Heart of Gold.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Heart of Gold.mp3}
