@@ -40,4 +40,4 @@ Oh, since I saw her standing there
 Oh, since I [E]saw her sta[B]nding th[E]ere
 Yeah, well since [E]I saw her stan[B]ding the[A]re [E]
 
-{musicpath:/storage/emulated/0/Music/I Saw Her Standing There.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/I Saw Her Standing There.mp3}

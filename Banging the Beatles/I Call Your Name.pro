@@ -35,4 +35,4 @@ I call your name
 I call your name
 I call your name
 
-{musicpath:/storage/emulated/0/Music/I Call Your Name.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/I Call Your Name.mp3}

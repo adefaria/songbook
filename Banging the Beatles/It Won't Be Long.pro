@@ -34,4 +34,4 @@ It won't be long yeah (yeah), yeah (yeah), yeah (yeah)
 It won't be long (yeah), yeah (yeah), yeah (yeah)
 It won't be long yeah (yeah), 'til I belong to you [G6] [F#7] [Fmaj7] [Emaj7]
 
-{musicpath:/storage/emulated/0/Music/It Won't Be Long.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/It Won't Be Long.mp3}

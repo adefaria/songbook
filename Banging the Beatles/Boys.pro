@@ -44,4 +44,4 @@ Ooh, boys (yeah, yeah, boys)
 Ah ha (yeah, yeah, boys)
 Well, I talk about boys now
 
-{musicpath:/storage/emulated/0/Music/Boys.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Boys.mp3}
