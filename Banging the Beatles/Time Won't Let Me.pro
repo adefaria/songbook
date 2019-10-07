@@ -25,4 +25,4 @@ It won't let me wait that long
 
 (Wait, wait, wait, wait, wait that long) 7x
 
-{musicpath:/storage/emulated/0/Music/Time Won't Let Me.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Time Won't Let Me.mp3}

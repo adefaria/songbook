@@ -16,4 +16,4 @@ Why don't we do it in the road? 4x
 No one will be watching us
 Why don't we do it in the road?
 
-{musicpath:/storage/emulated/0/Music/Why Don't We Do It in the Road.mp3}
+{musicpath:/storage/emulated/0/Songbook/Media/Why Don't We Do It in the Road.mp3}
