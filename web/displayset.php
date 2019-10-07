@@ -31,13 +31,13 @@ width: 100%;
 <div id="content">
 
 <?php
-global $songDir, $artists;
+global $songbook, $songDir, $artists;
 
 print "<ol>";
 
 $firstLine = true;
 
-foreach (file("$songDir/$set") as $line) {
+foreach (file("$songbook/$set") as $line) {
   // Skip first line which is merely the set name again
   if ($firstLine) {
     $firstLine = false;

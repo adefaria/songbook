@@ -26,6 +26,9 @@ function getSongs ($songDir) {
 } // getSongs
 
 function getSets ($songDir) {
+  global $songbook;
+
+  return glob("$songbook/*/*.lst");
   return glob("$songDir/*.lst");
 } // getSets
 
@@ -79,10 +82,13 @@ function setsDropdown () {
 
   sort ($sets);
   foreach ($sets as $set) {
-    print "Processing set<br>";
-    $title = basename ($set, ".lst");
+    preg_match("/.*\/(.*)\.lst/", $set, $matches);
+    $title = $matches[1];
+    preg_match("/\/opt\/songbook\/(.*)/", dirname($set), $matches);
+    $subdir = $matches[1];
+    $title = basename($set, ".lst");
 
-    print "<option value=\"$title.lst\">$title</option>";
+    print "<option value=\"$subdir/$title.lst\">$title</option>";
   } // foreach
 
   print "</select>";
