@@ -10,7 +10,7 @@ if (isset ($_REQUEST['debug'])) {
 
 // Initialize music objects
 $songs   = getSongs($songDir);
-$sets    = getSets($songDir);
+$sets    = getSets($songbook);
 $artists = getArtists($songs);
 
 function debug ($msg) {
@@ -25,11 +25,8 @@ function getSongs ($songDir) {
   return glob("$songDir/*.pro");
 } // getSongs
 
-function getSets ($songDir) {
-  global $songbook;
-
+function getSets ($songbook) {
   return glob("$songbook/*/*.lst");
-  return glob("$songDir/*.lst");
 } // getSets
 
 function songsDropdown () {
@@ -88,7 +85,7 @@ function setsDropdown () {
     $subdir = $matches[1];
     $title = basename($set, ".lst");
 
-    print "<option value=\"$subdir/$title.lst\">$title</option>";
+    print "<option value=\"$subdir/$title.lst\">$subdir/$title</option>";
   } // foreach
 
   print "</select>";
