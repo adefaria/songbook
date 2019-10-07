@@ -36,5 +36,6 @@ I think it's magic in my soul
 
 {c:Chorus}
 
+{musicpath:/storage/emulated/0/Songbook/Media/Hands of Time.mp3}
 
 
