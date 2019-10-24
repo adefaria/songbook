@@ -30,7 +30,7 @@ I'm having a b[A]all
 If you wanna have a [Em]good time, just [B7]give me a call
 [Em]Don't [D]stop [A]me [Em]now ('cause I'm having a good time)
 [Em]Don't [D]stop [A]me [Em]now (yes, I'm havin' a good time)
-[A7]I don't want to stop at [Csus4]all
+[A7]I don't want to stop at [Gsus4]all
 
 Yeah, I'm a rocket ship on my way to Mars
 On a collision course
