@@ -1,5 +1,5 @@
 {title:T.O. Witcher}
-{subtitle:Steven Morse}
+{subtitle:Steve Morse}
 {key:D}
 
 {c:Instrumental - D Tuning}
