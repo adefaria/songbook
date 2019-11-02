@@ -1,11 +1,11 @@
 {title:Long Tall Sally}
 {subtitle:Little Richard}
-{key:F}
+{key:G}
 
-Gonna t[F]ell Aunt Mary 'b[F]out Uncle John
-He [F]claim he has the misery but he's havin' a lot of fun
-Oh [Bb]baby, yeah [F]baby, woo
-[C]Baby [Bb]havin' me some fun to[F]night, yeah
+Gonna t[G]ell Aunt Mary 'b[G]out Uncle John
+He [G]claim he has the misery but he's havin' a lot of fun
+Oh [C]baby, yeah [G]baby, woo
+[D]Baby [C]havin' me some fun to[G]night, yeah
 
 Well long, tall Sally
 She's built for speed, she got
