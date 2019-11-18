@@ -20,7 +20,7 @@ Not trying to pretend
 
 [Bm]I thought that you would [C#m]realize
 That if I run [F#m]away from you
-That [Bm]you would want me to
+That [B]you would want me to
 [D]But I got a big [E]surprise
 [D]Oh, ho, [E]oh, [D]ho, oh [E]
 
