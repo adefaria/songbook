@@ -25,3 +25,4 @@ Why does my heart go on beating?
 Why do these eyes of mine cry?
 Don't they know it's the end of the world?
 It ended when you said goodbye
+{musicpath:/storage/emulated/0/Songbook/Media/End of the World.mp3}
