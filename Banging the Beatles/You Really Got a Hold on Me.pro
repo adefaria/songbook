@@ -1,27 +1,41 @@
 {title:You Really Got a Hold on Me}
 {subtitle:Beatles}
 
-I don't like you but I love you
-Seems that I'm always thinking of you
-Oh, oh, oh
-You treat me badly
-I love you madly
+[e] [e] [f#] [a] [b] [a] [f#]
+
+[A] [c#] [c#] [b] [a] [b] [F#]
+
+[A]I don't like you but I love you
+[F#]Seems that I'm always thinking of you
+[A]Oh, oh, oh you treat me [D]badly
+I love you [Bm]madly
+
+{c:Chorus}
+
+[E]You've really got a hold on me
+(You've really got a hold on me)
 You've really got a hold on me
-You've really got a hold on me, baby
+(You've really got a hold on me) baby!
 
 I don't want you but I need you
 Don't want to kiss you but I need to
 Oh, oh, oh
 You do me wrong now
 My love is strong now
-You've really got a hold on me
-You've really got a hold on me, baby
 
 {c:Chorus}
 
-I love you and all I want you to do
-Is just hold me, hold me, hold me, hold me
+[A]I love you and all I [D]want you to do
+Is just [A]hold me, [A]hold me, [A]hold me, [E7]hold me
+
+[e] [e] [f#] [a] [b] [a] [f#]
+
+[A] [e] [c#] [e][f#] [e] [c#] [F#] [E] [A]
+
 Tighter
+
+[A] [e] [c#] [e][f#] [e] [c#] [F#] [E] [A]
+
 Tighter
 
 I want to leave you
@@ -30,8 +44,8 @@ Don't want to spend
 Another day here
 Oh, oh, oh, I want to split now
 I just can't quit now
-You've really got a hold on me
-You've really got a hold on me, baby
+
+{c:Chorus}
 
 I love you and all I want you to do
 Is just hold me (Please)
