@@ -1,6 +1,6 @@
 {title:The End of the World}
 {subtitle:Skeeter Davis}
-{key:Bb]
+{key:Bb}
 
 [Bb] [F] [Gm] [F]
 
