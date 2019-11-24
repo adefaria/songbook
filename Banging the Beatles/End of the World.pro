@@ -1,4 +1,4 @@
-{title:End of the World}
+{title:The End of the World}
 {subtitle:Skeeter Davis}
 
 Why does the sun go on shining?
