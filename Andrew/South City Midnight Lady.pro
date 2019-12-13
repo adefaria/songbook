@@ -2,7 +2,10 @@
 {subtitle:Doobie Brothers}
 {metronome:114}
 
-Intro: G D C 4x
+{c:Intro}
+
+[G] [D] [C] 4x
+
 [G]Up all night I could not [C]sleep
 The [G]whiskey that I drank was [C]cheap
 With [G]shakin' hands I wait and I [C]lit up my last cigar[D]ette
