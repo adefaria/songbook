@@ -1,7 +1,7 @@
 {t:I Still Can't Say Goodbye}
 {st:Chet Atkins}
 {key:A}
-{capo:2}
+
 
 [G] [C] [D] [G] [C] [D]
 
