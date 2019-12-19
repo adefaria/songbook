@@ -43,7 +43,7 @@ And every town[Bbmaj7] [Cm7]
 All of his children[Bbmaj7] [Cm7]
 In every nation[Bbmaj7] [Cm7]
 There'll be [Bb]peace and good
-[Ab]Brotherhood[Bbmaj7] [C]
+[Ab]Brotherhood [C]
 Crystal blue persuasion[Bbmaj7] [Cm7]
 Yeah
 {musicpath:/storage/emulated/0/Songbook/Media/Crystal Blue Persuasion.mp3}

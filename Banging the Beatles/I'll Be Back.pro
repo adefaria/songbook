@@ -4,9 +4,9 @@
 [A]
 
 [Am]You know, if you [G]break my heart I'll [F]go
-But I'll be back [A]again
+But [E]I'll be back [A]again
 'Cause [Am]I told you [G]once before, "goo[F]dbye"
-But I came back [A]again
+But [E]I came back [A]again
 
 I love you [F#m]so, oh
 I'm the one who [Bm]wants you
