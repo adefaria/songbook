@@ -24,12 +24,14 @@ Why do these eyes of mine cry?
 Don't they know it's the end of the world?
 It ended when you said goodbye
 
-{c:Key change to B]
+[F#7]
 
-Why does my heart go on beating?
-Why do these eyes of mine cry?
-Don't they know it's the end of the world?
-It ended when you said goodbye
+{c:Key change to B}
 
-[C] [Em] [F] [G] [C]
+[B]Why does my heart [F#]go on beating?
+[G#m7]Why do these eyes [D#m]of mine cry?
+[E]Don't they know[C#m] it's the e[D#m]nd of the [G#7]world?
+It [C#m7]ended when you [F#]said good[B]bye
+
+[B] [D#m] [E] [F#] [C]
 {musicpath:/storage/emulated/0/SongBook/Media/The End of the World.mp3}
