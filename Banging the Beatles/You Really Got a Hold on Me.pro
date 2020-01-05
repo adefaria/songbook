@@ -6,7 +6,7 @@
 [A] [c#] [c#] [b] [a] [b] [F#]
 
 [A]I don't like you but I love you
-[F#]Seems that I'm always thinking of you
+[Fm#]Seems that I'm always thinking of you
 [A]Oh, oh, oh you treat me [D]badly
 I love you [Bm]madly
 

@@ -18,7 +18,7 @@ Of your heart-strings that play soft and low
 You know the [Dm7]night's [Am7]magic seems to [Dm7]whisper and [Am7]hush
 You know the [Dm7]soft mo[Am7]onlight seems to shine [Dm7]in your [E7#9]blush
 Can [Am7]I just hav[Bm7]e one m[Am7]ore moondan[Bm7]ce with y[Am7]ou, my [Bm7]love
-Can [Am7]I just mak[Bm7]e some m[Am7]ore roman[Bm7]ce with y]Am7]ou, my love [E7#9]
+Can [Am7]I just mak[Bm7]e some m[Am7]ore roman[Bm7]ce with y[Am7]ou, my love [E7#9]
 
 Well, I want to make love to you tonight
 I can't wait 'til the morning has come
