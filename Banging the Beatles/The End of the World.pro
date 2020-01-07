@@ -33,5 +33,5 @@ It ended when you said goodbye
 [E]Don't they know[C#m] it's the e[D#m]nd of the [G#7]world?
 It [C#m7]ended when you [F#]said good[B]bye
 
-[B] [D#m] [E] [F#] [C]
+[B] [D#m] [E] [F#] [B]
 {musicpath:/storage/emulated/0/SongBook/Media/The End of the World.mp3}

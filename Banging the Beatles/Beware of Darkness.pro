@@ -1,24 +1,25 @@
 {title:Beware of Darkness}
 {subtitle:George Harrison}
+[B] [A]
 
-Watch out now, take care
-Beware of falling swingers
-Dropping all around you
-The pain that often mingles
-In your fingertips
-Beware of darkness
+[G7]Watch out now, take care
+Beware of [G#m]falling [C#m]swingers [B]
+[A]Dropping all [E]around you [C#m]
+The [G#m]pain that often [C#m]mingles
+In your [D]fingertips [A]
+Beware of [B]darkness
 
 Watch out now, take care
 Beware of the thoughts that linger
 Winding up inside your head
 The hopelessness around you
 In the dead of night
-
 Beware of sadness
-It can hit you
-It can hurt you
-Make you sore and what is more
-That is not what you are here for
+
+It can [E]hit you
+It can [D]hurt you
+[A]Make you [F#m]sore and what is [Bm]more
+That is [G7]not what you are [B]here for [A]
 
 Watch out now, take care
 Beware of soft shoe shufflers
