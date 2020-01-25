@@ -33,8 +33,12 @@ And [G]all my foolish problems [C]seem to fade [G]away[C] [G]
 
 {c:Solo}
 
-[Gm7] [C] 3x
-[G] [C] 3x [D]
+[Gm7] [C] 4x
+
+[Gmaj7] [C] 4x
+
+[D]
+
 [G] [C] 3x [G]
 
 {c:Chorus}
