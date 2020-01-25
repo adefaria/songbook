@@ -25,7 +25,7 @@ It's so easy to find
 Just look to your soul (Look to your soul)
 And open your mind
 
-[Bm7] [A] [G] [D] [A] [G] [B] [E]
+[Bm7] [A] [G] [D] [A] [A] [G] [B] [E]
 
 [Amaj7]Crystal blue persua[Bm7]ion
 Mm-[Amaj7]hmm
