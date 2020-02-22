@@ -1,20 +1,20 @@
 {title:Crystal Blue Persuasion}
 {subtitle:Tommy James and The Shondells}\
 
-[Amaj7]  [Bm7] 3x
+[Gmaj7]  [Am7] 3x
 
-[Bm7] [A]
+[Am7] [G]
 
-Look over yonder[Amaj7] [Bm7]
-What do you see?[Amaj7] [Bm7]
-The sun is a-risin'[Amaj7] [Bm7]
-Most definitely[Amaj7] [Bm7]
-A new day is comin' [Amaj7](Whoo-hoo)[Bm7]
-People are changing'[Amaj7] [Bm7]
-Ain't it beautiful [Amaj7](Whoo-hoo)[Bm7]
-Crystal blue persuasion [Amaj7] [Bm7]
+Look over yonder[Gmaj7] [Am7]
+What do you see?[Gmaj7] [Am7]
+The sun is a-risin'[Gmaj7] [Am7]
+Most definitely[Gmaj7] [Am7]
+A new day is comin' [Gmaj7](Whoo-hoo)[Am7]
+People are changing'[Gmaj7] [Am7]
+Ain't it beautiful [Gmaj7](Whoo-hoo)[Am7]
+Crystal blue persuasion [Gmaj7] [Am7]
 
-[Bm7] [A]
+[Am7] [G]
 
 Better get ready
 Gonna see the light
@@ -25,25 +25,25 @@ It's so easy to find
 Just look to your soul (Look to your soul)
 And open your mind
 
-[Bm7] [A] [G] [D] [A] [A] [G] [B] [E]
+[Am7] [G] [F] [C] [G] [G] [F] [A] [D]
 
-[Amaj7]Crystal blue persua[Bm7]ion
-Mm-[Amaj7]hmm
-It's a [Bm7]new vibration
-[Amaj7]Crystal blue persu[Bm7]asion
-Crystal [D] [D]
-[A]Blue persuasion
+[Gmaj7]Crystal blue persua[Am7]ion
+Mm-[Gmaj7]hmm
+It's a [Am7]new vibration
+[Gmaj7]Crystal blue persu[Am7]asion
+Crystal [C] [C]
+[G]Blue persuasion
 
 {c:Key change to Bb}
 
-Maybe tommorrow[Bbmaj7] [Cm7]
-When he looks down[Bbmaj7] [Cm7]
-On every green field [Bbmaj7](Whoo-hoo)[Cm7]
-And every town[Bbmaj7] [Cm7]
-All of his children[Bbmaj7] [Cm7]
-In every nation[Bbmaj7] [Cm7]
-There'll be [Bb]peace and good
-[Ab]Brotherhood [C]
-Crystal blue persuasion[Bbmaj7] [Cm7]
+Maybe tommorrow[G#maj7] [A#m7]
+When he looks down[G#maj7] [A#m7]
+On every green field [G#maj7](Whoo-hoo)[A#m7]
+And every town[G#maj7] [A#m7]
+All of his children[G#maj7] [A#m7]
+In every nation[G#maj7] [A#m7]
+There'll be [G#]peace and good
+[F#]Brotherhood [A#m]
+Crystal blue persuasion[G#maj7] [A#m7]
 Yeah
 {musicpath:/storage/emulated/0/Songbook/Media/Crystal Blue Persuasion.mp3}
