@@ -1,5 +1,5 @@
 {title:You and Tequila}
-{subtitle:Kenny Chesney
+{subtitle:Kenny Chesney}
 {key:G}
 
 [G] [Cadd2]
