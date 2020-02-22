@@ -1,6 +1,8 @@
 {title:California Dreamin}
 {subtitle:Moma's and Papa's}
 
+{c:capo 2}
+
 {c:Intro}
 
 All the leaves are [Am]brown (all the [G]leaves are [F]brown)

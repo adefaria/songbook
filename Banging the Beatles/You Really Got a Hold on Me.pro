@@ -12,8 +12,8 @@ I love you [Bm]madly
 
 {c:Chorus}
 
-[E]You've really got a hold on me
-(You've really got a hold on me)
+[E]You've really got a hold on me[A]
+(You've really got a hold on me)[F#m]
 You've really got a hold on me
 (You've really got a hold on me) baby!
 
@@ -30,11 +30,11 @@ Is just [A]hold me, [A]hold me, [A]hold me, [E7]hold me
 
 [e] [e] [f#] [a] [b] [a] [f#]
 
-[A] [e] [c#] [e][f#] [e] [c#] [F#] [E] [A]
+[A] [e] [c#] [e][f#] [e] [c#] [F#m] [E] [A]
 
 Tighter
 
-[A] [e] [c#] [e][f#] [e] [c#] [F#] [E] [A]
+[A] [e] [c#] [e][f#] [e] [c#] [F#m] [E] [A]
 
 Tighter
 

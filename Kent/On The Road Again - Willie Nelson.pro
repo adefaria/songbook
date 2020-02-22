@@ -33,5 +33,12 @@ Pause
 [Chorus] 
 [E]Is on the road again, just can't wait to get on the road[G#7] again.
 The life I love is mak[F#m]in' music with my friends
-And I ca[A]n't wait to get on the ro[B]ad again. [E]And [A]I can't wait to get [B]on the road again.[E]
+And I ca[A]n't wait to get on the ro[B]ad again. 
+
+[E]On my couch again, I'm so glad to be on my co[G#7]uch again.
+six months on the road that I thought would never end.
+[A]I'm so glad to be [B]on my couch again.[E]
+[A]I'm so glad [B]to be on my couch again.[E]
 [A][B][E]
+
+{musicpath:/storage/emulated/0/songbook/media/{title}.mp3}
