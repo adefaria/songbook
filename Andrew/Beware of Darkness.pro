@@ -1,4 +1,4 @@
-{title:foo}
+{title:Don't Fear Darkness}
 {subtitle:George Harrison}
 [B] [A]
 
