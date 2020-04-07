@@ -35,5 +35,5 @@ And I know you won't let me down
 'Cause I'm alll-ready standing 
 I'm alll-ready standing
 Yes, I'm allll-ready standing,
-On the ground 
-{musicpath:/storage/emulated/0/Songbook/Media/Peaceful, Easy Feeling.mp3}
+On the ground
+{musicpath:/storage/emulated/0/SongBook/Media/Peaceful, Easy Feeling.mp3}

@@ -1,6 +1,5 @@
 {title:Landslide}
 {subtitle:Fleetwood Mac}
-{zoom-android-A1046:1.2141694}
 {musicpath:/storage/emulated/0/SongBook/Media/Landslide.mp3}
 
 [C] [G/B] [Am] [G/B]
@@ -41,3 +40,4 @@ Well the landslide will bring you down
 And If you see my reflection in the snow covered hills 
 Well the landslide will bring it down 
 Oh oh, the landslide will bring it down
+{musicpath:/storage/emulated/0/Songbook/Media/Landslide.mp3}

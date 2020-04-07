@@ -39,4 +39,5 @@ Our nation turns its lonely eyes to you.
 What's that you say, Mrs. Robinson.
 Jolting Joe has left and gone away,
 Hey, hey, hey
-Hey, hey, hey{musicpath:/storage/emulated/0/Songbook/Media/Mrs. Robinson.mp3}
+Hey, hey, hey
+{musicpath:/storage/emulated/0/SongBook/Media/Mrs. Robinson.mp3}

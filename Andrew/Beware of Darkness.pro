@@ -35,4 +35,4 @@ While Weeping Atlas Cedars
 They just want to grow, grow and grow
 Beware of darkness
 
-{musicpath:/sdcard/SongBook/Media/Beware of Darkness.mp3}
+{musicpath:/storage/emulated/0/SongBook/Media/Beware of Darkness.mp3}
