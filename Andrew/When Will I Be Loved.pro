@@ -1,5 +1,5 @@
 {title:When Will I Be Loved}
-{subtitle:Phil Everal}
+{subtitle:Phil Everly}
 
 [E]I've been cheated
 Been mistreated
