@@ -33,4 +33,5 @@ I'm a cowboy, I got the night on my side
 I'm wanted dead or alive
 And I ride, dead or alive
 I still drive, dead or alive
-Dead or alive (4x){musicpath:/storage/emulated/0/Songbook/Media/Wanted Dead or Alive.mp3}
+Dead or alive (4x)
+{musicpath:/storage/emulated/0/SongBook/Media/Wanted Dead or Alive.mp3}

@@ -32,6 +32,6 @@ Good old Sunday mornin', bells are ringin' everywhere
 Goin' to Carolina, it won't be long and I'll be there
 You're my blue sky, you're my sunny day
 Lord, you know it makes me high
-When you turn your love my way
+When you turn your love my way 
 Turn your love my way, yeah, yeah
 {musicpath:/storage/emulated/0/Songbook/Media/Blue Sky.mp3}
