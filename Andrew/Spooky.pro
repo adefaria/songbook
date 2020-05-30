@@ -1,4 +1,4 @@
-{title: Spooky}
+{title:Spooky}
 {subtitle:Atlanta Rhythm Section}
 {Key:Em}
 
