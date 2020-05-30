@@ -1,5 +1,5 @@
 {title:When Will I Be Loved}
-{subtitle:Phil Everly}
+{subtitle:Linda Ronstadt}
 
 [E]I've been cheated
 Been mistreated
