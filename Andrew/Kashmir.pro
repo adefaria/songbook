@@ -1,5 +1,5 @@
 {t:Kashmir}
-{st:Led Zepplin}
+{st:Led Zeppelin}
 {key:D}
 {tuning:D A D G A D}
 
