@@ -49,8 +49,8 @@ It [G]All [A]feels [Bm]right
 [G]There's noth[A]ing to [Bm]fear
 [E7]I'm in good hands
 I'll [G]be waiting [Gadd2] [G] [Gadd2]
-Till [G]you get [D]here [G] [D/F#] [Em7] [D/F#]
-[G] [D/F#] [G] [D/F#] [G] [D/F#]
+Till [G]you get [D]here [G] [D/F#] [Em7]
+[D/F#] [G] [D/F#] [G]
 
 [G]I'll miss your [A]caring love and [G]tender[D]ness
 [G]You'll never [A]know much it [Bm]meant
