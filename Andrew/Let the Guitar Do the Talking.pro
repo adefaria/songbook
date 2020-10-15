@@ -2,27 +2,29 @@
 {subtitle:Joe Robinson}
 {key:Am}
 
+[Am/E] [Am/C] [Dm/A] [E7]
+
 {c:First Verse}
 
-I saw her from across the room
-And I could not look away
-But I knew that all too song
-I'd get on the stage and play
-She was paying me no mind
-Just laughing with her friends
-But I knew I had to make my move
-Or I might never see her again
+[Am]I saw her from across the room[Bdim7]
+[Fmaj7]And I could not look away[E7]
+[Am]But I knew that all too [Bdim7]soon
+[Fmaj7]I'd get on the stage and play[E7]
+[Am]She was paying me no mind[Bdim7]
+[Fmaj7]Just laughing with her f[E7]riends
+[F]But I knew I [G]had to make my move[E7/G#]
+[Am]Or I might ne[Fmaj7]ver see her a[E7]gain
 
 {c:Chorus}
 
-So I let the guitar do the talking
-Because it knew just what to say
-With a smooth melody and the bass a walkin
-She started walking my way
-I drew her close to me with the harmony
-She began to dance
-I let the guitar do the talkin
-I knew it was my only chance
+So I let the [Dm]guitar [Am]do the talk[E7/G#]ing
+[Fmaj7]Because it knew just what to [E7]say
+With a [Dm]smooth melody and the bass a [Am]walkin
+[Fmaj7]She started walking my [E7]way
+I drew [Dm]her close to [Am]me with the har[E7]mony [Am]
+[Fmaj7]And she began to dan[E7]ce
+I let the [Dm]guitar [C7]do the talki[G/B]n
+[C/E]I knew [F]it was my [E]only chance[Am]
 
 {c:2nd Verse}
 
