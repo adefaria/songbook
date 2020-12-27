@@ -18,7 +18,7 @@
 [F]I'm just [G]sitting here watching the [C]wheels go round and [Am]round
 [F]I really [Am]love to watch them [Dm]roll [Dm/C]
 [G]No longer r[F]iding on the [Am]merry-go-round [Am/G]
-[D/F#] [F]I just [Fm]had to let it [C]go
+[D/F#] [F]I just [Ab]had to let it [C]go
 
 [Verse 2]
 People asking questions lost in confusion
@@ -30,10 +30,4 @@ I tell them there's no hurry
 I'm just sitting here doing time
 
 [Chorus]
-I'm just sitting here watching the wheels go round and round
-I really love to watch them roll
-No longer riding on the merry-go-round
-[F]I just h[Ab]ad to let it [C]go [c] [b] [a] [D/F#]
-[F]I just h[Ab]ad to let it [C]go [c] [b] [a] [D/F#]
-[F]I just h[Ab]ad to let it [C]go [c] [b] [a] [D/F#]
 {musicpath:/storage/emulated/0/SongBook/Media/Watching the Wheels.mp3}
