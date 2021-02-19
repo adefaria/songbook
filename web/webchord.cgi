@@ -11,7 +11,7 @@
 # 1998-07-20 Version 1.0
 # 2003-08-03 Version 1.1 Uses stylesheets
 # 2014-02-05 Added things particular to my implementation of Songbook at
-#            http://defaria.com/songbook
+#            https://defaria.com/songbook
 use strict;
 use warnings;
 

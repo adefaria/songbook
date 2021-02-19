@@ -7,7 +7,7 @@
   <meta name="verify-v1" content="4HQ9/7f2knFu9nL7tb3s4TPbozxnE2H7LPRj9txmtbk=" />
   <title>Poway Folk Circle: Christmas Songs</title>
   <!--<link rel="stylesheet" type="text/css" media="screen" href="/css/Plain.css">-->
-  <link rel="SHORTCUT ICON" href="http://defaria.com/favicon.ico" type="image/png">
+  <link rel="SHORTCUT ICON" href="https://defaria.com/favicon.ico" type="image/png">
 
   <!-- Google Analytics -->
   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
