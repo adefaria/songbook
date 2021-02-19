@@ -26,19 +26,6 @@ my $debug        = param ('debug');
 my $infile       = param ('chordpro');
 my $title;
 
-unless (-f $infile) {
-  $infile = '/opt/songbook/Andrew/' . $infile;
-
-  unless (-f $infile) {
-    $infile = '/web/xmas/' . param ('chordpro');
-
-    unless (-f $infile) {
-      print "Unable to open $infile";
-      exit 1;
-    } # unless
-  } # unless
-} # unless
-
 sub debug ($) {
   my ($msg) = @_;
 
@@ -254,8 +241,24 @@ unless ($infile) {
   error "No chordpro parameter";
 } # unless
 
+my ($infile, $chordpro);
+
+$chordpro = param('chordpro');
+
+if (-f $chordpro) {
+  $infile = $chordpro;
+} elsif (-f "/opt/songbook/Andrew/$chordpro") {
+  $infile = "/opt/songbook/Andrew/$chordpro";
+} elsif (-f "/web/xmas/$chordpro") {
+  $infile = "/web/xmas/$chordpro";
+} elsif (-f "/opt/songbook/Banging the Beatles/$chordpro") {
+  $infile = "/opt/songbook/Banging the Beatles/$chordpro";
+} else {
+  $infile = $chordpro;
+} # if
+
 open my $file, '<', $infile
-  or error "Unable to open file $infile - $!";
+  or error "Unable to open file \"$infile\" - $!";
 
 {
   local $/;
@@ -266,6 +269,6 @@ $title = getTitle $infile;
 
 chopro2html ($chopro, $infile);
 
-print end_html();
+print end_html;
 
 exit;
