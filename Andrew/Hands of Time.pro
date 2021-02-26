@@ -22,10 +22,15 @@ Shine a light across the hands of
 {c:Chorus}
 
 Time,
+[ You are is all that I want ]
 It takes me so far away from you
+[ And I'll be with you ]
 I know that I,
+[ Are I'll be my soul ]
 Can never see the light that comes from you
+[ will inside ]
 It feels electric
+ [ feel electric ]
 I think it's magic in my soul
 
 [A] [F#m]
