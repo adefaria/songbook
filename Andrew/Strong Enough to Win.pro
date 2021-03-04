@@ -1,4 +1,4 @@
-{title:Strong Enough To Win}
+{title:Strong Enough to Win}
 {subtitle:Mike Fraser}
 {key:A}
 
