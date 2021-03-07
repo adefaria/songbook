@@ -46,4 +46,4 @@ There'll be [G#]peace and good
 [F#]Brotherhood [A#m]
 Crystal blue persuasion[G#maj7] [A#m7]
 Yeah
-{musicpath:/storage/emulated/0/Songbook/Media/Crystal Blue Persuasion.mp3}
+{musicpath:/storage/emulated/0/Music/Crystal Blue Persuasion.mp3}

@@ -32,4 +32,4 @@ Yeah, she could drag me over the rainbow, send me away
 
 {chorus}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Down by the River.mp3}
+{musicpath:/storage/emulated/0/Music/Down by the River.mp3}

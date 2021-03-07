@@ -47,5 +47,5 @@ Workin' for a livin', livin' and a-workin'
 [G]Workin' for a livin', [D]livin' and a-workin' [A]
 N.C. Whoa! 
 [Outro] Over Intro/Verse riff with harmonica solo
-{musicpath:/storage/emulated/0/Songbook/Media/Working For a Livin.mp3}
+{musicpath:/storage/emulated/0/Music/Working For a Livin.mp3}
 

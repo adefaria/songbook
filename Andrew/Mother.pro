@@ -38,4 +38,4 @@ You'll always be baby to me.
 
 Mother, did it need to be so high?
 
-{musicpath:/storage/emulated/0/Songbook/Media/Mother.mp3}
+{musicpath:/storage/emulated/0/Music/Mother.mp3}

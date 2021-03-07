@@ -40,4 +40,4 @@ It c[Em]alls me on and on [A]across the universe
 
 {c:Chorus}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Across the Universe.mp3}
+{musicpath:/storage/emulated/0/Music/Across the Universe.mp3}

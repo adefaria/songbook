@@ -27,4 +27,4 @@ Aw, come on Joe, you can always change your name
 Thanks a lot son, just the same
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Ventura Highway.mp3}
+{musicpath:/storage/emulated/0/Music/Ventura Highway.mp3}

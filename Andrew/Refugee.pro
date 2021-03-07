@@ -47,4 +47,4 @@ No you don't have to live like a refugee
 You don't have to live like a refugee
 (Don't have to live like a refugee)
 
-{musicpath:/storage/emulated/0/Songbook/Media/Refugee.mp3}
+{musicpath:/storage/emulated/0/Music/Refugee.mp3}

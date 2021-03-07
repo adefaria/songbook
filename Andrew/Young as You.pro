@@ -37,4 +37,4 @@ Alone I will look beyond my heart
 
 {c:Chorus}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Young as You.mp3}
+{musicpath:/storage/emulated/0/Music/Young as You.mp3}

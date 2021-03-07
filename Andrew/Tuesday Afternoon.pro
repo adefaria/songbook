@@ -34,4 +34,4 @@ Something, calls to me,
 The trees are drawing me near, I've got to find out why?
 Those gentle voices I hear, explain it all with a sigh.
 
-{musicpath:/storage/emulated/0/Songbook/Media/Tuesday Afternoon.mp3}
+{musicpath:/storage/emulated/0/Music/Tuesday Afternoon.mp3}

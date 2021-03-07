@@ -45,4 +45,4 @@ By the hand, take me by the hand pretty mama
 Come and dance with your daddy all night long
 I want to honky tonk, honky tonk, honky tonk
 With you all night long
-{musicpath:/storage/emulated/0/SongBook/Media/Black Water.mp3}
+{musicpath:/storage/emulated/0/Music/Black Water.mp3}

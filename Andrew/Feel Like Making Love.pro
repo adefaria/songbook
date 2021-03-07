@@ -50,4 +50,4 @@ Till I'm dying
 On the way
 
 {c: Repeat chorus many times (with  solo)}
-{musicpath:/storage/emulated/0/Songbook/Media/Feel Like Making Love.mp3}
+{musicpath:/storage/emulated/0/Music/Feel Like Making Love.mp3}

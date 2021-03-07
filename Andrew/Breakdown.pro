@@ -27,4 +27,4 @@ Breakdown now I standin' here can't you see
 Breakdown, it's all right
 It's all right
 It's all right
-{musicpath:/storage/emulated/0/Songbook/Media/Breakdown.mp3}
+{musicpath:/storage/emulated/0/Music/Breakdown.mp3}

@@ -48,4 +48,4 @@ La, la, la, la in the moonlight
 On a magic night
 Can't I just have one more dance with you my love
 
-{musicpath:/storage/emulated/0/Songbook/Media/Moondance.mp3}
+{musicpath:/storage/emulated/0/Music/Moondance.mp3}

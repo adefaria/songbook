@@ -34,4 +34,4 @@ When will I be loved
 When will I be loved
 Tell me when will I be loved
 
-{musicpath:/storage/emulated/0/Songbook/Media/All You Need Is Love.mp3}
+{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}

@@ -46,4 +46,4 @@ You stole my heart but I love you anyway
 Maggie I wish I'd never seen your face
 I'll get on back home one of these days
 
-{musicpath:/storage/emulated/0/Songbook/Media/Maggie May.mp3}
+{musicpath:/storage/emulated/0/Music/Maggie May.mp3}

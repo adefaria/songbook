@@ -37,4 +37,4 @@ Yes, I'm gonna break them in two
 And show you what your lovin' man can do
 Until then I'll cry instead
 
-{musicpath:/storage/emulated/0/SongBook/Media/I'll Cry Instead.mp3}
+{musicpath:/storage/emulated/0/Music/I'll Cry Instead.mp3}

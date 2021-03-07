@@ -38,4 +38,4 @@ And the crowd is growing [D]bigger
 And I got to let 'em fly 
 
 {c:chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Listen to the Music.mp3}
+{musicpath:/storage/emulated/0/Music/Listen to the Music.mp3}

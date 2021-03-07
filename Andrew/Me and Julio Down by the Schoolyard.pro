@@ -50,4 +50,4 @@ See you, me and Julio
 Down by the schoolyard
 See you, me and Julio
 Down by the schoolyard
-{musicpath:/storage/emulated/0/Songbook/Media/Me and Julio Down by the Schoolyard.mp3}
+{musicpath:/storage/emulated/0/Music/Me and Julio Down by the Schoolyard.mp3}

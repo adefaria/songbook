@@ -21,4 +21,4 @@ Cause [E]nothing can stop us now[Amaj7]
 [F#m]Only the good times [B]left
 [A]Nothing can [B]stop our love[C#m]
 Except [A]terminal illness or [B]sudden accidental death
-{musicpath:/storage/emulated/0/Songbook/Media/Nothing Can Stop Us Now.mp3}
+{musicpath:/storage/emulated/0/Music/Nothing Can Stop Us Now.mp3}

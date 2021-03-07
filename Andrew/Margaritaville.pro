@@ -43,4 +43,4 @@ but I [A]know, it's my own damn [D]fault.  [D7] Yes and
 and I [A]know, it's my own damn [D]fault.
 {eoc}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Margaritaville.mp3}
+{musicpath:/storage/emulated/0/Music/Margaritaville.mp3}

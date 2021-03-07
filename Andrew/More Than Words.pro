@@ -62,4 +62,4 @@ Just by saying I love you
 {eoc}
 
 More than words
-{musicpath:/storage/emulated/0/Songbook/Media/More Than Words.mp3}
+{musicpath:/storage/emulated/0/Music/More Than Words.mp3}

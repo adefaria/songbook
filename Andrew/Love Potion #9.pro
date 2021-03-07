@@ -34,4 +34,4 @@ Love potion number nine
 Love Potion number nine
 Love Potion number nine
 
-{musicpath:/storage/emulated/0/Songbook/Media/Love Potion #9.mp3}
+{musicpath:/storage/emulated/0/Music/Love Potion #9.mp3}

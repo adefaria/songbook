@@ -63,4 +63,4 @@ We are the Sultans of Swing
 
 {c:Lead 2}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Sultans of Swing.mp3}
+{musicpath:/storage/emulated/0/Music/Sultans of Swing.mp3}

@@ -39,4 +39,4 @@ But I'll be back again
 
 [A] [Am] [A] [Am] [A]
 
-{musicpath:/storage/emulated/0/Songbook/Media/I'll Be Back.mp3}
+{musicpath:/storage/emulated/0/Music/I'll Be Back.mp3}

@@ -29,5 +29,5 @@ And [Bm]I can't tell you [A/B]why. No no baby,
 [Gmaj7]I can't tell you [F#m7]why no no no. 
 
 Final Solo: [Gmaj7] [F#m7] Repeat and Fade 
-{musicpath:/storage/emulated/0/Songbook/Media/I Can't Tell You Why.mp3}
+{musicpath:/storage/emulated/0/Music/I Can't Tell You Why.mp3}
 

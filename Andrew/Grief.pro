@@ -45,4 +45,4 @@ I need to let you know
 
 {c:Chorus 2x}
 
-{musicpath:/storage/emulated/0/SongBook/Media/Grief.mp3}
+{musicpath:/storage/emulated/0/Music/Grief.mp3}

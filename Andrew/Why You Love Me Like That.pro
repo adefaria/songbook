@@ -74,4 +74,4 @@ Say all the things you need to say
 Thought we were going all the way 
 Play all the games you want to play 
 Sooner we'll stay away
-{musicpath:/storage/emulated/0/Songbook/Media/Why You Love Me Like That.mp3}
+{musicpath:/storage/emulated/0/Music/Why You Love Me Like That.mp3}

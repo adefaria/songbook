@@ -4,4 +4,4 @@
 
 {c:Instrumental}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Tamacun.mp3}
+{musicpath:/storage/emulated/0/Music/Tamacun.mp3}

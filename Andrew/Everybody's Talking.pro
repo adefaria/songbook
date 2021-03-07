@@ -31,4 +31,4 @@ I won't let you leave my love behind
 No, I won't let you leave
 Wah, wah
 I won't let you leave my love behind
-{musicpath:/storage/emulated/0/Songbook/Media/Everybody's Talking.mp3}
+{musicpath:/storage/emulated/0/Music/Everybody's Talking.mp3}

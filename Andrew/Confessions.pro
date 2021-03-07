@@ -73,4 +73,4 @@ We're [Bm]just fucki[C#m]ng m[Eb]onkeys [D#dim7]in sh[E]oes
 And I will always love boobs
 I will always love boobs
 
-{musicpath:/storage/emulated/0/Songbook/Media/Confessions.mp3}
+{musicpath:/storage/emulated/0/Music/Confessions.mp3}

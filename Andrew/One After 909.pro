@@ -45,4 +45,4 @@ I said I'm trav'ling on one after nine-o-nine.
 
 I said I'm traveling on one
 After nine-o-nine
-{musicpath:/storage/emulated/0/Songbook/Media/One After 909.mp3}
+{musicpath:/storage/emulated/0/Music/One After 909.mp3}

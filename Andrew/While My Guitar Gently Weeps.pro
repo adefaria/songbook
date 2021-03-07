@@ -37,4 +37,4 @@ Oh, oh, oh, oh
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, oh, ooh
 
-{musicpath:/storage/emulated/0/Songbook/Media/While My Guitar Gently Weeps.mp3}
+{musicpath:/storage/emulated/0/Music/While My Guitar Gently Weeps.mp3}

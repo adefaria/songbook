@@ -39,4 +39,4 @@ Sniffing for tidbits like you
 On the ground... Ah....  Ah....
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Goodbye Yellow Brick Road.mp3}
+{musicpath:/storage/emulated/0/Music/Goodbye Yellow Brick Road.mp3}

@@ -50,4 +50,4 @@ Got no troubles, got no time, and everything is fine
 [Am]It's all mine...
 Mine, mine, mine, mine, mine, mine
 
-{musicpath:/storage/emulated/0/SongBook/Media/Last Man on Earth.mp3}
+{musicpath:/storage/emulated/0/Music/Last Man on Earth.mp3}

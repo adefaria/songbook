@@ -50,4 +50,4 @@ Another little baby child is born
 In the ghetto
 
 {ns}
-{musicpath:/storage/emulated/0/Songbook/Media/In the Ghetto.mp3}
+{musicpath:/storage/emulated/0/Music/In the Ghetto.mp3}

@@ -30,4 +30,4 @@ I tell them there's no hurry
 I'm just sitting here doing time
 
 [Chorus]
-{musicpath:/storage/emulated/0/SongBook/Media/Watching the Wheels.mp3}
+{musicpath:/storage/emulated/0/Music/Watching the Wheels.mp3}

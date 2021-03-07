@@ -36,4 +36,4 @@ With the echoes from the amplifiers ringin' in your head
 You smoke the day's last cigarette, rememberin' what she said 
 
 {c:chorus 2x}
-{musicpath:/storage/emulated/0/Songbook/Media/Turn the Page.mp3}
+{musicpath:/storage/emulated/0/Music/Turn the Page.mp3}
