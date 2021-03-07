@@ -56,4 +56,4 @@ Hold me
 {c:Outro}
 You've really got a hold on me
 You've really got a hold on me
-{musicpath:/storage/emulated/0/Songbook/Media/You Really Got a Hold on Me.mp3}
+{musicpath:/storage/emulated/0/Music/You Really Got a Hold on Me.mp3}

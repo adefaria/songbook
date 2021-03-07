@@ -35,4 +35,4 @@ Just to [C]make this[B/G] dock my [A7]home
 
 {c:Chorus}
 
-{c:Ad lib G G G E7}{musicpath:/storage/emulated/0/Songbook/Media/Sitting on the Dock of the Bay.mp3}
+{c:Ad lib G G G E7}{musicpath:/storage/emulated/0/Music/Sitting on the Dock of the Bay.mp3}

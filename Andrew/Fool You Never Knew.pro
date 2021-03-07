@@ -36,4 +36,4 @@ I'm just a fool - You know I'm a fool
 I'm just a fool - Don't be so cruel
 
 {c:Vamp}
-{musicpath:/storage/emulated/0/Songbook/Media/Fool you never knew.mp3}
+{musicpath:/storage/emulated/0/Music/Fool you never knew.mp3}

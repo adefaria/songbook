@@ -46,4 +46,4 @@ And [Em]we can't [Bm]build our dreams
 {c:2nd verse}
 
 {c:1st verse} Repeat and fade
-{musicpath:/storage/emulated/0/Songbook/Media/Suspicous Minds.mp3}
+{musicpath:/storage/emulated/0/Music/Suspicous Minds.mp3}

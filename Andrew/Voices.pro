@@ -44,4 +44,4 @@ Doesn't mean I am a man that is insane
 See I just want the headaches to be gone
 I just want the headaches to be gone
  
-{musicpath:/storage/emulated/0/Songbook/Media/Voices.mp3}
+{musicpath:/storage/emulated/0/Music/Voices.mp3}

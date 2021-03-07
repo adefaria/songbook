@@ -18,4 +18,4 @@ You are the reason I've been waiting all these years
 Somebody holds the key
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Can't Find My Way Home.mp3}
+{musicpath:/storage/emulated/0/Music/Can't Find My Way Home.mp3}

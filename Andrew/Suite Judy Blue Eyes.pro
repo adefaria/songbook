@@ -95,4 +95,4 @@ La reina de la Mar Caribe
 Quiero slo visitarla all
 Y que triste que no puedo. Vaya!
 O Va! O Va!
-{musicpath:/storage/emulated/0/Songbook/Media/Suite Judy Blue Eyes.mp3}
+{musicpath:/storage/emulated/0/Music/Suite Judy Blue Eyes.mp3}

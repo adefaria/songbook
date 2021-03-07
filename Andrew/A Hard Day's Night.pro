@@ -53,4 +53,4 @@ But when I get home to you I find the things that you do
 Will make me feel alright
 You know I feel alright
 You know I feel alright
-{musicpath:/storage/emulated/0/Songbook/Media/A Hard Day's Night.mp3}
+{musicpath:/storage/emulated/0/Music/A Hard Day's Night.mp3}

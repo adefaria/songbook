@@ -61,4 +61,4 @@ No one knows what it's like
 To be the bad man
 To be the sad man
 Behind blue eyes
-{musicpath:/storage/emulated/0/Songbook/Media/Behind Blue Eyes.mp3}
+{musicpath:/storage/emulated/0/Music/Behind Blue Eyes.mp3}

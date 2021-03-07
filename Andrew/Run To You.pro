@@ -43,4 +43,4 @@ But it's so damn easy makin' love to you
 {c:Chorus chords}
 
 {c:Chorus repeat and fade}
-{musicpath:/storage/emulated/0/SongBook/Media/Run To You.mp3}
+{musicpath:/storage/emulated/0/Music/Run To You.mp3}

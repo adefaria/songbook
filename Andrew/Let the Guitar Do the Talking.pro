@@ -66,4 +66,4 @@ And I could not look away
 But I knew that all too song
 I'd get on the stage and play
 
-{musicpath:/storage/emulated/0/SongBook/Media/Let the Guitar Do the Talking.mp3}
+{musicpath:/storage/emulated/0/Music/Let the Guitar Do the Talking.mp3}

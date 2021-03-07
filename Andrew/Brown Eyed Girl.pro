@@ -30,4 +30,4 @@ Making love in the green grass, behind the stadium with you
 My brown eyed girl, you my brown eyed girl
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Brown Eyed Girl.mp3}
+{musicpath:/storage/emulated/0/Music/Brown Eyed Girl.mp3}

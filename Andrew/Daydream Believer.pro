@@ -33,4 +33,4 @@ But how much, baby, do we really need?
 
 {c:Chorus repeat and fade}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Daydream Believer.mp3}
+{musicpath:/storage/emulated/0/Music/Daydream Believer.mp3}

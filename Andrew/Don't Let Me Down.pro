@@ -57,4 +57,4 @@ Don't let me down
 
 {c:Keyboard solo}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Don't Let Me Down.mp3}
+{musicpath:/storage/emulated/0/Music/Don't Let Me Down.mp3}

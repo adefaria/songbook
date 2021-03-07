@@ -61,4 +61,4 @@ If I ever lose my faith
 If I ever lose my faith
 If I ever lose my faith 
 In you
-{musicpath:/storage/emulated/0/Songbook/Media/If I Ever Lose My Faith In You.mp3}
+{musicpath:/storage/emulated/0/Music/If I Ever Lose My Faith In You.mp3}

@@ -36,4 +36,4 @@ Swore I wouldn't go back there again
 
 {c:Chorus}
 
-{musicpath:/storage/emulated/0/Songbook/Media/You and Tequila.mp3}
+{musicpath:/storage/emulated/0/Music/You and Tequila.mp3}

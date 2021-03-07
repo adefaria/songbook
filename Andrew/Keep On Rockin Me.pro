@@ -63,4 +63,4 @@ Keep on a rockin me baby
 
 {c:Repeat until fade.}
 
-{musicpath:/storage/emulated/0/Songbook/Media/Keep On Rockin Me.mp3}
+{musicpath:/storage/emulated/0/Music/Keep On Rockin Me.mp3}

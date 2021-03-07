@@ -68,4 +68,4 @@ Till [G]you get [D]here [G] [D/F#] [Em7]
 
 [G] [D/F#] [Em7] [D/F#]
 
-{musicpath:/storage/emulated/0/SongBook/Media/I Saw Heaven Tonight.mp3}
+{musicpath:/storage/emulated/0/Music/I Saw Heaven Tonight.mp3}

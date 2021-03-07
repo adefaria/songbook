@@ -34,5 +34,5 @@ Baby, love is kinda crazy with a spooky little girl like you … Ah, spooky, yea
 [Guitar Solo] Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Bdim7 Fm7 Bb13 Fm7 
 [Ending] Cm7 Cm7 Cm7 C
 
-{musicpath:/storage/emulated/0/Songbook/Media/Spooky.mp3}
+{musicpath:/storage/emulated/0/Music/Spooky.mp3}
 

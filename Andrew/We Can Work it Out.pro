@@ -35,4 +35,4 @@ Only time will tell if I am right or I am wrong.
 While you see it your way
 There's a chance that we may fall apart before too long.
 We can work it out, we can work it out.
-{musicpath:/storage/emulated/0/Songbook/Media/We Can Work it Out.mp3}
+{musicpath:/storage/emulated/0/Music/We Can Work it Out.mp3}

@@ -29,4 +29,4 @@ This bird had flown
 So I lit a fire
 Isn't it good Norwegian wood?
 
-{musicpath:/storage/emulated/0/Songbook/Media/Norwegian Wood.mp3}
+{musicpath:/storage/emulated/0/Music/Norwegian Wood.mp3}

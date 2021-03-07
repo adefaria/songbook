@@ -25,4 +25,4 @@ She said love, Lord above, Now you're trying to trick me in love
 {c:Verse 2}
 
 {c:Chorus: 4x}
-{musicpath:/storage/emulated/0/Songbook/Media/All Right Now.mp3}
+{musicpath:/storage/emulated/0/Music/All Right Now.mp3}

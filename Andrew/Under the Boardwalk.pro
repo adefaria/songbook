@@ -34,4 +34,4 @@ On a blanket with my baby is where I'll be
 (Under the boardwalk) people walking above
 (Under the boardwalk) we'll be falling in love
 Under the boardwalk, boardwalk!
-{musicpath:/storage/emulated/0/Songbook/Media/Under the Boardwalk.mp3}
+{musicpath:/storage/emulated/0/Music/Under the Boardwalk.mp3}

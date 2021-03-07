@@ -34,4 +34,4 @@ I'm wanted dead or alive
 And I ride, dead or alive
 I still drive, dead or alive
 Dead or alive (4x)
-{musicpath:/storage/emulated/0/SongBook/Media/Wanted Dead or Alive.mp3}
+{musicpath:/storage/emulated/0/Music/Wanted Dead or Alive.mp3}

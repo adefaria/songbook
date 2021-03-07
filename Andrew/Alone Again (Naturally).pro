@@ -83,4 +83,4 @@ I cried and cried all day
 
 Alone again, naturally
 Alone again, naturally
-{musicpath:/storage/emulated/0/SongBook/Media/Alone Again (Naturally).mp3}
+{musicpath:/storage/emulated/0/Music/Alone Again (Naturally).mp3}

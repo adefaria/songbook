@@ -43,4 +43,4 @@ I got to be with her again oh!
 {c:Lead over the Chorus with odd ending}
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Songbook/Media/Seems like a dream.mp3}
+{musicpath:/storage/emulated/0/Music/Seems like a dream.mp3}

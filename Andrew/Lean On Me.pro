@@ -46,4 +46,4 @@ Somebody to lean on
 
 Lean on me...
 
-{musicpath:/storage/emulated/0/Songbook/Media/Lean On Me.mp3}
+{musicpath:/storage/emulated/0/Music/Lean On Me.mp3}

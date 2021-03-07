@@ -62,4 +62,4 @@ There's a [E]new kid in town, (hmmmm)
 There's a [C#m]new kid in town, (hmmmm)
 
 [E]
-{musicpath:/storage/emulated/0/Songbook/Media/New Kid in Town.mp3}
+{musicpath:/storage/emulated/0/Music/New Kid in Town.mp3}

@@ -34,4 +34,4 @@ It's all over for that old heap
 She needs a whole lot of more than beauty sleep
 If you want to get you one that goes
 You don't wanna get you one of those
-{musicpath:/storage/emulated/0/Songbook/Media/You Don't Wanna Get You One of Those.mp3}
+{musicpath:/storage/emulated/0/Music/You Don't Wanna Get You One of Those.mp3}

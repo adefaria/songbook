@@ -73,4 +73,4 @@ You get the best of my love (the best of my love)
 
 Oh, sweet darlin', (Hmmm)
 You get the best of my love (the best of my love)
-{musicpath:/storage/emulated/0/Songbook/Media/Best of My Love.mp3}
+{musicpath:/storage/emulated/0/Music/Best of My Love.mp3}

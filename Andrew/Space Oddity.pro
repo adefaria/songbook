@@ -47,4 +47,4 @@ Far above the Moon
 Planet Earth is blue
 And there's nothing I can do."
 
-{musicpath:/storage/emulated/0/Songbook/Media/Space Oddity.mp3}
+{musicpath:/storage/emulated/0/Music/Space Oddity.mp3}

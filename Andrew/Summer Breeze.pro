@@ -56,5 +56,5 @@ and you're [Am7]waiting there not a [Bm7]care in the world[Amaj7/B][A6/B]
 [Am7]Actin' funny, but I [Bm7]don't know why
 [Am7]'Scuse me while I kiss the sky[G]
 
-{musicpath:/storage/emulated/0/Songbook/Media/Summer Breeze.mp3}
+{musicpath:/storage/emulated/0/Music/Summer Breeze.mp3}
 

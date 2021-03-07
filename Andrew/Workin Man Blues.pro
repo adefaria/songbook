@@ -34,4 +34,4 @@ Sing a little bit of these working man blues
 
 Yeah drink a little beer in a tavern,
 Cry a little bit of these working man blues
-{musicpath:/storage/emulated/0/Songbook/Media/Workin Man Blues.mp3}
+{musicpath:/storage/emulated/0/Music/Workin Man Blues.mp3}

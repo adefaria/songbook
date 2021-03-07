@@ -25,4 +25,4 @@ A[E7]nyway, yeah!
 {c:Chorus}
 
 {c:First verse}
-{musicpath:/storage/emulated/0/Songbook/Media/The Letter.mp3}
+{musicpath:/storage/emulated/0/Music/The Letter.mp3}

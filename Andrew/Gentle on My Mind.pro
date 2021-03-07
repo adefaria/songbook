@@ -49,4 +49,4 @@ That you're waitin' from the back roads
 By the rivers of my memory
 Ever smilin', ever gentle on my mind
 
-{musicpath:/storage/emulated/0/Songbook/Media/Gentle on My Mind.mp3}
+{musicpath:/storage/emulated/0/Music/Gentle on My Mind.mp3}
