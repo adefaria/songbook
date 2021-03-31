@@ -1,4 +1,4 @@
-{title:Stay Cat Strut}
+{title:Stray Cat Strut}
 {subtitle:Stray Cats}
 {key:Cm}
 
