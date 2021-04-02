@@ -21,17 +21,17 @@ Shine a light across the hands of
 
 {c:Chorus}
 
-Time,
+[A]Time,
 [ You are is all that I want ]
-It takes me so far away from you
+It [F#m]takes me so [D]far away from [E]you
 [ And I'll be with you ]
-I know that I,
+I know that [A]I,
 [ Are I'll be my soul ]
-Can never see the light that comes from you
+Can [F#m]never see the [D]light that comes from [E]you
 [ will inside ]
-It feels electric
+It feels [D]electric [E]
  [ feel electric ]
-I think it's magic in my soul
+I [D]think it's magic in my [E]soul
 
 [A] [F#m]
 
