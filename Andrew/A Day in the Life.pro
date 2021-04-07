@@ -44,4 +44,4 @@ They had to count them all
 Now they know how many holes it takes to fill the Albert Hall.
 I'd love to turn you on.
 
-{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}
+{musicpath:/storage/emulated/0/Music/A Day in the Life.mp3}
