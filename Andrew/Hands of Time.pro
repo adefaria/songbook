@@ -22,7 +22,7 @@ Shine a light across the hands of
 {c:Chorus}
 
 [A]Time,
-[ You are is all that I want ]
+[ You are all that I want ]
 It [F#m]takes me so [D]far away from [E]you
 [ And I'll be with you ]
 I know that [A]I,
