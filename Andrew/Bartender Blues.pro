@@ -9,12 +9,12 @@
 [E] [F#] [G#]
  
 Well [A] I'm just a bar [A7] tender
-And I [D] don't like my [Bm7] work 
+And I [D] don't like my [B7] work 
 
 But I [E] don't mind the money at [A] all
 [Bass walk up] [E] [F#] [G#] 
 I see [A] lots of sad [A7] faces
-and [D] lots of bad [Bm7] cases 
+and [D] lots of bad [B7] cases 
 Of [E] folks with their backs to the wall
 
 {soc}
@@ -23,14 +23,14 @@ Of [E] folks with their backs to the wall
 
 [E] [F#] [G#]
 
-But I need [A] four walls [A7] around me to [D] hold my [Bm7] life
+But I need [A] four walls [A7] around me to [D] hold my [B7] life
 To [E] keep me from going a-[A] stray
 
 {c:Bass walk up}
 
 [E] [F#] [G#]
 
-And a [A] honkey tonk [A7] angel to [D] hold me [Bm7] tight
+And a [A] honkey tonk [A7] angel to [D] hold me [B7] tight
 To [E] keep me from slipping [A] away
 
 {c:Bass walk up}
