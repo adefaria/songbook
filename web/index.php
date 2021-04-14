@@ -52,7 +52,7 @@ songsDropdown();
 ?>
 
 <form method="post" action="search.php" name="search">
-Search:&nbsp;<input type="text" name="searchterm"><input type="submit" value="Search">
+Search:&nbsp;<input type="text" name="q"><input type="submit" value="Search">
 
 </form>
 

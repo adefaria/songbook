@@ -11,34 +11,35 @@
 
 <?php
 include_once "songbook.php";
-$searchterm = $_REQUEST ["searchterm"];
+
+$searchterm = $_REQUEST["q"];
 $songmatches = array();
 
 function getSongText ($song) {
-  return join ("\n", file ($song));
+  return join("\n", file($song));
 } // getSongText
 
 function search ($searchterm) {
   global $songs;
   global $songmatches;
 
-  $tokens = preg_split ("/\s+/", $searchterm);
-  $searchfor = join (".*", $tokens);
+  $tokens = preg_split("/\s+/", $searchterm);
+  $searchfor = join(".*", $tokens);
 
-	foreach ($songs as $song) {
-    $text = getSongText ($song);
+  foreach ($songs as $song) {
+    $text = getSongText($song);
 
-    preg_match ("/$searchfor/i", $text, $matches);
+    preg_match("/$searchfor/i", $text, $matches);
 
     if ($matches) {
-      array_push ($songmatches, $song);
+      array_push($songmatches, $song);
     } // if
   } // foreach
 
   return $songmatches;
 } // search
 
-$songmatches = search ($searchterm);
+$songmatches = search($searchterm);
 ?>
 </head>
 
@@ -49,12 +50,12 @@ $songmatches = search ($searchterm);
   <h1 class="centered">Andrew DeFaria's Songbook</h1>
 
   <h2><?php
-if (count ($songmatches) == 0) {
+if (count($songmatches) == 0) {
   print "No songs matched \"$searchterm\"";
 } elseif (count ($songmatches) == 1) {
   print "One song matched \"$searchterm\"";
 } else {
-  print count ($songmatches) . " songs matched \"$searchterm\"";
+  print count($songmatches) . " songs matched \"$searchterm\"";
 } // if
 ?></h2>
 </div>
@@ -62,18 +63,18 @@ if (count ($songmatches) == 0) {
 <div id="content">
 
 <?php
-if (count ($songmatches) > 0) {
+if (count($songmatches) > 0) {
   print "<ol>";
 } // if
 
 foreach ($songmatches as $songmatch) {
-  $artist = getArtist ($songmatch);
-  $title  = basename ($songmatch, ".pro");
+  $artist = getArtist($songmatch);
+  $title  = basename($songmatch, ".pro");
   print "<li><a href=\"webchord.cgi?chordpro=$songmatch\">$title</a>";
   print "&nbsp;(<a href=\"displayartist.php?artist=$artist\">$artist</a>)</li>";
 } // foreach
 
-if (count ($songmatches) > 0) {
+if (count($songmatches) > 0) {
   print "</ol>";
 } // if
 ?>
