@@ -25,7 +25,7 @@ width: 100%;
 <a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a>
   <h1 class="centered">Andrew DeFaria's Songbook</h1>
 
-  <h2 class="centered"><?php echo "Set: " . basename ($set, ".lst")?></h2>
+  <h2 class="centered"><?php echo "Set: " . basename($set, ".lst")?></h2>
 </div>
 
 <div id="content">
@@ -52,17 +52,22 @@ foreach (file("$songbook/$set") as $line) {
     $artist = '';
   } // if
 
-  if (file_exists ("$songDir/$song.pro")) {
-    print "<li><a href=\"webchord.cgi?chordpro=$song.pro\">";
-    print basename($song);
-    print "</a>";
-  } elseif (file_exists ("$songDir/../Banging the Beatles/$song.pro")) {
-    print "<li><a href=\"webchord.cgi?chordpro=../Banging the Beatles/$song.pro\">";
+  $songFile = "$songDir/$song.pro";
+
+  if (fileExists($songFile)) {
+    print "<li><a href=\"webchord.cgi?chordpro=$songFile\">";
     print basename($song);
     print "</a>";
   } else {
-    print "<li>";
-    print basename($song);
+    $songFile = "$songDir/../Banging the Beatles/$song.pro";
+    if (fileExists ($songFile)) {
+      print "<li><a href=\"webchord.cgi?chordpro=$songFile\">";
+      print basename($song);
+      print "</a>";
+    } else {
+      print "<li>";
+      print basename($song);
+    } // if
   } // if
 
   if ($artist == '') {
