@@ -51,7 +51,7 @@ setsDropdown();
 songsDropdown();
 ?>
 
-<form method="post" action="search.php" name="search">
+<form method="get" action="search.php" name="search">
 Search:&nbsp;<input type="text" name="q"><input type="submit" value="Search">
 
 </form>
