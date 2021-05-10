@@ -16,10 +16,10 @@ You always keep me guessin', I never seem to know what you are thinkin'
 And if some fellow looks at you, it's for sure your little eye will be a-winkin'
 I get confused, 'cause I don't know where I stand
 And then you smile, and hold my hand
-Love is kinda crazy with a spooky little girl like you … Spooky! 
+Love is kinda crazy with a spooky little girl like you Spooky! 
 [Cm7]Spooky! Yeah - yeah
 
-[Guitar Solo] Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Bdim7 Fm7 Bb13 Fm7 Cm7 
+[Guitar Solo over verse]
 
 [Verse 3] 
 [Fm7 Bb13 Fm7 Bb13] If you decide someday to stop this little game that you are playin'
@@ -27,12 +27,12 @@ I'm gonna tell you all that my heart's been a-dyin' to be sayin'
 [Fm7] Just like a ghost, you've been a-hauntin' my dreams
 [Bb13 Bdim7] So I'll propose... on Halloween.
 
-Baby, love is kinda crazy with a spooky little girl like you … Ah, spooky, yeah-uh!
+Baby, love is kinda crazy with a spooky little girl like you Ah, spooky, yeah-uh!
 
-[Guitar Solo] Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Bdim7 Fm7 Bb13 Fm7 Cm7
-[Piano Solo] Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Bdim7 Fm7 Bb13 Fm7 Cm7 
-[Guitar Solo] Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Fm7 Bb13 Bdim7 Fm7 Bb13 Fm7 
-[Ending] Cm7 Cm7 Cm7 C
+[Guitar Solo] 
+[Piano Solo] 
+[Guitar Solo]
+[Ending] Cm7 Cm7 Cm7 Cm7
 
 {musicpath:/storage/emulated/0/Music/Spooky.mp3}
 
