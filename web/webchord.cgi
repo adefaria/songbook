@@ -119,7 +119,7 @@ sub chopro2html ($$) {
     $title = $1;
   } # if
 
-  if (($chopro =~ /^\{subtitle:\s*(.*)\}/mi) || ($chopro =~ /^\{st:\s*(.*)\}/mi)) {
+  if (($chopro =~ /^\{subtitle:\s*(.*)\}/mi) || ($chopro =~ /^\{st:(.*)\}/mi)) {
     $artist = $1;
   } # if
 
