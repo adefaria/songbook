@@ -25,3 +25,5 @@ Looks like we're in [A]for nasty weather
 One eye is taken for an eye
 
 {c:Chorus} 2x
+
+{musicpath:/storage/emulated/0/Music/Bad Moon Rising.mp3}
