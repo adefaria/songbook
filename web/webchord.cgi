@@ -98,7 +98,7 @@ sub updateMusicpath ($$) {
 
   my $songbase = '/sdcard';
 
-  print $songfile "{musicpath:$songbase/SongBook/Media/$title.mp3}\n";
+  print $songfile "{musicpath:/storage/emulated/0/Music/$title.mp3}\n";
 
   close $songfile;
 
@@ -115,11 +115,11 @@ sub chopro2html ($$) {
 
   my $artist = "Unknown";
 
-  if (($chopro =~ /^\{title:(.*)\}/mi) || ($chopro =~ /^\{t:(.*)\}/mi)) {
+  if (($chopro =~ /^\{title:\s*(.*)\}/mi) || ($chopro =~ /^\{t:\s*(.*)\}/mi)) {
     $title = $1;
   } # if
 
-  if (($chopro =~ /^\{subtitle:(.*)\}/mi) || ($chopro =~ /^\{st:(.*)\}/mi)) {
+  if (($chopro =~ /^\{subtitle:\s*(.*)\}/mi) || ($chopro =~ /^\{st:\s*(.*)\}/mi)) {
     $artist = $1;
   } # if
 
