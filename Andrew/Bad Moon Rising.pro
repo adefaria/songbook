@@ -1,4 +1,4 @@
-{title: Bad Moon Rising}
+{title:Bad Moon Rising}
 {subtitle:John Folgerty}
 
 [D]I see A [A]bad m[G]oon [D]rising
