@@ -18,7 +18,7 @@ My [G]shaving r[Em]azor's c[Am]old and it[D7] stings [G]
 [C]Cheer up, [D]sleepy [Bm] Jean
 [C]Oh, what [D]can it [Em]mean
 [C]To a [G]daydream be[C]liever
-And a [G]home[Em]coming [Am]queen[D7]?
+And a [G]home[Em]coming [A7]queen[D7]?
 
 You once thought of me
 As a white knight on a steed
