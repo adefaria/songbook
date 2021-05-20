@@ -53,4 +53,4 @@ We're going home
 
 {c:Whistles}
 
-{musicpath:/storage/emulated/0/Music/Lady Madonna.mp3}
+{musicpath:/storage/emulated/0/Music/Two of Us.mp3}
