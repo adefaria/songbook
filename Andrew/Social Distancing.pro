@@ -30,29 +30,7 @@ And all the animals are lonely 'cause we they closed the zoo
 
 People in white space suits, pants are tucked up in their boots
 Looks like an invasion or world war three
-Fauci says we gonna’ die, but wipe the tear from your eye
+Fauci says we gonna' die, but wipe the tear from your eye
 Because our graves will be 1.8 meters from me 
 
 {c:Chorus}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Don’t know when this is 
