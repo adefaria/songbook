@@ -1,4 +1,4 @@
-{title:SocialDistancing}
+{title:Social Distancing}
 {subtitle:Mike Staples}
 {capo:2}
 {Key:A}

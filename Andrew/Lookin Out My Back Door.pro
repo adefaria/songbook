@@ -1,30 +1,49 @@
 {title:Lookin Out My Back Door}
-{subtitle:Creedence Clearwater Revival, John Fogerty}
-{key:C}
+{subtitle:Creedence Clearwater Revival}
+{capo:2}
+{key:A}
 
-intro F C G C 
-[C] Just got home from Illinois [Am] Lock the front door oh boy
-[F] got to sit [C] down take a [G] rest on the porch
-[C] imagination sets in [Am] pretty soon I'm singin
-[F] doot doot [C] doot lookin [G] out my back [C] door
+{c:Intro}
 
-[C] theres a giant doin cartwheels[Am] statue wearin high heals
-[F] look at all the [C] happy creatures [G] dancin on the lawn
-[C] dinosaur victrola [Am] listinin to Buck Owens
-[F] doot doot [C] doot lookin [G]out my back [C] door
-{soc}
-[G] Tambourines and elephants are [F] playin in the [C] band
-[C] wont you take a ride [Am] on the flyin [G] spoon doot doo doo
-{eoc}
-[C] wondrous apparition [Am] provided by magician
-[F] doot doot [C] doot lookin [G] out my back [C]door. (inter-[C] [Am] [F] [C] [G][C]lude 2x)
-{soc}
-[G] tambourines and elephants are [F] playin in the [C]band
-[C] wont you take a ride [Am] on the flyin [G] spoon doot doo doo
-{eoc}
-[C] Bother me tommorow [Am] today I'll find no sorrow
-[F] doot doot [C] doot lookin [G] out my back [C] door.    (key [A] [G] [D].    [D][Bm] [A] change)
-[D] Forward troubles Illinois [Bm] lock the front door oh boy
-[G] look at all the [D] happy creatures [A] dancin on the lawn
-[D] bother me tommorow [Bm] today I'll find no sorrow
-[G] doot doot [D] doot lookin [A] out my back [D] door [G] [D] [A] [D]      [A]-[D]
+[G] [Em] [C] [G] [D] [G]
+
+[G]Just got home from Illinois [Em] Lock the front door oh boy
+[C]Got to sit [G] down take a [D] rest on the porch
+[G]Imagination sets in [Em] pretty soon I'm singin
+[C]Doot doot [G]doot lookin [D] out my back [G] door
+
+There's a giant doin cartwheels statue wearin high heals
+Look at all the happy creatures dancin on the lawn
+Dinosaur victrola listinin to Buck Owens
+Doot doot doot lookin out my back door
+
+{c:Chorus}
+
+[D]Tambourines and elephants are [C] playin in the [G] band
+[G]Won't you take a ride [Em] on the flyin [D] spoon doot doo doo
+[G]Wondrous apparition [Em] provided by magician
+[C]Doot doot [G] doot lookin [G] out my back [C]door
+
+{c:Lead}
+
+Tambourines and elephants are playin in the band
+Wont you take a ride on the flyin spoon doot doo doo
+Bother me tommorow today I'll find no sorrow
+Doot doot doot lookin out my back door
+
+{c:Key change}
+
+[A7] [G#7] [G7] [F#7]
+[E] [B] [B] [G#m] [F#7]
+
+[A]Forward troubles Illinois [F#m] lock the front door oh boy
+[D]look at all the [A] happy creatures [E] dancin on the lawn
+
+{c:Slowdown}
+
+[A]Bother me tommorow [F#m] today I'll find no sorrow
+[D]Doot doot [A] doot lookin [E] out my back [A] door
+
+[D] [A] [E] [A]   [E] [A]
+
+{musicpath:/storage/emulated/0/Music/Lookin Out My Back Door.mp3}
