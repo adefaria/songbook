@@ -6,7 +6,7 @@
 [G]
 
 [G]Two of us riding nowhere
-Spending someone's [C]hard-[G/B]-earned [Am7]pay
+Spending someone's [C]hard [G/B]earned [Am7]pay
 [G]You and me Sunday Driving
 Not arriving [C]on [G/B]our [Am7]way back [G]home
 
