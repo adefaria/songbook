@@ -1,7 +1,7 @@
 {title:Bad Moon Rising}
 {subtitle:John Folgerty}
 
-[D]I see A [A]bad m[G]oon [D]rising
+[D]I see a [A]bad m[G]oon [D]rising
 [D]I see [A]trouble [G]on the [D]way
 [D]I see [A]earth[G]quakes and [D]lightning
 [D]I see [A]bad [G]times [D]today
@@ -19,9 +19,13 @@ i hear the voice of rage and ruin
 
 {c:Chorus}
 
+{c:Lead}
+
+{c:Chorus}
+
 Hope you got your things together
 Hope you are quite prepared to die 
-Looks like we're in [A]for nasty weather
+Looks like we're in for nasty weather
 One eye is taken for an eye
 
 {c:Chorus} 2x
