@@ -1,5 +1,6 @@
 {title:The Reunion}
 {subtitle:Mike Fraser}
+{time:4:02}
 {key:G}
 
 [G] [Bm7] [C] [D] [G] [Bm7] [C] [D]
@@ -54,4 +55,4 @@ Making me, love you again
 
 Love you again
 
-{musicpath:/storage/emulated/0/Music/The Reunion .mp3}
+{musicpath:/storage/emulated/0/Music/The Reunion.mp3}
