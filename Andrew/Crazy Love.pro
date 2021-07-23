@@ -1,111 +1,41 @@
-aCrazy Love by POCO
-------------------
-Key: F
+{title:Crazy Love}
+{st:Poco}
 
+[Fmaj7] [C]
 
-Verse 1
+Tonight I'm gonna [Fmaj7]break away
+[G]Just you [Fmaj7]wait and [C]see
+I'll never be imp[Fmaj7]risoned by
+A [G]faded [Fmaj7]memor[C]y
 
-Fmaj7C
-  
-                  Fmaj7
-Tonight I'm gonna break away
-G        Fmaj7    C
-Just you wait and see.
-                 Fmaj7
-I'll never be imprisoned by
-  G     Fmaj7 C
-a faded memory.
+Just when I think I'm over her
+this broken heart will mend
+I hear her name and I have to cry
+The tears come down again
 
+{c:Chorus}
 
-Verse 2
+It happens all the [Fmaj7]time
+This [G]crazy love [C]of mine
+wraps around my [Fmaj7]heart
+Re[G]fusing to [C]unwind
+[Fmaj7]Ooo   [G]Ooo [Fmaj7]Crazy [C]Love
+[Fmaj7]Ahh    [G]ha [Fmaj7] [C]
 
-                      Fmaj7
-Just when I think I'm over her,
-     G      Fmaj7      C
-this broken heart will mend.
-                     Fmaj7
-I hear her name and I have to cry,
-    G          Fmaj7  C
-the tears come down again.
-
-
-Chorus
-
-                   Fmaj7
-It happens all the time.
-     G          C
-This crazy love of mine,
-              Fmaj7
-wraps around my heart
-  G        C
-refusing to unwind.
-Fmaj7 G   Fmaj7  C
-Ooo   Ooo Crazy Love
-Fmaj7  G   Fmaj7  C
-Ahh    ha
-
-
-Verse 3
-
-                     Fmaj7
-Count the stars in a summer sky,
-     G    Fmaj7     C
-that fall without a sound.
-                      Fmaj7
+Count the stars in a summer sky
+that fall without a sound
 And then pretend that you can't hear
-      G         Fmaj7  C
-these teardrops coming down.
+These teardrops coming down
 
+{c:Chorus}
 
-Chorus
-
-                   Fmaj7
-It happens all the time.
-     G          C
-This crazy love of mine,
-              Fmaj7
-wraps around my heart
-  G        C
-refusing to unwind.
-Fmaj7 G   Fmaj7  C
-Ooo   Ooo Crazy Love
-Fmaj7  G   Fmaj7  C
-Ahh    ha
-
-
-Verse 4
-
-                  Fmaj7
 Tonight I'm gonna break away
-G        Fmaj7    C
 Just you wait and see
-              Fmaj7
 I'll never be imprisoned by
-  G     Fmaj7  C
-a faded memory.
+A faded memory
 
+{c:Chorus}
 
-Chorus
+Tonight I'm gonna [Fmaj7]break away
 
-                   Fmaj7
-It happens all the time.
-     G          C
-This crazy love of mine,
-              Fmaj7
-wraps around my heart
-  G        C
-refusing to unwind.
-Fmaj7 G   Fmaj7  C
-Ooo   Ooo Crazy Love
-Fmaj7  G   Fmaj7  C
-Ahh    ha
-
-                    Fmaj7
-Tonight I'm gonna break away.
-
-
-
--------------------------------
-
-Typed by Stephen LeDrew
-sledrew@calvin.stemnet.nf.ca
+{musicpath:/storage/emulated/0/Music/Crazy Love.nomp3}
