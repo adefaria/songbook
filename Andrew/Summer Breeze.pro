@@ -34,7 +34,7 @@
 [Em7]Sweet days of [Am7]summer, when [Em7]jasmines in [Am7]bloom;
 [Em7]July is [Am7]dressed up and [Em7]playing her [Am7]tune.
 And I [Am7]come home from a [Bm7]hard days work,
-and you're [Am7]waiting there not a [Bm7]care in the world[Amaj7/B][A6/B]
+and you're [Am7]waiting there not a [Bm7]care in the world[Amaj7][A6]
 
 [Verse]
 [E]See the smile [G]waiting in the kitchen;
