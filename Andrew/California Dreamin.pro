@@ -6,8 +6,8 @@
 {c:Intro}
 
 All the leaves are [Am]brown (all the [G]leaves are [F]brown)
-And the [G]sky is gr[E7sus4]ey (and the sky is [E]grey [F])
-I've been for a walk ([C]I've been [G]for a [Am]walk) [F]
+And the [G]sky is gr[E7sus4]ey (and the sky is [E7]grey [F])
+I've been for a walk ([C]I've been [E7]for a [Am]walk) [F]
 On a winter's day ([E7sus4]on a winter's [E]day)
 I'd be safe and [Am]warm (I'd be [G]safe and [F]warm) [G]
 If I was in L.A. (if I [E7sus4]was in L.[E]A.)
