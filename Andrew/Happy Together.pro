@@ -1,4 +1,4 @@
-{title:Happy Together}
+{title:Happy Together}
 {subtitle:Turtles}
  
 Imagine [Em]me and you - I do
