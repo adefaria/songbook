@@ -6,8 +6,11 @@ I think about you [D]day and night, it's only right
 To think about the [C]girl you love and hold her tight
 So happy to[B7]gether 
 
+     (call you up)
 If I should call you up, invest a dime
+                  (ease my mind)
 And you'd say you belong to me, and ease my mind
+                  (very fine)
 Imagine how the world could be so very fine
 So happy together 
 
@@ -18,17 +21,20 @@ But y[E]ou for all my l[G]ife
 The skies will be [E]blue
 For all my l[G]ife 
 
+      (you and me)
 Me and you, and you and me
+                  (had to be)
 No matter how they toss the dice, it had to be
+                      (you for me)
 The only one for me is you, and you for me
 So happy together 
 
 {c:Chorus} 
 
-Me and you, and you and me
+{soc}Me and you, and you and me
 No matter how they toss the dice, it had to be
 The only one for me is you, and you for me
-So happy together 
+So happy together{eoc}
 
 {c:Bridge}
 
