@@ -1,7 +1,7 @@
 {title:Mrs. Robinson}
 {subtitle:Paul Simon}
 {key:E}
-
+{c:chorus}
 [E7]We'd like to know a little bit about you for our files
 [A]We'd like to help you learn to help yourself.
 [D]Look around you [G]all you see are [C]sympathe[C/B]tic ey[Am]es,
