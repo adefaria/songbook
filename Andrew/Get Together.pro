@@ -36,3 +36,4 @@ It's there at your command
 
 Right now
 Right now
+{musicpath:/storage/emulated/0/Music/Get Together.mp3}
