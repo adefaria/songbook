@@ -59,14 +59,21 @@ foreach (file("$songbook/$set") as $line) {
     print basename($song);
     print "</a>";
   } else {
-    $songFile = "$songDir/../Banging the Beatles/$song.pro";
+    $songFile = "$songDir/../XMAS/$song.pro";
     if (fileExists ($songFile)) {
       print "<li><a href=\"webchord.cgi?chordpro=$songFile\">";
       print basename($song);
       print "</a>";
     } else {
-      print "<li>";
-      print basename($song);
+      $songFile = "$songDir/../Banging the Beatles/$song.pro";
+      if (fileExists ($songFile)) {
+        print "<li><a href=\"webchord.cgi?chordpro=$songFile\">";
+        print basename($song);
+        print "</a>";
+      } else {
+        print "<li>";
+        print basename($song);
+      } // if
     } // if
   } // if
 
