@@ -20,7 +20,6 @@ But y[E]ou for all my l[G]ife
 [E]When you're with me, [D]baby
 The skies will be [E]blue
 For all my l[G]ife 
-
       (you and me)
 Me and you, and you and me
                   (had to be)
@@ -31,7 +30,8 @@ So happy together
 
 {c:Chorus} 
 
-{soc}Me and you, and you and me
+{soc}
+Me and you, and you and me
 No matter how they toss the dice, it had to be
 The only one for me is you, and you for me
 So happy together{eoc}
