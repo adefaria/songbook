@@ -1,6 +1,5 @@
 {title:If You Could Read My Mind}
 {subtitle:Gordon Lightfoot}
-{capo:2}
 
 [Gadd2] [Dm/F] 3x
 
