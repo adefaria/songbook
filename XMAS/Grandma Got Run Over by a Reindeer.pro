@@ -7,7 +7,7 @@
 [E]Grandma got run over by a reindeer
 Walking home from our house Chris[A]tmas eve.
 You can say there's no such thing as [E]Santa,
-But [B]as for me and Grandpa, we believe. [D] [A] [E]
+But [B]as for me and Grandpa, we be[E]lieve. [D] [A] [E]
 
 She'd been drinking too much [B]egg nog,
 And we'd begged her not to [E]go.
