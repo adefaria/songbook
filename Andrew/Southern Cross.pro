@@ -51,6 +51,8 @@ And music is her name
 
 {c:Chorus}
 
+{c:Lead}
+
 So we cheated and we lied and we tested
 And we never failed to fail
 It was the easiest thing to do
