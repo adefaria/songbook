@@ -1,45 +1,35 @@
 {title:Jingle Bell Rock}
-{subtitle:Traditional}
-{key:A}
+{subtitle:Tommy Emmanuel}
+{key:G}
 
-J[A]ingle bell, j[Amaj7]ingle bell, j[A6]ingle bell [Amaj7]rock
-J[A6]ingle bells [Amaj7]swing and jin[Bm]gle bells ri[E]ng
-S[Bm]nowin' and [E]blowin' up b[Bm]ushels of f[E]un
-N[Bm]ow, the jingle hop [Eaug]has begun
+{c:Intro}
 
-Jingle bell, jingle bell, jingle bell twist
-Jingle bells chime in jingle bell time
-Dancin' and prancin' in Jingle Bell Square
-I[Bm]n the f[E]rosty [A]air [A7]
+[C]  [Cm]  [A7]  [G] [Daug]
 
-W[D]hat a bright time, it's the [Dm]right time
-To[A] rock the night awa[A7]y
-Ji[D]ngle bell time is a sw[Dm]ell time
-[Bm]To go glidin' in a [E]one-horse sleigh
-
-Giddy-up jingle horse, pick up your feet
-Jingle around the clock
-Mix and a-mingle in the jinglin' feet
-That's the jingle bell rock, yeah
+[G6]Jingle bell, jingle bell, jingle bell rock
+Jingle bells s[G#dim7]wing and [Am7]jingle bells [D9]ring
+[Am7]Snowing and [D9]blowing up [Am7]bushels of [D9]fun
+[Am7]Now the [Daug]jingle hop [G6]has beg[Daug]un
 
 Jingle bell, jingle bell, jingle bell rock
-Jingle bells swing and jingle bells ring
-Snowin' and blowin' up bushels of fun
-Now, the jingle hop has begun
-
-Jingle bell, jingle bell, jingle bell twist
 Jingle bells chime in jingle bell time
-Dancin' and prancin' in Jingle Bell Square
+Dancing and prancing in Jingle Bell Square
 In the frosty air
 
-What a bright time, it's the right time
-To rock the night away
-Jingle bell time is a swell time
-To go glidin' in a one-horse sleigh
+{c:Chorus}
 
-Giddy-up pony time, kick up your feet
-Jingle around the clock
-Mix and a-mingle in the jinglin' feet
-T[Bm]hat's the jingle[E] bell
-T[Bm]hat's the jingle[E] bell
-T[Bm]hat's the jingle[E] bell [A]rock
+What a [C]bright time, it's the [Cm]right time
+To [G6]rock the night away
+Jingle [A7]bell time is a swell time[D7]
+To go gliding in a one-horse sleigh
+
+{c:Key change up 1 fret} [D#aug]
+
+[A#6]Giddy-up jingle horse, pick up your feet
+Jingle ar[Bdim7]ound the [C]clock
+[C]Mix and mingle in the [Cm]jingling beat
+[A7]That's the [D7]jingle bell [G6]rock [Daug]
+
+{c:Chorus}
+
+{musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}
