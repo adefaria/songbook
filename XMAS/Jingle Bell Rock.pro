@@ -35,7 +35,9 @@ To [G6]rock the night away
 Jingle [A7]bell time is a swell time[D7]
 To go gliding in a one-horse sleigh
 
-{c:Key change up 1 fret} [D#aug]
+{c:Key change up 1 fret}
+
+[D#aug]
 
 [G#6]Giddy-up jingle horse, pick up your feet
 Jingle ar[Adim7]ound the [A#min7]clock
