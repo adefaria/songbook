@@ -23,13 +23,25 @@ To [G6]rock the night away
 Jingle [A7]bell time is a swell time[D7]
 To go gliding in a one-horse sleigh
 
-{c:Key change up 1 fret} [D#aug]
-
-[A#6]Giddy-up jingle horse, pick up your feet
-Jingle ar[Bdim7]ound the [C]clock
+[G6]Giddy-up jingle horse, pick up your feet
+Jingle ar[G#dim7]ound the [Amin7]clock
 [C]Mix and mingle in the [Cm]jingling beat
 [A7]That's the [D7]jingle bell [G6]rock [Daug]
 
-{c:Chorus}
+{c:Solos}
+
+What a [C]bright time, it's the [Cm]right time
+To [G6]rock the night away
+Jingle [A7]bell time is a swell time[D7]
+To go gliding in a one-horse sleigh
+
+{c:Key change up 1 fret} [D#aug]
+
+[G#6]Giddy-up jingle horse, pick up your feet
+Jingle ar[Adim7]ound the [A#min7]clock
+[D#]Mix and mingle in the [D#m]jingling beat
+[A#7]That's the [D#7]jingle bell
+[A#7]With old E[D#7]mmanuel
+[A#7]That's the jingle bell rock [A#6]
 
 {musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}
