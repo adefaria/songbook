@@ -1,20 +1,22 @@
 {title:Get Together}
 {subtitle:Youngbloods}
 
-Love is but a song to sing
-Fear's the way we die
-You can make the mountains ring
-Or make the angels cry
-Though the bird is on the wing
-And you may not know why
+[G] [F] [G] [F] [G] [F]
+
+[G]Love is but a song to sing
+[F]Fear's the way we die
+[G]You can make the mountains ring
+[F]Or make the angels cry
+[G]Though the bird is on the wing
+[F]And you may not know why
 
 {c:Chorus}
 
-Come on people now
-Smile on your brother
-Everybody get together
-Try to love one another
-Right now
+[C]Come on people now
+[D]Smile on your brother
+Every[G]body get together
+Try to [C]love one [D]another
+[G]Right now
 
 Some may come and some may go
 We shall surely pass
@@ -36,4 +38,5 @@ It's there at your command
 
 Right now
 Right now
+
 {musicpath:/storage/emulated/0/Music/Get Together.mp3}
