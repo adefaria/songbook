@@ -7,8 +7,8 @@
 [F]Fear's the way we die
 [G]You can make the mountains ring
 [F]Or make the angels cry
-[G]Though the bird is on the wing
-[F]And you may not know why
+{soc}[G]Though the bird is on the wing
+[F]And you may not know why{eoc}
 
 {c:Chorus}
 
@@ -22,8 +22,8 @@ Some may come and some may go
 We shall surely pass
 When the one that left us here
 Returns for us at last
-We are but a moment's sunlight
-Fading in the grass
+{soc}We are but a moment's sunlight
+Fading in the grass{eoc}
 
 {c:Chorus 3x}
 
@@ -31,8 +31,8 @@ If you hear the song I sing
 You will understand (listen!)
 You hold the key to love and fear
 All in your trembling hand
-Just one key unlocks them both
-It's there at your command
+{soc}Just one key unlocks them both
+It's there at your command{eoc}
 
 {c:Chorus 3x}
 
