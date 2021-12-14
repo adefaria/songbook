@@ -14,11 +14,13 @@
 
 {c:Chorus}
 
+{soc}
 [C]Come on people now
 [D]Smile on your brother
 Every[G]body get together
 Try to [C]love one [D]another
 [G]Right now
+{eoc}
 
 Some may come and some may go
 We shall surely pass
