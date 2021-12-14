@@ -14,12 +14,18 @@
 [Cm]I'm flat [Bb]broke but [Ab]I don't [G]care
 I [Cm]strut right by with my tail in the air
 
-[Fm]Stray cat [Eb]strut, I'm a [Db]{soc}ladies [C]cat{eoc}
-[Fm]I'm a feline Casa[Eb]nova, {soc}hey [Db]man that's [C]that{eoc}
+[Fm]Stray cat [Eb]strut, I'm a [Db]
+{soc}
+ladies [C]cat
+{eoc}
+[Fm]I'm a feline Casa[Eb]nova, 
+{soc}
+hey [Db]man that's [C]that
+{eoc}
 Get a [Fm]shoe thrown [Eb]at me from a [Db]mean old [C]man
 [Fm]Get my dinner from a garbage can
 
-Yeah don't cross my path
+Yeah don't go cross my path
 
 {c:Lead}
 
