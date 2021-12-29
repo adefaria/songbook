@@ -31,7 +31,10 @@ We are but a moment's sunlight
 Fading in the grass
 {eoc}
 
-{c:Chorus 3x}
+{c:Chorus 2x}
+{c:Lead}
+{c:Chorus 1x}
+{c:beginning}
 
 If you hear the song I sing
 You will understand (listen!)
