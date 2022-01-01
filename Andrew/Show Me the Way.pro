@@ -1,5 +1,8 @@
 {title:Show Me the Way}
 {subtitle:Peter Frampton}
+{metronome:113}
+
+{tempo:132}
 
 I wonder how you're feeling
 There's ringing in my ears
