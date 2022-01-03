@@ -1,25 +1,30 @@
-{title:Jingle Bells**}
-{zoom-ipad: 0.871619}
-{subtitle:Christmas }
-[G][C]
-[G]Dashing through the snow, in a one-horse open [C]sleigh. [Am]O'er the fields we [D7]go, laughing all the [G]way.
-[G]Bells on bob-tails ring, making spirits [C]bright. What [Am]fun it is to [D]ride and sing a [D7]sleighing song to[G]night. [D7]Oh!
+{title:Jingle Bells traditional}
 
-**[G]Jingle bells, jingle bells, jingle [C]all the [G]way!
-[C]Oh what fun it [G]is to ride, in a [A7]one-horse open [D7]sleigh, hey!
-[G]Jingle bells, jingle bells, jingle [C]all the [G]way!
-[C]Oh what fun it [G]is to ride, in a [D7]one-horse open [G]sleigh.
+[D]Da[G]shing through the snow in a one horse open sleigh
+[A7]O'e[D]r the fields we go laughing all the way
+[G]Bells on bob tails ring 
+making spirits bright
+[D]Wh[A7]at [D]fun it is to ride and sing a sleighing song tonight
 
-A [G]day or two ago, I thought I'd take a [C]ride. And [Am]soon Miss Fanny [D7]Bright was seated by my [G]side.
-The [G]horse was lean and lank, misfortune seemed his [C]lot. We [Am]ran into a [D]drifted bank and [D7]there we got up[G]sot. [D7]Oh!
+[A7]Oh,[D] jingle bells, jingle bells, jingle all the way
+[G]Oh[D], [E7]wha[A7]t fun it is to ride in a one horse open sleigh
+[D]Jingle bells, jingle bells, jingle all the way
+[G]Oh[D], [A7]wha[D]t fun it is to ride in a one horse open sleigh
 
-**Chorus
+Little break 
+[D]A [G]day or two ago I thought I'd take a ride
+[A7]And[D] soon Miss Fanny Bright 
+Was seated by my side
+[G]The horse was lean and lank 
+Misfortune seemed his lot
+[D]We[A7] go[D]t into a drifted bank 
+And then we got upsot
 
-A [G]day or two ago, the story I must [C]tell. I w[Am]ent out on the s[D7]now and on my back I f[G]ell. 
-A gent was riding by in a one-horse open s[C]leigh. He l[Am]aughed at me a[D]s I there lay b[D7]ut quickly drove a[G]way.  O[D7]h!
+[A7]Oh,[D] jingle bells, jingle bells, jingle all the way
+[G]Oh[D], [E7]wha[A7]t fun it is to ride in a one horse open sleigh
+[D]Jingle bells, jingle bells, jingle all the way
+[G]Oh[D], [A7]wha[D]t fun it is to ride in a one horse open sleigh
 
-**Chorus
+Start at top in rounds
 
-[G]Now the ground is white, go it while you're [C]young. [Am]Take the girls a[D7]long and sing this sleighing [G]song. 
-Just [G]bet a bobtailed bay, two forty as his [C]speed. [Am]Hitch him to an [D]open sleigh and [D7]crack! you'll take the [G]lead. [D7]Oh!
-**Chorus
+A7	

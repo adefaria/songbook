@@ -1,5 +1,5 @@
-{title:Wonderful Christmas Time**}
-{subtitle:Christmas}
+{title:Wonderful Christmas Time}
+{subtitle:Paul McCartney}
 
 [G]The mood is right? The spirits up. Were here tonight. And that's enough.
 

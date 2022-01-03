@@ -1,4 +1,5 @@
 {title: Im Your Captain}
+{subtitle:Grand Funk
 {zoom-iphone: 1.069331}
 Intro: lead 2x  then [D] [Cadd9] wa-wa slow 4x   then [D] [Cadd9]faster
 [D]Everybody, [Cadd9]listen to me [D]And return me, [Cadd9]my ship 

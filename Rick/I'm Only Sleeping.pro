@@ -1,5 +1,5 @@
-{t:I'm Only Sleeping}
-{st:John Lennon}
+{title:I'm Only Sleeping}
+{subtitle:John Lennon}
 {ipodid: 1828180435211800475}
                       
 [Em]When I wake up early in the [Am]morning, [G]Lift my [C]head, [G]I'm still [B7]yawning

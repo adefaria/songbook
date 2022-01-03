@@ -1,5 +1,5 @@
-{t:I'm in You}
- {Peter Frampton}
+{title:I'm in You}
+{subtitle:Peter Frampton}
  
 I don't [C]care wh[Bm7]ere I go. When I'm [Am7]with y[Bm7]ou.
 When I cry yo[C]u don't lau[Bm7]gh'.mCause you [Am7]know [Bm7]me.

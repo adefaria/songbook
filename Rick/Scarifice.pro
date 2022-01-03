@@ -1,6 +1,5 @@
 {title:Sacrifice}
 {subtitle:Elton John}
-half step down tuning
 
 It's a human s[D]ign 
 [G]When things go[Em7] wrong 
