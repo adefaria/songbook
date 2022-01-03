@@ -1,8 +1,8 @@
-{t:Tell Me Why}
+{title:Tell Me Why}
 {st:Neil Young}
-{metronome: 80}
+{metronome:80}
+{c:90 BPM}
 {pause:10}
-[80BPM]
 [G][C][D][Am][G]
 
 [C]Sailing heartships through [D]  broken harbours

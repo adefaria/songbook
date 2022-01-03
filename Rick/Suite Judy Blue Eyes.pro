@@ -1,7 +1,8 @@
 {title:Suite Judy Blue Eyes}
-{metronome: 154}
+{subtitle:Crosby, Stills and Nash}
+{metronome:154}
+{c:154 BPM}
 {ipodid:}
-[154BPM]
 DADDAD
 
 [E]It's getting to the [D]point where [A]I'm no [E]fun any [B]more, I am [A]sorry.   [Asus7]

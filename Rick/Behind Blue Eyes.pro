@@ -1,8 +1,9 @@
 {title:Behind Blue Eyes}
-{metronome: 129}
+{subtitle:The Who}
+{metronome:129}
+{c:129 BPM}
 {ipodid:4749767367891402392}
 {zoom-ipad:0.983461}
-[129BPM]
 [Em][G][D][C][Asus2]
 
 [Em]No one knows what it's [G]like to be the [D]bad man.  To be the [C]sad man be[A]hind blue eyes.

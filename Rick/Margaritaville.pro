@@ -1,7 +1,8 @@
-{t:Margaritaville}
+{title:Margaritaville}
+{subtitle:Jimmy Buffet}
 {zoom-ipad:1.042217}
-{metronome: 125}
-[125BPM]
+{metronome:125}
+{c:125 BPM}
 
 [D]Nibblin' on sponge cake. Watchin' the sun bake, all of those tourists covered with [A]oil.
 [A]Strummin' my six string, on my front porch swing.

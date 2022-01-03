@@ -1,8 +1,8 @@
-{title:R.O.C.K. In the USA}
+{title:ROCK. in the USA}
 {subtitle:John Mellancamp}
-{metronome: 163}
+{metronome:163}
+{c:163 BPM}
 {zoom-ipad: 0.980000}
-[163BPM]
 Rhythm guitar ***Lead 4X [E][A][D][A][E] 
 
 They come from the cities and they come from the smaller towns.

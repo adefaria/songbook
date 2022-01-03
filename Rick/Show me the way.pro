@@ -1,9 +1,9 @@
 {title:Show Me The Way}
 {subtitle:Peter Frampton}
-{metronome: 132}
-[132BPM] 
+{metronome:132}
+{c:132 BPM} 
 
-2X intro lead
+{c:2X intro lead}
 [D]I wonder how you're feeling there's ringing in my ears.  And [Bm]no one to relate to except the [Bb]sea. [C]
 [D]Who can I believe in?  I'm  kneeling on the floor. There [Bm]has to be a force.  Who do I [Bb]phone?[C]
 

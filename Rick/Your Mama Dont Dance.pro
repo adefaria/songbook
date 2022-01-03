@@ -2,7 +2,7 @@
 {subtitle:Loggins & Messina}
 {metronome: 150}
 {zoom-ipad: 1.185492}
-[150BPM]
+{c:150 BPM}
 **[C]Your mama don't dance and your [F]daddy don't rock and r[C]oll.
 Your [F]mama don't dance and your daddy don't rock and [C]roll.
 When [G]evenin' rolls around and it's [F]time to go to town

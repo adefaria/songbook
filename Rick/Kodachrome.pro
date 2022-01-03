@@ -1,7 +1,7 @@
-{title: Kodachrome}
+{title:Kodachrome}
 {subtitle:Simon & Garfunkel}
-{metronome: 136}
-[136BPM]
+{metronome:136}
+{c:136 BPM}
 
 When I think [D]back on all the [D7]crap I learned in [G]high school
 [Em]It's a wonder [A]I can think at [D]all. [Em][A][D]

@@ -1,6 +1,7 @@
 {t:Spooky}
 {zoom-ipad: 1.134496}
-[111BPM]
+{metronome:111}
+{c:111 BPM}
 Intro 2x [Fm7][Bb13][Fm7] 8X
 
 In the [Fm7]cool of the evening when [Bb13]everything is gettin' kind of gr[Fm7]oovy .[Bb13]

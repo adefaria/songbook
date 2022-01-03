@@ -1,8 +1,8 @@
 {title:Moondance}
 {subtitle:Van Morrison}
 {metronome: 123}
+{c:123 BPM}
 {ipodid: 6975794874241316619}
-[123BPM]
              Am        Bm11/E      Am7     Bm7 
 Well it's a marvelous night for a moondance with the 
   Am       Bm11/E       Am7   Bm7  

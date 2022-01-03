@@ -1,7 +1,7 @@
-{title: Best of My Love}
+{title:Best of My Love}
 {subtitle:Eagles}
-{metronome: 115}
-[115BPM]
+{metronome:115}
+{c:115 BPM}
 [C][Dm][C][Dm]
 Ev[C]ery night I'm Lyin' in bed [Dm]Holdin' you close in my dreams.
 Thi[C]nkin' about all the things that we said a[Dm]nd comin' apart at the seams.

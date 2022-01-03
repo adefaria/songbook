@@ -1,8 +1,8 @@
 {title:Dust in the Wind}
-{metronome: 94}
+{metronome:94}
+{c:94 BPM}
 {ipodid:9024644314861715671}
 {zoom-ipad:1.090000}
-[94BPM]
 [C][CMaj7][Cadd9][C][Aadd9][Asus][Am] [Aadd9][Cadd9][C][CMaj7][Cadd9][Am][Aadd9][Asus][Am][G/B]
 
 [G/B]I [C]close [G]my e[Am]yes. [G]Only for a m[Dm7]oment and the [Am]moment's gone. [G/B]

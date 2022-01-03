@@ -1,8 +1,8 @@
 {title:Lady Madonna}
 {subtitle:Beatles}
 {metronome:109}
+{c:109 BPM}
 {zoom-ipad: 1.100000}
-[109BPM]
 
 [A]Lady [D]Madonna, [A]children at your [D]feet. [A]Wonder how you [D]manage [A]to [F]make [G]ends [A]meet?
 [A]Who finds the [D]money [A]when you pay the [D]rent? [A]Did you think that [D]money [A]was [F]hea[G]ven [A]sent?

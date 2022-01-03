@@ -1,7 +1,7 @@
-{title: If I Fell}
+{title:If I Fell}
 {subtitle:Beatles }
-{metronome: 108}
-[108BPM]
+{metronome:108}
+{c:108 BPM}
 If I fell in lo[C#m]ve with you , Would you [C]promise to be true   
 And help [B]me [G#m]understand   
 'Cause I've [C#m]been in love before,and I [C]found that love was more   

@@ -1,8 +1,9 @@
 {title:Ventura Highway}
 {subtitle:Anerica}
 {metronome: 131}
+{c:131 BPM}
 {ipodid: 9024644314861715729}
-[131BPM]     [G6][Dmaj7]
+[G6][Dmaj7]
 
 [G6]Chewing on a piece of grass, walking down the [Dmaj7]road.
 [G6]Tell me, how long you gonna s[Dmaj7]tay here Joe?

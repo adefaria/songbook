@@ -1,7 +1,7 @@
-{title:Please Come Home For Christmas}
+{title:Please Come Home for Christmas}
 {subtitle:Eagles}
-{metronome: 92}
-[92BPM]
+{metronome:92}
+{c:92 BPM}
 Bells will be [A]ringing [Amaj7]this sad, sad [A7]news.
 Oh what a [D]Christmas to have the [D#dim7]blues
 My baby's [A]gone [D]I have no [A]frie[g#]nds. [F#m]

@@ -1,8 +1,8 @@
 {title:Bring It On Home}
 {subtitle:Sam Cooke}
 {metronome: 115}
+{c:115 BPM}
 {zoom-ipad: 1.282628}
-[115BPM]
 Intro - Acapella
 If you ever, change your mind, about leaving, leaving me behind. 
 Wo, oh, bring it to me. 

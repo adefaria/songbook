@@ -1,8 +1,8 @@
 {title:New Kid In Town}
 {subtitle:Eagles}
 {metronome: 107}
+{c:107 BPM}
 {ipodid:9024644314861715666}
-[107BPM]
 [E][E][B7] [B7] [Asus] [A] [B7] [E]
 
 [E]There's talk on the street, it sounds so fam[F#m]iliar. [B] [F#m7] [B]

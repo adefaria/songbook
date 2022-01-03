@@ -1,7 +1,8 @@
 {title:Tears in Heaven}
-{metronome: 78}
+{subtitle:Eric Clapton}
+{metronome:78}
+{c:78 BPM}
 {zoom-ipad:0.964883}
-[78BPM]
 [A]Would you [E7]know my [A]name?[E][G][D]
 If I [A]saw you in heav[E]en.[A]
 [A]Would it [E7]be the [A]same?[E][G][D]

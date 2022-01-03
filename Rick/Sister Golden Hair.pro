@@ -1,8 +1,8 @@
-{t:Sister Golden Hair}
-{Subtitle:America}
+{title:Sister Golden Hair}
+{subtitle:America}
 {metronome: 134}
+{c:134 BPM}
 {ipodid: 8531294901563051721}
-[134BPM]
 [C#m][A][E][Esus]
 [G#m][C#m][B][A]     
 Well I t[E]ried to make it Sunday but I g[G#m]ot so damned depressed.

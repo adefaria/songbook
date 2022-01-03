@@ -1,8 +1,9 @@
-{t:One After 909}
+{title:One After 909}
 {subtitle:Beatles}
 {metronome:180}
+{c:180 BPM}
 {ipodid: 3967353021199681642}
-[180BPM][B7]
+[B7]
 My b[B7]aby said she's traveling on the one after 909. I said move over honey I'm traveling on that line.
 I said move over once, move over twice. Co[E]me on baby don't be cold as ice.
 S[B7]aid she's traveling on th[F#7]e one after 90[B7]9.

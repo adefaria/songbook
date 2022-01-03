@@ -1,5 +1,5 @@
-{title: A Change is Gonna Come}
-{subtitle: Greta Van Fleet}
+{title:A Change is Gonna Come}
+{subtitle:Greta Van Fleet}
 {ipodid: 1593385919874027826}
 
 I play the F as (x,8,10,10,10,8) and the E chord as (x,7,9,9,9,7). Otherwise the rest of the chords

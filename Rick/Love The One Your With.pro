@@ -1,8 +1,8 @@
 {title:Love The One Your With}
-{subtitle:CSN - Steve Stills}
-{metronome: 97}
+{subtitle:Steve Stills}
+{metronome:97}
+{c:97 BPM}
 {zoom-ipad:1.090000}
-[97BPM]
 TUNING: D A D F# A D or C G C E G C (record actually in the latter)
 [Dsus4][D][Dsus2][D] 2X
 [Dsus2]When you're [Dsus4]down, [D]and [Dsus2]confused. [D]And you don't remember  who you're talking to.

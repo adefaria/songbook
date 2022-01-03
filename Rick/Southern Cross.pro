@@ -1,7 +1,8 @@
-{t:Southern Cross}
-{metronome: 178}
+{title:Southern Cross}
+{subtitle:Crosby, Stills and Nash}
+{metronome:178}
+{c:178 BPM}
 {ipodid: 9024644314861715674}
-[178BPM]
 
 Go[A]t out of town on a bo[G]at goin' to southern isl[D]ands. Sailing a re[A]ach [G]before a followin' s[D]ea.
 S[A]he was makin' for the tra[G]des on the out[D]side and the dow[A]nhill run [G]to Pa-pe-e[D]-tea.

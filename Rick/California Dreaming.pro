@@ -1,8 +1,8 @@
 {title:California Dreaming}
-{metronome: 112}
+{metronome:112}
+{c:112 BPM}
 {zoom-ipad:1.180000}
-{time: 11:40}
-[112BPM]Capo 3
+{time:11:40}
 
 All the leaves are [Am]brown.[G] [F]And the s[G]ky is g[E7sus4]ray. [E7]
 I've been a [C]walkin' [E7]for a [Am]while on a winter's d[E7sus4]ay. [E7]

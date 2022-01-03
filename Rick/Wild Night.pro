@@ -1,8 +1,8 @@
 {title:Wild Night}
-{metronome: 146}
+{metronome:146}
+{c:146 BPM}
 {zoom-ipad:1.090000}
 {ipodid: 9024644314861715735}
-[146BPM]
 
 [Em]As you brush your shoes, you stand before the mirror.
 And you comb your hair, you grab your coat and hat.

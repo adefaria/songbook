@@ -1,8 +1,9 @@
 {title:Tequila Sunrise}
-{Subtitle:Eagles}
+{subtitle:Eagles}
 {ipodid:4486816241638789739}
 {zoom-ipad:0.999464}
-[110BPM]
+{metronome:110}
+{c:110 BPM}
 [G][G6][G][G6] [Am][D7][G][G6][G][G6]
 [G]It's another tequila sunrise. [D]Starin' slowly cross the [Am]skyyy. [D7]They said good[G]byyye.
 [G]He was just a hired hand. [D]Workin on the dreams he planned to [Am]tryy. [D7]The days go [G]byy.

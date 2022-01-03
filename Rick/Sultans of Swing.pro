@@ -1,8 +1,8 @@
 {title:Sultans of Swing}
 {subtitle:Dire Straights}
 {metronome: 149}
+{c:149 BPM}
 {ipodid: 9024644314861715573}
-[149BPM]
 [Dm] Single snare beat
 [Dm][C][Dm][C] Intro lead
 

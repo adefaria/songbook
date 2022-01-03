@@ -1,9 +1,9 @@
 {title:Space Oddity}
+{subtitle:David Bowie}
 {metronome: 81}
+{c:81 BPM}
 {ipodid:9024644314861715604}
 {zoom-ipad:1.475063}
-{subt:David Bowie}
-[81BPM] User 95-3 DrkSideoftheSun
 [Fmaj7][Em]
 [Fmaj7]Ground control to Major [Em]Tom.  [Fmaj7]Ground control to Major [Em]Tom. [Am]Take your [Am7/G]protein pills and [D7]put your helmet on.
 [C]Ground control to Major [Em]Tom. [C]Commencing countdown engine's [Em]on. [Am]Check [Am7/G]ignition and may G[D7]od's love be with you.

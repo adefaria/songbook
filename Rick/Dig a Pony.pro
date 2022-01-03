@@ -1,8 +1,8 @@
 {title:Dig a Pony}
 {subtitle:Beatles - Roof Top}
-{metronome: 118}
+{metronome:118}
+{c:118 BPM}
 {ipodid: 3410261317766930689}
-[118BPM]
 
 [G][D][A][A][G][D][A]
 [A]I, I, I, I, I,  DIG A [F#m]PONY.  WELL YOU CA[Bm]N CELEBRATE ANYTHING YO[G7]U WANT.

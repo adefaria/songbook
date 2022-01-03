@@ -1,6 +1,7 @@
 {title:Lying Eyes}
-{metronome: 132}
-[132BPM]
+{subtitle:Eagles}
+{metronome:132}
+{c:132 BPM}
 [G][G6][C][Am][D]
 [G]City girls just seem to find out [C]early [Am]How to open doors with just a sm[D]ile.
 A [G]rich old man and she won't have to wor[C]ry, she'll [Am]dress up all in [C]lace and go in st[G]yle.

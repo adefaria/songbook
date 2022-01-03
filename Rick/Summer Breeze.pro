@@ -1,7 +1,8 @@
 {title: Summer Breeze}
 {zoom-ipad: 0.980000}
 {ipodid: 719188458278714114}
-[88BPM]
+{metronome:88}
+{c:88 BPM}
 [Am7][D][Bm7][E][Amaj7/B][A6/B][Em7][Am7] Intro 4X
 
 [E]See the curtains han[G]ging in the window [D]in the evening on a F[A]riday [E]ni-i-i[Am7]ght.>

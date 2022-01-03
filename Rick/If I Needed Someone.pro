@@ -1,8 +1,8 @@
-{t:If I Needed Someone}
-{st:Beatles}
-{metronome: 126}
+{title:If I Needed Someone}
+{subtitle:Beatles}
+{metronome:126}
+{c:126 BPM}
 {ipodid: 9024644314861716057}
-[126BPM]
 
 [A]If I needed someone to love, [A]you're the one that I’d be thinking[G/A] of.
 If I needed som[A]eone.

@@ -1,9 +1,9 @@
 {title:If You Could Read My Mind}
 {subtitle:Gordon Lightfoot}
-{metronome: 123}
+{metronome:123}
+{c:123 BPM}
 {zoom-ipad:1.090000}
 {ipodid: 8125172605633380621}
-[123BPM]
 [G]If you could read my mind love, [F]what a tale my thoughts could tell. 
 [G]Just like an old time movie, [F]'bout a ghost from a wishin' well. 
 [G]In a castle da[G7]rk or a for[C]tress strong, 

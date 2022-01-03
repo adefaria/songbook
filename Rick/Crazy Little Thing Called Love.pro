@@ -1,8 +1,8 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
-{metronome: 152}
+{metronome:152}
+{c:152 BPM}
 {ipodid: 9024644314861715998}
-[152BPM]
 Bass riff 2X    Finger Snap 2X[D][Dsus4][D]2X Vocals Enter
 
 This thing [D]called love. I [G]just can't [C]handle it. This [D]thing called love. I mus[G]t get roun[C]d to it. 

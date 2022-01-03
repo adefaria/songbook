@@ -1,7 +1,8 @@
 {title:From The Beginning}
+{subtitle:Emerson, Lake and Palmer}
 {metronome:133}
+{c:133 BPM}
 {zoom-ipad:1.451528}
-[133BPM]
 There might have been things I missed.
 But don't be unkind. It don't mean I'm blind.
 Perhaps there's a thing or two.

@@ -1,8 +1,8 @@
-{t:Things We Said Today}
-{st:Beatles}
+{title:Things We Said Today}
+{subtitle:Beatles}
 {zoom-ipad:1.190349}
 {metronome: 137}
-[137BPM]
+{c:137 BPM}
 
 [Am]You  say  [Em7]you will  l[Am]ove [Em7]me,    [Am]if   I   [Em7]have to [Am]go.
 Y[Am]ou'll be  t[Em7]hinking [Am]of  [Em7]me,   s[Am]omehow  [Em7]I  will k[Am]now.

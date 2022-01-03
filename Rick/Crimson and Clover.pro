@@ -1,7 +1,9 @@
 {title:Crimson and Clover}
+{subtitle:Tommy James and the Shondells}
 {zoom-ipad:1.180635}
-{t:Lead 10-3 Crims-o-Tron}
-[84BPM]Capo II
+{metronome:84}
+{c:84 BPM}
+{capo:2}
 
 [A]Ahhh, [E][D]Now I [E]don't hardly [A]know her. [E][D]
 But I [E]think I could [A]love her. [E][D]

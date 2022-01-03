@@ -1,8 +1,8 @@
-{t:Sunny Afternoon}
-{st:Kinks}
+{title:Sunny Afternoon}
+{subtitle:Kinks}
 {metronome: 123}
+{c:123 BPM}
 {ipodid: 7396147773529984164}
-[123BPM]
 Intro 2X
 [Dm]The tax man's taken [C7]all my dough, and [F]left me in my [C7]stately home,
 [A]Lazing on a [A7]sunny after[Dm]noon, 

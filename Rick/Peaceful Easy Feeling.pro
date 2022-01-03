@@ -1,9 +1,9 @@
-{t:Peaceful Easy Feeling}
+{title:Peaceful Easy Feeling}
 {subtitle:Eagles}
-{metronome: 143}
+{metronome:143}
+{c:143 BPM}
 {zoom-ipad: 1.040000}
 {ipodid: 9024644314861715739}
-[143BPM]
 [E][Esus4] 4X
 
 [E]I like the [A]way your sparkling [E]earrings [A]lay, [E]against your [A]skin so br[B7]own.

@@ -1,8 +1,8 @@
-{t:Black Water}
+{title:Black Water}
 {subtitle:Doobie Brothers}
-{metronome: 169}
+{metronome:169}
+{c:169 BPM}
 {ipodid: 9024644314861715655}
-[169BPM]
 D Tuning & chimes
 [Am7][D][Am7][D][Am7]
 

@@ -1,7 +1,8 @@
-{t:Crazy love}
-{st:Poco}
-{metronome: 82}
-[82BPM] CAPO 3
+{title:Crazy love}
+{subtitle:Poco}
+{metronome:82}
+{c:82 BPM}
+{capo:3}
 [Fmaj7][C]  
 Tonight I'm gonna [Fmaj7]break away
 [G]Just you [Fmaj7]wait and [C]see.

@@ -1,7 +1,7 @@
 {title:Lonely People}
-{metronome: 79}
+{metronome:79}
+{c:155 BPM}
 {zoom-ipad:1.059215}
-[155BPM]
 [G] [Em] [Bm]   2X
 [C][D][G][D][Em7]
 [C][D][G][D]

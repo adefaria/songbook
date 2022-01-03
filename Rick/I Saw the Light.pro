@@ -1,8 +1,8 @@
 {title:I Saw the Light}
 {Subtitle:Todd Rundgren}
-{metronome: 120}
+{metronome:120}
+{c:120 BPM}
 {zoom-ipad: 1.050000}
-[120BPM]
 [Dm7][G][Dm7][G][Dm7][G][C]
 
 It was [Dm7]late, last[G] night. I was [Dm7]feeling something wasn't [G]right.

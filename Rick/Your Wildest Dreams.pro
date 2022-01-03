@@ -1,5 +1,5 @@
-{t:Your Wildest Dreams}
-{st:Moody Blues}
+{title:Your Wildest Dreams}
+{subtitle:Moody Blues}
 Harmonics 
 [G]   [C] [C]  [D]   [D7]  2X
 
