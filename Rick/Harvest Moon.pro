@@ -1,9 +1,9 @@
-{t:Harvest Moon}
-{st:Neil Young}
+{title:Harvest Moon}
+{subtitle:Neil Young}
 {zoom-ipad: 1.183064}
-{metronome: 113}
+{metronome:113}
+{c:113 BPM}
 {ipodid: 8531294901563051731}
-[113BPM]
 [D][D/B][Dmaj7] 4X
 
 [Em7]Come a little bit closer, hear what I have to sa[D]y  [D/B]     [Dmaj7]

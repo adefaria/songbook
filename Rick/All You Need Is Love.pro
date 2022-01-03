@@ -1,9 +1,9 @@
 {title:All You Need Is Love}
 {Subtitle:Beatles}
 {zoom-ipad: 0.980000}
-{metronome: 103}
+{metronome:103}
+{c:103 BPM}
 {ipodid: 9024644314861715712}
-[103BPM]
 [G][D][C][D7][Em7][D7][A7][B7][Em]
  
 [G]Love, [D]love, [Em7]love. [G]Love, [D]love, [Em7]Love. [D7]Love. [G]Love. [D7/F#][D7][D][C][D]Cello.

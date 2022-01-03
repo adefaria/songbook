@@ -1,9 +1,9 @@
-{t:I Can See Clearly Now}
+{title:I Can See Clearly Now}
 {subtitle:Johnny Nash}
 {metronome:122}
+{c:122 BPM}
 {zoom-ipad:1.250000}
 {ipodid: 9024644314861715725}
-[122BPM]
 
 [D][G][D][G][A][D][G][D][C][G][D]
 

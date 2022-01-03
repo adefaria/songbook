@@ -1,8 +1,8 @@
 {title:If I Ever Loose My Faith In You}
 {subtitle:Sting}
-{metronome: 97}
+{metronome:97}
+{c:97 BPM}
 {zoom-ipad: 1.010000}
-[97BPM]
 Harmonica Need MP3
 Owe,
 You could say I lost my faith in science nd progress

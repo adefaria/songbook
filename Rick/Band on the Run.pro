@@ -1,7 +1,7 @@
-{t:Band on the Run}
-{st:Beatles/Wings}
-{metronome: 109}
-[109BPM]
+{title:Band on the Run}
+{subtitle:Beatles/Wings}
+{metronome:109}
+{c:109 BPM}
 Intro 2X
 [Dmaj7]Stuck inside these four [D]walls,
 [G]Sent inside forever,[G/A]

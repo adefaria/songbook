@@ -1,8 +1,9 @@
 {title:Take it Easy}
 {subtitle:The Eagles}
 {metronome: 139}
+{c:139 BPM}
 {zoom-ipad: 0.870000}
-[139BPM]    [G][C][D] 
+[G][C][D] 
 Well I'm a [G]runnin' down the road try'n to loosen my load I got Seven women [D]on my [C]mind.
 [G]Four that wanna own me, [D]two that wanna stone me [C]One says she's a friend of mine. [G]
 

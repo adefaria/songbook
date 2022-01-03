@@ -1,8 +1,8 @@
-{t:Norwegian Wood}
+{title:Norwegian Wood}
 {Subtitle:Beatles}
-{metronome: 88}
+{metronome:88}
+{c:88 BPM}
 {ipodid: 2993933410229733668}
-[88BPM]
 
 I once had a girl or should I say, she once had me.
 She showed me her room. Isin't it good Norwegian Wood?

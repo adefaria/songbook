@@ -1,9 +1,10 @@
-{title: Doctor My Eyes}
+{title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{metronome: 76}
+{metronome:76}
+{c:76 BPM}
 {time: 5:46}
 {ipodid: 9024644314861715726}
-[76BPM]Capo 1
+{capo:1}
 
 [E][D][A][E]
 [E]Doctor, my eyes have seen the years

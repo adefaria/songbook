@@ -2,7 +2,8 @@
 {subtitle:Creedence Clearwater}
 {zoom-ipad: 1.291768}
 {ipodid: 9187205883087858652}
-[116BPM]
+{metronome:116}
+{c:116 BPM}
 [Am][F][C][G][C] 2X
                     
 [C]Someone told me loong ago. There's a calm before the storm.

@@ -1,7 +1,9 @@
-{t:Mrs Robinson}
-{metronome: 160}
+{title:Mrs Robinson}
+{subtitle:Paul Simon}
+{metronome:160}
+{c:160 BPM}
 {zoom-ipad: 0.850000}
-[160BPM]CAPO 2
+{capo:2}
 
 [E7](De de [A]de de [D]de d[G]e de [C]de de.
 [Am]Do do [E7]doot do,[D] do, do, do. De, de, de, de)...

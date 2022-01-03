@@ -1,8 +1,9 @@
 {title:Our House}
+{subtitle:Graham Nash}
 {zoom-ipad: 0.930000}
-{metronome: 140}
+{metronome:140}
+{c:140 BPM}
 {ipodid: 9024644314861716144}
-[140BPM]
 [A]I'll light the [Amaj7]fire [F#m]You place the [A]flowers in the [D]vase That [A]you bought [D]today. [Dsus]
 
 [A]Staring at the [Amaj7]fire For [F#m]hours and [A]hours While I [D]listen [A]to you [D]play your love songs

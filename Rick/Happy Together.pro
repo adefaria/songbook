@@ -1,8 +1,11 @@
-{t:Happy Together}
-{metronome: 125}
+{title:Happy Together}
+{subtitle:The Turtles}
+{metronome:125}
+{c:125 BPM}
 {ipodid: 9024644314861715643}
-{time: 5:46}
-[125BPM]   Capo 2   Riff 2X
+{time:5:46}
+{capo:2}
+{c:Riff 2X}
 [Em]Imagine me and you, I do. I think about you da[D]y and night, it's only righht.
 To think about the gi[C]rl you love and hold her tight. So happy to[B]gether. 
 [Em]If I should (call you up), invest a dime. And you say you be[D]long to me and (ease my mind).

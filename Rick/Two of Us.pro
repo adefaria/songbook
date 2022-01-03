@@ -2,7 +2,7 @@
 {subtitle:Beatles}
 {zoom-ipad: 1.130000}
 {metronome: 112}
-[112BPM]
+{c:112BPM}
 [G]Two of us riding nowhere, spending someone's [C]hard [C/B]earned [Am7]pay
 [G]You and me Sunday driving, not arriving [C]on [C/B]our [Am]way back [G]home
 [D]We're on our way [G]home, [D]we're on our way [G]home, [C]we're going [G]home

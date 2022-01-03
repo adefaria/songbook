@@ -1,9 +1,9 @@
-{t:Lay Down Sally}
-{Subtitle:Clapton}
-{metronome: 192}
+{title:Lay Down Sally}
+{subtitle:Eric Clapton}
+{metronome:192}
+{c:192 BPM}
 {zoom-ipad: 1.210635}
 {ipodid: 9024644314861715728}
-[192BPM]
 [A]
 [A7]There is nothing that is wrong with wanting you to stay here with [D]me.
 I [A7]know you got somewhere to go but won't you make your self at home and [D]stay with me.

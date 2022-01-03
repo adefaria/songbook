@@ -1,5 +1,6 @@
 {title:Bus Stop}
- [90BPM]
+{metronome:90}
+{c:90 PBM}
 [Am][G] 2X
 
 [Am]Bus stop, [G]wet day, [Am]she's there, [G]I say

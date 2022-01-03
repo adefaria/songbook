@@ -1,8 +1,8 @@
 {title:Please, Please Me}
 {Subtitle:Beatles}
-{metronome: 137}
+{metronome:137}
+{c:137 BPM}
 {zoom-ipad: 0.930000}
-[137BPM]
 2 Bass notes then [E]harp & guitar 2X
 
 [E]Last night I said [A] [E]these words to my girl. [G] [A] [B] 

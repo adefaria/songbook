@@ -1,8 +1,8 @@
-{title: Ramblin' Man}
+{title:Ramblin' Man}
 {subtitle:Allman Brothers}
-{metronome: 181}
+{metronome:181}
+{c:181 BPM}
 {zoom-ipad: 1.140000}
-[181BPM]
 Capo 1 [G][D][C][G]
 
 **[G]Lord, I was [F]born a ramblin' [G]man, trying to make a living and

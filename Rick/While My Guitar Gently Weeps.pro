@@ -1,9 +1,9 @@
-{t:While My Guitar Gently Weeps}
+{title:While My Guitar Gently Weeps}
 {subtitle:Beatles}
 {metronome: 123}
+{c:132 BPM}
 {ipodid: 9024644314861715734}
 {zoom-ipad:1.120000}
-[123BPM]
 I [Am]look at you a[Am/G]ll see the [D/F#]love there that's sl[Fmaj7]eeping. 
 [Am]While my gui[G]tar gently [D]weeps.[E]
 I [Am]look at the f[Am/G]loor and I [D/F#]see it needs sweepin[Fmaj7]g. 

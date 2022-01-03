@@ -1,7 +1,8 @@
-{t:Get Together}
-{metronome: 103}
+{title:Get Together}
+{subtitle:Youngbloods}
+{metronome:103}
+{c:103 BPM}
 {zoom-ipad:1.125312}
-[103BPM]No Capo
 [A6][G][A] Riff
 [A]Love is but a song we sing and fear's the way we [G]die.
 [A]You can make mountains ring or make the angels [G]cry.

@@ -1,8 +1,9 @@
-{t:Love Will Keep Us Alive}
+{title:Love Will Keep Us Alive}
 {st:Eagles}
 {zoom-ipad: 1.090000}
 {ipodid: 9024644314861715738}
-[99BPM]
+{metronome:99}
+{c:99 BPM}
 [A]I was standing All alone against the [F#m]world outside You were [D]searching For a place to [E]hide
 Lost and [A]lonely Now you given me the [F#m]will to survive When we're [D]hungry... [E]love will keep us [A]alive
 

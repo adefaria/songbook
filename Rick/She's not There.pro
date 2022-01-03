@@ -1,8 +1,8 @@
-{title:Shes Not There}
+{title:She's Not There}
 {subtitle:The Zombies}
 {metronome: 132}
+{c:132 BPM}
 {zoom-ipad: 0.980000} 
-[132BPM]
 
 [Am]Well no one [D]told me a[Am7]bout [D]her. [Am]The [F]way she [Am]lied. [D]
 [Am7]Well no one [D]told me a[Am7]bout [D]her. [Am]How many [F]people [A]cried. 

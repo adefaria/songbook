@@ -1,10 +1,11 @@
 {title:Tin Man}
 {subtitle:America}
-{time: 5:46}
-{metronome: 172}
-{zoom-ipad: 1.310000}
-{ipodid: 9024644314861715633}
-[G][172BPM]
+{time:5:46}
+{metronome:172}
+{c:172 BPM}
+{zoom-ipad:1.310000}
+{ipodid:9024644314861715633}
+[G]
 
 [3Dsus4][D5][Gmaj7][Cmaj7][Gmaj7] 
 

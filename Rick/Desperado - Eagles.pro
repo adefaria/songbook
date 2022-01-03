@@ -1,8 +1,8 @@
 {title:Desperado}
-{st:Eagles}
-{metronome: 60}
+{subtitle:Eagles}
+{metronome:60}
+{c:60 BPM}
 {ipodid: 9024644314861715721}
-[60BPM]
 
 Despe[G]rado, [G7]why don't you [C]come to your sen[Cm]ses?
 You been [G]out ridin' fences for [A7]so long now[D7]

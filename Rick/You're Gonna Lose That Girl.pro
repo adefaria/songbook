@@ -1,6 +1,7 @@
 {title:Youre Gonna Lose That Girl}
 {subtitle:The Beatles}
-BPM 132
+{metronome:132}
+{c:132 BPM}
 
 You're gonna [E]lose that girl.[C#m]You're gonna [F#m7]lose that [B7]girrl.
 

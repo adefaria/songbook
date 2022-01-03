@@ -1,7 +1,9 @@
 {title:Seven Bridges Road}
+{subtitle:Eagles}
 {ipodid: 9024644314861715741}
 {time: 11:40}
-[110BPM]
+{metronome:110}
+{c:110 BPM}
 [D]There are [C]stars in the [G]Southern [D]skies
 [D]Southward [C]as you [G]go.[D]
 [D]There is [C]moonlight and [G]moss in the [D]trees,

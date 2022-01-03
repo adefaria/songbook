@@ -1,7 +1,10 @@
-{t:Take Me Home Country Roads}
+{title:Take Me Home Country Roads}
 {subtitle:John Denver}
 {zoom-ipad: 1.110000}
-[G][82BPM] Capo 2
+{key:G}
+{metronome:82}
+{c:82 BPM}
+{capo:2}
 
 Almost [G]heaven. [Em]West Virginia. [D]Blue Ridge Mountains. [C]Shenandoah [G]River.
 Life is old there. [Em]Older than the trees.

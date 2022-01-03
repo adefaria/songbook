@@ -1,8 +1,9 @@
 {title:Landslide}
-{metronome: 159}
+{subtitle:Fleetwood Mac}
+{metronome:159}
+{c:159 BPM}
 {ipodid: 9024644314861715730}
 {zoom-ipad:0.920000}
-[159BPM]
 Capo 3rd fret
 [C][G/B][Am7][G/B]
 [C]I took my lo[G/B]ve and I took it do[Am7]wn. [G/B]

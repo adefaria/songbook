@@ -2,7 +2,8 @@
 {subtitle:Beatles}
 {zoom-ipad: 1.040000}
 {metronome:113}
-[113BPM]Capo 1
+{c:113 BPM}
+{capo:1}
 
 D[A]esmond has a barrow in the market place,  Moll[E7]y is the singer in a band. [A]
 Desmond says to Molly, girl I[A7] like your face [D]and Molly says this as she takes him [A]by the hand. [E7] [A]

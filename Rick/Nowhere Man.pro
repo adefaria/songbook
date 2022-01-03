@@ -1,8 +1,8 @@
 {title:Nowhere Man}
 {Subtitle:Beatles}
 {metronome: 121}
+{c:121 BPM}
 {ipodid: 9024644314861716198}
-[121BPM]
 
 [E]He's a reeaal n[B]owhere man. [A]Sittting in his [E]nowhere lan.
 [F#m]Making all his [Am]no where plans for [E]no body. Doesn't have a [B]pointt of view. 

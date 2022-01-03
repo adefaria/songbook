@@ -1,7 +1,7 @@
 {title:The Letter}
 {metronome: 138}
+{c:138 BPM}
 {ipodid: 9024644314861715657}
-[138BPM]
 [Am]Give me a ticket for an [F]aeroplane, [Am]I Ain't got time to take no[D] fast train
 [Am]Oh the lonely days are gone, [F]I'm coming' home, My [E7]baby she wrote me a [Am]letter.
 

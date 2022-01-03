@@ -1,7 +1,7 @@
 {title:Brown Eyed Girl}
-{metronome: 151}
+{metronome:151}
+{c:151 BPM}
 {zoom-ipad:1.108163}
-[151BPM]
 
 [G][C][G][D]
 Hey where did we go? Days when the rains came.

@@ -1,7 +1,7 @@
-{t:Drift Away}
-{metronome: 75}
+{title:Drift Away}
+{metronome:75}
+{c:75 BPM}
 {ipodid: 3743290832943021706}
-[75BPM]
 
 [B]Day after day I'm more con[F#]fused [B]Yet I look for the [C#]light through the pourin' [F#]rain.
 [B]You know, that's a game, That I hate to [F#]lose and I'm [G#m]Feelin' the strain,[B] ain't it a shame.

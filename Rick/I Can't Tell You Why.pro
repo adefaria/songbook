@@ -1,7 +1,8 @@
 {title:I Can't Tell You Why}
-{Subtitle:Eagles}
+{subtitle:Eagles}
 {zoom-ipad: 1.503611}
-[85BPM]
+{metronome:85}
+{c:85 BPM}
 [Dmaj7][G][Bm][A][Bm][A]
 Look at us baby, up all night tearing our love apart.
 Won't be the same two people who lived through years in the dark.

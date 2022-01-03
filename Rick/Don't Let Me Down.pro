@@ -1,9 +1,9 @@
-{t:Dont Let Me Down}
+{title:Dont Let Me Down}
 {subtitle:Beatles Roof Top}
-{metronome: 82}
+{metronome:82}
+{c:82 BPM}
 {zoom-ipad: 1.150000}
 {ipodid: 9024644314861715751}
-[82BPM]
 [E]Don't let me [F#m]down. [F#m7] [Amaj7/B]Don't let me [E]down. 
 Don't let me [F#m]down. [F#m7] [Amaj7/B]Don't let me [Esus4]down. [E]
 
