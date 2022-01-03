@@ -1,4 +1,4 @@
-{title:Isnt it A Pity}
+{title:Isn't it A Pity}
 {subtitle:George Harrison}
 
 [G][C#m7-5/G][Cmaj7/G][G]

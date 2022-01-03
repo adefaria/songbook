@@ -1,4 +1,4 @@
-{title:Unkown Legend}
+{title:Unknown Legend}
 {subtitle:Neil Young}
 [G][C][G]
 [G]She used to work in a diner, never saw a woman look finer. 

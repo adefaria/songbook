@@ -1,4 +1,4 @@
-{title:Thats Just the Way It Is}
+{title:That's Just the Way It Is}
 {subtitle:Bruce Hornsby}
 [Am7][Em7][D][Cadd9][G][D][Cadd9] 2X Drums/Synth then Another 2X
 

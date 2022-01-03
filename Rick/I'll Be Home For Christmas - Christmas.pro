@@ -1,5 +1,5 @@
 {title: I'll Be Home For Christmas}
-{subtitle: Christmas}
+{subtitle:Bing Crosby}
 
 G	B5Dim	Am7	D7
 I'll be	 home for 	Chris	tmas

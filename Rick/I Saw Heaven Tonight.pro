@@ -1,6 +1,8 @@
-{title:I Saw Heaven Tonight This One} {subtitle:Ricksongs}
+{title:I Saw Heaven Tonight}
+{subtitle:Ricksongs}
 {time:8:00}
 {metronome:108}
+{c:108 BPM}
 {zoom-ipad:0.786484}
 User 94-2 Rich Strings Capo 2 or *3   Ab is [RR]
 

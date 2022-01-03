@@ -1,4 +1,4 @@
-{title: Hurt. Note}
+{title: Hurt}
 {subtitle:Johnny Cash}
 
  [Am] [C] [D] [Am] [C] [D]

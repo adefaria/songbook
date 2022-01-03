@@ -1,6 +1,10 @@
-{title: Dream Dream Dream}
-{subtitle: Everly Bros.}
+{title:Dream Dream Dream}
+{subtitle:Everly Bros.}
 {zoom-ipad: 1.136721}
+{metronome:96}
+{c:96 BPM}
+{capo:4}
+
 [C]Dream, drea[Am]m, [F]dream, dre[G7]am. [C]Dream, drea[Am]m, [F]dream, dre[G7]am.
 
 When I w[C]an[Am]t y[Dm7]ou i[G7]n my arms.

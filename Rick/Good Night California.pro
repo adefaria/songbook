@@ -1,6 +1,6 @@
-{title: Good Night California }
+{title: Good Night California}
 {subtitle:Kathleen Edwards}
-Capo 3
+{capo:3}
 
 You know what I [Em]wish?
 It was just you and [D]me

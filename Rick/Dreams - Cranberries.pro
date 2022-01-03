@@ -1,14 +1,6 @@
-{t:Dreams}
-{st:Cranberries}
+{title:Dreams}
+{subtitle:Cranberries}
 
-#
-#Originally tabbed by Charles Celestino
-#this version raises it a half tone to match the recording and makes corrections to lyrics.
-#
-#Tuning: Standard Tunning ( E A D G B e)
-#
-#Intro: E-A-B-E-; (2x)
-#
 [E]All my [A]life 
 is changin' everyd[B]ay, every possible w[E]ay
 [E]Though my dr[A]eams 

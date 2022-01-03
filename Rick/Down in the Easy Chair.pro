@@ -1,5 +1,5 @@
 {title:Down in the Easy Chair}
-{subtitle: Clouds so swift}
+{subtitle:Clouds so swift}
 [G]Clouds so swift
 [Am]Rain won't lift
 [C]Gate won't close

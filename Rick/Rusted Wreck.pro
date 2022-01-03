@@ -1,7 +1,8 @@
-{title: Rusted Wreck ** 11/25/20}
+{title:Rusted Wreck}
 {subtitle:Ricksongs}
 {zoom-ipad:0.956098}
-140 BPM
+{metronome:140}
+{c:140 BPM}
 {metronome:136}
 Capo 2 [Am][G][F][G][Riff] 2X
 [Am]There's a stranded old [G]rusted wreck, [F]sits proudly out [G]on the Cape, of [Am]Forever. [G][F][G][Riff]
