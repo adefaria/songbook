@@ -247,14 +247,16 @@ $chordpro = param('chordpro');
 
 if (-f $chordpro) {
   $infile = $chordpro;
-} elsif (-f "/opt/songbook/Andrew/$chordpro") {
-  $infile = "/opt/songbook/Andrew/$chordpro";
-} elsif (-f "/web/xmas/$chordpro") {
-  $infile = "/web/xmas/$chordpro";
-} elsif (-f "/opt/songbook/Banging the Beatles/$chordpro") {
-  $infile = "/opt/songbook/Banging the Beatles/$chordpro";
 } else {
-  $infile = $chordpro;
+  my @songbooks = qw(Andrew Rick Mikey Bluegrass Kent XMAS)
+
+  for (@songbooks) {
+    if (-f "/opt/songbook/$_/$chordpro") {
+      $infile = "/opt/songbook/$_/$chordpro";
+
+      last;
+    } # if
+  } # for
 } # if
 
 open my $file, '<', $infile
