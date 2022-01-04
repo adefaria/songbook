@@ -1,5 +1,5 @@
 {title:Might As Well Have A Good Time}
-{subtitle:CSN}
+{subtitle:Crosby, Stills and Nash}
 
 There are [G]windows on the [B7/F#]water lighting [Em]up the [G7/D]silver [C]strand
 [C]Shining on the [G/D]sea, [C]shining on the [G]sea. [C/G]  And the

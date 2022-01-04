@@ -1,5 +1,5 @@
 {title:Words}
-{subtitle:BGEES}
+{subtitle:Bee Gees}
 {zoom-ipad: 1.282914}
 Sm[G]ile an everlasting smile. [A]A smile can bring you near to me.
 Don't [D7]ever let me find you gone? 'Cause that would bring a [C/G]tear to [G]me.

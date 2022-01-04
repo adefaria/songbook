@@ -1,5 +1,5 @@
 {title:Kiss From A Rose}
-{subtitle:Capo on 3rd fret}
+{subtitle:Seal}
 {capo:3}
 
 [Em]Duba dab[D]u dub[E]iduu...

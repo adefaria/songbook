@@ -1,6 +1,6 @@
 {title:If Not For You}
-{subtitle:Bob Dylan/Harrison Version}
-Capo 5
+{subtitle:Bob Dylan}
+{capo:5}
 
 D  C G    D  C G (x2)
 I[G]f not for [D]you[C], [G]Babe, I couldn't even find the door[D], [C] [G]

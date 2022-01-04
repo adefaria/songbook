@@ -1,9 +1,9 @@
 {title:The Everlasting Muse}
-{subtitle:Belle & Sebastian}
+{subtitle:Belle and Sebastian}
 {time: 6:45}
 {ipodid:}
-Capo 2
-Key: F#m
+{capo:2}
+{key:F#m}
 
 [Em]I want to find this girl I know. I need to take her out
 I [D]set a snare in evening air.

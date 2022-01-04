@@ -1,5 +1,6 @@
 {title:Fields of Gold}
-Capo: 2
+{subtitle:Sting}
+{capo:2}
 
 You'll re[Bm]member me when the [G]west wind moves
 [G]Upon the fields of [D]barley.

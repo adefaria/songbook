@@ -1,5 +1,5 @@
 {title:Marrakesh Express}
-{subtitle:CSN}
+{subtitle:Corsby, Stills and Nash}
 7th Fret G
 [G]Looking at the world through the [Dm]sunset in your eyes
 [G]Travelling on the train through the [Dm]clear Moroccan skies
