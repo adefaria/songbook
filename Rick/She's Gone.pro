@@ -1,5 +1,5 @@
 {title:Shes Gone}
-{subtitle:Hall & Oates}
+{subtitle:Hall and Oates}
 
 [A]Everybody's high on conso[B]lation
 Everybody's trying to tell me

@@ -2,7 +2,7 @@
 {zoom-ipad: 0.728784}
 {Donovan (1965)}
 
-Capo: 3rd fret
+{capo:3}
 
 In the [C]chilly hours and [F]minutes Of un[C]certainty, 
 I [F]want to be, [C]In the warm hold [F]of your [G]loving [C]mind [G]

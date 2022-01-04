@@ -1,5 +1,5 @@
 {title:I'm a Believer}
-{subtitle:Monkees}
+{subtitle:The Monkees}
 {Key: G}
 
 [G7] [C] [G]

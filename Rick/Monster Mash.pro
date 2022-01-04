@@ -1,5 +1,5 @@
 {title:Monster Mash}
-{subtitle:Boris & The Crypt-Kicker Five}
+{subtitle:Boris and the Crypt-Kicker Five}
 {zoom-ipad: 0.820732}
 I was [G]working in the lab late one night. When my [Em]eyes beheld an eerie sight.
 For my [Am7]monster from his slab began to rise. And [D7]suddenly to my surprise.

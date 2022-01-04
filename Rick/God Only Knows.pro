@@ -1,6 +1,6 @@
 {title:God Only Knows}
 {zoom-ipad:0.760000}
-Capo: 2
+{capo:2}
 
 [G][D/F#][Em7][G/D][A/E][Abm5][C/G][Am][Em][A7/G]
 [Bbdim7][D/A][A][D][Abm7][F][Dm6][G/B][Am7][D7][Ebdim][C#min7]

@@ -1,6 +1,6 @@
 {define:aaaa}
 {title:Lay Me Down}
-{subtitle:Crosby & Nash}
+{subtitle:Crosby and Nash}
 Tunning Eb Ab Db Gb Bb Eb
 Intro chords:[Em][Em7][A][D7][Em][D6][A][G6][Cadd9]
 

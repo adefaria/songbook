@@ -1,5 +1,5 @@
 {title:Wasted On The Way}
-{subtitle:CSN}
+{subtitle:Crosby, Stills and Nash}
 {zoom-ipad:1.055218}
 [D]
 [D]Look around me.  I can se[Bm]e my life before me. 

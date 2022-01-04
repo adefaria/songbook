@@ -1,5 +1,5 @@
 {title:Daydream Believer}
-{subtitle:Monkees}
+{subtitle:The Monkees}
 {Key: G}
 
 {c:Intro}

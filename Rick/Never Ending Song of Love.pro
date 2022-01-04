@@ -1,6 +1,6 @@
 {title:Never Ending Song of Love}
-{subtitle:Bonnie Delany & Friends.}
-{zoom-ipad: 0.974968} 1971
+{subtitle:Bonnie Delany}
+{zoom-ipad: 0.974968}
 
 I've got a [C]never ending love for [G]you. From now on that's all I wanna [C]do.
 From the first time we met I [G]knew, I'd have never ending love for [C]you. STOP

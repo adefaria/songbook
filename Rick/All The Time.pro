@@ -1,6 +1,7 @@
 {title:All The Time}
-Artist: Bahamas
-Capo: 1
+{subtitle:Bahamas}
+{capo:1}
+
 The skeleton of this song is super simple, he's just doing some cool stuff on top of it.  The chords pretty much  just rock back and forth between E and E6, and then A and A6.  I'm also convinced the recording is pitched up or down a quarter tone because it doesn't match any standard pitches.
 
                   I've got

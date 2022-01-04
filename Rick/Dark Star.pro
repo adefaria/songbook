@@ -1,5 +1,5 @@
 {title:Dark Star}
-{subtitle:CSN}
+{subtitle:Crosby, Stills and Nash}
 percussion 4 measures
 [Am][G][Am][G]
 

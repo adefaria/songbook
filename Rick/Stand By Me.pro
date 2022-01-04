@@ -1,7 +1,7 @@
 {title:Stand By Me}
 {zoom-ipad:0.957812}
 {ipodid:}
-Capo: II 
+{capo:2}
 Bass intro over verse
 Guerou
 
