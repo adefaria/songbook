@@ -1,4 +1,4 @@
-{title: Dance to the Music}
+{title:Dance to the Music}
 {zoom-ipad: 0.907218}
 
 [G][

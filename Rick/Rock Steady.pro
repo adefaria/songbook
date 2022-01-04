@@ -31,7 +31,7 @@ And I got to get ready, yeah
 Clo-o-o-ose my eyes
 And I let myself go (rock steady) wooo wooo
 I Listen to yeah and I let the music flow
-Yeah it’s flowin’ now
+Yeah it's flowin' now
 Turn on your light
 And stay with me awhile
 And ease your worried mind

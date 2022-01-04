@@ -1,5 +1,5 @@
-{title: Eight more miles to Louiville}
-{subtitle: Grandpa Jones}
+{title:Eight more miles to Louiville}
+{subtitle:Grandpa Jones}
 
 [G] [D] [G] [C] [G] [D] [G]
 [G] [D] [G] [C] [G] [D] [G]

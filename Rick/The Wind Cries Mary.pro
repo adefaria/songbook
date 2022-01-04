@@ -1,5 +1,5 @@
-{t:The Wind Cries Mary}
-{st:Jimi Hendrix}
+{title:The Wind Cries Mary}
+{subtitle:Jimi Hendrix}
 {c:Intro |:  Eb    E  F     Eb   E  F :| (use barre chords)}
 [C]After all the [Bb]jacks are in their [F]boxes
 [C]And the clowns have [Bb]all gone to [F]bed

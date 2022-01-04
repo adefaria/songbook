@@ -1,5 +1,5 @@
 {title:**New song chords}
-{subtitle: }
+{subtitle:}
 
 Capo2
 

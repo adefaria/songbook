@@ -1,5 +1,5 @@
-{t:Poor Side Of Town}
-{st:Johnny Rivers}
+{title:Poor Side Of Town}
+{subtitle:Johnny Rivers}
 
 [Emaj7]Doo..do..do..do..wah.....shoo..bee..[F#m7doo..bee. 2x
 

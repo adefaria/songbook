@@ -1,5 +1,5 @@
-{title: Handle with Care}
-{subtitle: Harrison }
+{title:Handle with Care}
+{subtitle:Harrison }
 {pause:10}
 
 [D]Been beat[C] up and b[G]attered around

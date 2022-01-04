@@ -1,7 +1,7 @@
-{title: Everybody Come Dancing}
+{title:Everybody Come Dancing}
 
-{t:Come Dancing}
-{st:Kinks}
+{title:Come Dancing}
+{subtitle:Kinks}
 
 [G]They put a parking lot on a piece of [D]land
 [D]Where the supermarket used to st[G]and.

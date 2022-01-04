@@ -1,6 +1,6 @@
 
-{t:Witchy Woman}
-{st:Eagles}
+{title:Witchy Woman}
+{subtitle:Eagles}
 {ipodid:}
 
 INTRO:  Gm |: F Dm :| Gm |: Gm play 4 times :|

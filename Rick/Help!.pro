@@ -1,5 +1,5 @@
-{title: Help!}
-{subtitle:Beatles }
+{title:Help!}
+{subtitle:Beatles}
 {pause:10}
 [Bm]Help!  I need somebody  [G]Help!   not just anybody 
 [E7]Help!  You know i need someone   [A]HELP!

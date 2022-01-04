@@ -1,5 +1,5 @@
 
-{t:Dont Let The Sun Go Down On Me}
+{title:Dont Let The Sun Go Down On Me}
 
 #A
 #A#

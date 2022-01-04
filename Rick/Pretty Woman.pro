@@ -1,5 +1,5 @@
-{t:Pretty Woman}
-{st:Roy Orbison}
+{title:Pretty Woman}
+{subtitle:Roy Orbison}
 {c: A} = play riff up to D..... {c: B} = full riff
 
 [E]    ....{c: A} ....{c: A} ..{c: B} ..{c: B} ..{c: B} ..{c: B}

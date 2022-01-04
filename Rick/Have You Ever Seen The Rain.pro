@@ -1,5 +1,5 @@
 {title:Have You Ever Seen The Rain}
-{subtitle:Creedence Clearwater}
+{subtitle:Creedence Clearwater Revival}
 {zoom-ipad: 1.291768}
 {ipodid: 9187205883087858652}
 {metronome:116}
@@ -18,7 +18,7 @@ I [G]know. Shining down like [C]watar
 [C]Yesterday and days befoe. The sun is cold and rain is hard. 
 I [G]know. Been that way for [C]*hall my time.
 'Til forever hon it goes. Thru the circle fast and slow. Ih [G]know. 
-h’It can't stop, I [C]wonder.
+h'It can't stop, I [C]wonder.
 
 **Chorus 2X Yeah! After 1st
 

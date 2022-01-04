@@ -1,5 +1,5 @@
-{t:One Way Out}
-{subtitle:Allman Bros.}
+{title:One Way Out}
+{subtitle:Allman Brothers}
 {zoom-ipad: 1.207031}
 
 1:02 is where the singing begins

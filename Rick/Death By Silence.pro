@@ -1,4 +1,4 @@
-{title: Death By Silence}
+{title:Death By Silence}
 {subtitle:Ted Savage}
 
 The last echoes of your laugh are fading away

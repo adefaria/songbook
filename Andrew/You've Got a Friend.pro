@@ -1,5 +1,5 @@
 {title:You Got a Friend}
-{st:James Taylor}
+{subtitle:James Taylor}
 {key:G}
 
 {c:Intro}

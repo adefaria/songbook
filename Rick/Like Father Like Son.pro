@@ -1,5 +1,5 @@
-{title: Like Father, Like Son}
-{subtitle:Ricksong }
+{title:Like Father, Like Son}
+{subtitle:Rick Lecksell }
 
 [Em] [C] [D] [Em]
 [Em] [C] [G][Em]

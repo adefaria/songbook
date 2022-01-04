@@ -1,2 +1,2 @@
-{title: Sanibel}
-{subtitle:Ricksongs}
+{title:Sanibel}
+{subtitle:Rick Lecksell}

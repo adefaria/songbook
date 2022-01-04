@@ -23,7 +23,7 @@ No music
 You tell me to leave you alone   (oop, oop, oop, oop)
 My father said, Come on home     (oop, oop, oop, oop)
 My doctor said, Take it easy     (oop, oop, oop, oop)
-Oh, but your lovin’ is much too strong  (oop, oop, oop, oop)
+Oh, but your lovin' is much too strong  (oop, oop, oop, oop)
 [Cm7]I'm added to your
 
 [Cm]Chain, chain, c[Cm7]hain   (Chain, chain, chain)

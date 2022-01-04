@@ -1,7 +1,5 @@
 {title:Penny Lane}
-{subtitle: The Beatles  1967 (Magical Mystery Tour) *}
-Penny Lane chords
-The Beatles  1967 (Magical Mystery Tour) *
+{subtitle:Beatles}
 
 Capo II
 

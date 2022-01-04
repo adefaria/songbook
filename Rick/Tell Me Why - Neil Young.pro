@@ -1,5 +1,5 @@
 {title:Tell Me Why}
-{st:Neil Young}
+{subtitle:Neil Young}
 {metronome:80}
 {c:90 BPM}
 {pause:10}

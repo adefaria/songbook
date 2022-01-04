@@ -1,5 +1,5 @@
 {title:Strange Magic}
-{subtitle:Jeff Lynne ELO}
+{subtitle:Electric Light Orchestra}
 Yo[G]u're sailing s[G+]oftly through the s[G]un. 
 in a b[G+]roken stone age d[G]awn
 You f[G+]ly so h[Em]igh.

@@ -1,4 +1,4 @@
-{title: RAIN}
+{title:RAIN}
 {subtitle:Beatles}
 
 If the [G]Rain comes they [C]run and [D]hide their [G]heads

@@ -1,5 +1,5 @@
 {title:Try A Little Tenderness}
-{st:Otis Redding}
+{subtitle:Otis Redding}
 
 [G]   Ooh [Em7]they do get weary      [Am]
 Young g[D]irls they do get weary

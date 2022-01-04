@@ -9,7 +9,7 @@ Intro [G] [D/F#][Em7][G/D][A/E][Bb/F][C/G]
 
 [C/G]I may not always [Am]love you.
 [Em]But long[Em7] as there are [A]stars above you.
-[D/A]You’ll never [Bbdim7]need to doubt it.
+[D/A]You'll never [Bbdim7]need to doubt it.
 [D/A]I'll make [Abm7]you so sure about it.
 
 [G]God only [D/F#]knows what I'd [Em7]be without [D]you.

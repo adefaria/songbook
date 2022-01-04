@@ -1,5 +1,5 @@
 {title:She Belongs to Me}
-{subtitle: }
+{subtitle:}
 (open E-string) - G
 
 [G]She's got everything she needs,

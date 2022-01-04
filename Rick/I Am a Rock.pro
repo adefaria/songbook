@@ -1,5 +1,5 @@
-{title: I Am a Rock}
-{subtitle:Simon & Garfunkel}
+{title:I Am a Rock}
+{subtitle:Simon and Garfunkel}
 {pause:10}
 (capo 3rd fret)
 

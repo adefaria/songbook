@@ -115,11 +115,11 @@ sub chopro2html ($$) {
 
   my $artist = "Unknown";
 
-  if (($chopro =~ /^\{title:\s*(.*)\}/mi) || ($chopro =~ /^\{t:\s*(.*)\}/mi)) {
+  if (($chopro =~ /^\{title:\s*(.*)\}/mi) || ($chopro =~ /^\{title:\s*(.*)\}/mi)) {
     $title = $1;
   } # if
 
-  if (($chopro =~ /^\{subtitle:\s*(.*)\}/mi) || ($chopro =~ /^\{st:(.*)\}/mi)) {
+  if (($chopro =~ /^\{subtitle:\s*(.*)\}/mi) || ($chopro =~ /^\{subtitle:(.*)\}/mi)) {
     $artist = $1;
   } # if
 

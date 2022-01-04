@@ -1,8 +1,8 @@
 {title:When You Say Nothing at All}
-{subtitle: by Alison Krauss}
+{subtitle:Alison Krauss}
 {zoom-ipad: 1.075000}
+{capo:1}
 
-Capo on 1st fret
 [D] [A/G] [A] 2X
 
 [D]It's am[A]azing how y[G]ou can speak r[A]ight to my h[D]eart [A] [G] [A]

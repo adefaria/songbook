@@ -1,5 +1,5 @@
 {title:Stormy Monday}
-{subtitle:Allman}
+{subtitle:Allman Brothers}
 
                 [G7]They call it stormy Monday[C9],  [G7]but T[Ab7]uesday's just as [G7]bad
                 [C9]They call it stormy Monday, but [G7]Tuesday's [Am7]just [Bm7]as bad [Bb7]

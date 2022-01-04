@@ -1,11 +1,11 @@
-{title: Don't Nobody Sing To Me Like Lucille}
+{title:Don't Nobody Sing To Me Like Lucille}
 {subtitle:Lucille}
 
 Some might sing better
 But nobody got more soul
 Nobody I know sing better than Lucille.
 Nobody I know.
-Lucille’s always been the one for me.
+Lucille's always been the one for me.
 
 She been singing to me for so long.
 For such a long, long time. 
@@ -18,7 +18,7 @@ Sweeter than any honey bee.
 
 She treat me so good I begin to feel special.
 When I hear her call my name.
-I don’t have to sing the blues,
+I don't have to sing the blues,
 When Lucille starts to sing to me. 
 
 

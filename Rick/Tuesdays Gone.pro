@@ -1,4 +1,4 @@
-{t:Tuesdays Gone}
+{title:Tuesdays Gone}
 {time: 11:40}
 {ipodid:}
 

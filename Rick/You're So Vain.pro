@@ -1,4 +1,4 @@
-{t:Your So Vain}
+{title:Your So Vain}
 {zoom-ipad:1.070000}
 [Am]You walked into a party; like you were wa[F]lking on to a ya[Am]cht
 Your hat, strategically dipped below one eye; your [F]scarf it was apri[Am]cot

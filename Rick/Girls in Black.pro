@@ -1,4 +1,4 @@
-{title: Girls in Black}
+{title:Girls in Black}
 
 Angel by day, devil at night
 A woman in black makes the mood just right

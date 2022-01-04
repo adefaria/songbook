@@ -1,5 +1,5 @@
 {title:China Grove}
-{st:The Doobie Brothers}
+{subtitle:The Doobie Brothers}
 {zoom-ipad:0.950000}
 BPM 144
 [E][D][A][E][D][A]
@@ -16,7 +16,7 @@ Whoa, oh, China Grove. [E][D][A][E]
 
 Well, the [E]preacher and the teacher. Lord, they are a bust. [D]They are the [A]talk of the town. 
 [E]When the gossip gets to flyin' and they ain't lyin' when the [D]sun goes [A]fallin' down. 
-[E]They [C#m]say that the father's been pl[B]ayn’. [Bsus4]
+[E]They [C#m]say that the father's been pl[B]ayn'. [Bsus4]
 [B]With [A]dear Miss [Bb7]Perkin's [B7]a[C7]gain. 
 
 *Chorus
@@ -28,8 +28,8 @@ The sheriff and his buddies with their samuari swords.
 [F#]You can even hear the [F#sus4]mu-sick [F#]at night. [F#sus4][F#][G#m]
 [B]And [C#m7]though it's a part of the Lone Star State. [F#m7]
 The people don't seem to care. [C#m7]
-[A]They’ll just keep on, [Asus4]lookin' [A]to the East.
+[A]They'll just keep on, [Asus4]lookin' [A]to the East.
 
 [C][D][E][C][D][E] 
-Talkin’ bout your town. Whoa, oh, oh, China Grove.
+Talkin' bout your town. Whoa, oh, oh, China Grove.
 Whoa, oh China Grove. 

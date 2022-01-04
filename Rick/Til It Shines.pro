@@ -1,4 +1,4 @@
-{t:Till It Shines}
+{title:Till It Shines}
 
 [C]Take a[Em]way my inhi[Am]bitions[G]
 [C]Take [Em]away my sol[Am]itude[G]

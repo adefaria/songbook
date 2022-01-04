@@ -21,7 +21,7 @@ You see, it's all clear.
 You were meant to be here. 
 From the beginning.
 
-[...]They say that this love’s a gift. Let's not let it go.
+[...]They say that this love's a gift. Let's not let it go.
 It's worth more than you know.
 Perchance we could start again. 
 And try something new. I've got something for you.

@@ -1,5 +1,5 @@
 {title:Lucky Man}
-{st:Emerson, Lake and Palmer}
+{subtitle:Emerson, Lake and Palmer}
 {ipodid: 1828180435211800104}
 {zoom-ipad:1.154919}
 

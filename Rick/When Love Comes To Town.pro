@@ -1,6 +1,5 @@
-{t:When Love Comes To Town}
-{st:U2 with B.B. King}
-
+{title:When Love Comes To Town}
+{subtitle:U2}
 
 [E]Yeah, yeah, yeah, yeah, [A]yea[E]h
 [E]Yeah, yeah, yeah, yeah, [A]yea[E]h.

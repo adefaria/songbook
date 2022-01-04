@@ -1,4 +1,4 @@
-{t:Eleanor Rigby}
+{title:Eleanor Rigby}
 {subtitlte:Beatles}
 
 

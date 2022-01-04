@@ -1,4 +1,4 @@
-{t:Johnny's Garden}
+{title:Johnny's Garden}
 
 [G5]    [C/G]     [G7sus]  G5  C[C/G]/G G7[G5]sus [C/G]     [G7sus]C/G [C/G]
 

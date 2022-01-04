@@ -1,4 +1,4 @@
-{t:Hurts So Good}
+{title:Hurts So Good}
 [EA] [AE] [EA] [EE]                 
 [A]When I was a you[E]ng boy, [F#m] said put away those y[D]oung boy ways
 [A] Now that I'm gettin' [E]older, so much older [F#m]I love all those you[D]ng boy days.

@@ -1,7 +1,6 @@
-Proud Mary
-Creedence Clearwater Revival
-Key: G
-
+{title:Proud Mary}
+{subtitle:Creedence Clearwater Revival}
+{key:G}
 
 Intro:
 [F]     [D]     [F]     [D]     [F]     [D]     [C]     [Bb]      [C]     [G]

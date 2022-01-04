@@ -1,4 +1,4 @@
-{t:Eight Miles High}
+{title:Eight Miles High}
 {subtitle:Byrds}
 
 [Em]Eight [F#m7]miles [G]high [D]and when you [C]touch down

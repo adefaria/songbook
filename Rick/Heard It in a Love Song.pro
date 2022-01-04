@@ -1,5 +1,5 @@
-{t:Heard It in a Love Song}
- {st:The Marshall Tucker Band}
+{title:Heard It in a Love Song}
+ {subtitle:The Marshall Tucker Band}
 [D][F#m][A][G][D][F#m][G][D] 
 I ain't n[D]ever been with a woman long enough [F#m]for my boots to get old. 
 B[G]ut we've been together so long now. That they b[D]oth need resoled. 

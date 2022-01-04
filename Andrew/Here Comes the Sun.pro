@@ -1,5 +1,5 @@
-{t:Here Comes the Sun}
-{st:George Harrison}
+{title:Here Comes the Sun}
+{subtitle:George Harrison}
 {key:A}
 {capo:7}
 

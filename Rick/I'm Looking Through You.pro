@@ -1,5 +1,5 @@
-{title: I'm Looking Through You}
-{subtitle:Beatles }
+{title:I'm Looking Through You}
+{subtitle:Beatles}
 {pause:10}
 [G]I'm [C]looking [Am]through you, [Em]where did you [D]go
 [G]I   [C]thought [Am]I knew you, [Em]what did I [D]know

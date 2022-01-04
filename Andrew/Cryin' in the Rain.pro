@@ -1,5 +1,5 @@
-{t:Cryin' in the Rain}
-{st:Cast of Shadows}
+{title:Cryin' in the Rain}
+{subtitle:Cast of Shadows}
 {key:G}
 
 [G] [D]

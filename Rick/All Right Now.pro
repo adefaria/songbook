@@ -1,5 +1,5 @@
-{t:All Right Now}
-{st:Free}
+{title:All Right Now}
+{subtitle:Free}
 {zoom-ipad:1.176719}
 
 There she [A]stood in [D]the [A]street

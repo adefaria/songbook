@@ -1,4 +1,4 @@
-{t:Time For Me To Fly}
+{title:Time For Me To Fly}
 {zoom-ipad: 0.930000}
 
 [D]I've been around for you. [A/C#]Been up and down for you. 

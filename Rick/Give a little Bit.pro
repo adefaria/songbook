@@ -1,4 +1,4 @@
-{title: Give a little Bit}
+{title:Give a little Bit}
  A7   D   A7   D     G   A7   G   A7   G  
 [D]D   [A7]     [D]     [G]    [A7] A7  [G] D  [A7]     [G]           G         A7          G   A7    
   Give a little bit      Give a little bit   of your   love to me 

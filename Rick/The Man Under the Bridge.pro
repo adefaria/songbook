@@ -1,5 +1,5 @@
-{title: The Man Under the Bridge}
-{subtitle: Ricksongs}
+{title:The Man Under the Bridge}
+{subtitle:Rick Lecksell}
 
 There's a man who lives under the bridge 
 where the tall grasses grow.

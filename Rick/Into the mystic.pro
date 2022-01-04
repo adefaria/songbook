@@ -1,4 +1,4 @@
-{t:Into the mystic}
+{title:Into the mystic}
 Capo 3
 [C]We were born before the wind, Also younger than the sun
 [G]'Ere the bonny boat was won, As we sailed into th[C]e mystic

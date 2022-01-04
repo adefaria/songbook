@@ -1,5 +1,5 @@
 {title:Down By The River}
-{st:Neil Young}
+{subtitle:Neil Young}
 {zoom-ipad: 1.150453}
 [Em7]            [A]          [Em7]            [A] 
 [Em7]Be on my side, I'll [A]be on your side, baby, [Em7]there is no reason for [A]you to hide 

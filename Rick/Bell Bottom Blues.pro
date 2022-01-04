@@ -1,5 +1,5 @@
 {title:Bell Bottom Blues}
-{subtitle: Eric Clapton}
+{subtitle:Eric Clapton}
 [B][C][D][C][E7][Am][C][F][G] [F][G]
 Bell Bottom [C]Blues you [E7]made me [Am]cry. [C]
 I don't wanna [F]lose this feeling. [G][F][G]

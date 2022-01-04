@@ -1,5 +1,5 @@
-{t:Hotel California}
-{st:Eagles}
+{title:Hotel California}
+{subtitle:Eagles}
 {time:11:34}
 
 [Bm][F#][A][E][G][D][Em][F#] 2X

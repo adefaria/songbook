@@ -1,5 +1,5 @@
-{t:I Still Can't Say Goodbye}
-{st:Chet Atkins}
+{title:I Still Can't Say Goodbye}
+{subtitle:Chet Atkins}
 {key:A}
 
 

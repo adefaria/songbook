@@ -1,5 +1,5 @@
 {title:Pontoon}
-{subtitle: }
+{subtitle:}
 
 [Intro]
  [A]

@@ -1,4 +1,4 @@
-{t:Cover Me}
+{title:Cover Me}
 {zoom-ipad:0.937891}
 
 [Am]The times are tough now, keep getting tougher

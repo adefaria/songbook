@@ -2,11 +2,11 @@
 {subtitle:Emerson, Lake and Palmer}
 {zoom-ipad:1.080001}
 
-[Dmadd9]C’est la vie. Have your [Cadd9]leaves all turned to brown?
-[Bb6#11]Will you scatter [Cadd9]them around you? [Dmadd9]C’est la vie.
+[Dmadd9]C'est la vie. Have your [Cadd9]leaves all turned to brown?
+[Bb6#11]Will you scatter [Cadd9]them around you? [Dmadd9]C'est la vie.
 
-[Dmadd9]Do you love? And then [Cadd9]how am I to know? If yo[Bb6#11]u don’t let your [Cadd9]love show for me?
-[Dmadd9]C’est la vie. [Gm6]Oh, oh, c'est [Dmadd9]la vie. 2X
+[Dmadd9]Do you love? And then [Cadd9]how am I to know? If yo[Bb6#11]u don't let your [Cadd9]love show for me?
+[Dmadd9]C'est la vie. [Gm6]Oh, oh, c'est [Dmadd9]la vie. 2X
 
 [Em7b5]Who knows, w[E7b5]ho cares f[Asus4]or me?
 [Dmadd9]C'est la vie.

@@ -1,5 +1,5 @@
 {title:Kodachrome}
-{subtitle:Simon & Garfunkel}
+{subtitle:Simon and Garfunkel}
 {metronome:136}
 {c:136 BPM}
 

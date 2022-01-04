@@ -1,5 +1,5 @@
-{t:I'm Your Captain}
-{st:Grand Funk Railroad}
+{title:I'm Your Captain}
+{subtitle:Grand Funk Railroad}
 {key:D}
 
 {c:Intro}

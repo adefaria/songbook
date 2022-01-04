@@ -1,5 +1,5 @@
-{t:Give a Little Bit}
-{st:Roger Hodgson}
+{title:Give a Little Bit}
+{subtitle:Roger Hodgson}
 {key:D}
 
 [A7] [D] [A7] [D] [G] [A7] [G] [A7] [G] [D]

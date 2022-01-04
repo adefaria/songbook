@@ -1,4 +1,4 @@
-{title: Pink Floyd}
+{title:Pink Floyd}
 {subtitle:Pink Floyd }
 
 Us, and them

@@ -1,4 +1,4 @@
-{t:Everything She Does is Magic}
+{title:Everything She Does is Magic}
 
 G A G/B A/C# (x2)
 

@@ -1,5 +1,5 @@
 {title:Margaritaville}
-{subtitle:Jimmy Buffet}
+{subtitle:Jimmy Buffett}
 {zoom-ipad:1.042217}
 {metronome:125}
 {c:125 BPM}

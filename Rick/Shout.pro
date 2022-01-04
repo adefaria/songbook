@@ -1,4 +1,4 @@
-{t:Shout}
+{title:Shout}
 We-eee-eeel....
 You know you make me wanna (Sh[F]out!) Kick my heels up and (Sho[Dm]ut!)
 Throw my hands up and (Sh[F]out!) Throw my head back and (Sh[Dm]out!)

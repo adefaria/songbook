@@ -8,7 +8,7 @@ Lonely s[E]ailors pass the [G#m]time aw[C#m]ay, and [F#m]talk a[A]bout their [E]
 There's a g[E]irl, in this [G#m]harbor to[C#m]wn and she w[F#m]orks, layin' w[D]hiskey do[A]wn.
 They say Br[E]andy, fetch ano[G#m]ther roun[C#m]d and she [F#m]serves them whis[A]key and wine. [E]
 
-***The sailors say B[C#m]randy you're a f[A]ine girl (you’re a fine girl)
+***The sailors say B[C#m]randy you're a f[A]ine girl (you're a fine girl)
 What a [C#m]good wife you would [A]be (such a fine girl)
 Your [E]eyes could steal a [B/E]sailor from the [A]se[E]a [A](do,do...)
 
@@ -29,6 +29,6 @@ And [E]Brandy does her [B/E]best to under[A]sta[E]nd [A](do,do...)
 At [E]night when the[G#m] bars close [C#m]down, [F#m]Brandy [A]walks through a [D]silent [A]town
 And [E]loves a man who's[G#m] not [C#m]around, She [F#m]still can [A]hear him [E]say she hears him say:
 
-Say [C#m]Brandy you're a [A]fine girl (you’re a fine girl)
+Say [C#m]Brandy you're a [A]fine girl (you're a fine girl)
 What a [C#m]good wife you would [A]be (such a fine girl)
 But my [E]life, my lover, my [B/E]lady is the [A]sea[E] d[A]o, [A]do.[E]

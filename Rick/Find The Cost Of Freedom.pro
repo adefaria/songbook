@@ -1,2 +1,2 @@
-{title: Find The Cost Of Freedom}
+{title:Find The Cost Of Freedom}
 {subtitle:CSN}

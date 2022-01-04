@@ -1,4 +1,4 @@
-{t:Running On Empty}
+{title:Running On Empty}
 {subtitle:Jackson Browne}
 
 Tuning C G D G B D

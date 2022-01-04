@@ -1,12 +1,12 @@
-{t:Feel A Whole Lot Better}
-{st:Byrds}
+{title:Feel A Whole Lot Better}
+{subtitle:Byrds}
 134 BPM 1st guitar - then 2nd guitar
 
 [A]The reas-on why. Oh I can't saay. 
 I have to let you [E]go baabe. And right a[F#m]waay.
 [B]After what you [A]did. 
 I can't stay [D]o-n.
-[Bm]And I’ll probably [A](Feel a whole lot [E]better, when you're [D]go-ne.) [A]
+[Bm]And I'll probably [A](Feel a whole lot [E]better, when you're [D]go-ne.) [A]
 Short riff
 
 [A]Baby for a long time. (Baby for a long time.)

@@ -1,5 +1,5 @@
 {title:Ventura Highway}
-{subtitle:Anerica}
+{subtitle:America}
 {metronome: 131}
 {c:131 BPM}
 {ipodid: 9024644314861715729}

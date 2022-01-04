@@ -1,4 +1,4 @@
-{t:Born On The Bayou}
+{title:Born On The Bayou}
 
 N[E7]ow, when I was [E]just a little boy,
 Standin' to my Daddy's knee,

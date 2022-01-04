@@ -1,6 +1,7 @@
-{title: Color My World}
-{subtitle: Chicago}
-[Fmaj7][Bb]AS TIME[C] GOES O[Fmaj7]N
+{title:Color My World}
+{subtitle:Chicago}
+
+[Fmaj7][Bb]AS TIME[C] GOES O[Fmaj7]N
 
 I REALI[Am]ZE JUST WHAT YOU
 

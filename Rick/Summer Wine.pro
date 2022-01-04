@@ -1,5 +1,5 @@
 {title:Summer Wine}
-{subtitle: }
+{subtitle:}
 {zoom-ipad: 0.802648}
 
 *[Am]Strawberries, cherries and an [G]angel's kiss in spring. [Am]My summer wine is really m[G]ade from all these things.

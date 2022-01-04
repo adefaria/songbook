@@ -1,6 +1,6 @@
-{title: She’s A Woman chords}
-{subtitle: The Beatles}
-She’s A Woman chords
+{title:She's A Woman chords}
+{subtitle:The Beatles}
+She's A Woman chords
 The Beatles
 
 [E7][Ve[D7]rse[A7]]

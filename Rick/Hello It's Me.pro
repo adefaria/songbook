@@ -1,5 +1,5 @@
 {title:Hello It's Me}
-{st:Todd Rundgren}
+{subtitle:Todd Rundgren}
 {c:Intro}
 [Gm7]          [Fmaj7]          [Gm7]          [Fmaj7]
 [Gm7]Hello, it's [Fmaj7]me,          [Gm7]I've thought about us for a [Fmaj7]long, long time

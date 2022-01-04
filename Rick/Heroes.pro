@@ -1,5 +1,5 @@
-{title: We Can Be Heroes}
-{subtitle: David Bowie}
+{title:We Can Be Heroes}
+{subtitle:David Bowie}
 
 [D][G][D][G]
 

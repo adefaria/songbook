@@ -1,4 +1,4 @@
-{T:What I Like About You}
+{title:What I Like About You}
 [E][A][D][A][E][D]
 
 (Hey, Hey), Uh hu[E]h huh [A] [D]

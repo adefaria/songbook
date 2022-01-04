@@ -1,10 +1,10 @@
-{title: GrungeStock}
-{subtitle: Ricksongs}
+{title:GrungeStock}
+{subtitle:Rick Lecksell}
 
 
 GrungeStock
 
-There’s 100,000 people
+There's 100,000 people
 Maybe even more
 Better let ‘em in
 ‘fore they knock down the door
@@ -24,6 +24,6 @@ Grunge is here to stay
 
 ***The faces (crowd) will be right in front of you
 Swaying back and forth, waving arms way up high
-They’ll be standing right in front of you
+They'll be standing right in front of you
 But their minds/thoughts/heads will be a million miles away.
 

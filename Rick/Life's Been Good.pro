@@ -34,5 +34,5 @@ Life's been [C]good to [G]me so f[A]ar...
 
 
 For my Jennifer and my Lil'Boy John Spencer.
-Transcribed by  JOHN M. VASCO            1/10/2007’
+Transcribed by  JOHN M. VASCO            1/10/2007'
                               Enjoy!

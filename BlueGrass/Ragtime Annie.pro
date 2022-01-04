@@ -1,5 +1,5 @@
-{title: Ragtime Annie}
-{subtitle: Traditional}
+{title:Ragtime Annie}
+{subtitle:Traditional}
 
 The night that I was married and in my married bed
 Up comes the bold sea captain and stands at my bed head

@@ -1,5 +1,5 @@
-{title: Marie Marie}
-{subtitle: Shakin’ Stevens}
+{title:Marie Marie}
+{subtitle:Shakin' Stevens}
 {zoom-ipad: 0.850000}
 
 [A]Marie, Marie, playing guitar on the back porch.

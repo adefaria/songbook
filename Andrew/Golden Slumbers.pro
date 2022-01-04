@@ -1,5 +1,5 @@
-pop{t:Golden Slumbers}
-{st:Beatles}
+pop{title:Golden Slumbers}
+{subtitle:Beatles}
 {key:Am}
 
 [Am7]Once there was a way, to get back [Dm]homeward

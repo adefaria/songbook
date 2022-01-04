@@ -1,5 +1,5 @@
 {title:Stir It Up Chords}
-{subtitle: Bob Marley & The Wailers}
+{subtitle:Bob Marley & The Wailers}
 Stir It Up chords
 Bob Marley & The Wailers 1967 (Bob Marley)
 

@@ -1,5 +1,5 @@
 {title:I'll Cry Instead}
-{st:Beatles}
+{subtitle:Beatles}
 
 [G] [C] 4x
 

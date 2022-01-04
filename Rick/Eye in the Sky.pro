@@ -1,4 +1,4 @@
-{title: Eye in the Sky}
+{title:Eye in the Sky}
 {subtitle:Alan Parsons}
 [Bm][G] 2:13
 [D]Don't think sorry's easily [Bm]said. 

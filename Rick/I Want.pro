@@ -1,5 +1,5 @@
-{title: I Want}
-{subtitle:Ricksongs}
+{title:I Want}
+{subtitle:Rick Lecksell}
 
 I want to feel like im on vacation every day
 I want to feel like im in some exotic place. 

@@ -1,5 +1,5 @@
 {title:Rock Me on The Water}
-{subtitle:Jackson Brown}
+{subtitle:Jackson Browne}
 
 [G]Oh people, look[Em] around you the sign[C]s are everywhere [G]
 [C]You've left it for so[G]mebody oth[F]er than [C]you to [D]be the one to [Em]care

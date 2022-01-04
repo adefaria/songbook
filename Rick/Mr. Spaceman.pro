@@ -1,5 +1,5 @@
-{title: Mr. Spaceman}
-{subtitle: The Byrds}
+{title:Mr. Spaceman}
+{subtitle:The Byrds}
 {pause:10}
 
 [G]Woke up this morning with [A]light in my eyes

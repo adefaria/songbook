@@ -1,4 +1,4 @@
-{t:Soft Spot}
+{title:Soft Spot}
  
 [D] [G] [D] [A] 
 Can also be played C F C G

@@ -1,4 +1,4 @@
-{t:Cant Find My Way Home}
+{title:Cant Find My Way Home}
 {metronome: 88}
 {zoom-ipad:1.138917}
 [88Bpm]
@@ -23,5 +23,5 @@ Instrumental 2X Ooh's on 2nd
 
 Walk down 1X
  Ooh's [F]But I. Can't find [G]my way [D]home. 3X
-I ain't done nothing wrong but I, / Can’t find my way home. 2X
+I ain't done nothing wrong but I, / Can't find my way home. 2X
 2 Solo outro. 

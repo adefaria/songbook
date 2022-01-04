@@ -1,5 +1,5 @@
-{title: Some Things Will Never Change}
-{subtitle:Ricksongs}
+{title:Some Things Will Never Change}
+{subtitle:Rick Lecksell}
 
 Sometimes I'm feeling
 like a drop of rain in the ocean.

@@ -1,2 +1,2 @@
-{title: Way Downtown}
-{subtitle: }
+{title:Way Downtown}
+{subtitle:}

@@ -1,4 +1,4 @@
-{t:Sweet Caroline}
+{title:Sweet Caroline}
 {zoom-ipad:1.247656}
 
 [G]Where it began, [C]I can't begin to knowin'

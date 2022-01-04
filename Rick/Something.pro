@@ -1,5 +1,5 @@
-{title: Something}
-{subtitle: Beatles}
+{title:Something}
+{subtitle:Beatles}
 {pause:10}
 
 Som[C]ething in the way she m[Cmaj7]oves

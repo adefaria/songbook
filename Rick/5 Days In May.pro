@@ -17,12 +17,12 @@ To [G]find the face you've [F6]seen a thousand.. [C]times. [D]
 
 **[C]Sometimes the world begins. To set you up on your feet again. 
 [Bm]And though it wipes the tears from your [D]eyes. 
-[C]How will you ever know? The way that circumstances go. [Bm]Oh. It’s always going to hit you by sur[D]prise. 
+[C]How will you ever know? The way that circumstances go. [Bm]Oh. It's always going to hit you by sur[D]prise. 
 But I [Am]know my past. [G/B]You were there. In [C]everything I've [Em7/C]donne...You are the [Em]one. 
 Harp [Em][D][Am][C] 2X Piano 2X
 
 [Em]Looking back it's hard to tell. [D]Why they stood while others fealll. 
-[Am]Spend your life, working it [C]out. [Em]All I know’s one cloudy day. 
+[Am]Spend your life, working it [C]out. [Em]All I know's one cloudy day. 
 [D]They both just ran away. Aye[Am]
 Rain on the windshield heading [C]South.
 [G]Oh, she loved the [F6]lines around his [C]mouth.[D]

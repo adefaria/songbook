@@ -1,5 +1,5 @@
-{t:Hungry Heart}
-{st:Bruce Springsteen}
+{title:Hungry Heart}
+{subtitle:Bruce Springsteen}
 
 
 [C]                       [Am7]

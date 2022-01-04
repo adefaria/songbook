@@ -1,7 +1,5 @@
-{title: Hang On Sloopy chords}
-{subtitle: The McCoys (Aaron Carter)}
-Hang On Sloopy chords
-The McCoys (Aaron Carter)
+{title:Hang On Sloopy}
+{subtitle:The McCoys}
 
 [G]G [C] C[D]  [C]  D       C           G  C D C
 Hang on sloopy, sloopy hang on

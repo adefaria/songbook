@@ -1,5 +1,5 @@
 {title:Hey Jude}
-{subtitle:Beatles - Roof Top}
+{subtitle:Beatles}
 
 Hey [F]Jude don't make it [C]bad. Take a [C7]sad song and make it [F]better.
 [Bb]Remember to let her into your [F]heart. Then you can [C7]start to make it better.[F]

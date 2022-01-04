@@ -28,7 +28,7 @@
 Born with ego, swallow my pride
 Wait for me on the other side for you
 Saints and sinners all the same
-Don’t give a damn if it’s a crying shame for me
+Don't give a damn if it's a crying shame for me
 
 {c:Chorus}
 

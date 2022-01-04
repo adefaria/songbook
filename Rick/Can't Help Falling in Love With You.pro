@@ -1,5 +1,5 @@
-{title:Can’t Help Falling In Love With You}
-{subtitle: Elvis Presley}
+{title:Can't Help Falling In Love With You}
+{subtitle:Elvis Presley}
 {zoom-ipad:1.130000}
 Capo 2
 

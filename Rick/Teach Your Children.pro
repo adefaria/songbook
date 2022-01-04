@@ -1,4 +1,4 @@
-{title: Teach Your Children}
+{title:Teach Your Children}
 [D] [G] [D] [A]
 
 [D]You who are on the [G] road, Must have a [D]code that you can [A]live by 

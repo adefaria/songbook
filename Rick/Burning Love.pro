@@ -1,5 +1,5 @@
 {title:Burning Love}
-{subtitle:Elvis}
+{subtitle:Elvis Presley}
 {zoom-ipad: 0.850000}
 [D]
 [D]Lord Almighty, I [G]feel my [A]temperature [D]rising.

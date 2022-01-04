@@ -1,5 +1,5 @@
 {title:Dream Dream Dream}
-{subtitle:Everly Bros.}
+{subtitle:Everly Brothers}
 {zoom-ipad: 1.136721}
 {metronome:96}
 {c:96 BPM}
@@ -18,7 +18,7 @@ When I n[C]ee[Am]d y[Dm7]ou to hold m[G7]e tight.
 When eve[C]r [Am]I want you [Dm7]all I have t[G7]o do is [C]Dr[F]e[C][C7]am
 
 I[F] can make you mine t[Em]aste your lips of wine [Dm]Anytime n[G7]ight or d[C]ay. [C7]
-The only[F] trouble i[Em]s geewiz. I’m drea[D7]min’ my life a[G]way.[G7]
+The only[F] trouble i[Em]s geewiz. I'm drea[D7]min' my life a[G]way.[G7]
 
 I [C]need you s[Am]o [Dm]that I coul[G7]d die.
 I love [C]you so a[Am]nd [Dm]that is why[G7] 

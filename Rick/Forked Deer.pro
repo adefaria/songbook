@@ -1,2 +1,2 @@
-{title: Forked Deer}
-{subtitle: }
+{title:Forked Deer}
+{subtitle:}

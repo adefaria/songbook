@@ -1,5 +1,5 @@
-{t:Bramble Rose}
-{st:Don Henley}
+{title:Bramble Rose}
+{subtitle:Don Henley}
 {zoom-ipad:0.869333}
  
  Intro [A][D][A][D]

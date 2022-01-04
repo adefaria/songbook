@@ -1,4 +1,4 @@
-{t:Silver, Blue & Gold}
+{title:Silver, Blue & Gold}
 {Subtitle:Bad Company}
 Capo 6th fret
 [Dsus4] [D] [Dsus4] [D] [Dsus4] [D] [Dsus4] [D]

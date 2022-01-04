@@ -1,5 +1,5 @@
 {title:Listen To The Music}
-{subtitle:Doobie Bros.}
+{subtitle:Doobie Brothers}
 {metronome:108}
 {c:108 BPM}
 {zoom-ipad:1.080000}

@@ -1,5 +1,5 @@
-{t:Everybody's Talking}
-{st:Harry Nilsson}
+{title:Everybody's Talking}
+{subtitle:Harry Nilsson}
 {key:E}
 {tuning:D A D G B E}
 

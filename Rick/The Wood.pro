@@ -1,5 +1,5 @@
-{title: The Wood}
-{subtitle:Ricksongs}
+{title:The Wood}
+{subtitle:Rick Lecksell}
  
 There was once life in that tree
 It grew strong it stood tall
@@ -17,15 +17,15 @@ It shone like a brilliant stone in the sun
 With its brothers of other colors
 The red, orange & brown blaze across the land
 Till the last leaf fell and that tree
-Showed nothing but it’s bare hands.
+Showed nothing but it's bare hands.
  
 The years passed with the seasons one by one
 Countless times it danced in the breeze
 And swayed with the music of the sun
 But like everything that withers and passes on
-It found it’s final fallen resting place
+It found it's final fallen resting place
 It fell one day in all its splendor
-And all it’s grace
+And all it's grace
  
 The wood laid for years
 And dried out in the sun

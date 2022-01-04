@@ -1,5 +1,5 @@
-{title: Yesterday}
-{subtitle: Beatles}
+{title:Yesterday}
+{subtitle:Beatles}
 {pause:10}
 [F]Yesterday,[Em]    all my [A7]troubles 
 seemed so [Dm]far away  

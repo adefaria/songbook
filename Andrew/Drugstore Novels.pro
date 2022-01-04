@@ -1,5 +1,5 @@
-{t:Drugstore Novels}
-{st:Cast of Shadows}
+{title:Drugstore Novels}
+{subtitle:Cast of Shadows}
 {key:A}
 
 [A] [F#m] (2x)

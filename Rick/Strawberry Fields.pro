@@ -1,5 +1,5 @@
-{title: Strawberry Fields}
-{subtitle: Beatles}
+{title:Strawberry Fields}
+{subtitle:Beatles}
 
 [A]     [G6]     [F#7]       [D]      [E]    [Emaj7]        [E7]      [F#m]      [F#/Gbm7]          [Asus]
 

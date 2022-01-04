@@ -30,7 +30,7 @@ If you [G]see her say, "Hello"
 Just don't [G]tell me, "I told you so"
 
 [C]Joni wrote Blue in her house by the sea
-I [Am]gotta believe there’s another color waiting on [G]me
+I [Am]gotta believe there's another color waiting on [G]me
 To set me [G]free
 
 

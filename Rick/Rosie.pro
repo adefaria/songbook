@@ -1,5 +1,5 @@
 {title:Rosie}
-{subtitle: Jackson Browne}
+{subtitle:Jackson Browne}
 {zoom-ipad: 0.862421}
 Well, she was s[E]tanding at the load in, [A]when the t[B]rucks rolled [E]up. [A][E]
 She was s[A]niffing all around like a half-grown female [E]pup. [A][E]

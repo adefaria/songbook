@@ -1,4 +1,4 @@
-{title: Here Today}
+{title:Here Today}
 {subtitle:McCartney}
 {pause:10}
 

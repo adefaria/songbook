@@ -1,4 +1,4 @@
-{t:The Last Time}
+{title:The Last Time}
 {zoom-ipad: 1.136291}
 
 Well, I [E]told you once and I [D]told you twice,[E]  [D]  [A]

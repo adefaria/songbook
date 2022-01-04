@@ -1,4 +1,4 @@
-{t:Spooky}
+{title:Spooky}
 {zoom-ipad: 1.134496}
 {metronome:111}
 {c:111 BPM}

@@ -5,7 +5,7 @@ BPM 119
 
 [A]Winding your way down on Baker Street. Light in your head, and dead on your feet. 
 Well, a[Em]nother crazy day, you [G]drink the night away. And for[D]get about everything.
-[A]This citydesert, makes you feel so cold. It’s got, so many people, but it's got no soul.
+[A]This citydesert, makes you feel so cold. It's got, so many people, but it's got no soul.
 And it's [Em]taken you so long to [G]find out you were wrong. When you [D]thought it held everything.
 
 [Dm7]You used to think that it was [Am7]so easy. [Dm7]You used to say that it was [Am7]so easy. But [C]you're tryin', [G]you're tryin' [D]now.

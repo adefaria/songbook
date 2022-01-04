@@ -1,5 +1,5 @@
 {title:Daniel}
-{st:Elton John}
+{subtitle:Elton John}
 [C][F][G7][F][C]       
 [C]Daniel is traveling tonight on a [Dm]plane. 
 [G]I can see the red tail lights [E7]heading for S[Am]pain. 

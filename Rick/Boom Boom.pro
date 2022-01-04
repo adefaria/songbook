@@ -1,5 +1,5 @@
-{t:Boom, Boom, Boom}
-{subtitle:The Animals/J.L. Hooker}
+{title:Boom, Boom, Boom}
+{subtitle:The Animal}
 
 | F    | F    | F    | F    |
 | Bb   | Bb   | F    | F    |

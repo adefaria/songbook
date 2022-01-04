@@ -1,4 +1,4 @@
-{title: That Smell}
+{title:That Smell}
 {subtitle:Lynyrd Skynyrd}
 That Smell - Lynyrd Skynyrd
 

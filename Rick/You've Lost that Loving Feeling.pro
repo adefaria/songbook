@@ -1,5 +1,5 @@
-{title: You've Lost that Loving Feeling chords}
-{subtitle: The Righteous Brothers *}
+{title:You've Lost that Loving Feeling chords}
+{subtitle:The Righteous Brothers}
 You've Lost that Loving Feeling chords
 The Righteous Brothers *
 

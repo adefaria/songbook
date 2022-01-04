@@ -1,5 +1,5 @@
-{t:Still The One}
-{st:Orleans}
+{title:Still The One}
+{subtitle:Orleans}
 
 [E]We've been together since way back when Sometimes I never want to see you again
 But I [A]want you to know, after [B]all these years [A]You're still the one I want [B]whisperin' in my ear

@@ -1,24 +1,24 @@
-{title: I've Got A New Suit}
-{subtitle: Ricksongs}
+{title:I've Got A New Suit}
+{subtitle:Rick Lecksell}
 
-I’ve Got A New Suit
+I've Got A New Suit
 
-Well, I’ve got a new suit
+Well, I've got a new suit
 And it fits me just right
 A new blue suit
 And it feels just right
 You say I look different
-But I haven’t changed 
-You’ve changed your view
+But I haven't changed 
+You've changed your view
 So the way I look now
 Is all up to you.
 
 
-Say it isn’t true 
+Say it isn't true 
 I got a new suit and 
 I look different to you
 
-Don’t take your light away
+Don't take your light away
 It will ruin my day
 If I had to realize you ran 
 Away from me because

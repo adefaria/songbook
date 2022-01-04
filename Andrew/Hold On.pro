@@ -1,5 +1,5 @@
-{t:Hold On}
-{st:Kansas}
+{title:Hold On}
+{subtitle:Kansas}
 {key:Em}
 
 [Am][Em][C][G][D][F][G] [2x]

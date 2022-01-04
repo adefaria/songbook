@@ -1,4 +1,4 @@
-{title: How Much I Feel}
+{title:How Much I Feel}
 {subtitle:Ambrosia}
 How Much I Feel
 Written by David Pack
@@ -49,7 +49,7 @@ That's how much I [Gmaj7]feel
 How much I [Gmaj7]need
 Well [G/A]I need your to[Dmaj7]uch
 How much I [Gmaj7]live
-I [F#7]live for your l[Bm]ovin’
+I [F#7]live for your l[Bm]ovin'
 [A]That's how m[Em]uch
 [F#7]That's how m[Bm]uch
 [A]That's how m[Em]uch
@@ -60,7 +60,7 @@ Verse 2:
 
 [Gmaj7]      I sleep alone, and late at night I'm dreamin'
 [Gmaj7]      Of the togetherness that 
-[Em]Seems to be [G/A]leavin’ [Dmaj7]me,  oh[Em] no
+[Em]Seems to be [G/A]leavin' [Dmaj7]me,  oh[Em] no
 [Gmaj7]     I'd give it all and then I'd give some more
 [Gmaj7]    If you would only love me 
 [Em]Like you h[G/A]ad be[Dmaj7]fore
@@ -73,7 +73,7 @@ That's how much I [Gmaj7]feel
 How much I [Gmaj7]need
 Well [G/A]I need your to[Dmaj7]uch
 How much I [Gmaj7]live
-I [F#7]live for your l[Bm]ovin’
+I [F#7]live for your l[Bm]ovin'
 [A]That's how m[Em]uch
 [F#7]That's how m[Bm]uch
 [A]That's how m[Em]uch
@@ -113,7 +113,7 @@ Verse 3:
 [Gmaj7]Got to say
 [Gmaj7]          Sometimes when we make love
 [Em]I still can [G/A]    see yo[Dmaj7]ur face
-[Bm]Ooo, just tryin’ to re[E7sus4]call [E7]
+[Bm]Ooo, just tryin' to re[E7sus4]call [E7]
 When we were as o[A]ne,[G]   [F#m7]     y[Em]eah [Gmaj7] [Dmaj7]
 
 
@@ -122,5 +122,5 @@ That's how much I [Gmaj7]feel
 How much I [Gmaj7]need
 Well [G/A]I need your to[Dmaj7]uch
 How much I [Gmaj7]live
-I [F#7]live for your l[Bm]ovin’
+I [F#7]live for your l[Bm]ovin'
 [A]That's how m[Em]uch  fade.

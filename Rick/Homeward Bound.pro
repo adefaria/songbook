@@ -1,5 +1,5 @@
-{title: Homeward Bound}
-{subtitle:Simon & Garfunkel}
+{title:Homeward Bound}
+{subtitle:Simon and Garfunkel}
 {pause:10}
 
  (capo on third fret..."key of G" chord forms)

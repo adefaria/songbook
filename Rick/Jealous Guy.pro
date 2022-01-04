@@ -1,5 +1,5 @@
-{title: Jealous Guy}
-{subtitle: }
+{title:Jealous Guy}
+{subtitle:}
   G / Em / D / / / D7 / / / Em / / /
 
 [Verse 1]

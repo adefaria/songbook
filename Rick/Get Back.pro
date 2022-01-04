@@ -1,5 +1,5 @@
 {title:Get Back}
-{subtitle:Beatles Roof Top}
+{subtitle:Beatles}
 {metronome: 123}
 [123Bpm]
 [A][G][D][A7]

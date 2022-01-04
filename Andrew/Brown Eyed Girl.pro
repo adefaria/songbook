@@ -1,5 +1,5 @@
-{t:Brown Eyed Girl}
-{st:Van Morrison}
+{title:Brown Eyed Girl}
+{subtitle:Van Morrison}
 {key:G}
 
 [G]Hey, where did [C]we go, da[G]ys when the ra[D]ins came

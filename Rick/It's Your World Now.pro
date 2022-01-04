@@ -1,5 +1,5 @@
-{t:Its Your World Now}
-{st:Eagles}
+{title:Its Your World Now}
+{subtitle:Eagles}
 
 #
 #  Chords:

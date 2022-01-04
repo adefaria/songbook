@@ -1,5 +1,5 @@
-{t:Reason To Believe}
-{st:Rod Stewart}
+{title:Reason To Believe}
+{subtitle:Rod Stewart}
 
 [G]If I listened [C]long e[D]nough to yo[G]u
 I'd find a [C]way to b[D]elieve that it's all t[G]rue

@@ -1,7 +1,7 @@
 {title:Monday Morning}
 {subtitle:Melanie Fiona}
 80 BPM
-[Am]Have you heard the news two[F]day? I'm leaving [C]town, I’m cashing [G]out.
+[Am]Have you heard the news two[F]day? I'm leaving [C]town, I'm cashing [G]out.
 [Am]This town's too small for me to [F]stay . The time is [C]down, I'm heading [G]out.
 
 [Pre][Dm](ooo) Baby, I still need ya [Am]But if you stay I'll leave ya. [C](Cuz I gotta get a[G]way.)

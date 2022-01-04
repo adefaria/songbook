@@ -1,4 +1,4 @@
-{t:Sandman}
+{title:Sandman}
 {zoom-ipad:0.991992}
 
 [Am]Ain't it foggy outside?[G] [F]All the planes have been [Em]grounded.

@@ -1,6 +1,5 @@
-{title:Load Out }
-The Load Out and Stay chords
-Jackson Browne
+{title:Load Out}
+{subtitle:Jackson Browne}
 
 G Bm C Em  C D G C\G  2x
 

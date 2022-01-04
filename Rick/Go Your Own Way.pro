@@ -1,5 +1,5 @@
-{title: Go Your Own Way chords}
-{subtitle: Fleetwood Mac}
+{title:Go Your Own Way chords}
+{subtitle:Fleetwood Mac}
 Go Your Own Way chords  
 Fleetwood Mac
 

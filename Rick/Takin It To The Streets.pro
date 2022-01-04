@@ -1,4 +1,4 @@
-{t:Takin It To The Streets}
+{title:Takin It To The Streets}
 
 
 [F]You don't [C]know me but I'm your [D7]brot[G7sus4]her

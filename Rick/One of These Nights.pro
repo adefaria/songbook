@@ -1,5 +1,5 @@
-{t:One of These Nights}
-{st:Eagles}
+{title:One of These Nights}
+{subtitle:Eagles}
 
 [Em] [D6] [Cmaj7] [Am] [Em] [Bm7] [B7]
 

@@ -1,4 +1,4 @@
-{t:Venus} (Shocking Blue)
+{title:Venus} (Shocking Blue)
 
 The intro is a fast rythmic tremolo on B7sus4. I play it with a bar on
 the seventh fret: 797977 and afterwards slide the pointer finger

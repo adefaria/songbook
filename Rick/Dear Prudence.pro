@@ -1,4 +1,4 @@
-{t:Dear Prudence}
+{title:Dear Prudence}
 {zoom-ipad:1.089805}
 
 Dear [D]Prudence, [D/C] [D/B] [D/A#]Won't you come out [D]to play?[D/C] [D/B] [D/A#]

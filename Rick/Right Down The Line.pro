@@ -1,4 +1,4 @@
-{t:Right Down The Line}
+{title:Right Down The Line}
 {metronome:64}
 {time: 9:36}
 

@@ -1,5 +1,5 @@
-{t:Jumpin Jack Flash}
-{st:Rolling Stones}
+{title:Jumpin Jack Flash}
+{subtitle:Rolling Stones}
 
 #
 #JUMPIN' JACK FLASH - The Rolling Stones       intro A      D C G (2X)

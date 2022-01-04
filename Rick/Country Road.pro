@@ -1,4 +1,4 @@
-{title: Country Road}
+{title:Country Road}
 {subtitle:James Taylor}
 
 [D]Take to the highway, won't you [C]lend me your [G]name

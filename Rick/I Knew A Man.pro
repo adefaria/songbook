@@ -1,5 +1,5 @@
 {title:I Knew A Man}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 I knew a man. 
 Actually, he was a boy. 
 Put a gun in his hand. 

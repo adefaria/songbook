@@ -1,5 +1,5 @@
-{title: Sweet Love}
-{subtitle:Ricksongs}
+{title:Sweet Love}
+{subtitle:Rick Lecksell}
 {zoom-ipad: 1.068619}
 
 Just when the sun goes to setting, that's when I'm thinking of you.

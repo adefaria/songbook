@@ -1,6 +1,6 @@
 {title:Free Falling}
 {zoom-ipad: 1.076041}
-Capo on 3
+{capo:3}
 
 [D]She's a good girl [G]Loves her mama [A]Loves Jes[D]us an[G]d America too [A]
 She's a good[D] girl [G]Crazy 'bout Elvis [A]Loves hors[D]es and [G]her boyfriend too [A]

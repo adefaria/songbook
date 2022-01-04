@@ -12,14 +12,14 @@ Capo 2 [D][G] 4X
 [D]To believe in this [G]livin is just a [Dsus]hard way to [D]go. [G][D][G]
  
 [D]When I was a [G]young girl. Well [D]I had me a [G]cowboy. 
-[D]He wasn’t much to [G]look at. Just a [A7]free ramblin [D]man.
+[D]He wasn't much to [G]look at. Just a [A7]free ramblin [D]man.
 [D]But that was a [G]looong tyyme and [D]no matter how [G]I try.
 [D]Those years just [G]flow by like a [A7]broken down [D]dam.
  
 [**Chorus] ?Instrumental [D][G][D][G]
 
-[D]There’s flies in the [G]kitchen. [D]I can hear them there [G]buzzin.
-[D]And I ain’t done [G]nothing since I [A7]woke up to[D]day. 
+[D]There's flies in the [G]kitchen. [D]I can hear them there [G]buzzin.
+[D]And I ain't done [G]nothing since I [A7]woke up to[D]day. 
 [D]How the hell can a [G]person [D]go to work in the [G]morning.
 [D]And come home in the [G]evening and have [A7]noth-thing to [D]say. 
 [**Chorus]

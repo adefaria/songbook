@@ -1,5 +1,5 @@
-{title: Make Me Smile}
-{subtitle: Chicago}
+{title:Make Me Smile}
+{subtitle:Chicago}
 {pause:10}
 C#m7    x35343
 Absus4 464644

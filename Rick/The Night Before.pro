@@ -34,4 +34,4 @@ Solo 3 Beats each [D]  [F]  [G]  [A] 2X
 [D]Was I so un[C]wis[G]e? The [A7]night before
 [Bm]When I held you [Gm]near. [Bm]You were so sin[Gm]cere.
 [D]Treat me like you [G]did the night be[D]fore.
-[G]A’ like the night b[D]efore.
+[G]A' like the night b[D]efore.

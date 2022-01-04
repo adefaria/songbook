@@ -1,5 +1,5 @@
-{title: War Is Over Christmas}
-{subtitle: John Lennon Beatles}
+{title:War Is Over Christmas}
+{subtitle:John Lennon}
 
 [A]So this is Christmas. [Bm]And what have you done
 [E]Another year over. [A]And a new one begun

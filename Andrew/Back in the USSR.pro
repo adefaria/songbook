@@ -1,5 +1,5 @@
-{t:Back in the USSR}
-{st:Beatles}
+{title:Back in the USSR}
+{subtitle:Beatles}
 
 Oh,[A] flew in from Miami Beach B.O[D].A.C. 
 Did[C]n't get to bed last nig[D]ht 

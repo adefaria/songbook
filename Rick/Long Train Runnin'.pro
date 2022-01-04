@@ -1,4 +1,4 @@
-{t:Long Train Runnin'}
+{title:Long Train Runnin'}
 1973
 
 [Gm7]Down around the corner[Dm7] a[Gm7]half a mile from here.[Dm7]

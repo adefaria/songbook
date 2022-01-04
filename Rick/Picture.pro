@@ -1,4 +1,4 @@
-{t:Picture}
+{title:Picture}
 
 [G]Living my life in a slow hell. Different [C]girl every night at the hotel
 [D]I ain't seen the sunshine in three dam[G]n days

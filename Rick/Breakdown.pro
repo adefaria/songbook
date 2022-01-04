@@ -1,5 +1,5 @@
-{t:Breakdown}
-{st:Tom Petty}
+{title:Breakdown}
+{subtitle:Tom Petty}
 BPM 113
 
 Intro [Am][G]3X  N/C / Drums[Am][G]8X
@@ -14,14 +14,14 @@ Soft) Say,) [Am]there aint no u[G]se in pr[Am]etendi[G]ng. [Am]Your [G]eyes give
 
 Baby!
 *[Am]Breakd[G]own [F]go ahead and [G]give it to me. [Am]Breakd[G]own honey, t[F]ake me through the n[G]ight.
-[Am]Breakd[G]own, now [F]I’m stan’ning here [G]can’ you see.
+[Am]Breakd[G]own, now [F]I'm stan'ning here [G]can' you see.
 [Am]Breakd[G]own its a[Fmaj7]lright.
 [Fmaj7][G][Am]Its[G] alri[Fmaj7]ght.[G][Am]It's a[G]lright.[Am][G][Am][G]
 
 Solo [Am][G][Fmaj7]
 
 *[Am]Breakd[G]own [F]go ahead and [G]give it to me. [Am]Breakd[G]own honey, t[F]ake me through the n[G]ight.
-[Am]Breakd[G]own, now [F]I’m stan’ning here [G]can’ you see.
+[Am]Breakd[G]own, now [F]I'm stan'ning here [G]can' you see.
 [Am]Breakd[G]own its a[Fmaj7]lright.
 [Fmaj7][G][Am]Its[G] alri[Fmaj7]ght.[G][Am]It's a[G]lright.[Am][G][Am][G] (Ahaa softly)
 

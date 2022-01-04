@@ -1,5 +1,5 @@
-{t:White Wine in the Sun}
-{st:Tim Minchin}
+{title:White Wine in the Sun}
+{subtitle:Tim Minchin}
 {key:G}
 
 [G]I really like Christmas

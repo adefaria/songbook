@@ -19,7 +19,7 @@ He [G]knows so [D]many [Em]things, [C]others m[C/B]ay [Am7]never [D]know.
 Like [G]how many [D]bees in a [Em]hive and [C]why do they [C/B]worship [Am7]the [D]queen.
 [Am]I might want to ask him the [D]question,
 Why the [Bm]pain of love is so [Gsus4]extreme.
-[Am]I’d like to know why the. [D]Pain of love is [G]extreme. [C][D][G]
+[Am]I'd like to know why the. [D]Pain of love is [G]extreme. [C][D][G]
 
 Solo ** [G][D][Em][C][C/B][Am7][D] 2X
 [Am][D][Bm][Gsus4][Am][D][G].   [C][D]

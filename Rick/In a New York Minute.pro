@@ -28,7 +28,7 @@ Em/A E C B A   Am7/A      A7sus/E          Fmaj7/F
 (E-G-C-A Base Notes)
 
 Fmaj7/F#                E7/5+              A7sus    Am7
-And He Won’t Be Down On Wall Street     In The Morning. 
+And He Won't Be Down On Wall Street     In The Morning. 
 
 A7sus2/F   Am7/F                   A7sus2   Am7/G
 He Had A Home,                   Love Of A Girl
@@ -40,7 +40,7 @@ Em/A E A             Am7/A       A7sus/E            Fmaj7
  One Day, He Crossed Some Line,   And He Was Too Much In This World
 
       Fmaj7/F#                E7/5+      Am
-But I Guess It     Doesn’t   Matter    Anymore
+But I Guess It     Doesn't   Matter    Anymore
 
 
 
@@ -72,7 +72,7 @@ A7sus2/F           Am7/F           A7sus2              Am7/G
 Lying Here In The Darkness,        You Hear The Sirens Wail
 
 A7sus2/F           Am7/F           A7sus2              Am7/G
-Somebody going to Emergency,       Somebody’s Going To Jail
+Somebody going to Emergency,       Somebody's Going To Jail
 
 
 C#-D-C#-B-A-C-B-A (Bass Line)
@@ -121,14 +121,14 @@ Am7                Dm7/A  Em7                  Am7
 (A-G-F# bass notes)
 
 Am/F#                              C7m/5+ Am/E               Am/F#
-      You’d Better Take A Fools Advice  Then Take Care Of Your own
+      You'd Better Take A Fools Advice  Then Take Care Of Your own
 
 
 A-C-B
 
 
 E7sus                 C7m/5+                    Am
-      One Day They’re Here,      Next Day They’re Gone           
+      One Day They're Here,      Next Day They're Gone           
 
 
 
@@ -152,7 +152,7 @@ Em/A E C B A   Am7/A           A7sus/E                      Fmaj7/F
 (E-G-C-A Bass Notes)
 
      Fmaj7/F#       E7/5+           A7sus            Am
-He Said “Baby, I’ve Changed,        Please Come Back”
+He Said “Baby, I've Changed,        Please Come Back”
 
 
 A7sus2/F         Am7/F                A7sus2      Am7/G

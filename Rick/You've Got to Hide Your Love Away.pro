@@ -1,4 +1,4 @@
-{t:Youve got to hide your love away}
+{title:Youve got to hide your love away}
 
 #Title:                  YOU'VE GOT TO HIDE YOUR LOVE AWAY            (Beatles)
 #

@@ -1,4 +1,4 @@
-{title: Ring of Fire}
+{title:Ring of Fire}
 {subtitle:Johnny Cash }
 {pause:10}
 [G]Love Is A [C]Burning [G]Thing

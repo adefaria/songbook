@@ -1,4 +1,4 @@
-{title: Old Home Place}
+{title:Old Home Place}
 {subtitle:Mitch Jayne}
 
 {c:Intro}

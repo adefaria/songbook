@@ -1,5 +1,5 @@
-{title: I Will}
-{subtitle: Beatles}
+{title:I Will}
+{subtitle:Beatles}
 {pause:10}
 
 Who k[E]nows how l[C#m]ong I've lov[F#m]ed you[B]

@@ -17,9 +17,9 @@ Can I [C]sail through the [G/B]changing [Am7]Ocean Tides? [G/B]
 Can I h[C]andle all the [G/B]season of [Am7]my life? [G][C][G/B][Am7]
 m[C]mm... mmm... [G/B]I dont [Am7]know. mmm.... mm[G/B]m...
 
-**Well [G]I’ve been [D]afraid of [Em]changing. 
+**Well [G]I've been [D]afraid of [Em]changing. 
 [G/B]Cause I [C]built my [Am7]life around [D]you.
-[G]But time makes you [D]bolder. [Em]Children get o[G/B]lder. [G]I’m getting old[G/B]er too. [Am7] [G/B] 2 on this line for 2nd chorus
+[G]But time makes you [D]bolder. [Em]Children get o[G/B]lder. [G]I'm getting old[G/B]er too. [Am7] [G/B] 2 on this line for 2nd chorus
 
 Solo **Chorus [D][Em][G][C]
 

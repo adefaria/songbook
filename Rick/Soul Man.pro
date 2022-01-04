@@ -1,4 +1,4 @@
-{title: Soul Man}
+{title:Soul Man}
 {zoom-ipad:1.002360}
 Key - C    BPM - 112  Intro 2X
 

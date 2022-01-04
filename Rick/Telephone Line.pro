@@ -1,5 +1,5 @@
 {title:Telephone Line}
-{subtitle:Jeff Lynne ELO}
+{subtitle:Electric Light Orchestra}
 [Am][G][F][G]
 
 [A]Hello. How [Amaj7]are you?

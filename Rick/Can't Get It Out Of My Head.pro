@@ -1,4 +1,4 @@
-{title: Can't Get It Out Of My Head}
+{title:Can't Get It Out Of My Head}
 
 [C]     [G]      [F]      [G]
 

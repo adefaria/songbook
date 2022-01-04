@@ -1,5 +1,5 @@
 {title:Three Little Birds}
-{subtitle: }
+{subtitle:}
 Intro: A A A A
 
 

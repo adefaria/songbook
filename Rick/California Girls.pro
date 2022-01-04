@@ -1,4 +1,4 @@
-{t:California Girls}
+{title:California Girls}
 Capo 1 or 2
 
 Well, [B]East Coast girls are hip, I really [B9]dig those styles they wear

@@ -1,4 +1,4 @@
-{t:Love Her Madly}
+{title:Love Her Madly}
 {subtitle:The Doors}
 
 Don't you [Am]love her madly? Don't you | need her badly? Don't you[D7] love her ways?

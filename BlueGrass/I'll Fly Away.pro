@@ -1,4 +1,4 @@
-{title: I'll Fly Away}
+{title:I'll Fly Away}
 {subtitle:Traditional}
 {key:A}
 

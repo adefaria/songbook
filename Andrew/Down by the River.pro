@@ -1,5 +1,5 @@
-{t:Down by the River}
-{st:Neil Young}
+{title:Down by the River}
+{subtitle:Neil Young}
 {key:Em}
 
 [Em7] [A]

@@ -1,5 +1,5 @@
 {title:Just Like Starting Over}
-{st:John Lennon}
+{subtitle:John Lennon}
 
 Our [F]life to[F5+]gether is so [Dm]precious to[F5+]gether. <br/>
 We have [F]grown, [C7] we have [F]grown.<br/>

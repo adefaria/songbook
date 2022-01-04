@@ -1,5 +1,5 @@
-{t:Green River}
-{subtitle:Creedence Clearwater}
+{title:Green River}
+{subtitle:Creedence Clearwater Revival}
 [E7]                                    
 [E]Well. Take me back down where cool winds blow yeah.
 [E]Let me remember things I don't know.

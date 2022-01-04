@@ -1,5 +1,5 @@
-{title: Song for the Asking}
-{subtitle: Simon & Garfunkel}
+{title:Song for the Asking}
+{subtitle:Simon and Garfunkel}
 {pause:10}
 
 [C]Here is my [G]Song [Fmaj7]For The [Am]Asking. [Dm7]Ask me and I[G] will [E]play [E7]so [F]sweetly,

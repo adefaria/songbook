@@ -1,5 +1,5 @@
-{title: Country Road}
-{subtitle: John Denver}
+{title:Country Road}
+{subtitle:John Denver}
 
 [G] [Em] [D] [G]
 

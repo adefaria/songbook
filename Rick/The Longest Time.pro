@@ -1,5 +1,5 @@
 {title:The Longest Time}
-Capo on 1st fret
+{capo:1}
 
 [Chorus]
 

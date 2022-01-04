@@ -1,7 +1,7 @@
 {title:Everybody's Talking at Me}
+{subtitle:Harry Nielson}
 
-Capo on 2nd fret
-Standard tuning
+{capo:2}
 
 [D] [D7] [D6] [D7] 2X
 [D/E] [D] [D7] [A7] [D6] [E7] [D7] [A7] 

@@ -1,4 +1,4 @@
-{t:The Night They Drove Old Dixie Down}u
+{title:The Night They Drove Old Dixie Down}u
 
 [Am]Virgil C[C]ain is my name and I s[F]erved on the D[Em]anville tr[Dm]ain,
 [Am]Till Stoneman's c[C]avalry came and t[F]ore up the t[Em]racks ag[Dm]ain.

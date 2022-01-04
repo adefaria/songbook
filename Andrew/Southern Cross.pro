@@ -1,5 +1,5 @@
 {title:Southern Cross}
-{subtitle:Crosby, Stills, Nash}
+{subtitle:Crosby, Stills and Nash}
 {key:A}
 
 [A]  [G]  [D] 2X

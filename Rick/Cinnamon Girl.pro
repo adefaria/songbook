@@ -27,7 +27,7 @@ Solo
 [C][D][Am][F][C][D][Am][F]
 
 [C]Pa sent me money now,
-I’m gonna make it somehow,
+I'm gonna make it somehow,
 I need another [Gm]chance
 You see your baby loves to [Am]dance
 Yeah...yeah...yeah. [D]

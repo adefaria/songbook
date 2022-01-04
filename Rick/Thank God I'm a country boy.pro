@@ -2,7 +2,7 @@
 {subtitle:Jonh Denver}
 
 Well [A]life on a farm is kinda laid [D]back
-Ain't [A]much an old country boy like [G]me can’t [E]hack
+Ain't [A]much an old country boy like [G]me can't [E]hack
 It's [A]early to rise, [E]early in the[D] sack
 Thank [A]God I'm a [E]country [A]boy
 A [A]simple kind of life never did me no [D]harm
@@ -35,7 +35,7 @@ I [A]never was one of them [G]money-hungry [D]fools.
 I'd [A]rather have my [F#m]fiddle and my[E] farmin'[D] tools.
 Thank [A]God I'm a [E7]country [A]boy.
 
-Yeah [A]city folk drivin’ in a black limou[D]sine.
+Yeah [A]city folk drivin' in a black limou[D]sine.
 A lotta [A]sad people thinkin' [G]that's mighty [E]keen.
 Well, [A]son let me [F#m]tell you now e[E]xactly what [D]I mean.
 I thank [A]God I'm a [E]country[A] boy.
@@ -54,7 +54,7 @@ And thank [A]God you're a [E]country [A]boy.
 My daddy [A]taught me young how to hunt and how to [D]whittle .
 He [A]taught me how to work and play a [G]tune on the [D]fiddle.
 He [A]taught me how to [F#m]love and how to [E7]give just a [D]little.
-Spoken: Thank [A]God I’m a [E]country[A] boy
+Spoken: Thank [A]God I'm a [E]country[A] boy
 
 Well I [E]got me a fine wife, I[A] got me old fiddle.
 When the [E]sun's comin' up I got[A] cakes on the griddle.

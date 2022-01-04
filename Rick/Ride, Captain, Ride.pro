@@ -1,4 +1,4 @@
-{title: Ride, Captain Ride}
+{title:Ride, Captain Ride}
 {subtitle:Blues Image}
 
 BPM 125

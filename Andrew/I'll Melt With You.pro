@@ -1,5 +1,5 @@
-{t:I'll Melt With You}
-{st:Modern English}
+{title:I'll Melt With You}
+{subtitle:Modern English}
 {key:C}
 
 [C] [F] 2x

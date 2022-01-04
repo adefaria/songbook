@@ -1,5 +1,5 @@
-{title: You Won't See Me}
-{subtitle: Beatles}
+{title:You Won't See Me}
+{subtitle:Beatles}
 {pause:10}
 [C] [G]  When I [G]call you [A7]up, your l[C]ine's enga[G]ged.
 I have [G]had en[A7]ough, so a[C]ct your a[G]ge!
@@ -15,7 +15,8 @@ but I can t[G]urn a[A7]way, and y[C]ou w[G]on't see me.
 (You won't see me)
 Y[C]ou wo[G]n't see me. (You won't see me)
 
-{soc}
+
+{soc}
 [C]Time after t[Cm]ime you refuse to even lis[G]ten.
 [A7]I wouldn't mind if I [D]knew what I was mis[D7]sing.
                     (No I wouldn't no I wouldn't)
@@ -28,12 +29,14 @@ and I just c[G]an't go [A7]on if y[C]ou wo[G]n't see me.
 (You won't see me)
 Y[C]ou wo[G]n't see me. (You won't see me)
 
-{soc}
+
+{soc}
 [C]Time after t[Cm]ime you refuse to even lis[G]ten.
 [A7]I wouldn't mind if I [D]knew what I was mis[D7]sing.
                     (No I wouldn't no I wouldn't)
 {eoc}
-
+
+
 Though the d[G]ays are f[A7]ew they're fi[C]lled with te[G]ars,
 and since [G]I lost y[A7]ou it fe[C]els like y[G]ears.
 Yes, it s[G7]eems so lo[C]ng, gi[Cm]rl since you've been go[G]ne,

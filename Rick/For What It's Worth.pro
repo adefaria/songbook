@@ -1,5 +1,5 @@
-{t:For What It's Worth}
-{st:Buffalo Springfield}
+{title:For What It's Worth}
+{subtitle:Buffalo Springfield}
 {zoom-ipad:0.799989}
 
 There's [E7]something happening [A7]here. What it [E7]is ain't exactly [A7]clear.

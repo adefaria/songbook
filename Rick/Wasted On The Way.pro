@@ -1,4 +1,4 @@
-{t:Wasted On The Way}
+{title:Wasted On The Way}
 {subtitle:CSN}
 {zoom-ipad:1.055218}
 [D]

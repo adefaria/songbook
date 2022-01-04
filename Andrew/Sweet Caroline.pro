@@ -4,11 +4,11 @@
 
 {c:Intro}
 
-[A]Where it began, [D]I can’t begin to know it, 
-[A]But then I know it’s growing st[E]rong
+[A]Where it began, [D]I can't begin to know it, 
+[A]But then I know it's growing st[E]rong
 
 [A]Was in the spring,[D] and spring became a summer,
-[A]Who’d have believed you’d come al[E]ong
+[A]Who'd have believed you'd come al[E]ong
 
 [A]Hands, t[F#m]ouching hands, 
 [E]Reaching out, [D]touching me, 
@@ -18,12 +18,12 @@ Touching y[E]ou [E] [D] [E]
 
 [A]Sweet Caroline, 
 [D]Good times never seemed so g[E]ood
-[A]I’ve been inc[D]lined 
+[A]I've been inc[D]lined 
 To believe there n[E]ever would, 
-[D]But  [C#m]now  I[Bm]’m
+[D]But  [C#m]now  I[Bm]'m
 
 Look at the night,
-and it don’t seem so lonely, 
+and it don't seem so lonely, 
 We fill it up with only two
 
 And when I hurt, 

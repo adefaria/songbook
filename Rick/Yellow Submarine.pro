@@ -1,12 +1,6 @@
-{t:Yellow Submarine}
-{st:Beatles}
+{title:Yellow Submarine}
+{subtitle:Beatles}
 
-#
-#TAB: Yellow Submarine
-#MUSIC BY: The Beatles (Released on the "Revolver" album)
-#TABBED BY: Andrew (Alg3f4@aol.com)
-#
-#
 [G]In the [D]town where [C]I was [G]born
 [Em]Lived a [Am]man who [Cmaj7]sailed the [D]sea.
 [G]And he [D]told us [C]of his [G]life

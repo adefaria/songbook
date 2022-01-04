@@ -1,4 +1,4 @@
-{title: Dream Baby}
+{title:Dream Baby}
 {zoom-iphone: 0.794371}
 {zoom-ipad: 0.795604}
 

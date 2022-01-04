@@ -1,5 +1,5 @@
 {title:Sweet Melissa}
-{subtitle:Greg Allman}
+{subtitle:Allman Brothers}
 {key:E}
 
 [E] [F#m] [G#m] [F#m]

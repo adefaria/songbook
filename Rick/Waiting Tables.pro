@@ -1,4 +1,4 @@
-{title: Waiting Tables}
+{title:Waiting Tables}
 {ipodid: 4214705510512116163}
 
 Intro:  Dsus4    D   Am   G

@@ -1,5 +1,5 @@
-{t:Polythene Pam}
-{st:Beatles}
+{title:Polythene Pam}
+{subtitle:Beatles}
 
 #POLYTHENE PAM
 #(The Beatles)

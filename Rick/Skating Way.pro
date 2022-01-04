@@ -1,4 +1,4 @@
-{t:Skating Away}
+{title:Skating Away}
 {time: 7:00}
 {zoom-ipad:1.047070}
 

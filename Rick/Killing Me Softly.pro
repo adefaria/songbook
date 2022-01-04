@@ -1,5 +1,5 @@
 {title:Killing Me Softly}
-{subtitle: }
+{subtitle:}
 [Chorus]
 
 [Em]Strumming my pain with his [Am]fingers

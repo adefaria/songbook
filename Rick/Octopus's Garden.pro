@@ -1,5 +1,5 @@
 {title:Octopus's Garden}
-{st:Beatles}
+{subtitle:Beatles}
 {pause:10}
 
 1.   [E]I'd like to be [C#m]under the sea in an [A]Octopus's [E]Garden in the s[B7]hade.

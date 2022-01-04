@@ -1,4 +1,4 @@
-{t:The Crystal Ship}
+{title:The Crystal Ship}
 
 Before you [Fm]slip into un[Cm]consiousness 
 I'd [Bb]Like to have an[Db]other kiss,  

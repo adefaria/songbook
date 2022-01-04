@@ -1,5 +1,5 @@
-{t:Helplessly Hoping}
-{st:Stephen Stills}
+{title:Helplessly Hoping}
+{subtitle:Stephen Stills}
 
 [Am]Helplessly hoping her [C]harlequin hovers near[G]by 
  awaiting a [D]word 

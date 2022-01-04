@@ -1,5 +1,5 @@
 {title:Get Together}
-{subtitle:Youngbloods}
+{subtitle:The Youngbloods}
 {metronome:103}
 {c:103 BPM}
 {zoom-ipad:1.125312}

@@ -1,10 +1,10 @@
 {title:On the Other Side of Darkness}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 {zoom-ipad:1.080000}
 
 Roll out the flags. Take down the banners.
-Hear the rumble of hooves as they’re pounding their war hammer. 
-They’re out in the forrest. Hidding behind the trees.
+Hear the rumble of hooves as they're pounding their war hammer. 
+They're out in the forrest. Hidding behind the trees.
 Hiding behind. Hiding behind. Hidding behind the trees. 
 
 Theyre on their way. Hope for the best. Prepare for the worst.
@@ -12,9 +12,9 @@ You must be able to look beyond.
 Your time is short. Life passes in so many degrees. 
 You need to see the forrest for the trees. 
 
-It’s the rise and fall. The beginning of a new empire. 
+It's the rise and fall. The beginning of a new empire. 
 It happens every day. 
-Let’s make this a smooth as can be transition.
+Let's make this a smooth as can be transition.
 It may be a shock. But it should be no surprise. 
 The new blood is taking over this position. 
 No fanfare, no elaborate celebration 
@@ -36,5 +36,5 @@ Leaving a echo of pain and
 mark of mastigo. 
 
 Roll out the flags. Take down the banners.
-I can hear the rumble of hooves as they’re pounding their war hammer. 
-They’re out hiding behind the trees.
+I can hear the rumble of hooves as they're pounding their war hammer. 
+They're out hiding behind the trees.

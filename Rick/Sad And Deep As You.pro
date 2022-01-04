@@ -1,5 +1,5 @@
-{t:Sad And Deep As You}
-{st:Dave Mason}
+{title:Sad And Deep As You}
+{subtitle:Dave Mason}
 
 #
 [Em]lips that are as [G]warm could be

@@ -1,4 +1,4 @@
-{t:Mr Fantasy}
+{title:Mr Fantasy}
 [A][A]
 
 D[G]ear [D]Mister Fantasy, [G]play us a tune,

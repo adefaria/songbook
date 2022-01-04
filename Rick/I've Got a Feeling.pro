@@ -1,5 +1,5 @@
-{title: I've Got a Feeling}
-{subtitle:Beatles - Roof Top}
+{title:I've Got a Feeling}
+{subtitle:Beatles}
 [G] [C] [G] [C]
 [G]I've got a [C]feeling, a [G]feeling deep in[C]side  
 Oh ye[G]ah,[C] Oh ye[G]ah. (that's r[C]ight.) [G] 

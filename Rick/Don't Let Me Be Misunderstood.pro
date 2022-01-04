@@ -1,5 +1,5 @@
-{t:Dont Let Me Be Misunderstood}
-{st:Animals}
+{title:Dont Let Me Be Misunderstood}
+{subtitle:Animals}
 {zoom-ipad: 0.930000}
 
 [Am]Baby, do you under[G]stand me now? [F]Sometimes I feel a [E]little mad.

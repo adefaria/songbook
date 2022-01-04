@@ -1,4 +1,4 @@
-{t:Dirty work}
+{title:Dirty work}
 Capo 1st Fret
 
 Intro:

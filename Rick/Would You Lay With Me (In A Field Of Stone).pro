@@ -9,19 +9,19 @@
 [Chorus]
 [D]Would you go away to a[A]nother land
 Walk a [D]thousand miles through the [A]burning [E]sand
-[A]Wipe the blood away from my dyin’ hand
+[A]Wipe the blood away from my dyin' hand
 [D]If I gave mysel[Bm]f to yo[E]u
 
 [Verse 2]
 [A]Would you bathe with me in the stream of life
 [E]When the moon is full, would you [E7]bathe with[A] me
-[A]Will you still love me when I’m down and out
+[A]Will you still love me when I'm down and out
 [E]In my time of trials will you [E7]stand by [A]me
 
 [Chorus]
 [D]Would you go away to [A]another land
 Walk a [D]thousand miles through the [A]burning [E]sand
-[A]Wipe the blood away from my dyin’ hand
+[A]Wipe the blood away from my dyin' hand
 [D]If I gave mysel[Bm]f to yo[E]u
 
 [Verse 3]

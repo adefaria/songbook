@@ -1,5 +1,5 @@
-{t:Don't Think Twice, Its Alright}
-{st:Bob Dylan}
+{title:Don't Think Twice, Its Alright}
+{subtitle:Bob Dylan}
 [G]It ain't no use to s[D]it and wonder w[Em]hy, babe
 [C]  If you don't know by n[D]ow
 An' it ai[G]n't no use to s[D]it and wonder w[Em]hy, babe

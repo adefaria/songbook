@@ -1,5 +1,5 @@
 {title:I'll Walk The  Line}
-{subtitle: Johnny Cash}
+{subtitle:Johnny Cash}
 {pause:10}
 [E]
 I keep a [B7]close watch on this heart of [E]mine

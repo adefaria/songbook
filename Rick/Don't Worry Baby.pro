@@ -1,4 +1,4 @@
-{t:Don't Worry Baby}
+{title:Don't Worry Baby}
                     (Brian Wilson / Roger Christian)
 
 [Intro] E                 A       A/B       [2X]

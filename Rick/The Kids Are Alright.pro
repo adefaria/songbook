@@ -1,4 +1,4 @@
-{title: The Kids Are Alright}
+{title:The Kids Are Alright}
 {subtitle:The Who}
 
 12-string electric, arr for 6-string.

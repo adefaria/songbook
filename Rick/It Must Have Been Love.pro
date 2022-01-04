@@ -1,5 +1,5 @@
-{title: It Must Have Been Love}
-{subtitle: }
+{title:It Must Have Been Love}
+{subtitle:}
 Intro Drums
 
 Lay a w[C]hisper on my pillow,

@@ -1,4 +1,4 @@
-{title: Night Moves}
+{title:Night Moves}
 
 Capo 1st fret.
 

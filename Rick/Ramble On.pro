@@ -1,4 +1,4 @@
-{title: Ramble On*}
+{title:Ramble On*}
 {zoom-ipad:0.790312}
 
 Leaves are falling all around, it's time I was on my way.

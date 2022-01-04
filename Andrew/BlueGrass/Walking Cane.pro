@@ -1,5 +1,5 @@
-{title: Hand me Down My Walkin Cane}
-{subtitle: Cleoma Breaux}
+{title:Hand me Down My Walkin Cane}
+{subtitle:Cleoma Breaux}
 
 Hand me [A]down my walking cane
 Hand me [E]down my walking [A]cane

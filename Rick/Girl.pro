@@ -1,5 +1,5 @@
-{title: Girl}
-{subtitle: Beatles}
+{title:Girl}
+{subtitle:Beatles}
 Capo - 1st or 3rd Fret. BPM 50
 Is there [Bm]anybody [F#7]going to listen [Bm]to my [B7]story
 [Em]all about a [A7]girl who came to [D]stay?  [F#7]

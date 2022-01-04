@@ -27,7 +27,7 @@ To cons[D]ider [Dsus2] [D] [Dsus4] [D] [Dsus2] [D]
 
 [C]Said woman, [G]take it slow
 And [C]things will be just f[Em]ine
-[C]You and I’ll just [G]use a little p[D]atience [Dsus2][D][Dsus4][D][Dsus2][D]
+[C]You and I'll just [G]use a little p[D]atience [Dsus2][D][Dsus4][D][Dsus2][D]
 [C]Said sugar, [G]take the time Cause the [C]lights are shining br[Em]ight
 [C]You and I've got [G]what it takes to m[D]ake it [Dsus2][D][Dsus4][D][Dsus2]
 We [D]won't fake it [Dsus2] [D] [Dsus4] [D]
@@ -58,7 +58,7 @@ yeaaa[G]aah
 [D]  I've been walking the streets tonight
 [G]  Just trying to get it right
 [D]  It's hard to see with so many around
-You [G]know I don’t like being stuck in the crowd
+You [G]know I don't like being stuck in the crowd
 And the [D]streets don't change but maybe the names
 [G]  I ain't got time for the game
 Cause I n[D]eed you

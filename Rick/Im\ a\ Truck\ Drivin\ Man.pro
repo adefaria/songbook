@@ -1,5 +1,5 @@
-{title: Im A Truck Drivin' Man}
-{subtitle:Ricksongs}
+{title:Im A Truck Drivin' Man}
+{subtitle:Rick Lecksell}
  
 Harp intro..
  
@@ -34,4 +34,4 @@ I'm just a travelin' man all over Gods land and I'm proud a the red, white and b
 I said, I'm king of the road all over Gods land
 And I'm roll all over you....
  
-Harp outro...softly, distant...I'm’a roll all over you.ick
+Harp outro...softly, distant...I'm'a roll all over you.ick

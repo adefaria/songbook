@@ -1,4 +1,4 @@
-{title: Flip, Flop & Fly}
+{title:Flip, Flop & Fly}
 {subtitle:Blues Brothers}
 
 Well now [E]when I get the blues, gonna get me a rockin' chair.

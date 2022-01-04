@@ -1,6 +1,5 @@
-{title:Hard to Handle????}
-{subtitle:Black Crowes - 1968 Otis Readding} Intro riff x2
-Shaker No Harmonies
+{title:Hard to Handle}
+{subtitle:Black Crowes}
 
 [B]Baby here I am I'm the man on the scene! I can give you what you want
 But you gotta' come home with me, I have got some good old lovin'

@@ -1,5 +1,5 @@
-{title: The Weaver of Musical Lace}
-{subtitle: Ricksongs}
+{title:The Weaver of Musical Lace}
+{subtitle:Rick Lecksell}
 
 How delicate the cloth of his words are traced.
 How fine the melody is placed.

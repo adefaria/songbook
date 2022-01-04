@@ -1,5 +1,5 @@
 {title:Reach Out I'll be there}
-{subtitle: The 4 Tops}
+{subtitle:The 4 Tops}
 {zoom-ipad: 1.364121}
 Four Tops - Reach Out I'll be there
 Capo 4

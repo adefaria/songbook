@@ -1,4 +1,4 @@
-{t:Brand New Day}
+{title:Brand New Day}
 {subtitle:}
 
 [G]When [D/F#]all the dark clouds r[Em]oll away [C]and the [D]sun begins to sh[G]ine. [D]

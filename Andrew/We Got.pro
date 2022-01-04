@@ -1,5 +1,5 @@
-{t:We Got}
-{st:Tim Minchin}
+{title:We Got}
+{subtitle:Tim Minchin}
 {key:E}
 
 [E] [A] [E] [A] [B] [A] [E]

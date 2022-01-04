@@ -1,5 +1,5 @@
 {title:Free Bird}
-{st:Lynyrd Skynard}
+{subtitle:Lynyrd Skynyrd}
 
 [G] If I [D/F#]leave here to[Em]morrow, [F] Would you [C]still remember me[D]?
 [G] For I must [D/F#]be trav'ling [Em]on now [F] 'Cause there's too many plac[C]es I've got to see. [D]

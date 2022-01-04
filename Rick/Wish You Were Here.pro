@@ -1,4 +1,4 @@
-{t:Wish You Were Here}
+{title:Wish You Were Here}
 {zoom-ipad:0.780000}
 [Em7]  [G]
 [Em7]  [A7sus4]

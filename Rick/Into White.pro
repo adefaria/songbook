@@ -1,4 +1,4 @@
-{title: Into White}
+{title:Into White}
 {zoom-ipad: 0.927105}
 Capo 2 or 7
 

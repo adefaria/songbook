@@ -1,6 +1,6 @@
 
-{t:Country girl}
-{st:Neil Young}
+{title:Country girl}
+{subtitle:Neil Young}
 
 [Am]   [D]  [Am7]    [D]   [Am]   [D]  [Am7]    [D]  [Am]Winding paths through tables and glass, First fall was n[Amaj7]ew
 [Bm7]Now watch the summer pass so close to [Cmaj7]you[Bm][Em]

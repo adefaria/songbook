@@ -1,5 +1,5 @@
-{t:Jet Airliner}
-{st:Steve Miller}
+{title:Jet Airliner}
+{subtitle:Steve Miller}
 
 #                                                                                              
 {sot}

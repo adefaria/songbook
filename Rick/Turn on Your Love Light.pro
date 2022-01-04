@@ -1,5 +1,5 @@
-{title: Turn On Your Love Light}
-{subtitle: }
+{title:Turn On Your Love Light}
+{subtitle:}
 
 E7WithoutA7 a warning   you broke E7my heart,A7
 Takin' it baby,   E7  tornA7 it apart     E7        A7

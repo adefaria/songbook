@@ -15,7 +15,7 @@ Droplets of rain, heat from the sun. And we are what remains.
 Crisis embodies hope. In the middle of a storm of rage.
 Caught in the eye of calm.  While a canary dies in his cage.
 Seven dens and seven worlds. All spinning at one time
-Until our worlds collide. And, we’ve no place left to hide. 
+Until our worlds collide. And, we've no place left to hide. 
 
 Solo - Over verse & chorus chords Paragons twice at end. 
 

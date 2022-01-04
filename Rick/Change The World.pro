@@ -9,7 +9,7 @@ Chords 2X
 If I can reeach the stars.  Poull one down for you. 
 Shine it on my heart.  So you could see the troouth. 
 Then this love I have inside.   Is everything it seems.
-But for now I find.  Sit’s only in my dreams.
+But for now I find.  Sit's only in my dreams.
 
 And I can, [F#m]chang[G#7]e the [C#m7]world.
 I[F#m] would be the s[G#7]unlight in your u[C#m7]niverse 

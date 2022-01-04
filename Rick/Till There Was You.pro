@@ -1,5 +1,5 @@
-{title: Till There Was You}
-{subtitle: Beatles }
+{title:Till There Was You}
+{subtitle:Beatles}
 {pause:10}
 
  [F]      [B7/9(1)]    [Gm]      [C7/9]

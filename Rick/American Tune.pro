@@ -1,5 +1,5 @@
 {title:American Tune }
-{subtitle: Simon & Garfunkel}
+{subtitle:Simon and Garfunkel}
 {pause: 10}
      [D]Many's the [G]time I[D]'ve [A7]been mi[D]stak[A]en [F#]and many[Bm] times[F#] confuse[Bm]d
      [D]Yes and I've [G]oft[D]en [A7]felt [D]fors[A]aken[D] a[C#7]nd [Bm]certai[F#]nly misuse[Bm]d

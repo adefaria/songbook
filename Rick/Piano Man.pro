@@ -1,4 +1,4 @@
-{title: Piano Man - lite}
+{title:Piano Man - lite}
 {subtitle:Billy Joel}
 
 {pause: 10}

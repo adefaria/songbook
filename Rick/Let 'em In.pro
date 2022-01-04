@@ -1,6 +1,5 @@
 {title:Let 'em In}
-{subtitle:Paul McCartney)}
-(Words by McCartney)
+{subtitle:Paul McCartney}
 
 [Verse]
 [Bbmaj7]Someone's knockin' at the door.

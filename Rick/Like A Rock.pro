@@ -1,5 +1,5 @@
 {title:Like A Rock}
-{subtitle:Bob Seger}
+{subtitle:Bob Seager}
 {zoom-ipad:0.773440}
 Capo 1
 

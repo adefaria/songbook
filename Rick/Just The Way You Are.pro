@@ -1,5 +1,5 @@
 {title:Just The Way You Are}
-{subtitle:Billy Jole}
+{subtitle:Billy Joel}
 
 [Gm6/D][G/D][D]
 
@@ -29,7 +29,7 @@ I n[Gmaj7]ever wa[Gm]nt to work that h[D/F#]ard.
 
 [D]I said I [Bm6]love you [Gmaj7]and that's f[Bm]orever. [D7]
 [Gmaj7]And this I [Gm]promise from the h[D/F#]eart. 
-[Am7]Mm[D7][Gmaj7]I couldn’t l[Gm]ove you[D/F#]  any bette[Bm7]r. 
+[Am7]Mm[D7][Gmaj7]I couldn't l[Gm]ove you[D/F#]  any bette[Bm7]r. 
 [Em7]I love  you ju[G/A]st the way you are. [Gm6/D] [G/D] [D] [Gm6/D] [G/D] [D]
 Solo
 [D][R[Bm6][Gmaj7][Bm] [D7] [Gmaj7] [Gm] [D/F#] [Am7] [D7] [Gmaj7] [Gm] [D/F#] [Bm7] [E7sus4] [E7] [G/A]
