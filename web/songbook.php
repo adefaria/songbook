@@ -1,15 +1,13 @@
 <?php
 $baseDir    = getcwd();
 $songbook   = "/opt/songbook";
-$songFolder = "Andrew";
-$songDir    = "/opt/songbook/$songFolder";
 
 if (isset ($_REQUEST['debug'])) {
   $debug = $_REQUEST['debug'];
 } // if
 
 // Initialize music objects
-$songs   = getSongs($songDir);
+$songs   = getSongs($songbook);
 $sets    = getSets($songbook);
 $artists = getArtists($songs);
 
@@ -21,8 +19,8 @@ function debug ($msg) {
   } // if
 } // debug
 
-function getSongs($songDir) {
-  return glob("$songDir/*.pro");
+function getSongs($songbook) {
+  return glob("$songbook/*/*.pro");
 } // getSongs
 
 function getSets($songbook) {
