@@ -1,2 +1,2 @@
 {title: Mona Lisa}
-{subtitle: Tommy Emmannuel}
+{subtitle: Tommy Emmanuel}
