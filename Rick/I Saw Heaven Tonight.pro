@@ -1,5 +1,5 @@
 {title:I Saw Heaven Tonight}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 {time:8:00}
 {metronome:108}
 {c:108 BPM}
@@ -11,29 +11,29 @@ User 94-2 Rich Strings Capo 2 or *3   Ab is [RR]
 [F]With Angels gui[G]ding me [Ab]into the [C]night. [F]I'm passing [G]over to the other [Am]side.[Asus]
 [F]I [G]went to Heaven [Ab]tonight. [C][Ab][C]
 
-[F]After [G]wondrin' [Ab]all this [C]time. [F]Now I'm [G]sure of what it’s [Asus]like. [Am]
+[F]After [G]wondrin' [Ab]all this [C]time. [F]Now I'm [G]sure of what it's [Asus]like. [Am]
 [F]His sm[G]ile let's me know every[Ab]thing's al[C]right. [F]I'm in [G]Heaven [Ab]tonight. [C][Ab][C]
 
 [Am]No need to [Em]shed a tear...[F]Every thing...Is [G]fine, right [C]here.
-[Am]It’s not your time. You don’t [Em]want to leave.
+[Am]It's not your time. You don't [Em]want to leave.
 **[F]Remember my [G]love. How much I [Asus]caarred. [Am]
 .....[F]You'll see the [G]signs, I'm always [Ab]near. [C][Ab][C]
 
 [Am]I would cry, if it were [Em]you who were gone.
-[F]I’ll miss [G]you. But it won't be [C]long. 
+[F]I'll miss [G]you. But it won't be [C]long. 
 [Am]Just keep the faith and [Em]carry on. 
 [F]I'll always [G]be Right by your [Asus]side. [Am]
 [F]I'm sending you my [G]love from Heaven [Ab]tonight. [C][Ab][C][Ab]
 
-[Am]When it's your time. You’ll [Em]know it’s true. [F]You'll under[G]stand when I say to [C]you.
+[Am]When it's your time. You'll [Em]know it's true. [F]You'll under[G]stand when I say to [C]you.
 [Am]They'll come a day. [Em]You'll find your way. [F]You'll be [G]ready for the guiding [Asus]light. [Am]
 [F]My [G]time for Heaven is [Ab]tonight. [C][Ab][C]
 
-[Am]Winter’s coming in [Em]early this year. But don’t [F6]cry for me.
-I’ll be [Ab]warmed by His [F6]guiding [Ab2]light.
-There’s a [Am]calmness......[NC]"Don't worry."
-IT [F6]ALL [Ab]feels [Am]right..[F6]There's noth[Ab]ing to [Am]fear. [D6]I’m in good hands.
-I’ll [Ab]be waiting...Till you [*G]get [C]here. [Ab][C][Ab][C]
+[Am]Winter's coming in [Em]early this year. But don't [F6]cry for me.
+I'll be [Ab]warmed by His [F6]guiding [Ab2]light.
+There's a [Am]calmness......[NC]"Don't worry."
+IT [F6]ALL [Ab]feels [Am]right..[F6]There's noth[Ab]ing to [Am]fear. [D6]I'm in good hands.
+I'll [Ab]be waiting...Till you [*G]get [C]here. [Ab][C][Ab][C]
 
 [F]I'll miss your [G]caring love and [Ab]tender[C]ness. [F]You'll never [G]know much it [Asus]meant.[Am]
 [F]Your sweet [G]love I'll [Ab]never [C]forget.

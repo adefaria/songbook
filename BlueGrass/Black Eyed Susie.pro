@@ -1,4 +1,4 @@
-{title: Black Eye Susie}
+{title:Black Eye Susie}
 {subtitle:Traditional}
 
 {A]Black eyed Susie [D]went to town

@@ -1,5 +1,5 @@
-{t:Colors}
-{subtitle: Donavan}
+{title:Colors}
+{subtitle:Donovan}
 Tune to DADF#AD and capo 2nd fret 
 open; Seventh fret; then nineth fret
 

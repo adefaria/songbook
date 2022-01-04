@@ -6,7 +6,7 @@
 
 There she [A]stood, in [D]the [A]street, Smi[G]ling from her [D]head to her [A]feet
 I said hey[A], what is [D]this[A], Now ba[G]by, maybe sh[D]e's in [A]need of a kiss
-I said [A]hey, what’s your [D]name b[A]aby, [G]Maybe we can [D]see things the [A]same
+I said [A]hey, what's your [D]name b[A]aby, [G]Maybe we can [D]see things the [A]same
 Now don't you [A]wait, or [D]hesit[A]ate, let's move[G] before they raise they [D]parking rate[A],
 
 {c:Chorus}

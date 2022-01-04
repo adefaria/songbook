@@ -1,4 +1,4 @@
-{t:Midnight Rider }
+{title:Midnight Rider }
 {zoom-ipad: 1.156354}
 TUNING: D A D G B D
 

@@ -1,5 +1,5 @@
 {title:Happy Together}
-{subtitle:Turtles}
+{subtitle:The Turtles}
  
 Imagine [Em]me and you - I do
 I think about you [D]day and night, it's only right

@@ -1,5 +1,5 @@
 {title:Pancho and Lefty}
-{st:Townes Van Zandt}
+{subtitle:Townes Van Zandt}
 
 [D]Livin' on the road, my friend
 [A]Was gonna keep us free and clean

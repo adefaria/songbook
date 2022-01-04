@@ -1,4 +1,4 @@
-{t:I Put A Spell On You}
+{title:I Put A Spell On You}
 
 Gm   Gm7 Gm/Eb    Gm/C     Cm    Cm Gm/D  D 
 

@@ -1,5 +1,5 @@
 {title:Who knew}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 
 You were thinking that you might get ahead
 If you could only catch a break

@@ -1,5 +1,5 @@
 {title:Blue Sky}
-{st:Allman Brothers Band}
+{subtitle:Allman Brothers}
 [E]       [A]       [E]       [A]       [E]       [D]       [A]       [E]
 
 [E]Walk along the [B]river, [A]sweet lulla[E]by, it just keeps on [B]flowing,

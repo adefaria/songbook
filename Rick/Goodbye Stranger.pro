@@ -1,5 +1,5 @@
-{t:Goodbye Stranger}
- {st:Supertramp}
+{title:Goodbye Stranger}
+ {subtitle:Supertramp}
 {zoom-ipad:0.840000}
 
  Capo 1

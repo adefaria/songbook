@@ -1,5 +1,5 @@
-{t:Something}
-{st:Beatles}
+{title:Something}
+{subtitle:Beatles}
 {key:C}
 
 {c:Intro}

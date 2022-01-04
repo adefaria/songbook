@@ -35,7 +35,7 @@ Solo 8 bars
 Well I met a boy in Vieux Carres
 Down in Yokohama
 He picked me up and threw me down
-He said “please don’t hurt me mama”
+He said “please don't hurt me mama”
 
 [F#]Poor, p[C#]oor, p[G#]itiful me [C#]
 [F#]Poor, p[C#]oor, p[G#]itiful me [C#]

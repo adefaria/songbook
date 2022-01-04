@@ -15,7 +15,7 @@ I [G]had to put up some [A]kind of a [D]fight. [Dsus4] [D]
 The [G]lady, then she covered me in [C]roses. [Csus4] [C]
 She [G]blew my nose and [D]then she blew my [G]mind.
 
-(It’s a H[G]o[D]nky tonk [G]woman, 
+(It's a H[G]o[D]nky tonk [G]woman, 
 [G]Gimmie, gimmie, [D]gimmie the honky tonk [G]blues) 
 Yeah, alright.
 

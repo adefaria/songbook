@@ -1,5 +1,5 @@
 {title:Long Cool Woman In A Black Dress}
-{subtitle: }
+{subtitle:}
 A simple chord progression to get you started. Use some Blues Riffs to make it your own.
 
 [Intro]

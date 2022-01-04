@@ -1,4 +1,4 @@
-{t:Let It Rain}
+{title:Let It Rain}
 {zoom-ipad:0.950000}
 
 [A][G][D1][G][C][A] 

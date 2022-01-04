@@ -1,5 +1,5 @@
-{t:Fooled Around Fell In Love}
-{st:Elvin Bishop}
+{title:Fooled Around Fell In Love}
+{subtitle:Elvin Bishop}
                              
 F                              Am
 I must've been through about a million girls

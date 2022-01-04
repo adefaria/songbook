@@ -1,5 +1,5 @@
-{title: The Heart of the Matter}
-{subtitle: The Eagles}
+{title:The Heart of the Matter}
+{subtitle:Eagles}
 {ipodid: 1895594918361628945}
 BPM 88
 [D][Dsus][D][Dsus][A7sus2] 4X
@@ -49,10 +49,10 @@ But I think it's a[D]bout forgiveness. [Bm]Forgiveness.
 
 There are [C]people in your life who've [G]come and gone. 
 They [Am]let you down. You know they hurt [G/B]your pride. 
-You [C]better put it all behind you baby. [G]’Cause life goes on. 
+You [C]better put it all behind you baby. [G]'Cause life goes on. 
 [A]You keep carryin' that anger, it'll eat you up inside baby. 
 
-[D]I’ve been tryin’ to get down, [Em7]to the heart of the matter. 
+[D]I've been tryin' to get down, [Em7]to the heart of the matter. 
 [D/F#]But my will gets weak.  [G]And my thoughts seem to scatter. 
 But I think it's a[D]bout forgiveness. [Bm]Forgiveness. 
 [G]Even if. Even if. [A]You don't love me. 

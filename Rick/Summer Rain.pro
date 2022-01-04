@@ -1,5 +1,5 @@
-{t:Summer Rain}
-{st:Johnny Rivers}
+{title:Summer Rain}
+{subtitle:Johnny Rivers}
 {zoom-ipad: 1.243967}
 [Em]Summer [B]rain[Em7] taps at my[Em6] window[Em], wes[B]t win[Em7]d, soft as [Em6]a sweet dream;
 [Em]My lo[B]ve, [Em7]warm as the[Em6] sunshine,

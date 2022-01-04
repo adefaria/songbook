@@ -1,5 +1,5 @@
 {title:Savoy Truffle}
-{subtitle:The Beatles}
+{subtitle:Beatles}
 
 [E7]Creme Tange[E]rine and monteli[E7]mar. 
 [F#]A ginger sling with a pineapple [A]heart. 

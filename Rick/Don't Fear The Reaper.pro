@@ -1,4 +1,4 @@
-{t:Dont Fear The Reaper}
+{title:Dont Fear The Reaper}
 {subtitle:Blue Oyster Cult}
 
 [Am]All [G]our [F]times [G]have c[Am]ome [G] [F] [G]

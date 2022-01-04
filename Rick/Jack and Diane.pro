@@ -3,10 +3,10 @@
 BPM 104 [G][D][G][D][C] 3X
 
 [G]Litt[D]le ditty. 'Bout Jack a[C]nd Diahane. [D][G]Two Merican [D]kids grow[C]n' up. In the ha[D]rt land. [G]
-[G]Jackie, [D]gonna bee (Awh!) fooball [C]star. [D][G]Diane’s d[D]ebutante back se[C]at. Of Jac[D]kie's ca[G]r.
+[G]Jackie, [D]gonna bee (Awh!) fooball [C]star. [D][G]Diane's d[D]ebutante back se[C]at. Of Jac[D]kie's ca[G]r.
 [G][D][C][D][G][D][C][D][G]
 
-[G]Suckin' [D]on a “chili dawg”. Outs[C]ide th’ Tasty Frehee[D]ze. [G]Diane si[D]ttin' on Jackie's lap he’s go[C]t his hands b'tween h[D]er knees.[G]
+[G]Suckin' [D]on a “chili dawg”. Outs[C]ide th' Tasty Frehee[D]ze. [G]Diane si[D]ttin' on Jackie's lap he's go[C]t his hands b'tween h[D]er knees.[G]
 [G]Jackie s[D]ay, Hey Diane, Let's run off b'hin[C]d the shady t[D]rreees. 
 [G]Dribl [D]off those Bobby Brooks. [C]Let me do [D]wha[G]t I please.  Say-a'.
 
@@ -23,11 +23,11 @@ Riff 2X
 [G]Ooh ye[D]ahh, Life g[C]oes hon. [D][G]Long a[D]fter the thrill of livin' [C]is g[G]one. [D]
 [G]Ooh ye[D]ah, I say HLife g[C]oes hon. [D] [G]Long a[D]fter the thrill of livin' [C]is gone. [G][D][A]
 
-So, let it rock. Let it roll. Let the Bible belt come and save my soul.  Hode on to sixteen as long as you ca-an.  Changes comin' 'round real so’n make us women and men. 
+So, let it rock. Let it roll. Let the Bible belt come and save my soul.  Hode on to sixteen as long as you ca-an.  Changes comin' 'round real so'n make us women and men. 
 Drums...[G][D][C][D][G][D][C][D][G]
 Comes in with John
 **[G]Ooh ye[D]ah, Life g[C]oes-on. [D][G]Long a[D]fter the thrill of livin' [C]is g[G]ohone. [D]
 [G]Ooh ye[D]ah, I said, Life g[C]oes on. [D]
 [G]Long a[D]fter the thrill of livin' [C]is gone.[G][D]
 [G]A Lit[D]tle ditty, bou[C]t Jack a[D]nd Diane.
-[G]Two American [D]kids doin' [C]T’best thatthey [D]can. 
+[G]Two American [D]kids doin' [C]T'best thatthey [D]can. 

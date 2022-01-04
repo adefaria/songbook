@@ -1,8 +1,8 @@
 {title:For Free}
-{subtitle:Joni Mitchel/ David Crosby Version}
+{subtitle:Joni Mitchel}
 {metronome:107}
+{c:107 BPM}
 
-BPM 107
 [C][G][D][G][C][D][Fmaj7][Em]
 I slept last night in a good hotel.
 I went [Am]shopping to[C]day for [F]jewel[C]s.

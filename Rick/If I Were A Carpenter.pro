@@ -1,8 +1,8 @@
-{t:If I Were A Carpenter}
-{st:Tim Hardin Capo 6}
+{title:If I Were A Carpenter}
+{subtitle:Tim Hardin}
+{capo:6}
 {ipodid: 1828180435211800233}
 {zoom-ipad:1.173350}
-Capo 3?
 [C][Bb][F][C]2X
 
 [C]If I were a [Bb]carpenter, [F]and you were a [C]Lady.   Would you marry me [Bb]anyway?

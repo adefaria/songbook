@@ -1,6 +1,6 @@
-{t:Not Cause I Wanted To}
+{title:Not Cause I Wanted To}
 {Sub:Bonnie Raitt}
-Capo on 2
+{capo:2}
 [A] [E] [F#m]
 
 Well I'm [A] calling you.

@@ -1,5 +1,5 @@
 {title:Love Will Keep Us Alive}
-{st:Eagles}
+{subtitle:Eagles}
 {zoom-ipad: 1.090000}
 {ipodid: 9024644314861715738}
 {metronome:99}

@@ -1,5 +1,5 @@
 {title:It Just Feels Right}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 
 
 We just flew away, instead walking down the aisle

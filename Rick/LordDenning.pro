@@ -1,5 +1,5 @@
 {title:The Joker}
-{subtitle: }
+{subtitle:}
 [D]Some p[G]eople call me the space co[A]wboy, [G]yeah
 [D]Some c[G]all me the gangster of l[A]ove [G]
 [D]Some pe[G]ople call me Maur[A]ice [G]

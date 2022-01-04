@@ -1,9 +1,7 @@
-{title: Wooden Ships}
-{subtitle: Crosby, Stills & Nash}
+{title:Wooden Ships}
+{subtitle:Crosby, Stills and Nash}
 {ipodid: 4749767367891402464}
-Wooden Ships
-Crosby stills and
-Key: G
+{key:G}
 
 GDC Am-D-EmGDC3X(em009900Gxx77xxDxx76xxCbaropene)
                    

@@ -1,4 +1,4 @@
-{t:Tiny Dancer Acoustic}
+{title:Tiny Dancer Acoustic}
 [C]        [F]
 [C]Blue jean [F]baby, [C] L.A. [F]lady, [C] seamstress for the [F]band   [G]
 [C]Pretty [F]eyed, [C]pirate [F]smile, [C] you'll marry a music [F]man    [G]

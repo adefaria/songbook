@@ -1,4 +1,4 @@
-{title: Blue Bayou}
+{title:Blue Bayou}
 {zoom-ipad: 0.811320}
 
 I fe[C]el so bad, I got a worried mind; I[G]'m so lonesome all the time

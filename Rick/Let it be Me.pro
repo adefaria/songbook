@@ -1,5 +1,5 @@
-{title: Let it be Me}
-{subtitle:Everly Brothers }
+{title:Let it be Me}
+{subtitle:Everly Brothers}
 {pause:10}
 
 [E]I bless the [B]day I found you [C#m]I want to [G#m]stay around you

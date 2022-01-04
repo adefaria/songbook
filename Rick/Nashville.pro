@@ -1,5 +1,5 @@
-{title: Nashville (That Was The Night)}
-{subtitle:Ricksongs}
+{title:Nashville (That Was The Night)}
+{subtitle:Rick Lecksell}
 {zoom-ipad: 0.955980}
 
 I came into town, standing in the rain.
@@ -33,10 +33,10 @@ I played with emotion, I must have caught their ears,
 Cause I saw their tears. 
 “That was the night I played a Hummingbird guitar at the Bluebird Café.”
 
-It’s a beautiful thing when you put your heart out on the line. 
+It's a beautiful thing when you put your heart out on the line. 
 When they hear what you have to say. 
-They’re really listening to what you’re putting down. 
-There’s a comfort in talking to other broken hearts like yours.
+They're really listening to what you're putting down. 
+There's a comfort in talking to other broken hearts like yours.
 Who felt just like what your song said on another day.
  
 I played it soft but I played it clear. 

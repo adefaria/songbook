@@ -1,4 +1,4 @@
-{title: Working for the Weekend}
+{title:Working for the Weekend}
 
  
 Capo +2 for Original Key (of B)

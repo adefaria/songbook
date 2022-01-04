@@ -1,4 +1,4 @@
-{title: Everyone I Meet is From California}
+{title:Everyone I Meet is From California}
 {zoom-ipad: 0.930000}
 {metronome: 142}
 [G] [A] [Bm] [A]     [G] [A]

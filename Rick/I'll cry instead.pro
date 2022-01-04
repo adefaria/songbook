@@ -1,6 +1,6 @@
-{title: I'll cry instead}
-{subtitle: C9:   x32033}
-I'll cry instead          (Lennon/McCartney)
+{title:I'll cry instead}
+{subtitle:Beatles}
+
 C9:   x32033
 G:   320033
 

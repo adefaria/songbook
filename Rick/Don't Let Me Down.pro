@@ -1,5 +1,5 @@
 {title:Dont Let Me Down}
-{subtitle:Beatles Roof Top}
+{subtitle:Beatles}
 {metronome:82}
 {c:82 BPM}
 {zoom-ipad: 1.150000}

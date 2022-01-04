@@ -1,5 +1,5 @@
 {title:The World is Ours}
-{subtitle:Red Shoes For Romeo}
+{subtitle:Red Shoes for Romeo}
 {key:A}
 
 [Amaj7] [Dmadd2] (4X)

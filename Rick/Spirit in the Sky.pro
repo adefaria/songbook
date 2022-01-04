@@ -1,11 +1,11 @@
-{title: Spirit in the Sky chords}
+{title:Spirit in the Sky chords}
 
 [A][D/C][A][C/D]3x
 
 [A]When I die and they lay me to rest.
-I’m gonna go to the place [D]that's the best.
+I'm gonna go to the place [D]that's the best.
 When they lay me [A]down to die.
-I’m going [E]up to the spirit in the [A]sky. 
+I'm going [E]up to the spirit in the [A]sky. 
 Going up to the spirit in the sky,(spirit in the sky)
 that's where I'm gonna go when I [D]die (when I die)
 When I die and they [A]lay me to rest,

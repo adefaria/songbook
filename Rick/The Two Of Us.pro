@@ -1,5 +1,5 @@
 {title:Just The Two Of Us}
-{st:Bill Withers}
+{subtitle:Bill Withers}
                                                                                                    
 [C]I see the crys[B7]tal rain drops f[Em]all,
  and the b[G]eauty of it a[C]ll

@@ -3,7 +3,7 @@
 [C][B7]
 I'm up on the [Em]tightwire.
 one side's [Am]ice and one is fire.
-It’s a, [C]circus [G]game with you and me. [F#m][B7]
+It's a, [C]circus [G]game with you and me. [F#m][B7]
 I'm up on the [Em]tightrope. 
 One side's [Am]hate and one is hope. 
 But the [C]top hat on my [G]head is all you s[D]ee. 

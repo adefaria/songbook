@@ -1,5 +1,5 @@
-{title: I Heard Your Music}
-{subtitle: Ricksongs}
+{title:I Heard Your Music}
+{subtitle:Rick Lecksell}
 
 I heard your music. Mine has imperfections.
 Yours is smooth and sails across my mind.
@@ -9,11 +9,11 @@ Yours glides with the wind, to its destination.
 Mine is fraught with tension, never reaching a conclusion.
 Anticipating a deception on a line or two.
 
-I see you in the stars, while I’m adrift without an oar.
+I see you in the stars, while I'm adrift without an oar.
 You have smooth seas and a northern light to guide you.
 While I hear the ocean roar.
 Waiting for the wind to set me free.
-Without you, I’m shipwrecked on a course I cannot bear.
+Without you, I'm shipwrecked on a course I cannot bear.
 North is south and I find myself nowhere, nowhere to be found.
 A broken mast and a sea of thieves.
 There is no solace in my sleep or dreams.
@@ -31,7 +31,7 @@ Of a moon beam on the water to light my way.
 I curse the sky, holding both fists up high.
 And say, if I could only reach dry land.
 But careful what you wish for.
-You’ll still be searching for revelations and happiness in the end.
+You'll still be searching for revelations and happiness in the end.
 
 I hear your music. It leads me to reflection.
 Smooth and sweet it sails across my mind.

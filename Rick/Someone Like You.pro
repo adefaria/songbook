@@ -1,7 +1,6 @@
-{title: "Someone Like You" by Adele}
-{subtitle: CAPO: II}
-"Someone Like You" by Adele
-CAPO: II
+{title:"Someone Like You" by Adele}
+{subtitle:Adele}
+{capo:2}
 
 [Intro]
 [G][Ver[Bm/F#]se 1] [Em] [C]

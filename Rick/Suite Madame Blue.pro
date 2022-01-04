@@ -1,5 +1,5 @@
-{title: Suite Madame Blue}
-{subtitle: Styx}
+{title:Suite Madame Blue}
+{subtitle:Styx}
 
 [Bm]Time [Bm/A]after [G#m7-5]time      [G] [F#]
 [Bm]I sit and I [Bm/A]wait for your [G#m7-5]call [G] [F#]

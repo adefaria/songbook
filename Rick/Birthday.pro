@@ -1,4 +1,4 @@
-{t:Birthday}
+{title:Birthday}
 
 {Subtitle:Beatles}
 {ipodid: 209037401298309288}

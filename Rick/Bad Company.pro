@@ -1,4 +1,4 @@
-{t:Bad Company}
+{title:Bad Company}
 {zoom-ipad: 0.995964}
 
 [C]Company[Am] [Dm] [G]Always [Dm]on [C]the [Dm]run

@@ -1,5 +1,5 @@
-{title: She's Always a Woman}
-{subtitle: Billy Joel}
+{title:She's Always a Woman}
+{subtitle:Billy Joel}
 {pause:10}
 [A7]
 She can k[A7]ill with a sm[D]ile, she can w[A7]ound with her e[D]yes.

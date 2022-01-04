@@ -1,5 +1,5 @@
-{title: Me and Bobby McGee}
-{subtitle: Kris Kristoferson}
+{title:Me and Bobby McGee}
+{subtitle:Kris Kristoferson}
 {zoom-ipad: 0.925654}
 
 [C]Busted flat in Baton Rouge, headin for the trains feelin nearly faded as my[G] jeans

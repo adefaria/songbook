@@ -1,4 +1,4 @@
-{t:Love at the Five and Dime}{st:Nanci Griffith}
+{title:Love at the Five and Dime}{subtitle:Nanci Griffith}
 {key:C}
 
 

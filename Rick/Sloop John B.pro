@@ -1,4 +1,4 @@
-{title: Sloop John B.}
+{title:Sloop John B.}
 {zoom-ipad:0.985547}Capo 1
 
 We c[G]ome on the Sloop J[C]ohn[G] B. Ma grandfather a[C]nd[G] me. Around Nassau town we did r[D]oam.

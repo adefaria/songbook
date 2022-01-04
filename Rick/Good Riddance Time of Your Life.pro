@@ -1,5 +1,5 @@
-{t:Good Riddance Time of Your Life}
-{st:Green Day}
+{title:Good Riddance Time of Your Life}
+{subtitle:Green Day}
 
 #
 #theres lots of picking going on in this song, but i dont really know how to do that, so here you go....

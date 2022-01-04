@@ -1,6 +1,6 @@
 
-{t:Nights in White Satin}
-{st:Moody Blues}
+{title:Nights in White Satin}
+{subtitle:Moody Blues}
 
 [Em]Nights in white [D]satin [Em] Never reaching the [D]end
 [C]Letters I've [G]written [F] Never meaning to [Em]send

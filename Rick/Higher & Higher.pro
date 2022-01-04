@@ -20,7 +20,7 @@ Higher and higher (Higher and higher. Higher)
 Now once, I was down hearted. Disappointment was my closest friend.
 But then you came and he soon departed. And you know he never showed his face again.
 
-That’s why your love (Your love keeps lifting me)
+That's why your love (Your love keeps lifting me)
 Keeps on lifting (love keeps lifting me)
 Higher (Lifting me)
 Higher and higher (Higher and higher, Higher)

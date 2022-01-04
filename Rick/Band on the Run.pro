@@ -1,5 +1,5 @@
 {title:Band on the Run}
-{subtitle:Beatles/Wings}
+{subtitle:Beatles}
 {metronome:109}
 {c:109 BPM}
 Intro 2X

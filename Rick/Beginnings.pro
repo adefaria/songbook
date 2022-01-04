@@ -1,5 +1,5 @@
-{title: Beginnings}
-{subtitle: Chicago}
+{title:Beginnings}
+{subtitle:Chicago}
 {pause:10}
 [Amaj7]When I'm w[Bm7]ith you, [Amaj7]It doesn't mat[Bm7]ter where we are
 [Amaj7]Or what we're d[Bm7]oin', I'm with you that's al[C]l that matte[Bm7]rs[C]

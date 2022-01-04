@@ -10,13 +10,13 @@
 [G]La, [C]la, [G]la, [C]la, [Bm]la,  [Am]la, [G]la
 
 [G]And the [Em]cara^van has [C]all my friends. [D]
-[G]Yeah, they’ll [Em]stay with me un[C]til the end. [D]
+[G]Yeah, they'll [Em]stay with me un[C]til the end. [D]
 [C]Gypsy [Bm]Robin. And Sw[Am]eet Aemma [G]Roe
 [C]Tell me [Bm]everything. [Am]I need to know. [G]
 [G]La, [C]la, [G]la, [C]la, [Bm]la,  [Am]la, [G]la
 
 [C]Tuurn [Bm]up. Your [Am]radio. [G]
-[C]And [Bm]a’leta me hea[Am]r the song. [G]
+[C]And [Bm]a'leta me hea[Am]r the song. [G]
 [C]Switch o[Bm]n your ele[Am]ctric light. [G]
 [C]Then we can get [Bm]down. To what is [Am]really wrong. [G]
 [C]I [Bm]lo^ng just to [Am]hold you [G]tiiighht. [C][Bm]So I can...[Am]feeel [G]you.
@@ -34,7 +34,7 @@ If you will!, [C]Turn it up. [Bm]Turn it up. [Am]Little bit higher.[G]Radio.
 [G]La, [C]la, [G]la, [C]la, [Bm]la, [Am]la, [G]la
 
 [C]Tuurn [Bm]up. Your [Am]radio. [G]
-[C]And a’leta [Bm]me [Am]hear. The soooong. [G]
+[C]And a'leta [Bm]me [Am]hear. The soooong. [G]
 [C]Switch [Bm]on your [Am]electric lig[G]ht.
 [C]Th[Bm]en we can get down. To [Am]what is really wrong. [G]
 [C]I [Bm]loong just to [Am]hoold you tiiii[G]ghhht.

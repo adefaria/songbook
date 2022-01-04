@@ -1,7 +1,6 @@
 {title:Kiss From A Rose}
 {subtitle:Capo on 3rd fret}
-Kiss From A Rose
-Capo on 3rd fret
+{capo:3}
 
 [Em]Duba dab[D]u dub[E]iduu...
 [Em]Duba dab[D]u dub[E]iduu...

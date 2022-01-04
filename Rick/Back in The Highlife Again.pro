@@ -1,4 +1,4 @@
-{title: Back in The Highlife Again}
+{title:Back in The Highlife Again}
 {subtitle:Steve Winwood}
 [D][G5][D][G5][Asus]
 It [D]used to seem to [G]me

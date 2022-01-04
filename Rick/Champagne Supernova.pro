@@ -1,5 +1,5 @@
-{title: Champagne Supernova}
-{subtitle: Oasis}
+{title:Champagne Supernova}
+{subtitle:Oasis}
 [Asus2][Asus2/G][Asus2/F#][Asus2E]
 
 [Asus2]How many special people change

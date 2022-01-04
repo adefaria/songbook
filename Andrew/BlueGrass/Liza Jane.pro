@@ -1,5 +1,5 @@
-{title: Liza Jane}
-{subtitle: Vince Gill}
+{title:Liza Jane}
+{subtitle:Vince Gill}
 
 You've got my number
 You've got my name

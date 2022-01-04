@@ -1,4 +1,4 @@
-{Title: Hero}
+{title:Hero}
 {subtitle:Enrique Iglesias}
 [G][Em][C][D]
 Would you [G]dance, If I asked you to [Em]dance?

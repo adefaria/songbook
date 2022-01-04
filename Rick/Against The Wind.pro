@@ -1,4 +1,4 @@
-{title: Against The Wind}
+{title:Against The Wind}
 {zoom-ipad:0.835803}
 
 [G]It seems like yesterday, [Bm]but it was long ago. 

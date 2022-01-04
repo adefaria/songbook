@@ -1,5 +1,5 @@
-{title: I Won't Fall Back Ricksong}
-{Subtittle: Ricksong}
+{title:I Won't Fall Back Rick Lecksell}
+{Subtittle: Rick Lecksell}
 Capo 2
 [E]  [Am5] [B] [A] [E]
 [E]  [Am5] [A] [B] [E]

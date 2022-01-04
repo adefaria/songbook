@@ -1,5 +1,5 @@
-{t:Cocaine}
-{st:Eric Clapton}
+{title:Cocaine}
+{subtitle:Eric Clapton}
 {zoom-ipad: 1.513325}
 [E][E][D][E][E][D] 4X
 

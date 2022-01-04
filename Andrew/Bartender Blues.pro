@@ -1,5 +1,5 @@
-{t:Bartender Blues}
-{st:James Taylor}
+{title:Bartender Blues}
+{subtitle:James Taylor}
 {key:A}
 
 [A] 

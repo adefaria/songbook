@@ -1,5 +1,5 @@
-{title: Girl In A Boat On The River}
-{subtitle:Ricksongs}
+{title:Girl In A Boat On The River}
+{subtitle:Rick Lecksell}
 
 I saw you drifting and said
 You look lost, “Throw me a tether line
@@ -28,17 +28,17 @@ I did not tell you everything
 There were things I would not let you see
 At the time it did not matter
 I may have held back things I knew but did not share.
-It didn’t mean I didn’t care
+It didn't mean I didn't care
 
 And as time passed and we grew closer
-There were things I couldn’t share.
-Without feeling that I’d lose you
+There were things I couldn't share.
+Without feeling that I'd lose you
 And have to let you go.
 
 Time passed and the feelings grew.
 There was no hiding it from you.
 Then the truth behind the lies
-Couldn’t help but show through.
+Couldn't help but show through.
 
 Yet you invited me onto your vessel
 I came aboard and we sailed out towards the sun

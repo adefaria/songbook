@@ -1,5 +1,5 @@
-{title: Rocky Top}
-{subtitle: Osborne Brothers}
+{title:Rocky Top}
+{subtitle:Osborne Brothers}
 {key: G}
 
 [G]I wish that I was [C]on old Rocky [G]Top

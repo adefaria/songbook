@@ -1,5 +1,5 @@
-{t:Time after time}
-{st:Cyndi Lauper}
+{title:Time after time}
+{subtitle:Cyndi Lauper}
 
 
     [F]      [G]      [Em]    [Fmaj9]        [Dm]      [C]      [G]     [Am7]                                        

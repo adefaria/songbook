@@ -1,5 +1,5 @@
 {title:Get Together}
-{subtitle:Youngbloods}
+{subtitle:The Youngbloods}
 
 [G] [F] [G] [F] [G] [F]
 

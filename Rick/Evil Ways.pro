@@ -1,5 +1,5 @@
-{t:Evil ways}
-{st:Santana}
+{title:Evil ways}
+{subtitle:Santana}
 
 [Dm7 / C / Gm7 / C (vamp until ready]
 

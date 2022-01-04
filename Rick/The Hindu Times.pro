@@ -1,16 +1,16 @@
-{t:The Hindu Times}
-{st:Oasis}
+{title:The Hindu Times}
+{subtitle:Oasis}
  Capo 2
 
  [B]5x [E][A][D][G][B][E]
  [B][B][B][E] (x2)
 
-  [B]I get up, when I’m down
- I cant swim, but my soul w[E]on’t drown.
- [B]I do believe, I’ve got flair
- I’ve got speed, and I walk on[E] air.
+  [B]I get up, when I'm down
+ I cant swim, but my soul w[E]on't drown.
+ [B]I do believe, I've got flair
+ I've got speed, and I walk on[E] air.
 
- [E]cos god give me a soul, I got rockn’ roll [B]babe 2X
+ [E]cos god give me a soul, I got rockn' roll [B]babe 2X
  And I [E]get so high I just cant f[F#]eel it 2X
  [A5]In and out my brain, your ru[G]nning through my veins ,
  [Csus2]your my sunshine , yo[Esus2]ur my rain.[B]

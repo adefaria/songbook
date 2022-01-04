@@ -1,4 +1,4 @@
-{title: Good Night California}
+{title:Good Night California}
 {subtitle:Kathleen Edwards}
 {capo:3}
 

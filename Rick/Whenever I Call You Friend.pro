@@ -1,8 +1,5 @@
-{title: WHENEVER I CALL YOU FRIEND}
-{subtitle: (LOGGINS & NICKS)}
-WHENEVER I CALL YOU FRIEND
-(LOGGINS & NICKS)
-
+{title:Whenever I Call You Friend}
+{subtitle:(Loggins and Nicks)}
 
 G          D7/5-    B7  Em
 Whenever I call     you friend,

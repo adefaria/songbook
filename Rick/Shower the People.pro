@@ -1,5 +1,5 @@
-{t:Shower the People}
-{st:James Taylor}
+{title:Shower the People}
+{subtitle:James Taylor}
 
 
 You can [D]play the game and you can [A]act out the part

@@ -1,4 +1,4 @@
-{title: Crystal Blue Persuasion}
+{title:Crystal Blue Persuasion}
 
 C#m Bm 2x
 C#m Bm  D  A

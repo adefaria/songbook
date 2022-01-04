@@ -1,12 +1,12 @@
 {title:Vitamin C Song}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 {zoom-ipad: 1.158780}
 
 I keep leaving you little hints.
 Hoping to change your mind.
 Hearts and birds and butterflies.
-Cause I know that’s what you like.
-I’m hoping it will change your mind.
+Cause I know that's what you like.
+I'm hoping it will change your mind.
  
 **My heart is beating.
 My love is waiting.
@@ -21,7 +21,7 @@ In whatever I do.
  
 **Nothing has changed.
 Love remains strong.
-It’s still the same.
+It's still the same.
 As the day I heard it all.
 Our hearts beating, birds singing, butterflies floating.
 In the sun.

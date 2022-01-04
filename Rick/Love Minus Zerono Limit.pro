@@ -1,4 +1,4 @@
-{t:Love Minus Zero/no Limit}
+{title:Love Minus Zero/no Limit}
 Capo 4
 [C] [G] [F]
 My [C]love she speaks like [G]silence, [F]without ideals or [C]violence.

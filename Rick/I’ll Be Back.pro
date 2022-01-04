@@ -1,4 +1,4 @@
-{title:I’ll Be Back}
+{title:I'll Be Back}
 {zoom-ipad:0.920000}
 
 [Am]

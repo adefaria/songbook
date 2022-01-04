@@ -1,5 +1,5 @@
-{t:Every Rose Has Its Thorn}
-{st:Poison}
+{title:Every Rose Has Its Thorn}
+{subtitle:Poison}
 {key:G}
 
 {c:Intro}

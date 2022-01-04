@@ -1,5 +1,5 @@
 {title:Dig a Pony}
-{subtitle:Beatles - Roof Top}
+{subtitle:Beatles}
 {metronome:118}
 {c:118 BPM}
 {ipodid: 3410261317766930689}

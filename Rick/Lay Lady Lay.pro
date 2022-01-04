@@ -1,4 +1,4 @@
-{t:Lay Lady Lay}
+{title:Lay Lady Lay}
 {Subtitle:Bob Dylan}
 {zoom-ipad: 0.624905}
 

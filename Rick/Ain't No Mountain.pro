@@ -32,7 +32,7 @@ There [Am]ain't no mountain [G]high [Am7]enough.
 To [D7]keep me from getting to y[F]ou. 
 
 [G]No wind, no rain. 
-Or [E7]winter’s cold can stop me [A6]baby. 
+Or [E7]winter's cold can stop me [A6]baby. 
 'Cause you are my [G]goal. 
 If you're ever in trouble. 
 I'll be there on the double. 

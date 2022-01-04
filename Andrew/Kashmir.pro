@@ -1,5 +1,5 @@
-{t:Kashmir}
-{st:Led Zeppelin}
+{title:Kashmir}
+{subtitle:Led Zeppelin}
 {key:D}
 {tuning:D A D G A D}
 

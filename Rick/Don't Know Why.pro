@@ -1,5 +1,5 @@
-{title: Don't Know Why}
-{subtitle: Norah Jones}
+{title:Don't Know Why}
+{subtitle:Norah Jones}
 {pause:10}
 I [Gmaj7]waited  [G7]till I s[Cmaj7]aw the [B7]sun I 
 d[Em]on't know w[A7]hy you di[C]dn't co[G]me

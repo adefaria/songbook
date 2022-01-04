@@ -1,5 +1,5 @@
-[E]{t:In Your Eyes}
-{st:Peter Gabriel}
+[E]{title:In Your Eyes}
+{subtitle:Peter Gabriel}
 
 {c:intro,chords seque into verse}
 [A]  [F#m]  [A/C#]  [D]

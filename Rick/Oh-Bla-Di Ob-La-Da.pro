@@ -1,4 +1,4 @@
-{title: Oh Bla Di Ob La Da}
+{title:Oh Bla Di Ob La Da}
 {subtitle:Beatles}
 {zoom-ipad: 1.040000}
 {metronome:113}

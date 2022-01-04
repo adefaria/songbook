@@ -10,7 +10,7 @@ In an eight room farm-house, baby
 G                    Am
 When my brothers and friends were around
 G                Am 
-There was always something doin’
+There was always something doin'
 Em                      Bm 
 Had me a couple of real nice girlfriends
 Am                   C 
@@ -22,21 +22,21 @@ All I can do is sit and smile
 
 Chorus:
 G             Am 
-That’s when a smoke was a smoke
+That's when a smoke was a smoke
 G                Am 
-And groovin’ was groovin’
+And groovin' was groovin'
 G                 Am
-And dancin’ meant everything
+And dancin' meant everything
 G                 Am   
-We were young and we were improvin’
+We were young and we were improvin'
 G                   Am
-Laughin’, laughin’, with our friends
+Laughin', laughin', with our friends
 G                   Am 
-Holdin’ hands meant somethin’, baby
+Holdin' hands meant somethin', baby
 G                 Am 
 Outside the club Cherry Bomb,
 G               Am
-Our hearts were really thumpin’,
+Our hearts were really thumpin',
 Am            G       Am/Am-/Am (quickly)
 Say yeah, yeah, yeah
 (no chord)           G Am
@@ -49,9 +49,9 @@ The winter days they last forever
 G               Am
 But the weekends went by so quick
 G               Am
-Went ridin’ around this little country town
+Went ridin' around this little country town
 G               Am
-We were goin’ nuts girl, out in the sticks
+We were goin' nuts girl, out in the sticks
 Em                    Bm
 One night, me with my big mouth
 Am                          C
@@ -63,21 +63,21 @@ We just laugh and say, Do you remember when?
 
 Chorus:
 G             Am 
-That’s when a smoke was a smoke
+That's when a smoke was a smoke
 G                Am 
-And groovin’ was groovin’
+And groovin' was groovin'
 G                 Am
-And dancin’ meant everything
+And dancin' meant everything
 G                 Am   
-We were young and we were improvin’
+We were young and we were improvin'
 G                   Am
-Laughin’, laughin’, with our friends
+Laughin', laughin', with our friends
 G                   Am 
-Holdin’ hands meant somethin’, baby
+Holdin' hands meant somethin', baby
 G                 Am 
 Outside the club Cherry Bomb,
 G               Am
-Our hearts were really thumpin’,
+Our hearts were really thumpin',
 Am            G       Am/Am-/Am (quickly)
 Say yeah, yeah, yeah
 (no chord)           G Am
@@ -91,37 +91,37 @@ Verse3:
 G                  Am
 Now, seventeen has turned thirty-five
 G                  Am
-I’m surprised that we’re still livin’
+I'm surprised that we're still livin'
 G              Am        
-If we’ve done any wrong
+If we've done any wrong
 G              Am
-I hope that we’re forgiven
+I hope that we're forgiven
 Em              Bm
 Got a few kids of my own
 Am              C
-And some days I still don’t know what to do
+And some days I still don't know what to do
 Em               Bm
-I hope that they’re not laughin’ too loud
+I hope that they're not laughin' too loud
 Am               C
-When they hear me talkin’ like this to you
+When they hear me talkin' like this to you
 
 Chorus:
 G             Am 
-That’s when a smoke was a smoke
+That's when a smoke was a smoke
 G                Am 
-And groovin’ was groovin’
+And groovin' was groovin'
 G                 Am
-And dancin’ meant everything
+And dancin' meant everything
 G                 Am   
-We were young and we were improvin’
+We were young and we were improvin'
 G                   Am
-Laughin’, laughin’, with our friends
+Laughin', laughin', with our friends
 G                   Am 
-Holdin’ hands meant somethin’, baby
+Holdin' hands meant somethin', baby
 G                 Am 
 Outside the club Cherry Bomb,
 G               Am
-Our hearts were really thumpin’,
+Our hearts were really thumpin',
 Am            G       Am/Am-/Am (quickly)
 Say yeah, yeah, yeah
 (no chord)           G Am

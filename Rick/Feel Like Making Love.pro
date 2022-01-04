@@ -1,5 +1,5 @@
-{t:Feel like making love}
-{st:Bad Company}
+{title:Feel like making love}
+{subtitle:Bad Company}
 
 [Intro:] [D] [C] [G] [D] [x2]
 

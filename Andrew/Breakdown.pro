@@ -1,5 +1,5 @@
-{t:Breakdown}
-{st:Tom Petty}
+{title:Breakdown}
+{subtitle:Tom Petty}
 {key:Am}
 
 [Am]It's all [G]right if you love me[Am] [G]

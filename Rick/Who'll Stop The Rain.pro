@@ -1,5 +1,5 @@
 
-{t:Who'll Stop The Rain}
+{title:Who'll Stop The Rain}
 {zoom-ipad:1.173867}
 [G][C]
 [G]Long as I remember the rain been [C]comin' down.

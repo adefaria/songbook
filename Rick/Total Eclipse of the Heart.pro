@@ -1,5 +1,5 @@
 {title:Total Eclipse of the Heart}
-{subtitle: Capo: 1}
+{subtitle:Capo: 1}
 Capo: 1
 
 [Am](Turn around) Every now and then I get a li[G]ttle bit lonely, and you're never coming round

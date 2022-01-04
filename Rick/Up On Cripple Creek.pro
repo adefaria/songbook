@@ -1,4 +1,4 @@
-{t:Up On Cripple Creek}
+{title:Up On Cripple Creek}
 {zoom-ipad: 0.747617}
 
 When [A]I get off of this mountain, you kn[D]ow where I want to go?

@@ -1,5 +1,5 @@
 {title:No One Is To Blame}
-{subtitle:Howad Jones}
+{subtitle:Howard Jones}
 
 [A][Asus4][A][D][E][Esus4][E][A]
         

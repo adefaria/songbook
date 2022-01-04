@@ -2,13 +2,13 @@
 {zoom-ipad: 0.927734}
 
 [Bbmaj7]And when I go away, I know my heart can stay with [Am7]my love.
-It’s und[D9]erstood, It’s in the hands of my [Gm7]love.
+It's und[D9]erstood, It's in the hands of my [Gm7]love.
 [Am7]And my [Bbmaj7]love does [Dm6]it good.
 Wo, wo[F], wo, wo, wo, wo, [Gm7]wo, wo.
 [Bb/F]My love does it [F]good.
 
-[Bbmaj7]And when the cupboard’s bare, I’ll still find something there with [Am7]my love.
-It’s understood [D9] It’s everywhere with [Gm7]my love.
+[Bbmaj7]And when the cupboard's bare, I'll still find something there with [Am7]my love.
+It's understood [D9] It's everywhere with [Gm7]my love.
 [Am7]And my [Bbmaj7]love does [Dm6]it good.
 Wo, w[F]o, wo, wo, wo, wo, [Gm7]wo, wo,
 [Bb/F]My love does it [F]good
@@ -19,8 +19,8 @@ Wo, w[F]o, wo, wo, wo, wo, [Gm7]wo, wo,
 [Bb]Only my love doe[C7]s it good [F]to me.
 [F]Wo, wo,[Bb/F] wo, wo, w[C7]o, wo, wo[F], wo.
 
-[Bbmaj7]Don’t ever ask me why, I never say goodbye to [Am7]my love.
-It’s unde[D9]rstood, It’s everywhere with [Gm7]my love.
+[Bbmaj7]Don't ever ask me why, I never say goodbye to [Am7]my love.
+It's unde[D9]rstood, It's everywhere with [Gm7]my love.
 [Am7]And my [Bbmaj7]love does [Dm6]it good.
 
 Wo, w[F]o, wo, wo, w, wo, [Gm7]wo, wo,

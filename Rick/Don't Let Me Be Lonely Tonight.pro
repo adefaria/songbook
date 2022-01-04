@@ -1,5 +1,5 @@
-{title: Don’t Let Me Be Lonely Tonight}
-{subtitle: James Taylor}
+{title:Don't Let Me Be Lonely Tonight}
+{subtitle:James Taylor}
 Em9         A7sus4      Dmaj7sus2 D#dim7
   Do me wrong -         do me right
 [Em9] Tell me [A7sus4]lies but    [F#m7] hold me[B7sus4]  tight [B7]

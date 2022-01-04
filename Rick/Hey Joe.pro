@@ -1,4 +1,4 @@
-{t:Hey Joe}
+{title:Hey Joe}
 
 [C]Hey [G]Joe where ya' [D]goin' with that [A]gun in your hand? [E]   [E7]
 I said [C]hey [G]Joe [D]where ya [A]goin' with that [E]gun in your hand? [E7]

@@ -21,7 +21,7 @@ Hey!
 [Bm]Oh, when you [A]held my hand, [D]I knew that it was [G]now or never.
 [Bm]Those were the [A]best days of my life).
 
-[D]Oh yeah[A]  [D]Back in the [A]summer of 69’. 
+[D]Oh yeah[A]  [D]Back in the [A]summer of 69'. 
 OOoh!
 
 [F]Man we were [Bb]killin' time, 
@@ -42,7 +42,7 @@ Riff
 [Bm]Those were the [A]best days of my life).
 
 [D]      [A]             [D]             [A]
-Oh yeah, back in the summer of 69’
+Oh yeah, back in the summer of 69'
 Huh huh, 
 
 Lead

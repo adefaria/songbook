@@ -1,5 +1,5 @@
-{t:Skin Deep}
- {st:Buddy Guy}
+{title:Skin Deep}
+ {subtitle:Buddy Guy}
 
  [A] [F#m] [E] [D]
  

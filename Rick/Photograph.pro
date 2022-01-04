@@ -1,5 +1,5 @@
 {title:Photograph}
-{subtitle:Beatles Ringo George}
+{subtitle:Beatles}
 {ipodid: 1783871120194214534}
 {zoom-ipad:0.937796}
 Capo II BPM 120

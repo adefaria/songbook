@@ -10,7 +10,7 @@ It's [A/G]grapefruit [Em7]wine. [A/G]
 
 The [CM7]girls [Bm7]don't [Am7]seem [G]to [F#7]care what's [B7]on. 
 As [E6/9]long as they [A13]play ‘til [BM7]dawn.
-[Am7]Nothin' but [Em7]blues an’ Elvis. An’ [C#m7-5]somebody [C13]else's [B7sus4]favorite song.
+[Am7]Nothin' but [Em7]blues an' Elvis. An' [C#m7-5]somebody [C13]else's [B7sus4]favorite song.
 [Em7]Give her some funked up music, she [A/G]treats you [Em7]ni`ce. 
 Riff
 

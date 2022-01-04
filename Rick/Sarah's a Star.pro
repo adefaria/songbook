@@ -1,5 +1,5 @@
 {title:Sarah's A Star}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 SARAH'S A STAR
 Key: [C] Capo 2
 

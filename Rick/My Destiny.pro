@@ -1,5 +1,5 @@
-{title: My Destiny}
-{subtitle:Ricksongs}
+{title:My Destiny}
+{subtitle:Rick Lecksell}
 {zoom-ipad:1.234060}
 [C]YO[G]U HAVE BECOME MY [D]DESTINY
 [C]A PART OF [G]YOU WILL [D]ALWAYS BE

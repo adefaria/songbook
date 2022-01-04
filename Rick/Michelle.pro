@@ -1,5 +1,5 @@
-{title: Michelle}
-{subtitle:Beatles }
+{title:Michelle}
+{subtitle:Beatles}
 {pause:10}
 
 (F7sus):  1 3 1 3 1 1 

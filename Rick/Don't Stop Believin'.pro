@@ -1,6 +1,6 @@
-{title: Don’t Stop Believin’}
+{title:Don't Stop Believin'}
 {subtitle:Journey}
-Don’t Stop Believin’  by Journey
+Don't Stop Believin'  by Journey
 
 [Intro]
 PIANO/BASS

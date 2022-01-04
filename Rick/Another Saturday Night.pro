@@ -8,7 +8,7 @@ Another [G]Saturday night and I [C]ain't got nobody
 [D]I'm in [C]awful [G]way
 
 [G]I got in town a [D]month ago, I ain't [G]seen a lotta girls since [C]then
-If I could [G]meet em I could get'em but as [C]yet I haven’t met'em
+If I could [G]meet em I could get'em but as [C]yet I haven't met'em
 That's [D]why I'm in the [C]shape I'm [G]in 
 
 Another [G]Saturday night and I [C]ain't got nobody

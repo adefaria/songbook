@@ -1,4 +1,4 @@
-{title: With a Little Help From my Friends}
+{title:With a Little Help From my Friends}
 {subtitle:Beatles}
 {zoom-ipad: 0.920000}
 Capo 2nd Fret ?

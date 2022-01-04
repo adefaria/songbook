@@ -1,5 +1,5 @@
-{t:Take the long way home}
-{st:Supertramp}[Cm7]   So you think you're a [Bb]Romeo, [F]playing a part in a [C]picture show
+{title:Take the long way home}
+{subtitle:Supertramp}[Cm7]   So you think you're a [Bb]Romeo, [F]playing a part in a [C]picture show
 Well take the [Bb]long way home, take the [C]long way home
 [Cm7]'Cause you're the joke of the [Bb]neighborhood, [F]why should you care if you're [C]feeling good
 Well take the [Bb]long way home, take the [C]long way home

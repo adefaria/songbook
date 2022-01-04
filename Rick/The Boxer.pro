@@ -1,8 +1,8 @@
 {title:The Boxer}
-{subtitle:Simon & Garfinkle John}
+{subtitle:Simon and Garfunkel}
 {zoom-ipad: 0.970000}
 [C]I am just a poor boy, though my story's seldom to[Am]ld. I have squa[G]ndered my resistance.
-For a po[G7x]cketful of mumbles such are p[C]romises. All lies in [Am]jest, still a m[G]an hears what he wa[F]nts to hear and disregards the r[C]est. [G][F][C].  La’s
+For a po[G7x]cketful of mumbles such are p[C]romises. All lies in [Am]jest, still a m[G]an hears what he wa[F]nts to hear and disregards the r[C]est. [G][F][C].  La's
  
 When I left my home and family I ‘as no more than a boy.
 In the company of strangers. In the quiet of a railway station, running scared.

@@ -1,5 +1,5 @@
 {title:The City Lights}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 {zoom-ipad: 1.674519}
 
 Look at those city lights, they're not shining as bright as they used to do.

@@ -1,4 +1,4 @@
-{title: We Can Work it Out}
+{title:We Can Work it Out}
 {subtitle:Beatles}
 [D]Try to see it [Dsus4] my [D]way  
 Do I have to [Dsus4]keep on talking [C]till I can't go [D]on

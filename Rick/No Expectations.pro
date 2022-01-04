@@ -1,4 +1,4 @@
-{t:No Expectations}
+{title:No Expectations}
 Rolling Stones
 [E] [A]  [E]  [A]  [E]  [A]  [E]  [D]
 

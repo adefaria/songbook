@@ -1,5 +1,5 @@
-{title: Georgia On My Mind}
-{subtitle: Ray Charles}
+{title:Georgia On My Mind}
+{subtitle:Ray Charles}
 Georgia On My Mind
 Ray Charles
 

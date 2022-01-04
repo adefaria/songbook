@@ -1,5 +1,5 @@
 {title:Amie}
-{subtitle:Pure Paririe League}
+{subtitle:Pure Prairie League}
 {zoom-ipad:0.935367}
 176 BPM
 [A] [G] [D] [A] [G] [D]

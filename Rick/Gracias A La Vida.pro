@@ -1,5 +1,5 @@
-{title: Gracias A La Vida}
-{subtitle: }
+{title:Gracias A La Vida}
+{subtitle:}
 
 [Am] [E] [Am] [G] [C]  [C7]  [Fm]  [E] [Am] [E] [Am]
 

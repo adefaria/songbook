@@ -1,4 +1,4 @@
-{t:Sweet Home Alabama}
+{title:Sweet Home Alabama}
 {subtitle:Lynyrd Skynyrd}
 
 [D]Big w[C]heels keep on [G]turning. [D]Carry me [C]home to see my [G]kin.

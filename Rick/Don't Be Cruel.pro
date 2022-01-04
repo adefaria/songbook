@@ -1,5 +1,5 @@
 {title:Dont Be Cruel}
-{subtitle: Elvis Presley}
+{subtitle:Elvis Presley}
 {zoom-ipad: 1.026856}
 You [D]know where I can be found, sitting home all alone.
 If [G]you can't come around, at [D]least please telephone.

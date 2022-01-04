@@ -1,5 +1,5 @@
-{title: Peace Train}
-{subtitle: Cat Stevens}
+{title:Peace Train}
+{subtitle:Cat Stevens}
 
 C G C G-C   F C F  F G Am  F G F
 

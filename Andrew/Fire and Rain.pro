@@ -1,5 +1,5 @@
 {title:Fire and Rain}
-{st:James Taylor}
+{subtitle:James Taylor}
 
 
 [A] [G] [D] [A] [E] [G]

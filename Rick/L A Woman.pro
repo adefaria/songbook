@@ -1,4 +1,4 @@
-{t:L A Woman}
+{title:L A Woman}
             
 [E7]Well, I just got into town about an hour ago
 [E7]Took a look around, see which way the wind blow

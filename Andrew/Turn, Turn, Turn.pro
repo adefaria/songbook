@@ -1,5 +1,5 @@
 {title:Turn, Turn, Turn}
-{st:Pete Seeger}
+{subtitle:Pete Seeger}
 
 {c:Chorus}
 

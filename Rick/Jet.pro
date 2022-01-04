@@ -1,5 +1,5 @@
-{t:Jet}
-{st:Paul McCartney}
+{title:Jet}
+{subtitle:Paul McCartney}
 
 #
 #From: szojak@d26.wu-wien.ac.at (Martin Szojak)

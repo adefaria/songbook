@@ -1,5 +1,5 @@
-{t:Dirty Water}
-{st:Standells}
+{title:Dirty Water}
+{subtitle:Standells}
 
         [E]    [A/E]    [E7no3][A/E]
   

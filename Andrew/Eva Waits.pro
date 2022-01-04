@@ -1,5 +1,5 @@
 {title:Eva Waits}
-{st:Tommy Emmanuel}
+{subtitle:Tommy Emmanuel}
 
 {c:Part A (harmonics)}
 

@@ -1,5 +1,5 @@
-{t:More than words}
-{st:Extreme}
+{title:More than words}
+{subtitle:Extreme}
 {zoom-ipad: 1.148845}
 {ipodid:}
 [G]Saying I l[Cadd9]ove you is [Am7]not the words I [C]want to [D]hear from [G]you

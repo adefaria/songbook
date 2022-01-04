@@ -1,5 +1,5 @@
 {title:Suspicious Minds}
-{subtitle:Elvis}
+{subtitle:Elvis Presley}
 
 [G]We're caught in a trap. [C]I can't walk out. [D]Because I love [C]you too much [G]baby.
 [G]Why can't you see. [C]What you're doing to me,

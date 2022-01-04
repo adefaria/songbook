@@ -1,5 +1,5 @@
 {title:Train Leaves Here This Morning}
-{subtitle: Eagles}
+{subtitle:Eagles}
 Capo II
 
 [D]I lost[D] ten points just for [C]being in the right place 

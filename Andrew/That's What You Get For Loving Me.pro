@@ -1,5 +1,5 @@
 {title:That's What You Get For Lovin' Me}
-{st:Mike Staples}
+{subtitle:Mike Staples}
 
 T[D7]hat's what you get for loving m[G]e
 T[D7]hat's what you get for loving m[Em]e[D]

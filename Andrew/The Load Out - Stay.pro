@@ -88,11 +88,11 @@ Oh, won't you [G]stay [Em] [C]just a lit[D]tle bit [G]longer [Em] [C] [D]
 
 [B7] [Em] [A] [D7]
 
-Oh won’t you [G]stay [Em] [C]just a lit[D]tle bit [G]longer [Em] [C] [D]
+Oh won't you [G]stay [Em] [C]just a lit[D]tle bit [G]longer [Em] [C] [D]
 Please, please, [G]stay [Em] [C]jut a lit[D]tle bit [G]more [Em] [C] [D]
 
-And the [G]promoter don’t [Em]mind [C] [D]
-And the [G]roadies don’t [Em]mind [C] [D]
+And the [G]promoter don't [Em]mind [C] [D]
+And the [G]roadies don't [Em]mind [C] [D]
 If we t[G]ake a little [Em]time
 And we [C]leave it all [D]behind singing
 [Em]One more song

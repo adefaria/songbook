@@ -4,7 +4,7 @@
 
 [Am]Is it getting [Dsus2]better? [Fmaj7]Or do you feel the [G]same?
 [Am]Will it make it [Dsus2]easier on you now,[Fmaj7]you've got someone to [G]blame.
-You say [C]one love, [Am]one life. [Fmaj7]When it’s one need [C]in the night.
+You say [C]one love, [Am]one life. [Fmaj7]When it's one need [C]in the night.
 [C]One love [Am]we get to share it. [Fmaj7]It leaves you baby if you [C]dont care for [Am]it. [Dsus2] [Fmaj7][G]
 
 [Am]Did I disap[Dsus2]point you? [Fmaj7]Or leave a bad taste in your m[G]outh?

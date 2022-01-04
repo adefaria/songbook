@@ -1,5 +1,5 @@
 {title:Ohio}
-{st:Neil Young}
+{subtitle:Neil Young}
 
 [Dm]Tin soldiers and [F]Nixon's [C]coming, [Dm]we're finally [F]on our [C]own
 [Dm]This summer I [F]hear the [C]drumming, [Dm]four dead in [F]Ohi[C]o

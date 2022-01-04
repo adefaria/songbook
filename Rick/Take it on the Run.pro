@@ -1,5 +1,5 @@
-{t:Take it on the Run}
-{st:Reo Speedwagon}
+{title:Take it on the Run}
+{subtitle:Reo Speedwagon}
 
 [G]Heard it from a friend who
 [C]Heard it from a friend who

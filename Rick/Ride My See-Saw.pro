@@ -1,6 +1,6 @@
 
-{t:Ride My See-Saw }
-{st:Moody Blues}
+{title:Ride My See-Saw }
+{subtitle:Moody Blues}
 
 [A]Ride..., ride my see-saw,
 Take this place [G]on this trip just for me.        [A]

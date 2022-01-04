@@ -1,4 +1,4 @@
-{title: Summer Breeze}
+{title:Summer Breeze}
 {zoom-ipad: 0.980000}
 {ipodid: 719188458278714114}
 {metronome:88}
@@ -6,7 +6,7 @@
 [Am7][D][Bm7][E][Amaj7/B][A6/B][Em7][Am7] Intro 4X
 
 [E]See the curtains han[G]ging in the window [D]in the evening on a F[A]riday [E]ni-i-i[Am7]ght.>
-[E]Little light a’ [G]shining in the window [D]let's me know everyth[A]ing's all [E]ri-i-ight.>
+[E]Little light a' [G]shining in the window [D]let's me know everyth[A]ing's all [E]ri-i-ight.>
 
 [Am7]**Summer breeze, [Bm7]makes me feel fiiine. [Am7]Blowin' through the jasmine in my my-h-a-hind>     [2X]
 

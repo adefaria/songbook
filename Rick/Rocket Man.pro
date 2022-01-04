@@ -1,5 +1,5 @@
-{title: Rocket Man - Elton John}
-{subtitle: }
+{title:Rocket Man - Elton John}
+{subtitle:}
 Rocket Man - Elton John
 [Em7]She packed my bags last night - pre-f[A9]light
 [Em7]Zero hour, nine A.[A9]M.

@@ -1,5 +1,5 @@
 {title:Everyday People}
-{subtitle:Sly & The Family Stone}
+{subtitle:Sly and the Family Stone}
 
 [G]Sometimes I'm right and [C/G]I can be [G]wrong
 [G]My own beleifs are [C/G]in my [G]song

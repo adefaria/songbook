@@ -7,7 +7,7 @@
 [Em]I think a[**Em7]bout the [C6]loveless facin[D]ation [Em]Under the [**Em7]Milky Way to[C6]night. [D6]
 
 [Em]Lower the [**Em7]curtain down on [C6]Memphis. [D6] [Em]Lower the [**Em7]curtain down al[C6]right. [D6]
-[Em]I’v'e got no [**Em7]time for [C6]private consul[D6]tation. [Em]Under the [**Em7]milky way to[C6]night. [D6]
+[Em]I'v'e got no [**Em7]time for [C6]private consul[D6]tation. [Em]Under the [**Em7]milky way to[C6]night. [D6]
 
 [D][D6]Wish I knew what you were [**Em7]looking [C6]for. [D][D6]Might have known what you would [C6]find. 
 

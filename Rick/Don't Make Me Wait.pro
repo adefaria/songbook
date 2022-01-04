@@ -1,5 +1,5 @@
 {title:Dont Make Me Wait}
-{subtitle:Sting & Shaggy}
+{subtitle:Sting}
 [G][B7][Em][C][G] x2
 ** [G]Don't...Mak[B7]e me wait. [Em]Don't make[C] me wait.
 [G]True love, [B7]true love, [Em]to love you. [C] 3X
@@ -12,7 +12,7 @@ And ju[G]dging from your out-look on l[B7]ife, I knew this would be [Em]more tha
 But now I'm [G]ready for the next lev[B7]el and you're telling me you need more ti[Em]me.
 No [C]crime.
 No-ting wrong with [G]waiting a littl[B7]e bit.
-Ya’ know this is more to me [Em]than just hittin' it.[C]
+Ya' know this is more to me [Em]than just hittin' it.[C]
 One only get a love [G]like this once [B7]inna life time and if this is our [Em]chance, I ain't missing [C]it.
 My whole [G]life I never felt like, th[B7]is. 
 Just wanna run [Em]with it. I don't wanna [C]fight this.

@@ -1,5 +1,5 @@
-{t:Your Mama Dont Dance}
-{subtitle:Loggins & Messina}
+{title:Your Mama Dont Dance}
+{subtitle:Loggins and Messina}
 {metronome: 150}
 {zoom-ipad: 1.185492}
 {c:150 BPM}
@@ -10,7 +10,7 @@ where do you [C]go, to rock and roll.
 
 T[C]he old folks say, that you [F]gotta end your date by t[C]en.
 If you're [F]out on a date and you bring it home late it's a s[C]in.
-[G]Just ain’t no excuse, you [F]know you're gonna lose and never [C]win, 
+[G]Just ain't no excuse, you [F]know you're gonna lose and never [C]win, 
 I'll say it again. 
 And its all because
 

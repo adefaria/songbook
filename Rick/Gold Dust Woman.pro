@@ -1,4 +1,4 @@
-{title: Gold Dust Woman}
+{title:Gold Dust Woman}
 
 [Dsus2]Rock on gold dust [G]woman
 Cadd9                   G           Dsus2  Bb/D  Dsus2  Bb/D  

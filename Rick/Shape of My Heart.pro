@@ -1,4 +1,4 @@
-{t:SHAPE OF MY HEART}
+{title:SHAPE OF MY HEART}
 
 
 A       D/F#     Fm     Bm      C#/F

@@ -1,5 +1,5 @@
-{title: Folsom Prison Blues}
-{subtitle: Johnny Cash}
+{title:Folsom Prison Blues}
+{subtitle:Johnny Cash}
 {pause:10}
 
  [E]I hear the train a-comin.  It's rollin round the bend,

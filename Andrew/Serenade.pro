@@ -1,5 +1,5 @@
 {title:Serenade}
-{st:Steve Miller}
+{subtitle:Steve Miller}
 
 [Am] [F] [G] [Am] (X2)
 

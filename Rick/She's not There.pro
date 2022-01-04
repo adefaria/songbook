@@ -16,7 +16,7 @@ Well let me tell you 'bout the [Am]way she looked.[D]The way she [Am]acted. The 
 
 **Chorus
 
-Well let me tell you 'bout the [Am]way she looked. [D]The way she [Am]acted. The [F]color of her [Am]hair. [D] Her voice was [Am]soft and cool, [F] her eyes were. [Am]clear and bright. But she’s not there. 
+Well let me tell you 'bout the [Am]way she looked. [D]The way she [Am]acted. The [F]color of her [Am]hair. [D] Her voice was [Am]soft and cool, [F] her eyes were. [Am]clear and bright. But she's not there. 
 
 Instrumental
 [Am][D] 7X [A][A7]

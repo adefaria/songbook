@@ -1,4 +1,4 @@
-{title: Jenny, Jenny 867-509}
+{title:Jenny, Jenny 867-509}
 {subtitle:Tommy Tutone}
 
 Guitar Into x2

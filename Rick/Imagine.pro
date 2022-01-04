@@ -1,5 +1,5 @@
-{t:Imagine}
-{st:John Lennon}
+{title:Imagine}
+{subtitle:John Lennon}
 {zoom-ipad: 1.204919}
 [C][Cmaj7][F][C][Cmaj7][F]
 

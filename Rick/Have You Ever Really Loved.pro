@@ -1,5 +1,5 @@
-{t:Have You Ever Really Loved}
-{st:Bryan Adams}
+{title:Have You Ever Really Loved}
+{subtitle:Bryan Adams}
 {pause: 15}
 
 To really love a wo[Eb]man, to un[Cm]derstand her, you've got to k[D]now her deep inside             

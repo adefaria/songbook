@@ -31,7 +31,7 @@ Yeah, Yeah.
 [Bm]And I won't for[F#m]get you my friend.
 [E]What happened.
 
-(If [D]someone said [E]three years from n[F#m]ow, you’d be [A]long gone.
+(If [D]someone said [E]three years from n[F#m]ow, you'd be [A]long gone.
 I'd [D]stand up and [E]punch them) [F#m]out. 
 Cause they're [A]all wrong. [D]That last kiss I'l[E]l cherish, u[F#m]ntil we m[A]eet again.
 [D](And time makes It [E]harder), 

@@ -1,5 +1,5 @@
-{title: We Just Disagree}
-{subtitle: Dave Mason}
+{title:We Just Disagree}
+{subtitle:Dave Mason}
 {time: 9:27}
 {zoom-ipad:1.018857}
 {ipodid: 8474433177890965675}

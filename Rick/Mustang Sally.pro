@@ -1,5 +1,5 @@
-{t:Mustang Sally}
-{st:Wilson Pickett}
+{title:Mustang Sally}
+{subtitle:Wilson Pickett}
  
 intro     B7
 

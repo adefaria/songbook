@@ -1,5 +1,5 @@
-{t:Bungle in the Jungle}
-{st:Jethro Tull}
+{title:Bungle in the Jungle}
+{subtitle:Jethro Tull}
 {metronome:52}
  
 [Bm]Walking through forests of p[Em]alm tree ap[F#7]artments.

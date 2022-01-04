@@ -1,4 +1,4 @@
-{t:Shes Gone}
+{title:Shes Gone}
 {subtitle:Hall & Oates}
 
 [A]Everybody's high on conso[B]lation

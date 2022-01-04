@@ -1,5 +1,5 @@
 {title:Watching The Wheels}
-{subtitle:Beatles/John Lennon}
+{subtitle:John Lennon}
 {zoom-ipad:0.950000}
 
 [C][F] 2X

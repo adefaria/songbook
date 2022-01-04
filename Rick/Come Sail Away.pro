@@ -1,4 +1,4 @@
-{t:Come Sail Away}
+{title:Come Sail Away}
 {subtitle:Styx}
 
 [C]I'm [Cmaj7]sailing [Am]away,[F] set an open course for the[G] virgin sea

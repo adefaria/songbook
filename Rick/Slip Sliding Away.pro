@@ -1,5 +1,5 @@
-{title: Slip Sliding Away}
-{subtitle: Simon & Garfunkel}
+{title:Slip Sliding Away}
+{subtitle:Simon and Garfunkel}
 {pause:10}
 
  {c:Chorus:}

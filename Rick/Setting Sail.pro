@@ -1,6 +1,6 @@
 {title:A Setting Sail}
-{subtitle: Ricksong}
-Ricksong
+{subtitle:Rick Lecksell}
+Rick Lecksell
 
 While we're still here
 In pepetual motion

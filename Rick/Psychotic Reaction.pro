@@ -1,4 +1,4 @@
-{t:Psychotic Reaction}
+{title:Psychotic Reaction}
 Rhythm guitar w/tambourine on 2 and 4 [16X]
 [E]    [F#]    [E]  16X
 bass enters midway through 4th repeat; full drum kit enters midway through 8th repeat.

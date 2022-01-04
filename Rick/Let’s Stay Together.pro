@@ -1,4 +1,4 @@
-{title: Let’s Stay Together}
+{title:Let's Stay Together}
 Al Green
 
 [Bbmaj7] [Am7] [Gm7] [Am7] [Bbmaj7] [Am7] [Gm7] [C7]

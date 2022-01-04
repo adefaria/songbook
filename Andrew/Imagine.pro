@@ -1,5 +1,5 @@
-{t:Imagine}
-{st:John Lennon}
+{title:Imagine}
+{subtitle:John Lennon}
 {key:C}
 
 [C][Cmaj7][F]

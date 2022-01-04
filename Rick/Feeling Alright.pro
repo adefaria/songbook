@@ -1,4 +1,4 @@
-{title: Feeling Alright}
+{title:Feeling Alright}
 {time: 11:40}
 {ipodid:1828180435211800012} 
 [C7] [Bb7]

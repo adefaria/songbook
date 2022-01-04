@@ -1,5 +1,5 @@
 {title:Voices}
-{subtitle:Red Shoes For Romeo}
+{subtitle:Red Shoes for Romeo}
 {key:Em}
 
 [Em] [C] [Dsus4add2]

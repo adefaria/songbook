@@ -1,5 +1,5 @@
 {title:Take it Easy}
-{subtitle:The Eagles}
+{subtitle:Eagles}
 {metronome: 139}
 {c:139 BPM}
 {zoom-ipad: 0.870000}

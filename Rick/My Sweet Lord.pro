@@ -1,4 +1,4 @@
-{t:My Sweet Lord}
+{title:My Sweet Lord}
 {zoom-ipad:1.506641}
 #My Sweet Lord by George Harrison
 #Capo at the second fret (only for the rythym guitar)
@@ -78,7 +78,7 @@ My sweet [F#m]lord (hare [B]krishna)
 My sweet [F#m]lord (krishna [B]krishna)
 My [F#m]lord (hare [B]hare)
 
-{t:My Sweet Lord}
+{title:My Sweet Lord}
 #My Sweet Lord by George Harrison
 #Capo at the second fret (only for the rythym guitar)
 

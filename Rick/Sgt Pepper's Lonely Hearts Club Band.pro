@@ -26,7 +26,7 @@ I don't [G]really wanna stop the [A]show. But I [C]thought you might like to [G]
 
 Segway into "With A Little Help from My Friends"
 [C]  [C]  [D]    [E] Bil-ly  Shears ...
-{title: With a Little Help From my Friends}
+{title:With a Little Help From my Friends}
 {subtitle:Beatles}
 {zoom-ipad: 0.920000}
 Capo 2nd Fret ?

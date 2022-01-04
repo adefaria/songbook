@@ -1,4 +1,4 @@
-{title: Shooting Star}
+{title:Shooting Star}
 
 D A  A E  G A G D 2x
 

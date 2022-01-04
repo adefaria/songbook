@@ -1,5 +1,5 @@
-{t:You Aint Going Nowhere}
-{st:The Byrds} 
+{title:You Aint Going Nowhere}
+{subtitle:The Byrds} 
 Capo 3?
 [G]Clouds so swift. [Am]Rain won't lift.
 [C]Gate won't close. [G]Railings froze.

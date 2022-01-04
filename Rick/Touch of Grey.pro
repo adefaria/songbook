@@ -1,5 +1,5 @@
-{t:Touch of Grey}
- {st:Grateful Dead}
+{title:Touch of Grey}
+ {subtitle:Grateful Dead}
  
  B-F#-B-F#--C#-G#-C#-G#
  

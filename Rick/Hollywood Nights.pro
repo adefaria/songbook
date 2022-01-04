@@ -1,5 +1,5 @@
 {title:Hollywood Nights}
-{subtitle:Bob Seger}
+{subtitle:Bob Seager}
 
 [E]   [A]    [D]      [E]
 [E]She stood there bright as the sun on that [A]California coast  

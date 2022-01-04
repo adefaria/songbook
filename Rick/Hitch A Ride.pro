@@ -4,7 +4,7 @@
 [A]Day is ni[G/A]ght in new y[D]ork city. [A]
 [A]Smoke, like [G/A]water, ru[D]ns inside. [A]
 [A]Steel lig[G/A]ht of the tr[D]ees to pit[A]y.
-[A]Every liv[G/A]ing things th[D]at’s died. [A]
+[A]Every liv[G/A]ing things th[D]at's died. [A]
 
 [D]Gonna hitch[Dsus4] a rid[D]e.
 [G]Head [G/F#]for the[G/E] other s[A]ide.
@@ -20,7 +20,7 @@ Oh [E]yeah [A]
 [A]Life is like[G/A] the cold[D]est winter. [A]
 [A]People freez[G/A]e the tea[D]rs I cry. [A]
 [A]Words of hel[G/A]l are min[D]ds I went [A]to.
-[A]I’ve got to [G/A]crack thi[D]s ice and [A]fly.
+[A]I've got to [G/A]crack thi[D]s ice and [A]fly.
 
 [D]Gonna hitch[Dsus4] a rid[D]e.
 [G]Head [G/F#]for the[G/E] other si[A]de.

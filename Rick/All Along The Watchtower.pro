@@ -1,5 +1,5 @@
-{t:All Along The Watchtower}
-{st:Bob Dylan}
+{title:All Along The Watchtower}
+{subtitle:Bob Dylan}
 
 [Am]      [G]         [F]            [G]
 

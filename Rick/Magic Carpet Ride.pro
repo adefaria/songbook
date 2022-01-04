@@ -1,4 +1,4 @@
-{title: Magic Carpet Ride}
+{title:Magic Carpet Ride}
 
 D\D    C  G    D C G
 I like to dream

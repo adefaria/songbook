@@ -1,5 +1,5 @@
 {title:TWISTIN' THE NIGHT AWAY}
-{subtitle: Sam Cooke}
+{subtitle:Sam Cooke}
 Capo 2 Original Key:[A]
 
 [G]Let me tell ya 'bout the place. [Em]Somewhere up New York ways.

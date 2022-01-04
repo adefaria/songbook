@@ -1,4 +1,5 @@
 {title:Walking In Memphis}
+{subtitle:Mark Cohen}
 
 [F]Put [G]on my [C]blue suede [Am]shoes and I [F]board[G]ed the [C]plane.[Am] 
 [F]Touched down in the [G]land of the [C]Delta [Am]Blues. [F]In the middle of the [G]pouring [C]rain. [Am]

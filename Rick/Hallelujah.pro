@@ -1,5 +1,5 @@
-{title: Hallelujah}
-{subtitle: Leonard Cohen}
+{title:Hallelujah}
+{subtitle:Leonard Cohen}
 {pause:10}
 
 Intro:

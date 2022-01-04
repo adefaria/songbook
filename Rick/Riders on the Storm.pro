@@ -1,5 +1,5 @@
-{t:Riders On The Storm}
-{st:Doors}
+{title:Riders On The Storm}
+{subtitle:Doors}
 
 [Em]Riders on the s[F#m7sus4]torm      [G6/E]      [F#m7sus4]
 [Em]Riders on the s[F#m7sus4]torm      [G6/E]      [F#m7sus4]

@@ -1,4 +1,4 @@
-{t:You Don't Have To Cry}
+{title:You Don't Have To Cry}
 [D7]
 In the [F]morning, when you [C]rise, do you [G]think of me and how you left me [D]crying?
 Are you [F]thinking of [C]telephones and [G]managers and where you got to [D]be at noon?

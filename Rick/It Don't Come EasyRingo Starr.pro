@@ -20,7 +20,7 @@ And you [C]know it just ain't [D]easy.
 [F]Open up your heart, let's [G]come together.
 [F]Use a little love. And we will [A]make it work out [A7]better.
 
-Solo ooh’s
+Solo ooh's
 
 [D]you Got to pay your dues if you [Am]wanna sing the blues. 
 And you [C]know it don't come [D]easy.

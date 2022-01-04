@@ -1,5 +1,5 @@
-{t:Here in Heaven}
-{st:Mike Fraser}
+{title:Here in Heaven}
+{subtitle:Mike Fraser}
 {key:D}
 
 Sometimes I can't escape the sensation kills the overload

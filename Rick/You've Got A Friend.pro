@@ -1,5 +1,5 @@
 
-{t:You've Got A Friend}
+{title:You've Got A Friend}
 
  (capo 3rd FRET)
 

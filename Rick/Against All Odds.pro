@@ -1,5 +1,5 @@
 {title:Against All Odds}
-{subtitle:Phill Collins}
+{subtitle:Phil Collins}
 {zoom-ipad: 0.819754}
 {ipodid:4214705510512116252}
 {time: 6:36}

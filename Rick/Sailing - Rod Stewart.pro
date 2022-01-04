@@ -1,5 +1,5 @@
-{t:Sailing}
-{st:Rod Stewart}
+{title:Sailing}
+{subtitle:Rod Stewart}
 
 I am sa[F]iling, I am s[Dm]ailing home [Bb]again 'cross the [F]sea.
 I am sa[G]iling stormy[Dm] waters, to [Gm]be near you, t[F]o be [C]free.

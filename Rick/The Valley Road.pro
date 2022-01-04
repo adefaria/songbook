@@ -1,5 +1,5 @@
-{t:The Valley Road}
-{st:Bruce Hornsby}
+{title:The Valley Road}
+{subtitle:Bruce Hornsby}
 [A][D][G][E]2x
  
 [A]Sometimes I lead, sometimes I [D]follow. 

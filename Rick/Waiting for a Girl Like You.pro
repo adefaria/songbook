@@ -1,4 +1,4 @@
-{t:Waiting For A Girl Like You}
+{title:Waiting For A Girl Like You}
 {zoom-ipad: 0.990000}
 
 [Am]So [G/A]long I've been [Am]looking too hard, I've been [G/A]waiting too long.

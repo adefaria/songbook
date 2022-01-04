@@ -1,4 +1,4 @@
-{t:More Than A Feeling}
+{title:More Than A Feeling}
 {zoom-ipad:0.840000}
 
 I woke up this morning and the sun was gone.

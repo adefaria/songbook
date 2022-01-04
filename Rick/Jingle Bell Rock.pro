@@ -1,5 +1,5 @@
-{title: Jingle Bell Rock}
-{subtitle: Christmas}
+{title:Jingle Bell Rock}
+{subtitle:Christmas}
 C	Cm	A7	G	Daug
   	  	  	 	
 

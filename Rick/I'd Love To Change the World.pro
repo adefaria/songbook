@@ -1,5 +1,5 @@
-{title: I'd Love To Change the World}
-{subtitle:Youngbloods}
+{title:I'd Love To Change the World}
+{subtitle:The Youngbloods}
 [Em][G][Am][C][B7]
 Everywhere is freaks and hairies 
 Dykes and fairies, tell me where is sanity 

@@ -1,6 +1,6 @@
-{title: Legacy}
-{subtitle: Ricksong}
-Ricksong
+{title:Legacy}
+{subtitle:Rick Lecksell}
+Rick Lecksell
 
 Key:
 

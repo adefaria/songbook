@@ -1,5 +1,5 @@
-{title: I Saw Her Standing There}
-{subtitle:Beatles }
+{title:I Saw Her Standing There}
+{subtitle:Beatles}
 {pause:10}
 1, 2, 3, 4.. [E7]	
 Well she was [E7]just seventeen and you [A7]know what I [E7]mean

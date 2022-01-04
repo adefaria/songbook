@@ -1,5 +1,5 @@
-{title: The Winds Of Change}
-{subtitle:Ricksongs}
+{title:The Winds Of Change}
+{subtitle:Rick Lecksell}
 Capo 2?
 [Am][Am7][F6][F7]riffing/picking
 Verse.......The winds of change are comin and theyre here today.

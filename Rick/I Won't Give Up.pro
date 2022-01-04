@@ -20,7 +20,7 @@ To do some [G]navigaa[D]aating.
 I'll be here [G]patiently [D]waiting. 
 [Bm]To see what you [A]find. 
 
-**’Cause even the [G]stars they [D]burn. 
+**'Cause even the [G]stars they [D]burn. 
 Some even [Bm]fall to the [A]earth. 
 We got a [G]lot to [D]learn. 
 God knows we're [A]worth it

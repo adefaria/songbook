@@ -1,5 +1,5 @@
 {title:Crystal Blue Persuasion}
-{subtitle:Tommy James and The Shondells}\
+{subtitle:Tommy James and the Shondells}\
 
 [Gmaj7]  [Am7] 3x
 

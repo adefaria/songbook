@@ -1,4 +1,4 @@
-{title: Fire On The Mountain}
+{title:Fire On The Mountain}
                         
 [Em]Took my fam'ly away from my [C]Carolina home.
 [Em]Had dreams about the West and [C]started to roam.

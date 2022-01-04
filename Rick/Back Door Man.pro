@@ -1,4 +1,4 @@
-{t:Back Door Man}
+{title:Back Door Man}
 
 [intro] 12 bars, all in A, band in at 9th.
 

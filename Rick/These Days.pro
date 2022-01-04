@@ -1,7 +1,7 @@
-{t:These Days}
-{st:Jackson Browne}
+{title:These Days}
+{subtitle:Jackson Browne}
 
-Capo on the Third Fret (though you can play it in any key
+{capo:3}
 
 C  Cadd2/B  Am  Am/G  F  F/G  F X 2 (Strum each of the chords once except F and F/G)
 

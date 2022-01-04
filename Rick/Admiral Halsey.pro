@@ -1,5 +1,5 @@
-{t:Admiral Halsey}
-{st:Paul McCartney}
+{title:Admiral Halsey}
+{subtitle:Paul McCartney}
 
 We're so [Am7]sorry  Uncle A[D]lbert
 We're so [Am7]sorry if we caused you any pai[D]n

@@ -1,5 +1,5 @@
-{title: Here, There, and Everywhere}
-{subtitle: Beatles}
+{title:Here, There, and Everywhere}
+{subtitle:Beatles}
 80 BPM
 
 [G]To lead a [Bm]better life [Bb]I need my love to be here [Am]    [D7]

@@ -20,7 +20,7 @@ And I'm trying to place to the calling of your
  Am             Bm11/E          Am7    Bm7
 heartstrings that play soft and low.
 
-You know the n[Dm7]ight[G]’s [Am7]magic s[G13]eems to [Dm7]Whisp[G]er and [Am7]hush [G13].
+You know the n[Dm7]ight[G]'s [Am7]magic s[G13]eems to [Dm7]Whisp[G]er and [Am7]hush [G13].
 You know the [Dm7] so[G]ft m[Am7]oonlight s[G13]eems to shine, [Dm7]in your blush. [E7]
 Can [Am]I just [Dm7]have one [Am]more moon d[Dm7]ance with y[Am]ou a [Dm7]my lo[Am]ve. [Dm7]
 Can [Am]I just m[Dm7]ake some m[Am]ore rom[Dm7]ance with y[Am]ou [Dm7]my lo[Am]ve. [E7]
@@ -42,7 +42,7 @@ There and then all my dreams will come true dear,
            Am        Bm11/E       Am7     Bm7 
 There and then I will make you my own.
 And everyt[Dm7]ime, I touch [Am7]you, you just 
-tr[Dm7]emble ins[Am7]ide, then I know h[Dm7]ow much you [Am7]want me, that [Dm7]you can’t hide. [E7]
+tr[Dm7]emble ins[Am7]ide, then I know h[Dm7]ow much you [Am7]want me, that [Dm7]you can't hide. [E7]
 Can [Am]I just [Dm7]have one [Am]more moon d[Dm7]ance with y[Am]ou [Dm7]my lo[Am]ve. [Dm7]
 Can [Am]I just m[Dm7]ake some m[Am]ore rom[Dm7]ance with y[Am]ou [Dm7]my lo[Am]ve.
 
@@ -68,7 +68,7 @@ And i'm trying to please to the calling of your
  Am             Bm11/E          Am7    Bm7
 heartstrings that play soft and low.
 
-You know the n[Dm7]ight[G]’s [Am7]magic, s[G13]eems to 
+You know the n[Dm7]ight[G]'s [Am7]magic, s[G13]eems to 
 [Dm7]whisp[G]er and [Am7]hush [G13]
 you know the [Dm7]So  [G]ft m[Am7]oonlight s[G13]eems to shine [Dm7]
 In your blush. [E7]

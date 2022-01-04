@@ -1,5 +1,5 @@
-{t:Black Water}
-{st:Doobie Brothers}
+{title:Black Water}
+{subtitle:Doobie Brothers}
 {key:D}
 {tuning:D A D G B E}
 

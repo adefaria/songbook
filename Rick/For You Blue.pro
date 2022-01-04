@@ -1,5 +1,5 @@
-{title: For You Blue}
-{subtitle: Beatles}
+{title:For You Blue}
+{subtitle:Beatles}
 {pause:10}
 
 Intro: 

@@ -1,4 +1,4 @@
-{title: Go Let It Out}
+{title:Go Let It Out}
 {subtitle:Oasis}
 [A]
 

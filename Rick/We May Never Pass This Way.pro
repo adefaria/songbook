@@ -1,5 +1,5 @@
 {title:We May Never Pass This Way}
-{subtitle:Seals & Crofts}
+{subtitle:Seals and Crofts}
 [Intro]
 |E    |Esus4  |E    |Esus4   |
 

@@ -1,5 +1,5 @@
 {title:Cold as Ice}
-{subtitle:Foreiner}
+{subtitle:Foreigner}
 
 e|[D#sus4]-6--6--[D#m]6--6-[D#sus4]-6--6--[D#m]
 [D#m]You're as cold as ice,[B]  you're willing to sacrifice our l[D#m]ove [B]

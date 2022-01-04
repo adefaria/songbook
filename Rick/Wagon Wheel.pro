@@ -1,4 +1,4 @@
-{t:Wagon Wheel}
+{title:Wagon Wheel}
 
 [G] [D] [Em] [C]    [G] [D] [C]
 [G] [D] [Em] [C]    [G] [D] [C]

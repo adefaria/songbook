@@ -1,5 +1,5 @@
 {title:Creep}
-{subtitle: G B C Cm}
+{subtitle:Radiohead}
 
 [G][B][C][Cm]
 When you were here be[G]fore, couldn't look you in the [B]eyes.

@@ -1,5 +1,5 @@
-{t:Summertime}
-{st:George Gershwin}
+{title:Summertime}
+{subtitle:George Gershwin}
                 
     [Am] [Em]   [Am]   [Em]
 

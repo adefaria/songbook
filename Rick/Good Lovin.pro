@@ -1,4 +1,4 @@
-{t:Good Lovin}
+{title:Good Lovin}
 {zoom-ipad:0.590039}
 
 One! Two! Three! 

@@ -1,5 +1,5 @@
-{title: Hickory Wind}
-{subtitle:Gram Parsons & Bob Buchanan 68}
+{title:Hickory Wind}
+{subtitle:Gram Parsons and Bob Buchanan}
 [G][D7][D7][C][C][G][G]
 
 [G]In South Carol[D]ina 

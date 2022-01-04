@@ -1,4 +1,4 @@
-{t:Light my Fire}
+{title:Light my Fire}
 {zoom-ipad: 0.856641}
 
 [G][D][F][Bb][C#] [Ab] [A]

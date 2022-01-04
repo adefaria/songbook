@@ -1,7 +1,5 @@
-{title: Think For Yourself chords}
-{subtitle: The Beatles *}
-Think For Yourself chords
-The Beatles *
+{title:Think For Yourself chords}
+{subtitle:The Beatles}
 
 [Am]I've got a [Dm]word or two[Bb]  to say a[C]bout the things that [G]you do
 [Am]You're telling [Dm]all those lies[Bb]  

@@ -1,5 +1,5 @@
-{title: MISSING YOU}
-{subtitle: John Waite}
+{title:MISSING YOU}
+{subtitle:John Waite}
 
 [C]Every time I think of y[Am]ou
 [F]I always catch my bre[G]ath

@@ -1,5 +1,5 @@
-{t:Free Fallin}
-{st:Tom Petty}
+{title:Free Fallin}
+{subtitle:Tom Petty}
 {key:F}
 {capo:3}
 

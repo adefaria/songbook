@@ -1,5 +1,5 @@
-{title: Mother Nature's Son}
-{subtitle:Beatles }
+{title:Mother Nature's Son}
+{subtitle:Beatles}
 {pause:10}
 B[D]orn a p[Dsus]oor young country b[D]oy, Mo[Bm]ther Na[A]ture's s[E]on
 Al[A]l day long I'm sitting singing songs 

@@ -1,5 +1,5 @@
 {title:The Logical Song}
-{st:Supertramp}
+{subtitle:Supertramp}
 [Am]When I was young, it seemed that [F]life was so [E]wonderful,
 a [G]miracle, oh it was [F]beautiful, [FAnd all the [Am]birds in the trees, well they'd be [F]singing so [E]happily,
 oh, [G]joyfully, oh, [F]playfully, [F

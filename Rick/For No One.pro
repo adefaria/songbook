@@ -1,5 +1,5 @@
-{title: For No One}
-{subtitle: Beatles}
+{title:For No One}
+{subtitle:Beatles}
 {pause:10}
 Your day bre[C]aks, your mind a[Em/B]ches 
 Y[Am]ou find that a[C/G]ll her words of k[Fmaj7]indness linger on [Bb]

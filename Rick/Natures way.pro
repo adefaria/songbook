@@ -1,5 +1,5 @@
-{t:Natures way}
-{st:Spirit}
+{title:Natures way}
+{subtitle:Spirit}
 {ipodid: }
 
 #                                                                                                               

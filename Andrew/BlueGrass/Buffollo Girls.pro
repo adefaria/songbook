@@ -1,2 +1,2 @@
-{title: Buffolo gi4ls}
-{subtitle: }
+{title:Buffolo gi4ls}
+{subtitle:}

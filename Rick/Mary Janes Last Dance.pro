@@ -1,4 +1,4 @@
-{t:Mary Janes Last Dance}
+{title:Mary Janes Last Dance}
 {zoom-ipad: 0.839609} [G][D] [Am]
 
 [Am]She grew up in an [G]Indiana town Had [D]a good lookin' mo[Am]mma who never was around.

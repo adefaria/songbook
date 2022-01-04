@@ -1,5 +1,5 @@
-{t:What a Wonderful World}
-{st:Louis Armstrong}
+{title:What a Wonderful World}
+{subtitle:Louis Armstrong}
 
 #
 I see [D]trees of [F#m]green, [G]red roses [F#m]too

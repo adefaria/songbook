@@ -1,5 +1,5 @@
-{t:Joy to the World}
- {st:Three Dog Night}
+{title:Joy to the World}
+ {subtitle:Three Dog Night}
 
  [D]Jeremiah was a bullfrog,[C]  [D]
  [D]Was a good friend of mine,[C]  [D]

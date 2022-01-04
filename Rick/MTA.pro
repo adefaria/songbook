@@ -1,5 +1,5 @@
-{title: MTA}
-{subtitle: Kingston Trio}
+{title:MTA}
+{subtitle:Kingston Trio}
 Let me t[A]ell you all the story of a m[D]an named Charlie
 On a tra[A]gic and fateful d[E7]ay;
 He put t[A]en cents in his pocket,
@@ -9,7 +9,8 @@ Went to ri[A]de on the M[E7]. T. A.
 {soc}
 But did he e[A]ver return?
 No, he ne[D]ver returned,
-And his fa[A]te is still unl[E7]earned.....(poor old charlie)
+And his fa[A]te is still unl[E7]earned.
+....(poor old charlie)
 He may ri[A]de forever 'neath the str[D]eets of Boston,
 He's the m[A]an who ne[E7]ver retu[A]rned.
 {eoc}

@@ -1,5 +1,5 @@
 {title:Crazy Love}
-{st:Poco}
+{subtitle:Poco}
 
 [Fmaj7] [C]
 

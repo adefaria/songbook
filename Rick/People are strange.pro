@@ -1,4 +1,4 @@
-{t:People are strange}
+{title:People are strange}
 {subtitle:The Doors}
 
 [Em]People are strange  W[Am]hen your a [Em]Stranger  [Am]Faces look [Em]ugly w[B]hen your [Em]alone

@@ -1,4 +1,4 @@
-{title: For The Good Times}
+{title:For The Good Times}
 {subtitle:Kris Kristoferson}
 
 Don't look so [G7]sad, I know it's o[C]ver.

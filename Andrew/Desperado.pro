@@ -1,5 +1,5 @@
 {title:Desperado}
-{subtitle:The Eagles}
+{subtitle:Eagles}
 {Key: G}
 
 [G] [G7] [C] [Cm]

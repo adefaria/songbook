@@ -1,5 +1,5 @@
 {title:Lay Down}
-{subtitle:Melanie/Edwin Hawkins 1970}
+{subtitle:Melanie/Edwin Hawkins}
 
 [G]Lay down, [D]lay down, [F]lay it all [G]down..let your white birds [D]smile
 at the [F]ones who stand and [G]frown.

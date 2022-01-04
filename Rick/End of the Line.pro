@@ -37,7 +37,7 @@ Well it's ([D]All right.) You still got [A]something to [D]say.
 Well it's ([D]All right.) The best you can [A]do is [D]for give. 
 Solo 
 
-**{soh}RL{eoh}-Well it's (All right.) Riding a’ [A]round in the [G]breeze. 
+**{soh}RL{eoh}-Well it's (All right.) Riding a' [A]round in the [G]breeze. 
 Well it's ([D]All right.) If you live the [A]life you [D]please. 
 {soh}JT{eoh}-Well it's ([D]All right.) Even if the [A]sun don't [G]shine. 
 Well it's ([D]All right) We're going to the [A]end of the [D]line.  Outro like intro

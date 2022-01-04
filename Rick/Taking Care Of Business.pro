@@ -1,4 +1,4 @@
-{title: Taking Care Of Business}
+{title:Taking Care Of Business}
 
 [C]   [Bb]        [F]   5x 
 

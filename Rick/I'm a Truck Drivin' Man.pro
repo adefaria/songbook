@@ -1,5 +1,5 @@
 {title:I'm a Truck Drivin' Man}
-{subtitle:Ricksongs}
+{subtitle:Rick Lecksell}
 
 Harp intro..
 

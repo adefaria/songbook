@@ -1,5 +1,5 @@
 {title:I've Just Seen a Face}
-{subtitle: Beatles}
+{subtitle:Beatles}
 {zoom-ipad: 1.216354}
 {ipodid: 1828180435211800099}
 Walk down from G then walk down from Em

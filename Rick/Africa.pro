@@ -1,4 +1,4 @@
-{title: Africa}
+{title:Africa}
 {subtitle:Toto}
 {zoom-ipad:0.795841}
 {ipodid:8531294901563051903}

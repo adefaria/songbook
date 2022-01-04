@@ -1,5 +1,5 @@
-{t:Mean Mr. Mustard}
-{st:Beatles}
+{title:Mean Mr. Mustard}
+{subtitle:Beatles}
 [E]Mean Mr Mustard sleeps [E7]in the park
 Shaves in the [E]dark, trying to save paper
 [B]Sleeps in a hole in the road[B7][C7][Db7][D7]

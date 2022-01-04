@@ -137,7 +137,7 @@ Oooooo    oo-oo  ooh
 
 [F]Saturday, Saturday
 
-Saturday [C]night’s alright.   Wooooo!
+Saturday [C]night's alright.   Wooooo!
 
 
 
@@ -146,7 +146,7 @@ C           Bb          F           C          (~x3)
 
 END
 
-Personally transcribed by OliThePianist – there’s not enough free piano music out there!
+Personally transcribed by OliThePianist – there's not enough free piano music out there!
 
 Email:  fingersmcstanyon@hotmail.co.uk
 
@@ -303,7 +303,7 @@ Oooooo    oo-oo  ooh
 
 [F]Saturday, Saturday
 
-Saturday [C]night’s alright.   Wooooo!
+Saturday [C]night's alright.   Wooooo!
 
 
 
@@ -312,7 +312,7 @@ C           Bb          F           C          (~x3)
 
 END
 
-Personally transcribed by OliThePianist – there’s not enough free piano music out there!
+Personally transcribed by OliThePianist – there's not enough free piano music out there!
 
 Email:  fingersmcstanyon@hotmail.co.uk
 
@@ -467,7 +467,7 @@ Oooooo    oo-oo  ooh
 
 [F]Saturday, Saturday
 
-Saturday [C]night’s alright.   Wooooo!
+Saturday [C]night's alright.   Wooooo!
 
 
 
@@ -476,7 +476,7 @@ C           Bb          F           C          (~x3)
 
 END
 
-Personally transcribed by OliThePianist – there’s not enough free piano music out there!
+Personally transcribed by OliThePianist – there's not enough free piano music out there!
 
 Email:  fingersmcstanyon@hotmail.co.uk
 

@@ -1,4 +1,4 @@
-{title: Don't Let the Sun Catch You Crying}
+{title:Don't Let the Sun Catch You Crying}
 {zoom-ipad:1.159066}
 
 [Cmaj7]Don't Let the [Fmaj7]sun catch you[Cmaj7] Crying. [Fmaj7]

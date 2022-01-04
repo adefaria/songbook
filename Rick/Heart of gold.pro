@@ -1,5 +1,5 @@
-{t:Heart of gold}
-{st:Neil Young}
+{title:Heart of gold}
+{subtitle:Neil Young}
 {zoom-ipad:1.081071}
 
 

@@ -1,4 +1,4 @@
-{title: Leavin On A Jet Plane}
+{title:Leavin On A Jet Plane}
 
 Intro: G C (2x)
 

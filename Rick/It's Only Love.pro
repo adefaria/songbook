@@ -1,5 +1,5 @@
-{title: It's Only Love}
-{subtitle:Beatles }
+{title:It's Only Love}
+{subtitle:Beatles}
 {pause:10}
 
 (G+)  3 3 3 4 4 3

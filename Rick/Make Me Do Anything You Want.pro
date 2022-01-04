@@ -1,5 +1,5 @@
-{title: Make Me Do Anything You Want}
-{subtitle: }
+{title:Make Me Do Anything You Want}
+{subtitle:}
 
 [D5][Em7][D5][A7sus4][A7]
 [D5]In the mornin l[Em7]ight
