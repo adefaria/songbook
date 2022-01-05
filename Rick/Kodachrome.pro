@@ -1,5 +1,5 @@
 {title:Kodachrome}
-{subtitle:Simon and Garfunkel}
+{subtitle:Simon & Garfunkel}
 {metronome:136}
 {c:136 BPM}
 
@@ -19,6 +19,7 @@ So mama don't [A]take my [D]Kodachrome a[G]way. [Bm][Em][A]
 I know they [D]never match my [D7]sweet imagina[G]tion. [Em]
 [A]And everything looks [A7]worse in black and [D]white. [D7]
 
+**Chorus 
 Mama don't [G]take my [Bm]Kodachrome a[Em]way. 3X
 (Leave your boy so far from home)
 
