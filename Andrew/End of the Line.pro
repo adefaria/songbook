@@ -44,6 +44,9 @@ Well it's all right, even if you're old and grey
 Well it's all right, you still got something to say
 Well it's all right, remember to live and let live
 Well it's all right, the best you can do is forgive
+
+{c:Lead}
+
 Well it's all right, riding around in the breeze
 Well it's all right, if you live the life you please
 Well it's all right, even if the sun don't shine
