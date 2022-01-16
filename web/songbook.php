@@ -36,7 +36,7 @@ function findSong($title)
     $song['file']   = "$songbook/$folder/$title.pro";
     $song['folder'] = $folder;
 
-    debug("Chekcing for $song[file]");
+    debug("Checking for $song[file]");
 
     if (fileExists($song['file'])) {
       debug("Found");
