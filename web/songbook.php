@@ -31,12 +31,18 @@ function findSong($title)
 
   $song = array();
 
+  debug("Searching for $title");
   foreach ($songFolders as $folder) {
     $song['file']   = "$songbook/$folder/$title.pro";
     $song['folder'] = $folder;
 
+    debug("Chekcing for $song[file]");
+
     if (fileExists($song['file'])) {
+      debug("Found");
       break;
+    } else {
+      debug("Didn't find $song[file]");
     } // if
 
     $song = array();
