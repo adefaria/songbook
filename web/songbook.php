@@ -1,17 +1,21 @@
 <?php
-$baseDir    = getcwd();
 $songbook   = "/opt/songbook";
+$songDir    = "$songbook/Andrew";
 
-if (isset ($_REQUEST['debug'])) {
+if (isset($_REQUEST['debug'])) {
   $debug = $_REQUEST['debug'];
 } // if
+
+// As others do not edit their chordpro files carefully we will favor my subdirectory over others.
+$songFolders = array('Andrew', 'Rick', 'Mikey', 'Kent', 'Bluegrass', 'XMAS');
 
 // Initialize music objects
 $songs   = getSongs($songbook);
 $sets    = getSets($songbook);
 $artists = getArtists($songs);
 
-function debug ($msg) {
+function debug($msg)
+{
   global $debug;
 
   if (isset($debug)) {
@@ -19,15 +23,40 @@ function debug ($msg) {
   } // if
 } // debug
 
-function getSongs($songbook) {
+// Return a song structure with the absolute path to the song file and the folder we found it in.
+// This function prioritizes the order in the $songFolder array.
+function findSong($title)
+{
+  global $songbook, $songFolders;
+
+  $song = array();
+
+  foreach ($songFolders as $folder) {
+    $song['file']   = "$songbook/$folder/$title.pro";
+    $song['folder'] = $folder;
+
+    if (fileExists($song['file'])) {
+      break;
+    } // if
+
+    $song = array();
+  } // foreach
+
+  return $song;
+} // findSong
+
+function getSongs($songbook)
+{
   return glob("$songbook/*/*.pro");
 } // getSongs
 
-function getSets($songbook) {
+function getSets($songbook)
+{
   return glob("$songbook/*/*.lst");
 } // getSets
 
-function songsDropdown() {
+function songsDropdown()
+{
   global $songs;
 
   print "<form method=\"get\" action=\"webchord.cgi\" name=\"song\">";
@@ -37,8 +66,8 @@ function songsDropdown() {
   sort($songs);
 
   foreach ($songs as $song) {
-    $title  = basename ($song, ".pro");
-    $artist = getArtist ($song);
+    $title  = basename($song, ".pro");
+    $artist = getArtist($song);
 
     print "<option value=\"$title.pro\">$title</option>";
 
@@ -52,7 +81,8 @@ function songsDropdown() {
   print "</form>";
 } // songsDropdown
 
-function artistsDropdown () {
+function artistsDropdown()
+{
   global $artists;
 
   print "<form method=\"get\" action=\"displayartist.php\" name=\"artist\">";
@@ -70,7 +100,8 @@ function artistsDropdown () {
   print "</form>";
 } // artistsDropdown
 
-function setsDropdown() {
+function setsDropdown()
+{
   global $sets;
 
   print "<form method=\"get\" action=\"displayset.php\" name=\"set\">";
@@ -94,7 +125,8 @@ function setsDropdown() {
   print "</form>";
 } // setsDropdown
 
-function getArtist ($song) {
+function getArtist($song)
+{
   $lyrics = @file_get_contents($song);
 
   if (preg_match("/\{(st|subtitle):(.*)\}/", $lyrics, $matches)) {
@@ -104,7 +136,8 @@ function getArtist ($song) {
   } // if
 } // getArtist
 
-function getArtists ($songs) {
+function getArtists($songs)
+{
   foreach ($songs as $song) {
     $artist = getArtist($song);
 
@@ -118,7 +151,8 @@ function getArtists ($songs) {
 
 // Search for files case insensitive and alter $fileName to reflect the correct
 // case
-function fileExists(&$fileName) {
+function fileExists(&$fileName)
+{
   $files = glob(dirname($fileName) . '/*');
 
   $filename = strtolower($fileName);

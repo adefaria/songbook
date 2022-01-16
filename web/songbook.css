@@ -56,3 +56,7 @@ body {
 .comment_box {
   border: solid;
 }
+
+.dim {
+  color: 333;
+}
