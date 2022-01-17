@@ -22,3 +22,4 @@ You just get [Em7]numb [A]
 Solo
 [G6][G][G6][G][G6] [D]![Am][D7][G]
 [G]It's another tequila sunrise. [D]This old world still looks the [Am]same, [D7]another [G]frame).
+{musicpath:/storage/emulated/0/Music/Tequila Sunrise.mp3}

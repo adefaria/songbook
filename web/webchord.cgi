@@ -22,8 +22,8 @@ use File::Basename;
 my ($chopro, $i);
 
 my $documentRoot = "/web";
-my $debug        = param ('debug');
-my $infile       = param ('chordpro');
+my $debug   = param ('debug');
+my $infile  = param ('chordpro');
 my $title;
 
 sub debug ($) {
@@ -96,8 +96,6 @@ sub updateMusicpath ($$) {
     return;
   } # unless
 
-  my $songbase = '/sdcard';
-
   print $songfile "{musicpath:/storage/emulated/0/Music/$title.mp3}\n";
 
   close $songfile;
@@ -140,7 +138,8 @@ END
         updateMusicpath $chopro, $song;
       } # if
 
-      my $titleLink = "<a href=\"/songbook/pro/$title.pro\">$title</a>";
+      (my $profile = $infile) =~ s/\/opt//;
+      my $titleLink = "<a href=\"$profile\">$title</a>";
       print << "END";
 <table id="heading">
   <tbody>
@@ -241,7 +240,7 @@ unless ($infile) {
   error "No chordpro parameter";
 } # unless
 
-my ($infile, $chordpro);
+my $chordpro;
 
 $chordpro = param('chordpro');
 
