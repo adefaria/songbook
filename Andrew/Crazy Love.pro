@@ -1,5 +1,6 @@
 {title:Crazy Love}
 {subtitle:Poco}
+{duration:2:57}
 
 [Fmaj7] [C]
 

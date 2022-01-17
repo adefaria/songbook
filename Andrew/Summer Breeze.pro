@@ -1,13 +1,14 @@
 {title:Summer Breeze}
 {subtitle:Seals & Crofts}
 {key:Em}
+{duration:3:28}
 
- [Intro] [Em] [C] 2x [Em] [C] 4x 
+[Intro] [Em] [C] 2x [Em] [C] 4x 
 
 [Verse]
 [E]See the curtains [G]hanging in the window; 
 [D]in the evening on a [A]Friday [E]night[Am7]
- [E]A little light a [G]shining through the window;
+[E]A little light a [G]shining through the window;
 [D]let's me know [A]everything's all [E]right
 
 [Chorus]

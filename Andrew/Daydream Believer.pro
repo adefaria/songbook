@@ -1,6 +1,7 @@
 {title:Daydream Believer}
 {subtitle:The Monkees}
-{Key: G}
+{Key:G}
+{duration:3:00}
 
 {c:Intro}
 

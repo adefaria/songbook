@@ -1,7 +1,7 @@
 {title:I Can See Clearly Now}
 {subtitle:Johnny Nash}
-
 {key:D}
+{duration:2:45}
 
 [D]I can see c[G]learly now the r[D]ain is gone
 [D]I can see [G]all obstacles [A]in my way

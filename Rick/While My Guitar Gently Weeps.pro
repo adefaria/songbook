@@ -1,6 +1,7 @@
 {title:While My Guitar Gently Weeps}
 {subtitle:Beatles}
 {metronome: 123}
+{duration:4:45}
 {c:132 BPM}
 {ipodid: 9024644314861715734}
 {zoom-ipad:1.120000}

@@ -1,6 +1,7 @@
 {title:Do It Again}
 {subtitle:Steely Dan}
 {key:Gm}
+{duration:5:54}
 
 [Gm] [F] [Gm]
 

@@ -2,6 +2,7 @@
 {zoom-ipad: 0.850000}
 {time: 11:40}
 {ipodid:5306784788754408822}
+{duration:5:54}
 
 [Gm7]  [Cm7]  [Dm7]  [Ebmaj7]  [Bb]  [Dm7] [D7#9] 2X
 

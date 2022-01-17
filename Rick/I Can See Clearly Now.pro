@@ -1,6 +1,7 @@
 {title:I Can See Clearly Now}
 {subtitle:Johnny Nash}
 {metronome:122}
+{duration:2:45}
 {c:122 BPM}
 {zoom-ipad:1.250000}
 {ipodid: 9024644314861715725}

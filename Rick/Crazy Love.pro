@@ -1,6 +1,7 @@
 {title:Crazy love}
 {subtitle:Poco}
 {metronome:82}
+{duration:2:57}
 {c:82 BPM}
 {capo:3}
 [Fmaj7][C]  

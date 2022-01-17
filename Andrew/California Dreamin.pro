@@ -1,5 +1,6 @@
 {title:California Dreamin}
 {subtitle:Moma's and Papa's}
+{duration:2:44}
 
 {c:capo 2}
 

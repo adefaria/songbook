@@ -1,5 +1,6 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
+{duration:2:54}
 
 [D]This thing called love
 I [G]just can't h[C]andle [G]it

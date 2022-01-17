@@ -1,6 +1,7 @@
 {title:Ventura Highway}
 {subtitle:America}
 {key:D}
+{duration:3:38}
 
 [Gmaj7] [Dmaj7] 
 
