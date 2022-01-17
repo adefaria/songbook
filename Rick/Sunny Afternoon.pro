@@ -1,6 +1,7 @@
 {title:Sunny Afternoon}
 {subtitle:Kinks}
 {metronome: 123}
+{duration:3:32}
 {c:123 BPM}
 {ipodid: 7396147773529984164}
 Intro 2X

@@ -1,6 +1,7 @@
 {title:Sister Golden Hair}
 {subtitle:America}
 {key:A}
+{duration:3:13}
 
 [C#m][A][E][G#m][C#m][B][A]
 

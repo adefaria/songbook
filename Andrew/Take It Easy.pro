@@ -1,7 +1,7 @@
 {title:Take it Easy}
 {subtitle:Eagles}
 {key:G}
-{duration: 3:32}
+{duration:3:32}
 
 {c:Intro:}
 

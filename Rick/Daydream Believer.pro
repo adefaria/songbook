@@ -1,6 +1,7 @@
 {title:Daydream Believer}
 {subtitle:The Monkees}
 {metronome:126}
+{duration:3:00}
 {c:126 BPM}
 {zoom-ipad:1.385664}
 Oh, I could h[G]ide 'neath the w[Am]ings of the b[Bm]luebird as it si[C]ngs

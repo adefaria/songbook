@@ -1,5 +1,6 @@
 {title:Behind Blue Eyes}
 {subtitle:The Who}
+{duration:1:50}
 
 [Em]No one knows what it's [G]like
 To be the [D]bad man

@@ -2,6 +2,7 @@
 {zoom-ipad: 0.980000}
 {ipodid: 719188458278714114}
 {metronome:88}
+{duration:3:28}
 {c:88 BPM}
 [Am7][D][Bm7][E][Amaj7/B][A6/B][Em7][Am7] Intro 4X
 

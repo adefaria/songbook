@@ -1,6 +1,7 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
 {metronome:152}
+{duration:2:54}
 {c:152 BPM}
 {ipodid: 9024644314861715998}
 Bass riff 2X    Finger Snap 2X[D][Dsus4][D]2X Vocals Enter

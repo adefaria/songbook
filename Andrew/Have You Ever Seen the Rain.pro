@@ -2,6 +2,7 @@
 {subtitle:Creedence Clearwater Revival}
 {key:C}
 {tempo:120}
+{duration:2:41}
 
 [C]Someone told me long ago,  there's a calm before the storm,  
 I know[G]       and its been coming [C]for some time.  

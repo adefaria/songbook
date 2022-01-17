@@ -1,6 +1,7 @@
 {title:Ventura Highway}
 {subtitle:America}
 {metronome: 131}
+{duration:3:38}
 {c:131 BPM}
 {ipodid: 9024644314861715729}
 [G6][Dmaj7]
