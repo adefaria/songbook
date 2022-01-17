@@ -1,6 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
@@ -9,44 +9,55 @@
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
   <link rel="SHORTCUT ICON" href="https://defaria.com/favicon.ico" type="image/png">
 
-<?php
-include_once "songbook.php";
-$artist = $_REQUEST ["artist"];
-?>
+  <?php
+  include_once "songbook.php";
+  $artist = $_REQUEST["artist"];
+  ?>
 
-<div class="heading">
-<a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a>
-  <h1 class="centered">Andrew DeFaria's Songbook</h1>
+  <div class="heading">
+    <a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a>
+    <h1 class="centered">Andrew DeFaria's Songbook</h1>
 
-  <h2 class="centered"><?php echo $artist?></h2>
-</div>
+    <h2 class="centered"><?php echo $artist ?></h2>
+  </div>
 
-<div id="content">
+  <div id="content">
 
-<?php
-global $songs;
+    <?php
+    global $songs, $songbook;
 
-$artistsSongs = array();
+    $artistsSongs = array();
 
-debug ("Processing songs");
+    foreach ($songs as $song) {
+      if (preg_match("#$songbook/(\S+)/#", $song, $matches)) {
+        $folder = $matches[1];
+      } else {
+        $folder = '';
+      } // if
 
-foreach ($songs as $song) {
-  debug ("Song: $song");
-  $songArtist = getArtist ($song);
+      debug("Song: $song from folder $folder");
 
-  if ($songArtist == $artist) {
-    array_push ($artistsSongs, $song);
-  } // if
-} // foreach
+      $songEntry = array(
+        'file'   => $song,
+        'folder' => $folder,
+        'artist' => getArtist($song),
+      );
 
-print "<ol>";
+      if ($songEntry["artist"] == $artist) {
+        array_push($artistsSongs, $songEntry);
+      } // if
+    } // foreach
 
-foreach ($artistsSongs as $artistSong) {
-  print "<li><a href=\"webchord.cgi?chordpro=$artistSong\">";
-  print basename ($artistSong, ".pro");
-  print "</a></li>";
-} // foreach
-?>
+    print "<ol>";
 
-</body>
+    foreach ($artistsSongs as $artistSong) {
+      print "<li><a href=\"webchord.cgi?chordpro=$artistSong[file]\">"
+        . basename($artistSong['file'], ".pro")
+        # TODO: Make this a css element
+        . "</a> <font color=\"#ccc\"> $artistSong[folder]</font></li>";
+    } // foreach
+    ?>
+
+    </body>
+
 </html>

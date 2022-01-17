@@ -88,7 +88,9 @@
     } // if
 
     # TODO: Make this a css element
-    print "<font color=\"#ccc\"> $song[folder]</font></li>";
+    if (isset($song['folder'])) {
+      print "<font color=\"#ccc\"> $song[folder]</font></li>";
+    } // if
   } // foreach
 
   print "</ol>";

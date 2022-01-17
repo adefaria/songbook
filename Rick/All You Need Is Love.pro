@@ -1,5 +1,5 @@
 {title:All You Need Is Love}
-{Subtitle:Beatles}
+{subtitle:Beatles}
 {zoom-ipad: 0.980000}
 {metronome:103}
 {c:103 BPM}
@@ -34,3 +34,4 @@ Outro
 [G]All you [Am7]need is [D7]love [E][D][C#] Everybody.
 [G]All you [B7]need is [Em]love, [G]love. [C]Love is [D7]all you [G]need.
 Love is all you need (several X) Adlibs to fade to "She Loves you, yeah, yeah, yeah
+{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}
