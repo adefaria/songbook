@@ -1,4 +1,4 @@
-{title:Take it Easy}
+{title:Take It Easy}
 {subtitle:Eagles}
 {key:G}
 {duration:3:32}
