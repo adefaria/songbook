@@ -1,5 +1,5 @@
 {title:Summer Breeze}
-{subtitle:Seals & Crofts}
+{subtitle:Seals and Crofts}
 {key:Em}
 {duration:3:28}
 

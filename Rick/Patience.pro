@@ -1,5 +1,5 @@
 {title:Patience}
-{subtitle:Guns & Roses}
+{subtitle:Guns and Roses}
 
 [C][G][A][D][C][G][A][D]
 

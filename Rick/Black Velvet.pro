@@ -1,5 +1,5 @@
 {title:Black Velvet}
-{subtitle:Em}
+{subtitle:Alannah Myles}
 
 [Em]Mmmmm  mmmm  oooooo  ad lib
 

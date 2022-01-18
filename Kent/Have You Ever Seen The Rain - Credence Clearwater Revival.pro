@@ -1,5 +1,5 @@
 {title:Have You Ever Seen The Rain-Kent}
-{subtitle:Credence Clearwater Revival}
+{subtitle:Creedence Clearwater Revival}
 [Intro] [Am] [F/C] [C] [G] [C]
 
 [Verse]

@@ -1,5 +1,5 @@
 {title:Amazing Grace}
-{subtitle:John Newton 1779}
+{subtitle:John Newton}
 
 Old Christian hymm amazing staying power
 

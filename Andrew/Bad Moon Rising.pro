@@ -1,5 +1,5 @@
 {title:Bad Moon Rising}
-{subtitle:John Folgerty}
+{subtitle:John Fogerty}
 
 [D]I see a [A]bad m[G]oon [D]rising
 [D]I see [A]trouble [G]on the [D]way

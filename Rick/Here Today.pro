@@ -1,5 +1,5 @@
 {title:Here Today}
-{subtitle:McCartney}
+{subtitle:Paul McCartney}
 {pause:10}
 
 Em/C#   x 4 2 0 0 x

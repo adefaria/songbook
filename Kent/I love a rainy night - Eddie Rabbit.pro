@@ -1,5 +1,5 @@
 {title:I Love A Rainy Night}
-{subtitle:Eddie Rabbit}
+{subtitle:Eddie Rabbitt}
 [Intro] | [C] | [C] | [C] | [C] | 
 
 [Verse 1]

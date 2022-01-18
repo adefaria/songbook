@@ -1,5 +1,5 @@
 {title:I've Always Thought Of You}
-{subtitle:Tommy}
+{subtitle:Tommy Emmanuel}
 {metronome:80}
 
 fast song named by his daughter

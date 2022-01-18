@@ -1,5 +1,5 @@
 {title:Baby I Love Your Way}
-{subtitle: PETER FRAMPTON}
+{subtitle: Peter Frampton}
 
 [Intro]
 [Verse] 

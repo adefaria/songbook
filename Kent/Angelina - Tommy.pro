@@ -1,5 +1,5 @@
 {title:Angelina}
-{subtitle:Tommy }
+{subtitle:Tommy Emmanuel}
 {metronome:128}
 capo 2
 drop D

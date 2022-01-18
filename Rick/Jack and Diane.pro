@@ -1,5 +1,5 @@
 {title:Jack and Diane}
-{subtitle:John Mellancamp}
+{subtitle:John Mellencamp}
 BPM 104 [G][D][G][D][C] 3X
 
 [G]Litt[D]le ditty. 'Bout Jack a[C]nd Diahane. [D][G]Two Merican [D]kids grow[C]n' up. In the ha[D]rt land. [G]

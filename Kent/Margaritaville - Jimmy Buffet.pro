@@ -1,5 +1,5 @@
 {title: Margaritaville}
-{subtitle: Jimmy Buffet}
+{subtitle: Jimmy Buffett}
 {key:D}
 
 [Intro] D G A D [Verse] 

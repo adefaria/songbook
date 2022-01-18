@@ -1,5 +1,5 @@
 {title:Now That I've Found You}
-{subtitle:Alison Krause}
+{subtitle:Alison Krauss}
 
 *capo on first fret*
 Intro

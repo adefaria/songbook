@@ -1,5 +1,5 @@
 {title:Halfway Home}
-{subtitle:Tommy}
+{subtitle:Tommy Emmanuel}
 {metronome:134}
 
 capo 3

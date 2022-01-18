@@ -1,5 +1,5 @@
 {title:Guitar Boogie}
-{subtitle:Arthur Smith 1945 }
+{subtitle:Arthur Smith}
 {metronome:200}
 
 12 bar blues guitar boogie in E

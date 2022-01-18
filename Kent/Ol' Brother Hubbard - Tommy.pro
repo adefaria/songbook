@@ -1,5 +1,5 @@
 {title:Ol' Brother Hubbard}
-{subtitle:Tommy}
+{subtitle:Tommy Emmanuel}
 
 flat pick
 std tuning

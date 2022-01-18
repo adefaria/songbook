@@ -1,5 +1,5 @@
 {title:The Wind Cries Mary}
-{subtitle:Are You Experienced}
+{subtitle:Jimi Hendrix}
 {Key:F}
 [Verse 1] 
 [C]After all [B]the [Bb]jacks are in their [F]boxes 

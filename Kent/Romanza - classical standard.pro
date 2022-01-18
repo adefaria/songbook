@@ -1,2 +1,2 @@
 {title:Romanza}
-{subtitle:classical standard}
+{subtitle:Traditional}

@@ -1,5 +1,5 @@
 {title:Pride and Joy}
-{subtitle:SRV}
+{subtitle:Stevie Ray Vaughan}
 Intro Boogie E and open E then G and B 1st/2nd string
 
 [Verse 1] 

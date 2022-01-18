@@ -1,5 +1,5 @@
 {t:Thank You}
-{st:Led Zepplin}
+{st:Led Zeppelin}
 {key:D}
 
 [D] [D/C] [B/D] 2x

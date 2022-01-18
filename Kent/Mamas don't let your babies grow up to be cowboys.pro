@@ -1,5 +1,5 @@
 {title:Mamas don't let your babies grow up to be cowboys}
-{subtitle:Waylon & Willie}
+{subtitle:Waylon and Willie}
 
 [Verse 1] 
 D G Cowboys ain't easy to love and they're harder to hold

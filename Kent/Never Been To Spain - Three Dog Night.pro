@@ -1,5 +1,5 @@
 {title:Never Been To Spain}
-{subtitle:Three Dog Night 1971}
+{subtitle:Three Dog Night}
 Well I never been to [A]Spain But I kinda like the [E]music
 Say the ladies are in[A]sane there And they sure know how to [E]use it
 They don't a[B7]buse it Never gonna [A]lose it I can't re[E]fuse it

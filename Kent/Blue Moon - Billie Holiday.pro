@@ -1,5 +1,5 @@
 {title:Blue Moon}
-{subtitle:Richard Rodgers/Lorenz Hart 1934}
+{subtitle:Billy Holiday}
 {metronome:136}
 
 thumb pick

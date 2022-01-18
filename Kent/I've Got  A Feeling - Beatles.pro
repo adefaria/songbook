@@ -1,5 +1,5 @@
 {title:I've Got  A Feeling}
-{subtitle:Beatlee}
+{subtitle:Beatle}
 A D A D I've got a feeling, a feeling deep inside 
 A D A D Oh yeah, Oh yeah. (that's right) 
 A D A D I've got a feeling, a feeling I can't hide
