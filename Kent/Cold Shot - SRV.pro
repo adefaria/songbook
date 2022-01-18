@@ -1,5 +1,5 @@
 {title:Cold Shot}
-{subtitle:SRV}
+{subtitle:Stevie Ray Vaughan}
 
 Am Once was a sweet thing, baby
 Am Held that love in our hands

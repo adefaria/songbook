@@ -1,5 +1,5 @@
 {title:Pink Houses}
-{subtitle:John Mellancamp}
+{subtitle:John Mellencamp}
 
 BPM 115
 

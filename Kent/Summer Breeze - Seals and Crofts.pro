@@ -1,5 +1,5 @@
 {title:Summer Breeze}
-{subtitle:Seals & Crofts}
+{subtitle:Seals and Crofts}
 {key:Em}
 
  [Intro] [Em] [C] 2x [Em] [C] 4x 

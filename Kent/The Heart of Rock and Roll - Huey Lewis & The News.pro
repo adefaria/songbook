@@ -1,5 +1,5 @@
 {title:The Heart of Rock and Roll}
-{subtitle:Huey Lewis & The News}
+{subtitle:Huey Lewis and The News}
 C5 [heartbeat... eb-e-g-a-g-bb-g   eb-e-g-a-g-bb-g eb-e-g-a-g-bb-g-a-g-bb-bb-a-g 2x's
 
 [C7]New York, NY is everything they say & no place that I'd rather be

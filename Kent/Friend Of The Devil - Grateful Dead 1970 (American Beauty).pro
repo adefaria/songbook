@@ -1,5 +1,5 @@
 {title:Friend Of The Devil}
-{subtitle: Grateful Dead 1970 (American Beauty)}
+{subtitle: Grateful Dead}
 e|-----------------| 
 B|-----------------| 
 G|-0---------------| 

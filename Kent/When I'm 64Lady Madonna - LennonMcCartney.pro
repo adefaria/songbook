@@ -1,5 +1,5 @@
 {title:When I'm 64/Lady Madonna}
-{subtitle:Lennon/McCartney }
+{subtitle:Beatles}
 
 thumb pick
 std tuning

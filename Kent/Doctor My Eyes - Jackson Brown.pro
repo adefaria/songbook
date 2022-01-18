@@ -1,5 +1,5 @@
 {title:Doctor My Eyes}
-{subtitle:Jackson Brown}
+{subtitle:Jackson Browne}
 
 Capo on 1st fret (or not)
 

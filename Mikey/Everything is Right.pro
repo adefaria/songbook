@@ -1,4 +1,6 @@
-{t:Everything's Right}{st:Skylar Day}{key:A}
+{title:Everything's Right}
+{subtitle:Skylar Day}
+{key:A}
 
 [A] [F#m] [D] [E]
 [A] I love how you [F#m] call me up in the [D] middle of the day [E]

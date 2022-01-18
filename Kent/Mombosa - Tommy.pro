@@ -1,5 +1,5 @@
 {title: Mombosa}
-{subtitle:Tommy }
+{subtitle:Tommy Emmanuel}
 {metronome:126}
 
 flat pick

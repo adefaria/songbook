@@ -1,5 +1,5 @@
 {title:Angel From Montgomery}
-{subtitle:John Prime}
+{subtitle:John Prine}
 {key:G}
 
 [G] [C] [G] [C] [G] [C] [D] [G]

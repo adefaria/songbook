@@ -1,5 +1,5 @@
 {title:Help!}
-{subtitle:Lennon/McCartney}
+{subtitle:Beatles}
 [Intro]
 [Bm]Help! I need some[Bm/A]body 
 

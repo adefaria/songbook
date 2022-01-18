@@ -1,5 +1,5 @@
 {title:Helplessly Hoping}
-{subtitle:Crosby, Stills & Nash}
+{subtitle:Crosby, Stills and Nash}
 {metronome:147}
 INTRO: Am7 C G D 
 [Verse 1] 

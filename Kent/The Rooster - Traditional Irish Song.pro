@@ -1,5 +1,5 @@
 {title:The Rooster}
-{subtitle:Traditional Irish Song}
+{subtitle:Traditional}
 
 This is a traditional Irish tune that is both politically incorrect and totally appropriate to Saskatchewan. Anyone who’s grown up on a farm knows the rooster pretty much commands when the day starts and spends the rest of his time strutting around his kingdom. A funny ode to a a sexually liberal rooster.
 

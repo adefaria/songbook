@@ -1,5 +1,5 @@
 {title:A Pirate Looks At Forty}
-{subtitle:Jimmy Buffet}
+{subtitle:Jimmy Buffett}
 [Intro] [G]
 
 [Verse]

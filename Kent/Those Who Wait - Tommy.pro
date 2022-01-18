@@ -1,5 +1,5 @@
 {title:Those Who Wait}
-{subtitle:Tommy}
+{subtitle:Tommy Emmanuel}
 {metronome:50}
 slow song
 

@@ -1,5 +1,5 @@
 {title:Blue Sky}
-{subtitle:Allman House}
+{subtitle:Allman Brothers}
 {key:A}
  {metronome:94} 
 

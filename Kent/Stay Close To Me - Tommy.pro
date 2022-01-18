@@ -1,5 +1,5 @@
 {title:Stay Close To Me}
-{subtitle:Tommy }
+{subtitle:Tommy Emmanuel}
 
 capo 2
 std tuning

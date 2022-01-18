@@ -1,5 +1,5 @@
 {title:ROCK. in the USA}
-{subtitle:John Mellancamp}
+{subtitle:John Mellencamp}
 {metronome:163}
 {c:163 BPM}
 {zoom-ipad: 0.980000}

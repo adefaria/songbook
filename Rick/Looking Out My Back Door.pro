@@ -1,5 +1,5 @@
 {title:Looking Out My Back Door}
-{subtitle:Credence Clearwater Revival}
+{subtitle:Creedence Clearwater Revival}
 [G]Just got home from Illinois [Em]lock the front door oh boy.
 [C]Got to set [G]down take a [D7]rest on the porch.
 [G]Imagination sets in [Em]pretty soon I'm singing.
