@@ -1,2 +1,2 @@
 {title:Main Street}
-{subtitle:Bob Seeger}
+{subtitle:Bob Seger}

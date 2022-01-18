@@ -1,5 +1,5 @@
 {title:Boot Scootin’ Boogie}
-{subtitle:Brooks & Dunn}
+{subtitle:Brooks and Dunn}
 {key:Electric}
 [Intro] slide up to [E]
 [Verse 1]

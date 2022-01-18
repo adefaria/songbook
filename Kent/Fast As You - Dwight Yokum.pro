@@ -1,5 +1,5 @@
 {title:Fast As You}
-{subtitle:Dwight Yokum}
+{subtitle:Dwight Yoakam}
 [Intro] E E E E E E E7 E6 E7 E7 E6 
 
 [Verse 1] 
