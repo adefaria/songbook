@@ -1,5 +1,5 @@
 {title:I Just Want a Little Bit}
-{subtitle:"Magic Sam" Samuel Maghett}
+{subtitle:Samuel Maghett}
 
 
 [G9]I don't want it babe, I just want a little bit
