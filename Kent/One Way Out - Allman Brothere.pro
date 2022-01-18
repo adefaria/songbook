@@ -1,5 +1,5 @@
 {title:One Way Out}
-{subtitle:Allman Brothere}
+{subtitle:Allman Brothers}
 
 A Ain't but one way out baby, lord I just can't go out the door. 
 D A Ain't but one way out baby, lord I just can't go out the door. 
