@@ -1,5 +1,5 @@
 {t:Turn the Page}
-{st:Bob Seager}
+{st:Bob Seger}
 {key:Em}
 
 [Em]

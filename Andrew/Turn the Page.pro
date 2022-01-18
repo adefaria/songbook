@@ -1,5 +1,5 @@
 {title:Turn the Page}
-{subtitle:Bob Seager}
+{subtitle:Bob Seger}
 {key:Em}
 
 [Em]
