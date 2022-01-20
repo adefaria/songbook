@@ -2,7 +2,7 @@
 {subtitle:Allman Brothers}
 {metronome:181}
 {c:181 BPM}
-{zoom-ipad: 1.140000}
+{zoom-ipad:1.120000}
 Capo 1 [G][D][C][G]
 
 **[G]Lord, I was [F]born a ramblin' [G]man, trying to make a living and
@@ -23,3 +23,5 @@ Tennes[D]see. They're [C]always having a [G]good time down on the [Em]Bayou, [C]
 [G]Them delta women [D]think the world of[G] me.
 
 **Chorus
+Fade Lord I was born a rambling man.  8X Acappela
+

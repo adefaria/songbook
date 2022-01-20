@@ -1,5 +1,6 @@
-{title:Running On Empty}
+{t:Running On Empty}
 {subtitle:Jackson Browne}
+{zoom-ipad:0.890000}
 
 Tuning C G D G B D
 [1]  [2] [1] [2] Riff[4E]         [5]     [*]      [3]

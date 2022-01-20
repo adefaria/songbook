@@ -1,5 +1,6 @@
 {title:Show Me The Way}
 {subtitle:Peter Frampton}
+{zoom-ipad:0.990000}
 {metronome:132}
 {c:132 BPM} 
 
@@ -17,8 +18,7 @@ There [Bm]has to be a fool to play [Bb]my part. [C]
 
 [A]Someone thought of healing but all I [G]really want to know.
 
-**Chorus
-Instrumental 2X
+**Chorus   Instrumental 2X
 
 [D]I wonder if I'm dreaming.  I feel so unashamed. I [Bm]can't believe this is happening to [Bb]me.
 [A]I watch you when you're sleeping. And then I [G]want to take your love.

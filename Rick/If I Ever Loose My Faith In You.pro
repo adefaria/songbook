@@ -2,7 +2,7 @@
 {subtitle:Sting}
 {metronome:97}
 {c:97 BPM}
-{zoom-ipad: 1.010000}
+{zoom-ipad:1.040000}
 Harmonica Need MP3
 Owe,
 You could say I lost my faith in science nd progress

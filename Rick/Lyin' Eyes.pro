@@ -1,5 +1,6 @@
 {title:Lying Eyes}
 {subtitle:Eagles}
+{zoom-ipad: 0.720000}
 {metronome:132}
 {c:132 BPM}
 [G][G6][C][Am][D]

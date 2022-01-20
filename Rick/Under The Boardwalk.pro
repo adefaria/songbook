@@ -1,7 +1,7 @@
 {title:Under The Boardwalk}
 {metronome:124}
 {c:124 BPM}
-{zoom-ipad:1.146094}
+{zoom-ipad:0.923798}
 {key:G}
 
 {c:2 leads in this song. Starts with Bass and percussion. Then keys and guitar} 
@@ -24,6 +24,5 @@ Under the b[Em]oardwalk, people walking above. Under the b[D]oardwalk, we'll be 
 Solo [G][D][G]
 
 Under the [C]boardwalk, down by the [G]sea. On a blanket with my ba[D]by is where I'll [G]be.
-
 "Under the b[Em]oardwalk",  Out of the sun. Under the b[D]oardwalk, we'll be having some fun.
 Under the b[Em]oardwalk, people walking above. Under the b[D]oardwalk, we'll be falling love. Under the b[Em]oard-walk, board-walk.
