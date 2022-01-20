@@ -24,6 +24,4 @@ Well she [C]wrote me a [G]letter Said she [F]couldn't [C]live with[G]out me no m
 [Am]Give me a ticket for an [F]aeroplane, [Am]Ain't got time to take the [D]fastest train
 [Am]Lonely days are gone, [F]I'm a-goin' home,
 
-My [E7]baby she wrote me a [Am]letter.
-My [E7]baby wrote me a [Am]letter.
-My [E7]baby wrote me a [Am]letter. 
+My [E7]baby she wrote me a [Am]letter. Ad lib out. End a capella

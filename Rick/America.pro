@@ -1,4 +1,6 @@
 {title:America}
+{subtitle:Simon and Garfunkel}
+{ipodid: 2866239016373024943}
 {Capo at 2nd fret} 
 Play the Em9 chord with an open sixth string, i.e 0-2-0-0-0-0
 

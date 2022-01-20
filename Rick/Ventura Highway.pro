@@ -1,7 +1,7 @@
 {title:Ventura Highway}
-{subtitle:America}
+{subtitle:Anerica}
+{zoom-ipad:0.991220}
 {metronome: 131}
-{duration:3:38}
 {c:131 BPM}
 {ipodid: 9024644314861715729}
 [G6][Dmaj7]
@@ -13,7 +13,7 @@
 [G6]Ventura highway in th[Dmaj7]e sunshine. Where the d[G6]ays are longer.
 The nights are stronger than m[Dmaj7]oonshine. You're gonna go I know.
 
-[Em7]Cause the free [F#m7]wind is blowin through your hair.
+**[Em7]Cause the free [F#m7]wind is blowin through your hair.
 [Em7]And the days [F#m7]surround your daylight there.
 [Em7]Seasons crying no [F#m7]despair.
 [Em7]Alligator lizards [F#m7]in the air, in the [G6]air.
@@ -26,10 +26,4 @@ The nights are stronger than m[Dmaj7]oonshine. You're gonna go I know.
 
 [G6]Ventura highway in th[Dmaj7]e sunshine. Where the d[G6]ays are longer.
 The nights are stronger than m[Dmaj7]oonshine. You're gonna go I know.
-
-[Em7]cause the free [F#m7]wind is blowin through your hair.
-[Em7]And the days [F#m7]surround your daylight there.
-[Em7]Seasons crying no [F#m7]despair.
-[Em7]Alligator lizards [F#m7]in the air. In the [G6]air.
-Outro
-[Dmaj7]Did di [G6]di d[Dmaj7]i dit. [G6] 6X out
+**Chorus  Outro [Dmaj7]Did di [G6]di d[Dmaj7]i dit. [G6] 6X out

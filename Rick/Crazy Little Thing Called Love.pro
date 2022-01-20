@@ -1,7 +1,7 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
+{zoom-ipad:0.897325}
 {metronome:152}
-{duration:2:54}
 {c:152 BPM}
 {ipodid: 9024644314861715998}
 Bass riff 2X    Finger Snap 2X[D][Dsus4][D]2X Vocals Enter
@@ -29,5 +29,5 @@ Take a (a-ohm) back seat. (a-ohm) Hitch-hike. (Oooooo)Take a long ride on my mot
 This [D]thing, called love. I [G]just can't [C]handle it. 
 This [D]thing,. called love. I [G]must. get [C]round to it.
 I ain't [D]ready. (Ooo, ooo, ooo) [Bb](Crazy little [C]thing called [D]love.)
-[Bb]Crazy little [C]thing called [D]love. (Yeah, yeah) [4X^^] It's just a little thing called love
+[Bb]Crazy little [C]thing called [D]love. (Yeah, yeah) [4X^^] It’s just a little thing called love
 [Bb]3X [C]3X [D]
