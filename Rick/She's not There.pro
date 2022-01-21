@@ -2,7 +2,7 @@
 {metronome: 132}
 {c:132 BPM}
 {zoom-ipad:1.380000} 
-
+4XInto
 [Am]Well no one [D]told me a[Am7]bout [D]her. [Am]The [F]way she [Am]lied. [D]
 [Am7]Well no one [D]told me a[Am7]bout [D]her. [Am]How many [F]people [A]cried. 
 
