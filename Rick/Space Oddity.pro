@@ -9,7 +9,7 @@
 [C]Ground control to Major [Em]Tom. [C]Commencing countdown. Engine's [Em]on. [Am]Check [Am7/G]ignition and may G[D7]od's love be with you.
 
 [C]This is ground control to Major [E7]Tom, you've really made the [F]grade.
-The [Fm]papers want to [C]know whose shirts you [F]wear. 
+And the [Fm]papers want to [C]know whose shirts you [F]wear. 
 [Fm]Now it's time to leave the [C]capsule if you [F]dare.
 *[C]This is Major Tom to ground con[E7]trol, I'm stepping through the [F]door. 
 [Fm]And I'm floating in the [C]most peculiar [F]way [Fm]and the stars look very [C]different [F]today.
