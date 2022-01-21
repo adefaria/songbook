@@ -1,5 +1,6 @@
 {title:Treasure}
 {subtitle:The Cure}
+{duration:3:46}
 {c:Capo}
 [C] (c e g d c e g d)
 [Am] (a e a a a e a c)

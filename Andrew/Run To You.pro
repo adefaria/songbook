@@ -1,5 +1,6 @@
 {title:Run To You}
 {subtitle:Bryan Adams}
+{duration:3:46}
 {capo:2}
 {key:F#m}
 

@@ -1,5 +1,6 @@
 {title:To Be With You}
 {subtitle:Mr Big}
+{duration:3:31}
 {key:E}
 
 [C#m]Hold on little [E]girl

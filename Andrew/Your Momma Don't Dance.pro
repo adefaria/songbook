@@ -1,5 +1,6 @@
 {title:Your Momma Don't Dance}
 {subtitle:Loggins and Messina}
+{duration:2:49}
 {key:C}
 
 {c:Intro} [C]

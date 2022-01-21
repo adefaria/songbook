@@ -1,5 +1,6 @@
 {title:People Get Ready}
 {subtitle:Rod Stewart}
+{duration:4:41}
 {key:D}
 
 [D] [Bm] [G] [D] 5x

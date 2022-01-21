@@ -1,6 +1,7 @@
 {title:Sunny Afternoon}
 {subtitle:Kinks}
 {duration:3:32}
+{key:Dm}
 
 {c:Intro 2x}
 [Dm] [Dm/C] [Dm/B] [Dm/Bb]

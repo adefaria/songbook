@@ -1,5 +1,6 @@
 {title:Here Comes the Sun}
 {subtitle:George Harrison}
+{duration:3:12}
 {key:A}
 {capo:7}
 

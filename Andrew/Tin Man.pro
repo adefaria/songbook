@@ -1,5 +1,6 @@
 {title:Tin Man}
 {subtitle:America}
+{duration:3:30}
 {key:G}
 
 [Gmaj7] [Cmaj7] 

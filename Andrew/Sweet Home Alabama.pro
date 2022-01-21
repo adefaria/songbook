@@ -1,5 +1,6 @@
 {title:Sweet Home Alabama}
 {subtitle:Lynyrd Skynyrd}
+{duration:5:01}
 {key:D}
 
  (D C G 2x) 

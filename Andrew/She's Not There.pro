@@ -1,5 +1,6 @@
 {title:She's Not There}
 {subtitle:The Zombies}
+{duration:2:24}
 
 Well, [Am]no one [D]told me [Am]about [D]her [Am]
 The [F]way she [Am]lied

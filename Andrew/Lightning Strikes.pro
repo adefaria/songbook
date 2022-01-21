@@ -1,5 +1,6 @@
 {title:Lightning Strikes}
 {subtitle:Yes}
+{duration:4:36}
 {key:D}
 
 [D]What you gonna do when the [G]lightning str[A]ikes and [D]hits you [G] [A]

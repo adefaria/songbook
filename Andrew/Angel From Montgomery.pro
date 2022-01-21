@@ -1,5 +1,6 @@
 {title:Angel From Montgomery}
 {subtitle:John Prine}
+{duration:4:02}
 {key:G}
 
 [G] [C] [G] [C] [G] [C] [D] [G]

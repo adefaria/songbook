@@ -1,5 +1,6 @@
 {title:Soul Man}
 {subtitle:The Blues Brothers}
+{duration:2:40}
 {key:E}
 
 [E] [D] [G] [A] [B]

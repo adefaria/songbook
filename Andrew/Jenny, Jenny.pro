@@ -1,5 +1,6 @@
 {title:Jenny, Jenny}
 {subtitle:Tommy Tutone}
+{duration:3:47}
 {key:F#m}
 
 [F#m] [D] [A] [B] 2x

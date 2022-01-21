@@ -1,5 +1,7 @@
 {title:Boys}
 {subtitle:Beatles}
+{duration:2:27}
+{key:E}
 
 [B7] [A7] [E]
 

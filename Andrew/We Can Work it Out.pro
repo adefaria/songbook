@@ -1,5 +1,6 @@
 {title:We Can Work it Out}
 {subtitle:Beatles}
+{duration:2:18}
 {key:D}
 
 [D]Try to see it [Dsus4]my [D]way,

@@ -1,5 +1,6 @@
 {title:Watching the Wheels}
 {subtitle:John Lennon}
+{duration:3:33}
 {key:C}
 
 [C] [F] [C] [F]

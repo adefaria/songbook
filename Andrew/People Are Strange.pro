@@ -1,5 +1,6 @@
 {title:People Are Strange}
 {subtitle:Doors}
+{duration:2:13}
 {key:Em}
 
 [Em]People are strange [Am]when you're a [E7]stranger 

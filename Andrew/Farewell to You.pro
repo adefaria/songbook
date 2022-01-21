@@ -1,5 +1,6 @@
 {title:Farewell to You}
 {subtitle:White Lion}
+{duration:4:22}
 {key:D}
 
 [D]Well it's time to say goodbye, my friend

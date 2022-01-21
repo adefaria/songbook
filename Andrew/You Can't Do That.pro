@@ -1,5 +1,6 @@
 {title:You Can't Do That}
 {subtitle:Beatles}
+{duration:2:35}
 
 [G7]I got something to say that might 'cause you pain
 If I catch you talking to that boy again

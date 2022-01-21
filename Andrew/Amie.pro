@@ -1,5 +1,6 @@
 {title:Amie}
 {subtitle:Pure Prairie League}
+{duration:4:21}
 {key:A}
 
 [A] [G] [D] [A] [G] [D] [A]

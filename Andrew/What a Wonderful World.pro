@@ -1,5 +1,6 @@
 {title:What a Wonderful World}
 {subtitle:Louis Armstrong}
+{duration:2:30}
 {key:E}
 
 [E] [Amaj7] [E] [B7]

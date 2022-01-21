@@ -1,5 +1,6 @@
 {title:Under the Boardwalk}
 {subtitle:The Drifters}
+{duration:2:41}
 {key:G}
 
 [G]

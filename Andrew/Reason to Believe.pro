@@ -1,5 +1,6 @@
 {title:Reason to Believe}
 {subtitle:Tim Hardin}
+{duration:4:10}
 
 If I listened long enough to you
 I'd find a way to believe that it's all true

@@ -1,5 +1,7 @@
 {title:Blue Sky}
 {subtitle:Allman Brothers}
+{duration:5:15}
+{key:E}
 
 {c:Intro}
 

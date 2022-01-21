@@ -1,5 +1,6 @@
 {title:Hey Jude}
 {subtitle:Beatles}
+{duration:8:10}
 {key:E}
 
 Hey [E]Jude, don't make it [B7]bad

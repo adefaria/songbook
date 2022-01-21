@@ -1,5 +1,7 @@
 {title:Feeling Alright}
 {subtitle:Joe Cocker}
+{duration:4:11}
+{key:C}
 
 [C7] [F7]
 

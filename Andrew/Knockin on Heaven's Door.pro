@@ -1,5 +1,7 @@
 {title:Knockin' On Heaven's Door}
 {subtitle:Bob Dylan}
+{duration:5:36}
+{key:G}
 
 [G] [D] [Am] [G] [D] [C]
 

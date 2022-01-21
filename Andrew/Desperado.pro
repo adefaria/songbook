@@ -1,6 +1,7 @@
 {title:Desperado}
 {subtitle:Eagles}
-{Key: G}
+{duration:3:34}
+{key:G}
 
 [G] [G7] [C] [Cm]
 

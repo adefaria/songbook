@@ -1,5 +1,6 @@
 {title:Wild Nights}
 {subtitle:Van Morrison}
+{duration:3:31}
 {key:G}
 
 [Em][G][Em][G][Em][G][C][D][G]

@@ -1,5 +1,6 @@
 {title:Heart of Gold}
 {subtitle:Neil Young}
+{duration:3:11}
 {key:Em}
 
 {c:Intro}

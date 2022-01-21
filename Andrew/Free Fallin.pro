@@ -1,5 +1,6 @@
 {title:Free Fallin}
 {subtitle:Tom Petty}
+{duration:4:15}
 {key:F}
 {capo:3}
 

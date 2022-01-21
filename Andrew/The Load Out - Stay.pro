@@ -1,5 +1,6 @@
 {title:The Load Out - Stay}
 {subtitle:Jackson Browne}
+{duration:9:50)}
 {key:G}
 
 [G]  [C] [D] [Em] [C] [D6] [G] [C] [G] [D] 2x

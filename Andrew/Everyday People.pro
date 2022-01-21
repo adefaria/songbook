@@ -1,5 +1,7 @@
 {title:Everyday People}
 {subtitle:Sly and the Family Stone}
+{duration:2:24}
+{key:G}
 
 [G] [C]
 

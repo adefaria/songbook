@@ -1,5 +1,6 @@
 {title:Give a Little Bit}
 {subtitle:Roger Hodgson}
+{duration:4:09}
 {key:D}
 
 [A7] [D] [A7] [D] [G] [A7] [G] [A7] [G] [D]

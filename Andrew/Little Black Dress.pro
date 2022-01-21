@@ -1,5 +1,6 @@
 {title:Little Black Dress}
 {subtitle:Doug Fielder}
+{key:E}
 
 {c:E - A - B7 (Standard Rock and Roll riff)}
 

@@ -1,5 +1,9 @@
 {title:Happy Together}
 {subtitle:The Turtles}
+{duration:2:58}
+{key:F#m}
+{capo:2}
+
  
 Imagine [Em]me and you - I do
 I think about you [D]day and night, it's only right

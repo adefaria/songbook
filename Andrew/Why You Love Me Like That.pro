@@ -1,6 +1,7 @@
 {title:Why You Love Me Like That}
 {subtitle:Michelle Branch}
-{Key:C}
+{duration:3:31}
+{key:C}
 
 Well you sold my heart 
 And I'll get it back 

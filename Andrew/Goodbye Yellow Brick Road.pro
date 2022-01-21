@@ -1,5 +1,6 @@
 {title:Goodbye Yellow Brick Road}
 {subtitle:Elton John}
+{duration:3:13}
 {key:E}
 
 {c:Intro}

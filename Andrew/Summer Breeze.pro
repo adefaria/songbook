@@ -1,7 +1,7 @@
 {title:Summer Breeze}
 {subtitle:Seals and Crofts}
-{key:Em}
 {duration:3:28}
+{key:Em}
 
 [Intro] [Em] [C] 2x [Em] [C] 4x 
 

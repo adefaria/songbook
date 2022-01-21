@@ -1,6 +1,7 @@
 {title:Spooky}
 {subtitle:Atlanta Rhythm Section}
-{Key:Em}
+{duration:4:59}
+{key:Em}
 
 [Intro] Em7 A13 Em7 A13 Em7 B7#9
 

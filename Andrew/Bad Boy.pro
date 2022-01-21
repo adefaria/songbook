@@ -1,5 +1,7 @@
 {title:Bad Boy}
 {subtitle:Beatles}
+{duration:2:21}
+{key:C}
 
 [C] [C]
 

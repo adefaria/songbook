@@ -1,5 +1,6 @@
 {title:Sultans of Swing}
 {subtitle:Dire Straights}
+{duration:5:47}
 {key:Dm}
 
 [Dm] 4x

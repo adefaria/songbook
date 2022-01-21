@@ -1,5 +1,6 @@
 {title:Long Train Runnin}
 {subtitle:Doobie Brothers}
+{duration:3:43}
 {key:Gm}
 
 [Gm] 

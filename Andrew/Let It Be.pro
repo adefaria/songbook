@@ -1,5 +1,6 @@
 {title:Let It Be}
 {subtitle:Beatles}
+{duration:4:04}
 {key:C}
 
 [C] [G] [Am] [F] [C] [G] [F] [C/E] [Dm7] [C]

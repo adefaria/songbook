@@ -1,5 +1,6 @@
 {title:The Ballad of John and Yoko}
 {subtitle:Beatles}
+{duration:3:06}
 {key:E}
 
 [E]Standing on the dock at Southampton

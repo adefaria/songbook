@@ -1,6 +1,7 @@
 {title:American Pie}
 {subtitle:Don McLean}
-{Key: G}
+{duration:8:45}
+{key:G}
 
 A [G]long, [D]long [Em7]time ago
 [Am]I can still re[C]member 

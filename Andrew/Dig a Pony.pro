@@ -1,6 +1,7 @@
 {title:Dig a Pony}
 {subtitle:Beatles}
-{Key:A}
+{duration:3:55}
+{key:A}
 
 [G] [D] [A] 2x
 

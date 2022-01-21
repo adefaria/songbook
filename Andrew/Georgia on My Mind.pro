@@ -1,5 +1,6 @@
 {title:Georgia on My Mind}
 {subtitle:Ray Charles}
+{duration:3:53}
 {key:G}
 
 [G]Georgia, [B7] Georgia, [Em7]

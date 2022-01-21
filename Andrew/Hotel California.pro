@@ -1,5 +1,6 @@
 {title:Hotel California}
 {subtitle:Eagles}
+{duration:6:31}
 {key:Bm}
 
 [Bm]On a dark desert highway, [F#]cool wind in my hair   

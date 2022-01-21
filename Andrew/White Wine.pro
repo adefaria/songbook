@@ -1,5 +1,6 @@
 {title:White Wine in the Sun}
 {subtitle:Tim Minchin}
+{duration:6:27}
 {key:G}
 
 [G]I really like Christmas

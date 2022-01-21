@@ -1,5 +1,6 @@
 {title:I'll Be Your Baby Tonight}
 {subtitle:Bob Dylan}
+{duration:2:41}
 {key:C}
 
 Close your e[C]yes, close the door

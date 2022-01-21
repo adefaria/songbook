@@ -1,6 +1,8 @@
 {title:I Can't Tell You Why}
 {subtitle:Eagles}
+{duration:4:56}
 {key:D}
+
 Intro: Bm A/B x 4 a-c#-e
 
 [Dmaj7]Look at us baby up all night [Gmaj7]tearing our love apart

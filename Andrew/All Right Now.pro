@@ -1,6 +1,7 @@
 {title:All Right Now}
 {subtitle:Free}
-{Key: A}
+{duration:4:15}
+{key:A}
 
 [A] [D] [A] [G] [D] [A]
 

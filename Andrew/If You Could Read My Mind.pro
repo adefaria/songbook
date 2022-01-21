@@ -1,5 +1,7 @@
 {title:If You Could Read My Mind}
 {subtitle:Gordon Lightfoot}
+{duration:3:49}
+{key:G}
 
 [Gadd2] [Dm/F] 3x
 

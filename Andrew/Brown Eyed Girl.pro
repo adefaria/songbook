@@ -1,5 +1,6 @@
 {title:Brown Eyed Girl}
 {subtitle:Van Morrison}
+{duration:3:05}
 {key:G}
 
 [G]Hey, where did [C]we go, da[G]ys when the ra[D]ins came

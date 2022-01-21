@@ -1,5 +1,6 @@
 {title:Come Together}
 {subtitle:Beatles}
+{duration:4:20}
 {key:D}
 
 [D]Here come old flat top, 

@@ -1,5 +1,6 @@
 {title:Last Man on Earth}
 {subtitle:Alice Cooper}
+{duration:3:48}
 {key:Gm}
 
 [Gm] [e] [g] [Gm] 2X

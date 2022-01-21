@@ -1,6 +1,7 @@
 {title:The Letter}
 {subtitle:Joe Cocker}
-{key Am}
+{duration:4:22}
+{key:Am}
 
 [Am]Gimme a ticket for an [F]aeroplane 
 [G]Ain't got time to take a [D]fast train 

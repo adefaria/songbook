@@ -1,5 +1,6 @@
 {title:Jessica}
 {subtitle:The Allman Brothers}
+{duration:7:31}
 {key:A}
 
 {c:Instrumental}

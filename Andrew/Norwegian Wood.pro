@@ -1,5 +1,6 @@
 {title:Norwegian Wood}
 {subtitle:Beatles}
+{duration:22:05}
 {key:D}
 {tuning:D A D G B E}
 

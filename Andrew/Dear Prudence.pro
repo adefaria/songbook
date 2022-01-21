@@ -1,6 +1,7 @@
 {title:Dear Prudence}
 {subtitle:Beatles}
-{Key: D}
+{duration:3:56}
+{key:D}
 
 Dear Prudence, won't you come out to play
 Dear Prudence, greet the brand new day

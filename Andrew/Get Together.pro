@@ -1,5 +1,8 @@
 {title:Get Together}
 {subtitle:The Youngbloods}
+{duration:4:41}
+{key:A}
+{capo:2}
 
 [G] [F] [G] [F] [G] [F]
 

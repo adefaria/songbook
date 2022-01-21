@@ -1,5 +1,7 @@
 {title:Longview}
 {subtitle:Greenday}
+{duration:3:48}
+{key:D}
 
 [D]Sit aro[C]und and watch [D]the tube, but nothing's [C]on
 I change the channels for an hour or two

@@ -1,6 +1,6 @@
 {title:Lay Down Sally}
 {subtitle:Eric Clapton}
-{time:9:00}
+{duration:3:49}
 {key:A}
 
 [A]There is nothing that is wrong

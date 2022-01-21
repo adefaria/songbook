@@ -1,5 +1,6 @@
 {title:Workin Man Blues}
 {subtitle:Merle Haggard}
+{duration:2:33}
 {key:A}
 
 [A]It's a big job just gettin' by with nine kids and a wife

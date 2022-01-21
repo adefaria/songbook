@@ -1,5 +1,6 @@
 {title:Me and Julio Down by the Schoolyard}
 {subtitle:Paul Simon}
+{duration:2:47}
 {key:A}
 
 {c:Intro}

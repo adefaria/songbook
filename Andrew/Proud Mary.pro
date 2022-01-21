@@ -1,5 +1,6 @@
 {title:Proud Mary}
 {subtitle:Creedence Clearwater Revival}
+{duration:5:27}
 {key:G}
 
 Intro:

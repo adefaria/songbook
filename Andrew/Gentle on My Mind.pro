@@ -1,5 +1,6 @@
 {title:Gentle on My Mind}
 {subtitle:Glen Campbell}
+{duration:2:59}
 {key:D}
 
 It's [D]knowin' that your [Dmaj7]door is always [D6]open

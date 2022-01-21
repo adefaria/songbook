@@ -1,7 +1,8 @@
 {title:I Still Can't Say Goodbye}
 {subtitle:Chet Atkins}
+{duration:3:55}
 {key:A}
-
+{capo:2}
 
 [G] [C] [D] [G] [C] [D]
 

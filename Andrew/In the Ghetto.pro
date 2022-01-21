@@ -1,5 +1,6 @@
 {title:In the Ghetto}
 {subtitle:Elvis Presley}
+{duration:2:59}
 {key:G}
 
 [G]As the snow flies

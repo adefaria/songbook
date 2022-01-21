@@ -1,5 +1,6 @@
 {title:Mary Jane's Last Dance}
 {subtitle:Tom Petty}
+{duration:4:41}
 
 [A] [G] [D] 4x
 

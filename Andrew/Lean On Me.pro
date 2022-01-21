@@ -1,5 +1,6 @@
 {title:Lean on Me}
 {subtitle:Temptations}
+{duration:4:55}
 {key:C}
 
 [C]Sometimes in our [F]lives we all have [C]pain

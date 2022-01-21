@@ -1,6 +1,7 @@
-Mony Mony
-Billy Idol
-Key: F
+{title:Mony Mony}
+{subtitle:Billy Idol}
+{duration:5:02}
+{key:F}
 
 
 Verse 1:

@@ -1,6 +1,6 @@
 {title:The Reunion}
 {subtitle:Mike Fraser}
-{time:4:02}
+{duration:3:57}
 {key:G}
 
 [G] [Bm7] [C] [D] [G] [Bm7] [C] [D]

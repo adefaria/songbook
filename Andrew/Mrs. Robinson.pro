@@ -1,5 +1,6 @@
 {title:Mrs. Robinson}
 {subtitle:Paul Simon}
+{duration:4:04}
 {key:E}
 {c:chorus}
 [E7]We'd like to know a little bit about you for our files

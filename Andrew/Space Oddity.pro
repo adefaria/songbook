@@ -1,5 +1,6 @@
 {title:Space Oddity}
 {subtitle:David Bowie}
+{duration:5:05}
 {key:Em}
 
 [C]Ground Control to Major [Em]Tom

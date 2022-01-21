@@ -1,5 +1,6 @@
 {title:Never Ending Love For You}
 {subtitle:Delaney and Bonnie}
+{duration:3:25}
 
 {c:Run down}
 

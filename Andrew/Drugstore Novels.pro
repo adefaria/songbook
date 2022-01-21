@@ -1,5 +1,6 @@
 {title:Drugstore Novels}
 {subtitle:Cast of Shadows}
+{duration:4:32}
 {key:A}
 
 [A] [F#m] (2x)

@@ -1,5 +1,6 @@
 {title:Revolution}
 {subtitle:Beatles}
+{duration:3:28}
 {key:A}
 
 [A]You say you want a revolution

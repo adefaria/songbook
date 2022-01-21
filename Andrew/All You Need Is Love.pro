@@ -1,5 +1,6 @@
 {title:All You Need Is Love}
 {subtitle:Beatles}
+{duration:3:52}
 
 {c:Intro}
 

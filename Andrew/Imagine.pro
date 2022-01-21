@@ -1,5 +1,6 @@
 {title:Imagine}
 {subtitle:John Lennon}
+{duration:3:54}
 {key:C}
 
 [C][Cmaj7][F]

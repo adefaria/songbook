@@ -1,5 +1,6 @@
 {title:Nothing Can Stop Us Now}
 {subtitle:Tim Minchin}
+{duration:2:04}
 {key:E}
 
 [E] [A] [E] [A] [B] [A] [E]

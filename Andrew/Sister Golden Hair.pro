@@ -1,5 +1,6 @@
 {title:Sister Golden Hair}
 {subtitle:America}
+{duration:3:14}
 {key:A}
 {duration:3:13}
 

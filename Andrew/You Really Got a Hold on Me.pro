@@ -1,5 +1,6 @@
 {title:You Really Got a Hold on Me}
 {subtitle:Beatles}
+{duration:2:59}
 
 [e] [e] [f#] [a] [b] [a] [f#]
 

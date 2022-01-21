@@ -1,5 +1,6 @@
 {title:When I Grow Up}
 {subtitle:Tim Minchin}
+{duration:3:55}
 {key:G}
 
 When I grow up

@@ -1,6 +1,6 @@
 {title:Across the Universe}
 {subtitle:Beatles}
-{time:2:54}
+{duration:3:50}
 {key:D}
 
 {c:Intro}

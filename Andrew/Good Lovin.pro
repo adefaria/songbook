@@ -1,6 +1,7 @@
 {title:Good Lovin}
 {subtitle:The Rascals}
-{Key:D}
+{duration:2:43}
+{key:D}
 
 One, two, three
 

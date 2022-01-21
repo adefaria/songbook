@@ -1,5 +1,6 @@
 {title:I'm Your Captain}
 {subtitle:Grand Funk Railroad}
+{duration:10:13}
 {key:D}
 
 {c:Intro}

@@ -1,5 +1,6 @@
 {title:I've Just Seen a Face}
 {subtitle:Beatles}
+{duration:2:06}
 {key:G}
 
 [G]I've just seen a face I can't forget 

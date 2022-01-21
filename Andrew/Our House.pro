@@ -1,5 +1,6 @@
 {title:Our House}
 {subtitle:Crosby, Stills and Nash}
+{duration:3:00}
 {key:A}
 
 [A]I'll light the [Amaj7]fire

@@ -1,5 +1,6 @@
 {title:Show Me the Way}
 {subtitle:Peter Frampton}
+{duration:4:37}
 {metronome:113}
 
 {tempo:132}

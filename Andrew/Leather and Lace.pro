@@ -1,5 +1,6 @@
 {title:Leather and Lace}
 {subtitle:Stevie Nicks}
+{duration:3:58}
 {key:D}
 
 Is love so fragile... 

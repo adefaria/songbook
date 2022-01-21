@@ -1,5 +1,6 @@
 {title:Can't Find My Way Home}
 {subtitle:Blind Faith}
+{duration:3:19}
 {key:D}
 
 Come [D/C]down off your [G/B]throne and [Gm]leave your body [D/A]alone

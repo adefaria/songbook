@@ -1,5 +1,6 @@
 {title:I'll Melt With You}
 {subtitle:Modern English}
+{duration:3:48}
 {key:C}
 
 [C] [F] 2x

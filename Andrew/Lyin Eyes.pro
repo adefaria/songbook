@@ -1,5 +1,6 @@
 {title:Lyin' Eyes}
 {subtitle:Eagles}
+{duration:6:32}
 {key:G}
 
 {c:Intro}

@@ -1,5 +1,6 @@
 {title:Suspicous Minds}
 {subtitle:Elvis Presley}
+{duration:4:34}
 {key:G}
 
 {c:Intro}

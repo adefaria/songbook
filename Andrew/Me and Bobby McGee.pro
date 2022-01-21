@@ -1,6 +1,7 @@
-Me and Bobby McGee
-Janis Joplin
-Key: A
+{title:Me and Bobby McGee}
+{subtitle:Janis Joplin}
+{duration:4:32}
+{key:A}
 
 Intro:
 [A]      [D]       [A]       [D]

@@ -1,5 +1,6 @@
 {title:Santa Monica}
 {subtitle:Everclear}
+{duration:3:13}
 {key:G}
 
 [G] [Em] [G] 3x

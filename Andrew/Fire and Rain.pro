@@ -1,5 +1,6 @@
 {title:Fire and Rain}
 {subtitle:James Taylor}
+{duration:3:25}
 
 
 [A] [G] [D] [A] [E] [G]

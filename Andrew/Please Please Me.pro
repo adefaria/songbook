@@ -1,5 +1,7 @@
 {title:Please Please Me}
 {subtitle:Beatles}
+{duration:2:01}
+{key:E}
 
 [E]Last night I said these words to [A]my [E]girl [G] [A] [B]
 [E]I know you never even [A]try, [E]girl

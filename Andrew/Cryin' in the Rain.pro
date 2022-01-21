@@ -1,5 +1,6 @@
 {title:Cryin' in the Rain}
 {subtitle:Cast of Shadows}
+{duration:4:30}
 {key:G}
 
 [G] [D]

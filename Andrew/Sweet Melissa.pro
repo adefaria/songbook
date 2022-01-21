@@ -1,5 +1,6 @@
 {title:Sweet Melissa}
 {subtitle:Allman Brothers}
+{duration:3:34}
 {key:E}
 
 [E] [F#m] [G#m] [F#m]

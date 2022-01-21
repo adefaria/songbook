@@ -1,5 +1,6 @@
 {title:Here Today}
 {subtitle:Paul McCartney}
+{duration:2:30}
 {key:C}
 
 [A7add2] [Cmaj7]

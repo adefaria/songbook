@@ -1,5 +1,6 @@
 {title:Don't Let Me Down}
 {subtitle:Beatles}
+{duration:4:09}
 {key:F#m}
 
 [E]

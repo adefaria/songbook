@@ -1,5 +1,6 @@
 {title:Turn the Page}
 {subtitle:Bob Seger}
+{duration:5:04}
 {key:Em}
 
 [Em]

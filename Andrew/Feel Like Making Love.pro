@@ -1,5 +1,6 @@
 {title:Feel Like Making Love}
 {subtitle:Bad Company}
+{duration:5:14}
 {key:D}
 
 {c: Intro: Acoustic strum}

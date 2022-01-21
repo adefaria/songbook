@@ -1,5 +1,6 @@
 {title:Best of My Love}
 {subtitle:Eagles}
+{duration:4:35}
 {key:C}
 
 [Cmaj7] [C] [Cmaj7] [C]

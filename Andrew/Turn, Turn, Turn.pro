@@ -1,5 +1,6 @@
 {title:Turn, Turn, Turn}
 {subtitle:Pete Seeger}
+{duration:3:57}
 
 {c:Chorus}
 

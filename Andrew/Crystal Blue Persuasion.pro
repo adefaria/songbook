@@ -1,5 +1,7 @@
 {title:Crystal Blue Persuasion}
-{subtitle:Tommy James and the Shondells}\
+{subtitle:Tommy James and the Shondells}
+{duration:4:08}
+{key:G}
 
 [Gmaj7]  [Am7] 3x
 
