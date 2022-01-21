@@ -1,6 +1,7 @@
 {title:Brandy}
 {subtitle:Looking Glass}
-{time:3:14}
+{duratino:3:09}
+{key:E}
 
 [C#m] [A] [C#m] [A] [E] [B] [A] [E] [F#m] [B]
 

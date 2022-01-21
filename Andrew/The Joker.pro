@@ -1,5 +1,6 @@
 {title:The Joker}
 {subtitle:Steve Miller}
+{duration:3:38}
 {key:G}
 
 [G]Some [C]people call me the space c[D]owboy, yeah[C][G]

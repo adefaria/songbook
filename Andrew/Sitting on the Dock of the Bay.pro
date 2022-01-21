@@ -1,5 +1,6 @@
 {title:Sitting on the Dock of the Bay}
 {subtitle:Otis Redding}
+{duration:2:47}
 {key:G}
 
 [G]Sitting in the morning [B7]sun

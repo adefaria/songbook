@@ -1,5 +1,6 @@
 {title:You Don't Wanna Get You One of Those}
 {subtitle:Mark Knofler}
+{duration:2:48}
 
 That old car would like to break your heart
 But she too far gone, to even start

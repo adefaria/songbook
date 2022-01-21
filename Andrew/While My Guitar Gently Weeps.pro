@@ -1,7 +1,7 @@
 {title:While My Guitar Gently Weeps}
 {subtitle:Beatles}
-{key:Am}
 {duration:4:45}
+{key:Am}
 
 [Am] [Am/G] [D7/F#] [F] [G] [Am] [G] [D] [E]
 [Am] [Am/G] [D7/F#] [F] [G] [Am] [G] [C] [E7]

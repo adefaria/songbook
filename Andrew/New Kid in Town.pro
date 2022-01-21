@@ -1,5 +1,6 @@
 {title:New Kid in Town}
 {subtitle:Eagles}
+{duration:5:05}
 {key:E}
 
 [E][B][A][B7][E][A][E]

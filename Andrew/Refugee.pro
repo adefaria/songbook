@@ -1,5 +1,6 @@
 {title:Refugee}
 {subtitle:Tom Petty}
+{duration:3:20}
 {key:F#m}
 
 [F#m] [A] [E]

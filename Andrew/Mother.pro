@@ -1,5 +1,6 @@
 {title:Mother}
 {subtitle:Pink Floyd}
+{duration:5:35}
 {key:G}
 	
 [G]Mother do you think they'll drop the [C] bomb? [G]

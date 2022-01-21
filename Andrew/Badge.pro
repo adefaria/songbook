@@ -1,5 +1,7 @@
 {title:Badge}
 {subtitle:Cream}
+{duration:2:45}
+{key:Am}
 
 [Am] [D] 2x 
 

@@ -1,5 +1,6 @@
 {title:Swingtown}
 {subtitle:Steve Miller}
+{duration:3:29}
 {key:A}
 
 [A] [D] [E]

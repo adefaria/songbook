@@ -1,5 +1,6 @@
 {title:Talk to You Later}
 {subtitle:The Tubes}
+{duration:4:32}
 {key:E}
 
 {c:Intro}

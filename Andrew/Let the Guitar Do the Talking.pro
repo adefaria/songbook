@@ -1,5 +1,6 @@
 {title:Let the Guitar Do the Talking}
 {subtitle:Joe Robinson}
+{duration:3:40}
 {key:Am}
 
 [Am/E] [Am/C] [Dm/A] [E7]

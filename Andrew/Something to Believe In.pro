@@ -1,5 +1,6 @@
 {title:Something to Believe In}
 {subtitle:Poison}
+{duration:5:28}
 {key:D}
 
 Well I see him on the TV

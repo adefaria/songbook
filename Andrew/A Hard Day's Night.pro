@@ -1,6 +1,7 @@
 {title:A Hard Day's Night}
 {subtitle:Beatles}
-{Key:G}
+{duration:2:33}
+{key:G}
 
 [Fadd2]
 

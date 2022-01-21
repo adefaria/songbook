@@ -1,5 +1,6 @@
 {title:Ohio}
 {subtitle:Neil Young}
+{duration:3:04}
 {key:Dm}
 
 [Dm]Tin soldiers and [F]Nixon's [C]coming,  -  [Dm]we're finally [F]on our [C]own

@@ -1,5 +1,7 @@
 {title:Lady Madonna}
 {subtitle:Beatles}
+{duration:2:17}
+{key:A}
 
 {c:Intro}
 

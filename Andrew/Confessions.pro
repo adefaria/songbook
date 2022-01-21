@@ -1,5 +1,6 @@
 {title:Confessions}
 {subtitle:Tim Minchin}
+{duration:6:08}
 {key:A}
 
 [D] [E] [C#m] [F#m] [Bm] [A]

@@ -1,5 +1,6 @@
 {title:Every Rose Has Its Thorn}
 {subtitle:Poison}
+{duration:4:44}
 {key:G}
 
 {c:Intro}

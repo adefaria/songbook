@@ -1,5 +1,6 @@
 {title:Folsom Prison Blues}
 {subtitle:Johnny Cash}
+{duration:2:43}
 {key:E}
 
 When [E]I was just a baby, my mama told me, "Son

@@ -1,5 +1,7 @@
 {title:I'll Cry Instead}
 {subtitle:Beatles}
+{duration:1:46}
+{key:C}
 
 [G] [C] 4x
 

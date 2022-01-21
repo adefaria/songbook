@@ -1,5 +1,6 @@
 {title:You Got a Friend}
 {subtitle:James Taylor}
+{duration:4:27}
 {key:G}
 
 {c:Intro}

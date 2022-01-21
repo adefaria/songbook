@@ -1,6 +1,7 @@
 {title:Nowhere Man}
 {subtitle:Beatles}
-{Key:E}
+{duration:2:44}
+{key:E}
 
 He's a real nowhere man
 Sitting in his nowhere land

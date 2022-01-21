@@ -1,5 +1,6 @@
 {title:Blackbird}
 {subtitle:Beatles}
+{duration:2:19}
 {metronome:92}
 
 Blackbird singing in the dead of night

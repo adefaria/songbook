@@ -1,5 +1,6 @@
 {title:Your Love is Driving Me Crazy}
 {subtitle:Sammy Hagar}
+{duration:3:32}
 {key:E}
 
 [A] [B/A] [A] [A] [B/A] [A] [B] 2x

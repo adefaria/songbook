@@ -1,6 +1,7 @@
 {title:Taking Care of Business}
 {subtitle:Bachman Turner Overdrive}
-{Key: B}
+{duration:4:57}
+{key:B}
 
 {c:Intro}
 

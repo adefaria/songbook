@@ -1,6 +1,7 @@
 {title:Seven Bridges Road}
 {subtitle:Eagles}
-{Key:D}
+{duration:3:14}
+{key:D}
 
 {c:Acapello}
 

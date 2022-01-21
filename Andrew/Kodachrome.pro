@@ -1,6 +1,7 @@
 {title:Kodachrome}
 {subtitle:Paul Simon}
-{musicpath:/storage/emulated/0/Music/Kodachrome.mp3}
+{duration:3:37}
+{key:E}
 
 When I think [E]back
 On all the crap I learned in [A]high school
@@ -39,3 +40,4 @@ Leave your boy so far from home
 Mama don't take my Kodachrome away
 Mama don't take my Kodachrome
 Mama don't take my Kodachrome away
+{musicpath:/storage/emulated/0/Music/Kodachrome.mp3}

@@ -1,5 +1,6 @@
 {title:Margaritaville}
 {subtitle:Jimmy Buffett}
+{duration:4:09}
 {key:D}
 
 [D]

@@ -1,5 +1,7 @@
 {title:Two of Us}
 {subtitle:Beatles}
+{duration:3:37}
+{key:G}
 
 {c:Intro}
 

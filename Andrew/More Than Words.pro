@@ -1,5 +1,6 @@
 {title:More Than Words}
 {subtitle:Extreme}
+{duration:4:16}
 {key:G}
 
 [G] [G/B] [Cadd2] [Am] [C] [D] [G] 2X

@@ -1,5 +1,7 @@
 {title:One After 909}
 {subtitle:Beatles}
+{duration:2:54}
+{key:B}
 
 [B7]
 

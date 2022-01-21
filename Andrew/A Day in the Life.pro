@@ -1,5 +1,6 @@
 {title:A Day in the Life}
 {subtitle:Beatles}
+{duration:5:13}
 
 [G] [Bm] [Em] [Em7] [C]
 

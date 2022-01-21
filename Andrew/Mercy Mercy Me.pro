@@ -1,5 +1,6 @@
 {title:Mercy Mercy Me}
 {subtitle:Marvin Gaye}
+{duration:3:17}
 {key:E}
 
 [Bbsus4] [Bsus4]

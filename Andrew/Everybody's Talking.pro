@@ -1,5 +1,6 @@
 {title:Everybody's Talking}
 {subtitle:Harry Nielson}
+{duration:2:46}
 {key:E}
 {tuning:D A D G B E}
 

@@ -1,6 +1,7 @@
 {title:Moondance}
 {subtitle:Van Morrison}
-{key:Gm}
+{duration:4:35}
+{key:Am}
 
 [Am7]  [Bm7]
 

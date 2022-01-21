@@ -1,5 +1,6 @@
 {title:Different Devil}
 {subtitle:Chickenfoot}
+{duration:4:21}
 {metronome:120}
 {key:C}
 

@@ -1,5 +1,6 @@
 {title:Never Going Back Again}
 {subtitle:Fleetwood Mac}
+{duration:2:17}
 
 She broke down and let me in
 Made me see where I've been

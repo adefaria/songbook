@@ -1,5 +1,6 @@
 {title:Keep On Rocking}
 {subtitle:Steve Miller}
+{duration:3:09}
 {key:A}
 
 [A]

@@ -1,6 +1,7 @@
 {title:Tuesday Afternoon}
 {subtitle:Moody Blues}
-{Key: Am}
+{duration:4:57}
+{key:Am}
 
 [F]Tuesday afternoon,
 [C]I'm just beg[Bb]inning to see, [Am]now I'm on my [D]way

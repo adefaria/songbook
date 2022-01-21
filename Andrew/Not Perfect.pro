@@ -1,5 +1,6 @@
 {title:Not Perfect}
 {subtitle:Tim Minchin}
+{duration:6:54}
 {key:A}
 
 [A]This is my Earth, and I [E]live in it

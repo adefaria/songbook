@@ -1,6 +1,7 @@
 {title:If I Fell}
 {subtitle:Beatles}
-{key: C}
+{duration:2:20}
+{key:C}
 
 If I [C#m]fell in love with you
 Would you [C]promise to be true

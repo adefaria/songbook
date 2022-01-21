@@ -1,5 +1,6 @@
 {title:Autumn Leaves}
 {subtitle:Eva Cassidy}
+{duration:4:56}
 
 [a] [b] [c] [Dm7] [G] [C] [Am] [G6] [F7] [E7] [Am]
 

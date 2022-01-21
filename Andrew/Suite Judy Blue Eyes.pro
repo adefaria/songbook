@@ -1,5 +1,6 @@
 {title:Suite Judy Blue Eyes}
 {subtitle:Crosby, Stills and Nash}
+{duration:7:26}
 {key:D}
 {tuning:D A D D A D}
 

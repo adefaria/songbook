@@ -1,5 +1,7 @@
 {title:Maggie May}
 {subtitle:Rod Stewart}
+{duration:5:46}
+{key:A}
 
 [A]Wake up maggie I [G]think I got something to [D]say to you
 It's [A]late September and I [G]really should be [D]back at school

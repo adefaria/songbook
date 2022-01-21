@@ -1,5 +1,6 @@
 {title:Ruby Tuesday}
 {subtitle:The Rolling Stones}
+{duration:3:20}
 
 She[Am] would nev[G]er sa[F]y where sh[G]e came fr[C]om
 Ye[Am]sterda[G]y don't [F]matter [C]if it's gon[G]e

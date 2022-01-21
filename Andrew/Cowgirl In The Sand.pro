@@ -1,5 +1,6 @@
 {title:Cowgirl In The Sand}
 {subtitle:Neil Young}
+{duration:10:07}
 {key:Am}
 
 [intro  Am  F]

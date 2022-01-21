@@ -1,5 +1,6 @@
 {title:Rain Song}
 {subtitle:Led Zeppelin}
+{duration:7:33}
 {key:G}
 {tuning:D G C G C D}
 

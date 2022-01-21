@@ -1,5 +1,6 @@
 {title:Listen to the Music}
 {subtitle:Doobie Brothers}
+{duration:3:48}
 {key:E}
 
 [E] [A]

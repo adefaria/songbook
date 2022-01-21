@@ -1,5 +1,6 @@
 {title:Oh! Darling}
 {subtitle:Beatles}
+{duration:3:28}
 {key:G}
 
 [Daug]

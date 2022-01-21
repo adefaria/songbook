@@ -1,5 +1,6 @@
 {title:Piano Man}
 {subtitle:Billy Joel}
+{duration:5:42}
 {key:C}
 
 {c:Intro}

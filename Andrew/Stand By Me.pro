@@ -1,5 +1,6 @@
 {title:Stand By Me}
 {subtitle:John Lennon}
+{duration:2:58}
 
 When the [D]night has come
 And the [Bm]land is dark

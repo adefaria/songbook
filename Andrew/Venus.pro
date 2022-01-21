@@ -1,5 +1,6 @@
 {title:Venus}
 {subtitle:Shocking Blue}
+{duration:3:04}
 {key:Em}
 
 [B7sus4]

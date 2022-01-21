@@ -1,5 +1,6 @@
 {title:Breakdown}
 {subtitle:Tom Petty}
+{duration:2:44}
 {key:Am}
 
 [Am]It's all [G]right if you love me[Am] [G]

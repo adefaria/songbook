@@ -1,5 +1,7 @@
 {title:End of the Line}
 {subtitle:Traveling Wilburys}
+{duration:3:26}
+{key:D}
 
 [G] [D] [G] [A] [D] [G] [A] [D] [A7] [D]
 

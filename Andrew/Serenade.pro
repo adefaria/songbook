@@ -1,5 +1,7 @@
 {title:Serenade}
 {subtitle:Steve Miller}
+{duration:3:14}
+{key:Am}
 
 [Am] [F] [G] [Am] (X2)
 

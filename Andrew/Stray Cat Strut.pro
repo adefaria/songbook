@@ -1,5 +1,6 @@
 {title:Stray Cat Strut}
 {subtitle:Stray Cats}
+{duration:3:21}
 {key:Cm}
 
 {c:Bass}

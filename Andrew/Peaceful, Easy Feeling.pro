@@ -1,5 +1,6 @@
 {title:Peaceful, Easy Feeling}
 {subtitle:Eagles}
+{duration:4:18}
 {key:E}
 
 [E] [Esus4]

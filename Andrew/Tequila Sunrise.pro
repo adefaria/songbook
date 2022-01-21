@@ -1,5 +1,7 @@
 {title:Tequila Sunrise}
 {subtitle:Eagles}
+{duration:2:54}
+{key:G}
 
 [G]It's an[G6]other [G]tequila [G6]sunrise
 [D]Starin' slowly 'cross the [Am]sky

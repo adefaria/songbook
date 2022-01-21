@@ -1,5 +1,7 @@
 {title:Tell Me Why}
 {subtitle:Beatles}
+{duration:2:09}
+{key:D}
 
 [Em7] [A] 4x
 

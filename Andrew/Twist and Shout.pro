@@ -1,5 +1,6 @@
 {title:Twist and Shout}
 {subtitle:Beatles}
+{duration:2:36}
 {key:A}
 
 [A]Well shake it[D] up baby[G] now ([A]shake it [D]up baby[G]),

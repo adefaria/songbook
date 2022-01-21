@@ -1,6 +1,7 @@
 {title:Wish You Were Here}
 {subtitle:Pink Floyd}
-{Key:G}
+{duration:4:54}
+{key:G}
 
 {c:Intro}
 

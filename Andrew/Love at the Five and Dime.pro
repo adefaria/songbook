@@ -1,4 +1,6 @@
-{title:Love at the Five and Dime}{subtitle:Nanci Griffith}
+{title:Love at the Five and Dime}
+{subtitle:Nanci Griffith}
+{duration:6:32}
 {key:C}
 
 

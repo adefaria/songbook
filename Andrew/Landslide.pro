@@ -1,6 +1,6 @@
 {title:Landslide}
 {subtitle:Fleetwood Mac}
-{musicpath:/storage/emulated/0/Music/Landslide.mp3}
+{duration:3:20}
 
 [C] [G/B] [Am] [G/B]
 

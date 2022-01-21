@@ -1,5 +1,6 @@
 {title:Love Her Madly}
 {subtitle:Doors}
+{duration:3:41}
 {key:Am}
 
 [Am]Don't you love her madly?

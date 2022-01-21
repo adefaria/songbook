@@ -1,5 +1,7 @@
 {title:If I Ever Lose My Faith In You}
 {subtitle:Sting}
+{duration:4:26}
+{key:A}
 
 {define: Am*    base-fret 0 frets x 0 2 5 5 5 fingers x 0 1 4 4 4}
 {chord: A*     base-fret 0 frets x 0 2 2 2 5 fingers x 0 1 1 1 4}

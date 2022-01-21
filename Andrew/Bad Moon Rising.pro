@@ -1,5 +1,7 @@
 {title:Bad Moon Rising}
 {subtitle:John Fogerty}
+{duration:2:20}
+{key:D}
 
 [D]I see a [A]bad m[G]oon [D]rising
 [D]I see [A]trouble [G]on the [D]way

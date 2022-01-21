@@ -1,5 +1,7 @@
 {title:Love Potion #9}
 {subtitle:The Searchers}
+{duration:2:07}
+{key:Am}
 
 [Am]I took my troubles down to [Dm]Madame Ruth
 [Am]You know that gypsy with the [Dm]gold-capped tooth

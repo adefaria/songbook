@@ -1,5 +1,6 @@
 {title:Alone Again (Naturally)}
 {subtitle:Gilbert O'Sullivan}
+{duration:3:35}
 
 {key:E}
 

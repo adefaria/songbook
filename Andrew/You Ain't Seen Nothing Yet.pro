@@ -1,5 +1,6 @@
 {title:You Ain't Seen Nothing Yet}
 {subtitle:Bachman Turner Overdrive}
+{duration:3:45}
 
 {c:Intro}
 

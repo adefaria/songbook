@@ -1,5 +1,7 @@
 {title:I'll Be Back}
 {subtitle:Beatles}
+{duration:2:25}
+{key:Am}
 
 [A]
 

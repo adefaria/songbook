@@ -1,5 +1,6 @@
 {title:When Will I Be Loved}
 {subtitle:Linda Ronstadt}
+{duration:2:05}
 
 [E]I've been cheated
 Been mistreated

@@ -1,5 +1,6 @@
 {title:Southern Cross}
 {subtitle:Crosby, Stills and Nash}
+{duration:4:41}
 {key:A}
 
 [A]  [G]  [D] 2X

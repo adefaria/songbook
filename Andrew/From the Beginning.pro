@@ -1,5 +1,6 @@
 {title:From the Beginning}
 {subtitle:Emerson, Lake and Palmer}
+{duration:4:17}
 {key:Am}
 
 There might have been things I missed

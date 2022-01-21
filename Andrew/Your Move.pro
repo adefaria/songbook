@@ -1,5 +1,6 @@
 {title:Your Move}
 {subtitle:Yes}
+{duration:2:56}
 {key:E}
 
 [E]Take a straight and [F#m]stronger course

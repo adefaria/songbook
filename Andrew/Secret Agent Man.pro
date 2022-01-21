@@ -1,5 +1,7 @@
 {title:Secret Agent Man}
 {subtitle:Johnny Rivers}
+{duration:3:10}
+{key:Em}
 
 {c:Intro x 3}
 

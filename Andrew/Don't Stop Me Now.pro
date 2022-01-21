@@ -1,5 +1,7 @@
 {title:Don't Stop Me Now}
 {subtitle:Queen}
+{duration:3:33}
+{key:D}
 {zoom-android-A1046:0.91306025}
 
 Ton[D]ight, I'm gonna have my[F#M]self a real go[Bm]od time

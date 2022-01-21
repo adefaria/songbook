@@ -1,5 +1,6 @@
 {title:Bring it on Home}
 {subtitle:Sam Cooke}
+{duration:2:46}
 {key:C}
 
 [C] [G] [F] [G] [C] [F] [C] [G]

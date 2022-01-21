@@ -1,5 +1,6 @@
 {title:Down by the River}
 {subtitle:Neil Young}
+{duration:9;19}
 {key:Em}
 
 [Em7] [A]

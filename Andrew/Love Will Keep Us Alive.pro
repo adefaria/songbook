@@ -1,5 +1,6 @@
 {title:Love Will Keep Us Alive}
 {subtitle:Eagles}
+{duration:5:05}
 {key:A}
 
 [Aadd2] [F#msus4] [Dadd2] [Esus4] [E] 2x

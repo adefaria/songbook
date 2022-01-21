@@ -1,5 +1,6 @@
 {title:Bartender Blues}
 {subtitle:James Taylor}
+{duration:4:12}
 {key:A}
 
 [A] 

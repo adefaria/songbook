@@ -1,6 +1,7 @@
 {title:I'm a Believer}
 {subtitle:The Monkees}
-{Key: G}
+{duration:2:46}
+{key:G}
 
 [G7] [C] [G]
           [c] [d] [f] [c] [d] [f]

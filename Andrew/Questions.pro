@@ -1,6 +1,7 @@
 {title:Questions}
 {subtitle:Moody Blues}
-{Key:C}
+{duration:5:20}
+{key:C}
 
 [Eb][Dm][C] 3x
 

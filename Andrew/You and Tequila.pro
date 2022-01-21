@@ -1,5 +1,6 @@
 {title:You and Tequila}
 {subtitle:Kenny Chesney}
+{duration:4:06}
 {key:G}
 
 [G] [Cadd2]

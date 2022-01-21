@@ -1,5 +1,6 @@
 {title:Sweet Caroline}
 {subtitle:Neil Diamond}
+{duration:3:24}
 {key:A}
 
 {c:Intro}

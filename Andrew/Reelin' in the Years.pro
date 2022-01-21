@@ -1,5 +1,6 @@
 {title:Reelin' in the Years}
 {subtitle:Steely Dan}
+{duration:4:42}
 {key:A}
 
 [G] [A]

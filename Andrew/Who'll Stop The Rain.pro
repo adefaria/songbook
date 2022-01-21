@@ -1,5 +1,6 @@
 {title:Who'll Stop The Rain}
 {subtitle:Creedence Clearwater Revival}
+{duration:2:31}
 {key:G}
 
 [intro. G. Em 2x]

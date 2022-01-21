@@ -1,5 +1,6 @@
 {title:Hold On}
 {subtitle:Kansas}
+{duration:3:50}
 {key:Em}
 
 [Am][Em][C][G][D][F][G] [2x]

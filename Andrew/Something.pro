@@ -1,5 +1,6 @@
 {title:Something}
 {subtitle:Beatles}
+{duration:3:08}
 {key:C}
 
 {c:Intro}

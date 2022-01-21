@@ -1,5 +1,6 @@
 {title:Kashmir}
 {subtitle:Led Zeppelin}
+{duration:8:38}
 {key:D}
 {tuning:D A D G A D}
 

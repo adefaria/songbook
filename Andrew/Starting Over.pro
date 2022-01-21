@@ -1,5 +1,6 @@
 {title:Starting Over}
 {subtitle:John Lennon}
+{duration:3:56}
 {key:A}
 
 Our [A]life [Aaug]together

@@ -1,5 +1,6 @@
 {title:Everybody Wants to Rule the World}
 {subtitle:Tears For Fears}
+{duration:4:51}
 {key:D}
 
 [D]

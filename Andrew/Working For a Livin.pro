@@ -1,5 +1,6 @@
 {title:Working For a Livin}
 {subtitle:Huey Lewis and The News}
+{duration:2:38}
 {key:A}
 {metronome:160}
 (cross harp is key of D) 

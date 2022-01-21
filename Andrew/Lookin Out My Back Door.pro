@@ -1,6 +1,6 @@
 {title:Lookin Out My Back Door}
 {subtitle:Creedence Clearwater Revival}
-
+{duration:2:25}
 {key:A}
 
 {c:Intro}

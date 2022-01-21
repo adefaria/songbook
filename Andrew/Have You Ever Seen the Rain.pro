@@ -1,8 +1,8 @@
 {title:Have You Ever Seen the Rain}
 {subtitle:Creedence Clearwater Revival}
+{duration:2:41}
 {key:C}
 {tempo:120}
-{duration:2:41}
 
 [C]Someone told me long ago,  there's a calm before the storm,  
 I know[G]       and its been coming [C]for some time.  

@@ -1,5 +1,6 @@
 {title:All Summer Long}
 {subtitle:Kid Rock}
+{duration:3:49}
 
 [D] [C] [G]
 

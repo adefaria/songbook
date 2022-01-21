@@ -1,5 +1,7 @@
 {title:It Won't Be Long}
 {subtitle:Beatles}
+{duration:2:14}
+{key:E}
 
 It won't be long [C#m]yeah (yeah), yeah (yeah), yeah (yeah)
 It won't be long [E]yeah (yeah), yeah (yeah), yeah (yeah)
