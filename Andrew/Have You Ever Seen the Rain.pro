@@ -3,7 +3,7 @@
 {duration:2:41}
 {key:C}
 {tempo:120}
-
+[Am] [F] [C]
 [C]Someone told me long ago,  there's a calm before the storm,  
 I know[G]       and its been coming [C]for some time.  
 [C]When its over so they say    it'll rain a sunny day,  
