@@ -1,6 +1,6 @@
 {title:Oh Bla Di Ob La Da}
 {subtitle:Beatles}
-{zoom-ipad:1.013076}
+{zoom-ipad:1.043076}
 {metronome:113}
 {c:113 BPM}
 

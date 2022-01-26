@@ -11,8 +11,7 @@ All the wild nights breeze through your mind.
 
 And every thing looks so complete, When you're walking out on the streets
 And the wind, catches your feet, and sends you flying, crying.
-**Ooh, ohh wee, the wild night, is calling.   ALRIGHT
-**Ooh, ohh wee, The willd night, is calling.
+**Ooh, ohh wee, the wild night, is calling.  ALRIGHT
 
 All the girls walk by, dressed up for each other.
 And the, boys do the boogie woogie, On the corner, of the street.
@@ -21,8 +20,8 @@ And inside the jukebox roars, just like thunder.
 
 And ever thing looks so complete, When you're walking out on the streets
 And the wind, catches your feet, and sends you flying, crying.
-**Ooh, ohh wee, the wild night, is calling.     ALRIGHT
-**Ooh, ohh wee, The wild night, is calling.    ALRIGHT
+**Ooh, ohh wee, the wild night, is calling.  ALRIGHT
+
 The Wiiiilllld night is calling
 The Wiiiilllld night is calling
 Come on out and dance.
@@ -30,9 +29,9 @@ Whoa, come on out and make romance.    Yes indeed.
 Come on out and dance. 
 Come on out, make romance.
 
- 2 Measure Solo ??
+Solo
 
-The Wiiiilllld night is calling.    Alright
+The Wiiiilllld night is calling.  Alright
 The Wiiiilllld night is calling.
 Come on out and dance.
 Whoa, come on out and make romance.
