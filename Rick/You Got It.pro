@@ -2,9 +2,8 @@
 {subtitle:Roy Orbison}
 {metronome:115}
 {c:115 BPM}
-{capo:1}
 {time: 4:29}
-{zoom-ipad:1.010000}
+{zoom-ipad:0.990000}
 [A][G][D][A]        [G][D] 2x
 [A]Every time I look in[G]to your [D]lovely [A]eyes. [G] [D]
 [A]I can see a love that [G]money [D]just can't [E]buy. [G]

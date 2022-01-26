@@ -15,7 +15,7 @@ I know they’d [D]never match my [D7]sweet imagina[G]tion. [Em][A]And everythin
 **Chorus
 Mama don't [G]take my [Bm]Kodachrome a[Em]way. 3X
 
-Mamadon't[G]takemy[Bm]Kodachrome 3 and 1X
+Mamadon't[G]takemy[Bm]Kodachrome. 2X
 Leave your boy so far from home.
 Mama don't [G]take my [Bm]Kodachrome Ooo, wee
 Okay..

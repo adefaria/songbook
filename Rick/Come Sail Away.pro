@@ -14,7 +14,7 @@
 [Am]But somehow we missed out [G]on that pot of gold
 [C]But we'll try [Cmaj7]best that we [Am]can to[F] [G]carry on. [C]
 
-[C]             [F]             [G]          [F]
+[C][F][G][F]
 
 [C]A gathering of [F]angels [G]appeared above my [F]head
 They [C]sang to me this [F]song of hope, and [G]this is what they [F]said
