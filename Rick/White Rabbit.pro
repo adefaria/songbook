@@ -19,3 +19,4 @@ and the red qu[G]een's off with her head
 Re[A]member [C]  what the [D]Dormouse s[A]aid
 
 [E]Feed your [A]head! Fe[E]ed your he[A]ad!
+{musicpath:/storage/emulated/0/Music/White Rabbit.mp3}

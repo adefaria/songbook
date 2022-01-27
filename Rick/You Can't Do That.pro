@@ -26,4 +26,4 @@ Solo and background vocals
 So [G]please listen to me, if you want to stay [G7]mine,
 I [G]can't help my feelings, I go out of[G7] my mind!
 I'm gonna [C]let you [C7]down (Let you down) and leave you [G]flat. (Gonna let you down and leave you flat).
-Because I [D]told you [D7]before, [C]Oh, you [C7]can't do [G]tha[D]t. *3X
+Because I [D]told you [D7]before, [C]Oh, you [C7]can't do [G]tha[D]t. *3X{musicpath:/storage/emulated/0/Music/You Can't Do That.mp3}

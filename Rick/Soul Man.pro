@@ -28,3 +28,4 @@ Talking about a soul man!
 
 Ha!
 
+{musicpath:/storage/emulated/0/Music/Soul Man.mp3}

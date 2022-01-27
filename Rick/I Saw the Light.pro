@@ -23,3 +23,4 @@ Solo over verse [Dm7] [G] [Dm7] [G] [Dm7] [G] [C] [C]
 But I [Dm7]love you [G]best. It's not [Dm7]something that I say in [G]jest.
 'Cause you're [Dm7]different girl from all the [G]rest, in my e[Cmaj7]yyeeyes. [C7]
 And [Fmaj7]I ran out b[Em7]efore but I [Am]won't do it an[D7]ymore. Can't you [Dm7]see the [G]light. [Cmaj7]In my [Dm7]eyes. 4X   End on a capella. [Cmaj7]
+{musicpath:/storage/emulated/0/Music/I Saw the Light.mp3}
