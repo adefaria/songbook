@@ -22,7 +22,7 @@ You check out Gu[Dm]itar George. [C]He knows [Bb]all the cho[A]rds.
 [F]Just an old guitar is [C]all he can afford. [Bb][Dm][Bb][C]When he gets up under the lights to play his thing. 
 [Dm]And Harry doesn't m[C]ind if [Bb]he doesn't [A]make the scene. 
 [Dm]He's got a [C]daytime j[Bb]ob. He's doing all r[A]ight. 
-[F]He can play the honky tonk li[C]ke anything. [Bb][Dm][Bb][C]But he's saving it up, for friday night. [Bb][C]With the sultans. [Dm][C][Bb][C]With the sultans of swing. [Dm][C][Bb][C]
+[F]He can play the honky tonk li[C]ke anything. [Bb][Dm][Bb][C]But he's saving it up, for Friday night. [Bb][C]With the sultans. [Dm][C][Bb][C]With the sultans of swing. [Dm][C][Bb][C]
 
 In a cr[Dm]owded young bar as they're fo[C]oling around [Bb]in the corner. [A][Dm]Drunk and dressed in their best brown [C]baggies and their [Bb]platform sol[A]es. 
 [F]They don't give a damn 'bout any [C]trumpet playing band. [Bb][Dm][Bb][C]It ain't what they call, rock and roll. [Bb][C]

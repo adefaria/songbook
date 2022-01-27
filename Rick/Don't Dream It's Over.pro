@@ -24,6 +24,8 @@ while you're [E]travelling with me.
 
 [Csus2][Asus2][F][E]
 [F][C][F][C][F][C][Bb][Bb]
+
+**Chorus
 [Csus2]Now I'm walking again [Asus2]to the beat of a drum.
 [F]And I'm counting the steps to the [E]door of your heart
 [Csus2]Only the shadows ahead  [Asus2]barely clearing the roof.

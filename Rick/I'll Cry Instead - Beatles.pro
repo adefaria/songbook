@@ -1,5 +1,6 @@
 {title:I'll Cry Instead}
 {subtitle:Beatles}
+{zoom-ipad: 1.130000}
 {duration:1:46}
 {key:C}
 [G][C] 4x
@@ -16,9 +17,11 @@ I'm g[D]onna hide myself away, hey! But I[E7]'ll come back [A7]again someday. An
 I'm gonna break their hearts all round the world. Yes, I'm gonna break ‘em in two. 
 I’ll show you what your lovin' man can do. Until then I'll cry instead. 
 
+Solo 
+
 Don't wanna cry when there's people there. I get shy when they start to stare. 
 I'm gonna hide myself away, hey. But I'll come back again someday. 
 And when I do you'd better hide all the girls
 'Cause I'm gonna break their hearts all round the world. 
 Yes, I'm gonna break ‘em in two. And show you what your lovin' man can do. 
-Until then I'll cry instead. 
+Until then I'll cry instead.  3X
