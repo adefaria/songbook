@@ -27,4 +27,4 @@ If it's [C]one of us I'm sure we both will [E]see. [E]Won't you look at me and t
 *Chorus 2X     Then Acapella      *Chorus
 
 I keep, [A](falling in and out of [G]love with [D]you. [A]Falling in and out of [G]love with [D]you.)
-[A]Don't know what I'm gunna [G]do. [D]I keep [A](falling in and out of [D]love with [Fmaj7]you.) [Gmaj7][Amaj7]
+[A]Don't know what I'm gunna [G]do. [D]I keep [A](falling in and out of [D]love with [Fmaj7]you.) [Gmaj7][Amaj7]{musicpath:/storage/emulated/0/Music/Amie.mp3}

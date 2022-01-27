@@ -28,3 +28,4 @@ And if I [Bm]shiver please [A]give me a [D]blanket. Keep me [Bm]warm let me [A]w
 [E] [Bm] [A] 2X        [B] [A] [G][D] 3X               [B] 4x
 
 [Em]No one knows what it's [G]like to be the [D]bad man. To be the [C]sad man be[Asus2]hind blue eyes.
+{musicpath:/storage/emulated/0/Music/Behind Blue Eyes.mp3}

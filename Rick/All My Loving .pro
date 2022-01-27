@@ -27,3 +27,4 @@ All my [C#m]loving, I will send to you. [E]
 All my [C#m]loving, darling I'll be [E]true.
 All my [C#m]loving, all my [E]loving.
 Ohh, ohh, All my [C#m]loving. I will send to y[E]ou.
+{musicpath:/storage/emulated/0/Music/All My Loving.mp3}

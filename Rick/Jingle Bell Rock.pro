@@ -40,3 +40,4 @@ Jingle ar	ound the 	clock
 [A#7]That[D#7]'s the 	jingle bell
 [A#7]With[D#7] old E	mmanuel
 [A#7]That[A#6]'s the jingle bell rock 	
+{musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}

@@ -34,4 +34,4 @@ He got *muddy water*, he one *mojo filter*
 He say, [A7]"*One and one and one is three*."
 [G7]*Got to be good looking 'cause he so hard to see*
 Come [Bm]together, right [G]now,[A] over me.
-Come together fade out yeah
+Come together fade out yeah{musicpath:/storage/emulated/0/Music/Come Together.mp3}

@@ -30,4 +30,4 @@ There'll be [Bb]peace and good, [Eb]brotherhood
 [Dm7]Dm7 [Cm]            Cm            Dm7 Cm
 Crystal blue persuasion, ah-ha  
 
-[Dm7]Crystal blue per[Cm]suasion, ah-ha[Dm7]   [Cm]
+[Dm7]Crystal blue per[Cm]suasion, ah-ha[Dm7]   [Cm]{musicpath:/storage/emulated/0/Music/Crystal Blue Persuasion.mp3}

@@ -23,4 +23,4 @@ This [Am]time I will [C]try to [G]show that [F]I'hm [E7]not trying to pre[A]tend
 [F#m]But I hate to [Bm]leave you.
 You know I hate to [E7]leave you. [D]oh [E]ho [D]oh [E]oh
 
-[Am]You, if you [C]break my [G]heart I'll [F]go bu[E7]t I'll be back aga[A]in.
+[Am]You, if you [C]break my [G]heart I'll [F]go bu[E7]t I'll be back aga[A]in.{musicpath:/storage/emulated/0/Music/I'll Be Back.mp3}
