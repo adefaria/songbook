@@ -29,4 +29,4 @@ Come on [C]ba[G]by, don't say [C]may[G]be. I gotta [Am]know if your sweet [C]lov
 Jam solo[****]
 
 Oh we got it [G][G7]ea[C]sy.
-We oughta take it [G]e[G7]a[C]sy. 4X  [Em] 
+We oughta take it [G]e[G7]a[C]sy. 2X  [Em] 

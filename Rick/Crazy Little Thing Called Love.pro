@@ -1,6 +1,6 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
-{zoom-ipad:0.897325}
+{zoom-ipad:0.877325}
 {metronome:152}
 {c:152 BPM}
 {ipodid: 9024644314861715998}
@@ -14,7 +14,7 @@ It [D]swings, (ooo, ooo) It jives. (ooo, ooo) It [G]shakes all over like a [C]je
 (I kinda [D]like it.) This [Bb]crazy little [C]thing called [D]love.
 
 There goes my [G]baby. She k[C]nows how to rock and [G]roll. She drives me cr[Bb]a*zy. 
-She gives me ho[E]t and cold fe*ver. Le[A]aves me in a cool, cool sweat.[D5] [E] [E] [A]
+She gives me ho[E]t and cold fe*ver. Le[A]aves me in a cool, cool sweat.[D5][E][E][A]
 
 I gotta be co[D]ol. Relax. Get [G]hip. Get on rig[C]ht tracks. [G]
 Take a ba[D]ck seat. Hitch-hike. N'Ta[G]ke a long ride on my m[C]otor bi[G]ke.
@@ -29,5 +29,7 @@ Take a (a-ohm) back seat. (a-ohm) Hitch-hike. (Oooooo)Take a long ride on my mot
 This [D]thing, called love. I [G]just can't [C]handle it. 
 This [D]thing,. called love. I [G]must. get [C]round to it.
 I ain't [D]ready. (Ooo, ooo, ooo) [Bb](Crazy little [C]thing called [D]love.)
-[Bb]Crazy little [C]thing called [D]love. (Yeah, yeah) [4X^^] It’s just a little thing called love
+[Bb]Crazy little [C]thing called [D]love. 4X (Yeah, yeah)
+It’s just a little thing called love. 
+This crazy little thing called love
 [Bb]3X [C]3X [D]

@@ -1,4 +1,5 @@
 {title:The Letter}
+{zoom-ipad: 1.040000}
 {metronome: 138}
 {c:138 BPM}
 {ipodid: 9024644314861715657}
