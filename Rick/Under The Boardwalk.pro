@@ -1,11 +1,6 @@
 {title:Under The Boardwalk}
 {metronome:124}
-{c:124 BPM}
-{zoom-ipad:0.923798}
 {key:G}
-
-{c:2 leads in this song. Starts with Bass and percussion. Then keys and guitar} 
-
 Oh when the s[G]un beats down and burns the tar upon the r[D]oof   
 And your shoes get so hot you wish your tired feet were fire p[G]roof
 Under the b[C]oardwalk, down by the [G]sea. 

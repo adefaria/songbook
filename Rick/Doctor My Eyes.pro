@@ -1,12 +1,11 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{zoom-ipad:1.205778}
-{metronome:76}
-{c:76 BPM}
-{time: 5:46}
+{zoom-ipad: 1.270000}
 {ipodid: 9024644314861715726}
-{capo:1}
-[E][D][A][E]
+{metronome:76}
+{c:76BPM}
+{time:5:46}
+Capo 1 [E][D][A][E]
 [E]Doctor my eyes have seen the years. And the slow [G#m]parade of fears. Without c[C#m]rying. Now I w[A]ant to und[E]erstand.
 I have done all that I could. To see the evil and the good. Without hiding. You must help me if you can.
 
