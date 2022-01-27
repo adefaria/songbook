@@ -1,5 +1,6 @@
 {title:Nowhere Man}
 {Subtitle:Beatles}
+{zoom-ipad: 1.010000}
 {metronome: 121}
 {c:121 BPM}
 {ipodid: 9024644314861716198}

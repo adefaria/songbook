@@ -3,9 +3,8 @@
 {metronome:122}
 {duration:2:45}
 {c:122 BPM}
-{zoom-ipad:1.250000}
+{zoom-ipad:1.300000}
 {ipodid: 9024644314861715725}
-
 [D][G][D][G][A][D][G][D][C][G][D]
 
 [D]I can see c[G]learly now the r[D]ain is gone. [D]I can see a[G]ll obstacles [A]in my way.

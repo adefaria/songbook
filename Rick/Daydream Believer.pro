@@ -1,8 +1,6 @@
 {title:Daydream Believer}
 {subtitle:The Monkees}
-{metronome:126}
-{c:126 BPM}
-{zoom-ipad:1.395664}
+{metronome:126} {c:126 BPM}
 Oh, I could h[G]ide 'neath the w[Am]ings of the b[Bm]luebird as it si[C]ngs. 
 The s[G]ix-o-clock a[Em]larm would never r[A7]ing. [D7]
 But it r[G]ings and I r[Am]ise, wash the s[Bm]leep out of my ey[C]es. 
@@ -17,4 +15,6 @@ Now y[G]ou know how [Em]happy [A7]life can [D7]be.
 And our good [G]times start and [Am]end, without [Bm]dollar one to sp[C]end.
 But [G]how muc[Em]h baby d[Am]o we [D7]really nee[G]d.
 
-**Chorus 2X     Short solo    **Chorus 2X
+**Chorus 2X
+Short solo
+**Chorus 2X

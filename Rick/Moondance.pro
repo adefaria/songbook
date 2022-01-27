@@ -1,5 +1,6 @@
 {title:Moondance}
 {subtitle:Van Morrison}
+{zoom-ipad: 1.234060}
 {metronome: 123}
 {c:123 BPM}
 {ipodid: 6975794874241316619}
