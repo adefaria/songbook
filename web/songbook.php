@@ -23,29 +23,102 @@ function debug($msg)
   } // if
 } // debug
 
-// Return a song structure with the absolute path to the song file and the folder we found it in.
+// Return a song structure given a song title
+function parseSong($songfile)
+{
+  global $songbook;
+
+  $songContents = @file_get_contents($songfile);
+  $song         = array(
+    "file" => $songfile,
+  );
+
+  if (preg_match("/\{(st|subtitle):(.*)\}/i", $songContents, $matches)) {
+    $song['artist'] = trim($matches[2]);
+  } else {
+    $song['artist'] = '';
+  } // if
+
+  if (preg_match("#$songbook/(.*)\/.*#", $songfile, $matches)) {
+    $song['library'] = $matches[1];
+  } else {
+    $song['library'] = '';
+  } // if
+
+  if (preg_match("/\{key:(.*)\}/i", $songContents, $matches)) {
+    $song['key'] = trim($matches[1]);
+  } else {
+    $song['key'] = '';
+  } // if
+
+  if (preg_match("/\{capo:(.*)\}/i", $songContents, $matches)) {
+    $song['capo'] = trim($matches[1]);
+  } else {
+    $song['capo'] = '';
+  } // if
+
+  if (preg_match("/\{duration:(.*)\}/i", $songContents, $matches)) {
+    $song['duration'] = trim($matches[1]);
+  } else {
+    $song['duration'] = '';
+  } // if
+
+  if (preg_match("/\{musicpath:(.*)\}/i", $songContents, $matches)) {
+    $song['audio'] = trim($matches[1]);
+  } else {
+    $song['audio'] = '';
+  } # if
+
+  return $song;
+} // parseSong
+
 // This function prioritizes the order in the $songFolder array.
-function findSong($title)
+function findSong($title, $library)
 {
   global $songbook, $songFolders;
 
-  $song = array();
+  $folders = array();
+
+  if (!isset($library)) {
+    $folders = $songFolders;
+  } else {
+    // Favor passed in $library
+    array_push($folders, $library);
+
+    foreach ($songFolders as $folder) {
+      if ($folder != $library) {
+        array_push($folders, $folder);
+      } // if
+    } // foreach
+  }
 
   debug("Searching for $title");
   foreach ($songFolders as $folder) {
-    $song['file']   = "$songbook/$folder/$title.pro";
-    $song['folder'] = $folder;
+    debug("Checking for $songbook/$folder/$title.pro");
 
-    debug("Checking for $song[file]");
+    $song = array(
+      'artist'   => '',
+      'library'  => '',
+      'key'      => '',
+      'capo'     => '',
+      'duration' => '',
+      'audio'    => '',
+    );
 
-    if (fileExists($song['file'])) {
-      debug("Found");
+    $song['file'] = fileExists("$songbook/$folder/$title.pro");
+
+    if ($song['file']) {
+      $song = parseSong($song['file']);
+
+      if (!isset($song['capo'])) {
+        echo "capo not found for song $song[file]<br>";
+        #exit;
+      }
       break;
     } else {
-      debug("Didn't find $song[file]");
+      $song['file'] = $title;
+      debug("Didn't find $title.pro in $songbook/$folder");
     } // if
-
-    $song = array();
   } // foreach
 
   return $song;
@@ -157,19 +230,29 @@ function getArtists($songs)
 
 // Search for files case insensitive and alter $fileName to reflect the correct
 // case
-function fileExists(&$fileName)
+function fileExists($fileName)
 {
   $files = glob(dirname($fileName) . '/*');
 
   $filename = strtolower($fileName);
 
+  debug("Searching for $filename");
   foreach ($files as $file) {
     if (strtolower($file) == $filename) {
-      $fileName = $file;
-
-      return true;
+      debug("Found file $file");
+      return $file;
     } // if
   } // foreach
 
   return false;
 } // fileExists
+
+function ms2s($m, $s)
+{
+  return ($m * 60) + $s;
+} // ms2s
+
+function s2ms($s)
+{
+  return intdiv($s, 60) . ':' . $s % 60;
+} // s2ms

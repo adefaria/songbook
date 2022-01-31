@@ -1,7 +1,7 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
 {capo:1}
-
+{duration:3:25}
 {key:F}
 
 {c:Intro}
