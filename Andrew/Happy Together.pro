@@ -5,10 +5,10 @@
 {capo:2}
 
  
-Imagine [Em]me and you - I do
-I think about you [D]day and night, it's only right
-To think about the [C]girl you love and hold her tight
-So happy to[B7]gether 
+Imagine [F#m]me and you - I do
+I think about you [E]day and night, it's only right
+To think about the [D]girl you love and hold her tight
+So happy to[C#7]gether 
 
      (call you up)
 If I should call you up, invest a dime
@@ -19,11 +19,11 @@ Imagine how the world could be so very fine
 So happy together 
 
 {c:Chorus}
-[E]I can see me [D]loving nobody
-But y[E]ou for all my l[G]ife
-[E]When you're with me, [D]baby
-The skies will be [E]blue
-For all my l[G]ife 
+[F#]I can see me [C#m]loving nobody
+But y[F#]ou for all my l[A]ife
+[F#]When you're with me, [C#m]baby
+The skies will be [F#]blue
+For all my l[A]ife 
       (you and me)
 Me and you, and you and me
                   (had to be)
@@ -42,7 +42,7 @@ So happy together{eoc}
 
 {c:Bridge}
 
-[E] [D] [E] [G]
+[F#] [C#m] [F#] [A]
 Bah-b
 
 Me and you, and you and me
@@ -52,7 +52,7 @@ So happy together
  
 {C:Outro}
 
-[Em]So happy to[B7]gether
+[F#m]So happy to[C#7]gether
 How is the weather?
 So happy together
 We're happy together
@@ -61,5 +61,5 @@ We're happy together
 So happy together
 So happy together
 
-[E]
+[F#]
 {musicpath:/storage/emulated/0/Music/Happy Together.mp3}

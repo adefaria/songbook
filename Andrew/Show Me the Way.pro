@@ -2,6 +2,7 @@
 {subtitle:Peter Frampton}
 {duration:4:37}
 {metronome:113}
+{key:D}
 
 {tempo:132}
 
