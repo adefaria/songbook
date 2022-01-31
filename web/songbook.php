@@ -78,12 +78,14 @@ function findSong($title, $library)
   global $songbook, $songFolders;
 
   $folders = array();
-
+  debug("findSong($title, $library)");
   if (!isset($library)) {
+    debug("Using default songfolders");
     $folders = $songFolders;
   } else {
+    debug("Pushing $library");
     // Favor passed in $library
-    array_push($folders, $library);
+    array_unshift($folders, $library);
 
     foreach ($songFolders as $folder) {
       if ($folder != $library) {
@@ -93,7 +95,7 @@ function findSong($title, $library)
   }
 
   debug("Searching for $title");
-  foreach ($songFolders as $folder) {
+  foreach ($folders as $folder) {
     debug("Checking for $songbook/$folder/$title.pro");
 
     $song = array(
