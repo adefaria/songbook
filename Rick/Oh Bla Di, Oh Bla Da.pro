@@ -1,7 +1,9 @@
-{title:Oh Bla Di Ob La Da}
+{title:Oh Bla Di, Oh Bla Da}
 {subtitle:Beatles}
 {zoom-ipad:1.043076}
 {metronome:113}
+{duration:3:12}
+{key:A}
 {c:113 BPM}
 
 D[A]esmond has a barrow in the market place,  Moll[E7]y is the singer in a band. [A]
@@ -19,3 +21,4 @@ With a couple of kids runn[D]ing in the yard of Desmond and Molly Jon[A]es. [E7]
 Molly stays at home and[A7] does her pretty face and in t[D]he evening she still sings it wit[A]h the band. [E7] [A]
 Ob-la-di, [A]ob-la-da, life goes on bra       [E7]     [F#m]La la how th[A]eir life goes on [E7] [A]
 Ob-la-di, [A]ob-la-da, life goes on bra       [E7]     [F#m]La la how th[A]eir life goes on [E7] [A]
+{musicpath:/storage/emulated/0/Music/Oh Bla Di, Oh Bla Da.mp3}
