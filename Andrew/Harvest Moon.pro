@@ -1,5 +1,7 @@
 {title:Harvest Moon}
 {subtitle:Neil Young}
+{duration:5:11}
+{key:D}
 
 [D] [D6] [Dmaj7]
 

@@ -1,6 +1,7 @@
 {title:I Saw the Light}
 {subtitle:Todd Rundgren}
 {duration:3:03}
+{key:Dm}
 {zoom-android-A1046:0.9379879}
 Intro:
 [Dm7]     [G]     [Dm7]       [G]

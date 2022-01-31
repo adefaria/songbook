@@ -24,78 +24,106 @@
 
 <div class="heading">
   <a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a>
-  <h1 class="centered">Andrew DeFaria's Songbook</h1>
-
-  <h2 class="centered"><?php echo "Set: <a href=\"$set\">" . basename($set, ".lst") . "</a>" ?></h2>
+  <h1 class="centered">Playlist</h1>
 </div>
 
 <div id="content">
 
-  <?php
-  global $songbook, $songDir, $artists;
+  <table width="100%" cellspacing="1" cellpadding="1" border="1">
+    <tbody>
+      <?php
+      global $songbook, $songDir, $artists;
 
-  print "<ol>";
+      $firstLine     = true;
+      $count         = 0;
+      $library       = dirname($set);
+      $totalDuration = 0;
 
-  $firstLine = true;
+      foreach (file("$songbook/$set") as $line) {
+        // Skip first line which is merely the set name again
+        if ($firstLine) {
+          $firstLine = false;
+          print "<tr><th colspan=\"7\"><a href=\"$set\"> $line</a></th></tr>";
+          print <<<END
+<tr>
+  <th align="center">#</th>
+  <th>Title</th>
+  <th>Artist</th>
+  <th>Library</th>
+  <th>Key</th>
+  <th>Capo</th>
+  <th>Duration</th>
+</tr>
+END;
+          continue;
+        } // if
 
-  foreach (file("$songbook/$set") as $line) {
-    // Skip first line which is merely the set name again
-    if ($firstLine) {
-      $firstLine = false;
-      continue;
-    } // if
+        if (preg_match("/(.*)\s+-\s+(.*)/", $line, $matches)) {
+          $title  = trim($matches[1]);
+          $artist = trim($matches[2]);
+        } else {
+          $title  = trim($line);
+          $artist = '';
+        } // if
 
-    $title;
-    $artist;
+        $song = findSong($title, $library);
 
-    if (preg_match("/(.*)\s+-\s+(.*)/", $line, $matches)) {
-      $title  = trim($matches[1]);
-      $artist = trim($matches[2]);
-    } else {
-      $title  = trim($line);
-      $artist = '';
-    } // if
+        // If $song[file] is not set then findSong didn't find a song
+        if (empty($song["file"])) {
+          $song["file"] = $title;
 
-    $song = findSong($title);
+          debug("Song $song[file] not found");
+        } else {
+          debug("Found song[file]: $song[file] - Folder: $song[library]");
+        }
 
-    // If $song[file] is not set then findSong didn't find a song
-    if (empty($song["file"])) {
-      $song["file"] = $title;
+        $songfile = fileExists($song['file']);
 
-      debug("Song $song[file] not found");
-    } else {
-      debug("Found song[file]: $song[file] - Folder: $song[folder]");
-    }
+        if ($songfile) {
+          $songtitle = "<a href=\"webchord.cgi?chordpro=$songfile\">$title</a>";
+        } else {
+          $songtitle = $title;
+        } // if
 
-    if (fileExists($song['file'])) {
-      print "<li><a href=\"webchord.cgi?chordpro=$song[file]\">$title</a>";
-    } else {
-      print "<li>$song[file]</li>";
-    } // if
+        if ($artist == '') {
+          $artist = getArtist($song['file']);
+        } // if
 
-    if ($artist == '') {
-      $artist = getArtist($song['file']);
-    } // if
+        $artist = "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
 
-    if ($artist != '') {
-      print " - ";
+        $count++;
 
-      if (in_array($artist, $artists)) {
-        print "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
-      } else {
-        print $artist;
-      } // if
-    } // if
+        if (!empty($song['duration'])) {
+          list($m, $s) = explode(':', $song["duration"]);
+          $totalDuration += ms2s($m, $s);
+        }
 
-    # TODO: Make this a css element
-    if (isset($song['folder'])) {
-      print "<font color=\"#ccc\"> $song[folder]</font></li>";
-    } // if
-  } // foreach
+        debug("Total Duration: $totalDuration");
 
-  print "</ol>";
-  ?>
+        print <<<END
+<tr>
+  <td align="center">$count</td>
+  <td>$songtitle</td>
+  <td>$artist</td>
+  <td>$song[library]</td>
+  <td align="center">$song[key]</td>
+  <td align="center">$song[capo]</td>
+  <td align="right">$song[duration]</td>
+</tr>
+END;
+      } // foreach
 
-  </body>
+      $total = s2ms($totalDuration);
+      print <<<END
+    <tr>
+      <th colspan="6" align="left">Total</th>
+      <td align="right">$total</td>
+    </tr>
+  </tbody>
+</table>
+END;
+      ?>
+    </tbody>
+    </body>
 
 </html>
