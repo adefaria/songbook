@@ -2,6 +2,8 @@
 {subtitle:Steely Dan}
 {zoom-ipad:1.210000}
 {ipodid: 9024644314861715656}
+{key:A}
+{duration:4:42}
 
 Your ever la[D]stin' summer, yo[A/C#]u can see it fad[Bm7]in' fast. [A]
 So you grab [D]a piece of somethin' tha[A/C#]t you think is g[Bm7]onna last. [A]
