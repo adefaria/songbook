@@ -1,4 +1,7 @@
 {title:My Back Pages}
+{subtitle:Bob Dylan}
+{key:E}
+{duration:5:02}
 {zoom-ipad: 1.450312}
 
 [E][E4]

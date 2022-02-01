@@ -1,5 +1,6 @@
 {title:Get Back}
 {subtitle:Beatles}
+{key:A}
 {duration:3:10}
 
 [A] [G] [D]
