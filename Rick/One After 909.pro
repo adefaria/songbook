@@ -1,5 +1,6 @@
 {title:One After 909}
 {subtitle:Beatles}
+{zoom-ipad: 0.966936}
 {metronome:180}
 {c:180 BPM}
 {ipodid: 3967353021199681642}
