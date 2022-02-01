@@ -3,20 +3,21 @@
 {metronome: 115}
 {c:115 BPM}
 {zoom-ipad: 1.282628}
+[A]
 Intro - Acapella
 If you ever, change your mind, about leaving, leaving me behind. 
 Wo, oh, bring it to me. 
 Bring your sweet loving, bring it on home to me. 
 
+I know I laughed, when you left.
+But you know, I only hurt myself.
+Oh, oh, bring it to me, bring your sweet lovin', bring it on home to me.
+Yeah (yeah) yeah (yeah) yeah
+
 I'll give you jewelry and money too. 
 But that's not, all I'll do for you.
 Oh, oh, bring it to me.
 Bring your sweet loving, bring it on home to me.
-Yeah (yeah) yeah (yeah) yeah
-
-You know I laughed, when you left.
-But you know, I only hurt myself.
-Oh, oh, bring it to me, bring your sweet lovin', bring it on home to me.
 Yeah (yeah) yeah (yeah) yeah
 
 Solo

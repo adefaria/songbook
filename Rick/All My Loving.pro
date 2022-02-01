@@ -1,8 +1,9 @@
 {title:All My Loving}
 {subtitle:Beatles}
+{zoom-ipad: 0.920000}
 {metronome:156}
 {c:156 BPM}
-{zoom-ipad: 0.924919}
+
 Close your [F#m]eyes and I'll [B7]kiss you. To[E]morrow I'll [C#m]miss you.
 Re[A]member I'll a[F#m]lways be [D]true. [B7]
 And then [F#m]while I'm [B7]away I'll write [E]home every [C#m]day.

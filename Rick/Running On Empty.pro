@@ -1,6 +1,6 @@
 {t:Running On Empty}
 {subtitle:Jackson Browne}
-{zoom-ipad:0.890000}
+{zoom-ipad:0.880000}
 
 Tuning C G D G B D
 [1]  [2] [1] [2] Riff[4E]         [5]     [*]      [3]
@@ -29,6 +29,7 @@ Look'a round for the friends that I used to turn to, to pull me through.
 **Chorus
 
 [1]Honey, you really tempt me. You know the way you look so kind.
-[5]I'd love to stick around [7]but I'm running be[5]hind.[*] [*] [2](Running On)
+[5]I'd love to stick around [7]but I'm running be[5]hind.[*] [*] [2]
+Running On
 [5]You know, I don't even [7]know what I'm hoping to [5]find. (Running blind)[2]
 [5]Running in to the [7]sun. But I'm running be[5]hind. [*] [*] [2] [1] [2] [1] [2]         [5][*][*][2]
