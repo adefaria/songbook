@@ -31,7 +31,7 @@ What have You got to [E]lose?
 
 BREAK [E]
 Q*[D]Chestnut brown [E]canary. [D]Ruby throated [E]sparrow.
-[D]Sing a song, don't be long, thrill me to the [E]marrow.[E]
+[D]*Sing a song, don't be long, thrill me to the [E]marrow.[E]
 
 Q*[D]Voices of the [E]angels. [D]Ring around the [E]moonlight.
 [D]Asking me, say [D]she's so free, [D]how can you catch the [E]sparrow?[E]

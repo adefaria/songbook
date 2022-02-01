@@ -23,5 +23,4 @@ Tennes[D]see. They're [C]always having a [G]good time down on the [Em]Bayou, [C]
 [G]Them delta women [D]think the world of[G] me.
 
 **Chorus
-Fade Lord I was born a rambling man.  8X Acappela
-
+Lord I was born a rambling man.  4X Acappela
