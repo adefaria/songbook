@@ -1,88 +1,55 @@
-G       320033
-A7sus4  002033
-Cadd9   030033
-Dsus4   xx0233
-D       xx0232
-Dsus2   x00230
-C/G     33201x
-Dadd4/A 55403x
-
-
-[Intro]
-|G         |A7sus4    |Cadd9  Dsus4| D Dsus2 D  | x2
-
-
-[Verse]
-    G                   A7sus4             Cadd9      Dsus4 D Dsus2  D
-I'm trying to tell you something about my life
-       G               A7sus4            Cadd9      Dsus4 D Dsus2  D
-Maybe give me insight between black and white
+{title:Closer to Fine}
+{subtitle:Idigo Girls}
+I'm [G]trying to tell you s[A7sus4]omething about my l[Cadd9]ife [Dsus4] [D] [Dsus2] [D]
+Maybe g[G]ive me insight b[A7sus4]etween black and w[Cadd9]hite [Dsus4] [D] [Dsus2] [D]
         Dadd4/A                         C/G
 and the best thing you've ever done for me
       Dadd4/A                          C/G
 is to help me take my life less seriously
-               G         A7sus4     Cadd9      Dsus4 D Dsus2  D
-It's only life after all
+It's only life [G]after all [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D]
 
-      G               A7sus4         Cadd9      Dsus4 D Dsus2 D
-Well, darkness has a hunger that's insatiable
-     G               A7sus4              Cadd9      Dsus4 D Dsus2 D
-and lightness has a call that's hard to hear
+Well, [G]darkness has a h[A7sus4]unger that's in[Cadd9]satiable [Dsus4] [D] [Dsus2] [D]
+and l[G]ightness has a c[A7sus4]all that's hard to h[Cadd9]ear [Dsus4] [D] [Dsus2] [D]
       Dadd4/A                        C/G
 and I wrap my fear around me like a blanket
   Dadd4/A                          C/G
 I sailed my ship of safety till I sank it
-                      G     C  G
-I'm crawling on your shores
+I'm crawling on your s[G]hores [C] [G]
 
 
 [Chorus]
-  D                     Cadd9         G
-I went to the doctor, I went to the mountains
-  D                         Cadd9            G
-I looked to the children, I drank from the fountains
+I [D]went to the doctor, I [Cadd9]went to the mo[G]untains
+I [D]looked to the children, I [Cadd9]drank from the fo[G]untains
         Dadd4/A                         C/G
 There's more than one answer to these questions
-                   G          D  G
-pointing me in a crooked line
+pointing me in a cr[G]ooked line [D] [G]
         Dadd4/A                          C/G
 and the less I seek my source for some definitive
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
 
 
 [Verse]
-  G                   A7sus4             Cadd9      Dsus4 D Dsus2  D
-I went to see the doctor of philosophy
-  G                   A7sus4             Cadd9      Dsus4 D Dsus2  D
-With a poster of Rasputin and a beard down to his knee
+I [G]went to see the doct[A7sus4]or of philosophy [Cadd9] [Dsus4] [D] [Dsus2] [D]
+Wi[G]th a poster of Raspu[A7sus4]tin and a beard dow[Cadd9]n to his kn[Dsus4]ee [D] [Dsus2] [D]
       Dadd4/A                        C/G
 He never did marry or see a B-grade movie
        Dadd4/A                        C/G
 He graded my performance, he said he could see through me
-        G                    D             Cadd9        D
-I spent four years prostrate to the higher mind, got my paper
-          G    A7sus4  G
-And I was free
+I spent [G]four years prostrate [D]to the higher [Cadd9]mind, got my [D]paper
+And I was [G]free [A7sus4] [G]
 
 
 [Chorus]
-  D                     Cadd9         G
-I went to the doctor, I went to the mountains
-  D                         Cadd9            G
-I looked to the children, I drank from the fountains
+I [D]went to the doctor, I [Cadd9]went to the mo[G]untains
+I [D]looked to the children, I [Cadd9]drank from the fo[G]untains
         Dadd4/A                         C/G
 There's more than one answer to these questions
-                   G          D  G
-pointing me in a crooked line
+pointing me in a cr[G]ooked line [D] [G]
         Dadd4/A                          C/G
 and the less I seek my source for some definitive
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
 
 
 [Interlude]
@@ -90,40 +57,28 @@ The closer I am to fine
 
 
 [Bridge]
- G                   A7sus4             Cadd9      Dsus4 D Dsus2  D
-I stopped by the bar at 3 a.m.
- G                   A7sus4             Cadd9      Dsus4 D Dsus2  D
-To seek solace in a bottle or possibly a friend
+I[G] stopped by the bar [A7sus4]at 3 a.m. [Cadd9] [Dsus4] [D] [Dsus2] [D]
+T[G]o seek solace in a b[A7sus4]ottle or possibly a[Cadd9] friend [Dsus4] [D] [Dsus2] [D]
       Dadd4/A                        C/G
 I woke up with a headache like my head against a board
       Dadd4/A                        C/G
 Twice as cloudy as I'd been the night before
-          G    A7sus4  G
-I went in seeking clarity
+I went in [G]seeki[A7sus4]ng clari[G]ty
 
 
 [Chorus]
-  D                     Cadd9         G
-I went to the doctor, I went to the mountains
-  D                         Cadd9            G
-I looked to the children, I drank from the fountains
-   D                    Cadd9         G
-We go to the doctor, we go to the mountains
-  D                         Cadd9            G
-We look to the children, we drink from the fountains
-  D                         Cadd9            G
-We go to the bible, we go through the workout
+I [D]went to the doctor, I [Cadd9]went to the mo[G]untains
+I [D]looked to the children, I [Cadd9]drank from the fo[G]untains
+We [D]go to the doctor, we [Cadd9]go to the moun[G]tains
+We[D] look to the children, we [Cadd9]drink from the fo[G]untains
+We[D] go to the bible, we go th[Cadd9]rough the workout [G]
         Dadd4/A                         C/G
 We read up on revival and we stand up for the lookout
         Dadd4/A                         C/G
 There's more than one answer to these questions
-                   G          D  G
-pointing me in a crooked line
+pointing me in a cr[G]ooked line [D] [G]
         Dadd4/A                          C/G
 and the less I seek my source for some definitive
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D
-The closer I am to fine
-             G        A7sus4       Cadd9      Dsus4 D Dsus2 D G
-The closer I am to fine
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D]
+The closer I [G]am to fin[A7sus4]e [Cadd9] [Dsus4] [D] [Dsus2] [D] [G]
