@@ -10,7 +10,8 @@ Capo 1 [E][D][A][E]
 I have done all that I could. To see the evil and the good. Without hiding. You must help me if you can.
 
 [E]Doc tor, my [C#m]eyes. [E]Tell me what is wrong.
-Was I [C#m]unwiise? To leave them op[B]en for so lo[A]ng? [E][D/E][A/E][E]
+Was I [C#m]unwiise? To leave them op[B]en for so lo[A]ng? 
+[E][D/E][A/E][E]
 
 I have wandered through this world. And as each moment has unfurled.
 I've been waiting. To awaken from these dreams
