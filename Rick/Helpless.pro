@@ -32,3 +32,4 @@ Throwing shadows on our eyes.
 
 [D]Helpless, [A]helpless, help[G]less
 
+{musicpath:/storage/emulated/0/Music/Helpless.mp3}

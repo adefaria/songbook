@@ -28,4 +28,4 @@ Bridge 2 same as 1:
 [D]Try to see it [Dsus4] my [D]way Only time will t[Dsus4]ell if I am r[C]ight or I am [D]wrong
 While you see it [Dsus4]your [D]way ?   
 There's a chance that [Dsus4]we might fall [C]apart before too [D]long
-[G]We can work it [D]out [G]We can work it [A]out. [D][Dsus4][D]
+[G]We can work it [D]out [G]We can work it [A]out. [D][Dsus4][D]{musicpath:/storage/emulated/0/Music/We Can Work it Out.mp3}

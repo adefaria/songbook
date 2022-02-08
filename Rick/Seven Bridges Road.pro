@@ -27,3 +27,4 @@
 [D]And if ever you [C]decide you should [G]go.[D]
 [D]There is a [C]taste of [G]thyme sweet and [D]honey.
 [D]Down the seven [C]bridges [G]
+{musicpath:/storage/emulated/0/Music/Seven Bridges Road.mp3}

@@ -38,3 +38,4 @@ My brown eyed [G]girl, [Em]
 Sha la la (Me-bit by bit by bit by bit!)
 Sha la,la,la,la,la,la [G]
 La Te' Da
+{musicpath:/storage/emulated/0/Music/Brown Eyed Girl.mp3}

@@ -30,4 +30,4 @@ The [D]sun is up.
 The [D/C]sky is blue. 
 It's [D/B]beautifuuul. 
 And [DA#]so are you.
-Dear [D]Prudence, [D/C]Won't [C]you [G]come out to [D]play?[D/C][D/B][D/A#]
+Dear [D]Prudence, [D/C]Won't [C]you [G]come out to [D]play?[D/C][D/B][D/A#]{musicpath:/storage/emulated/0/Music/Dear Prudence.mp3}

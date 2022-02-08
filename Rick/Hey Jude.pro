@@ -22,4 +22,4 @@ Hey [F]Jude don't make it [C]bad. Take a [C7]sad song and make it [F]better.
 [Bb]Remember to let her under your [F]skin. Then you can [C7]begin to make it [F]better, better, Better, BETTER! Owe, yea, yea, yea, yea
 
 [F]8X Na na na na [Ebmaj]6X na na [E]6X na na na. [F]8X Hey Jude. 9X 
-Time to go home. Yeah John, oh, oh, oh. Are ya happy, get back now, put some emotion in it. Yeah, yeah, yeah. Take a load off Annie, put the load on me.
+Time to go home. Yeah John, oh, oh, oh. Are ya happy, get back now, put some emotion in it. Yeah, yeah, yeah. Take a load off Annie, put the load on me.{musicpath:/storage/emulated/0/Music/Hey Jude.mp3}

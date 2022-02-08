@@ -18,3 +18,4 @@ Goin to Carol[B]ina, it [A]won't be long and I'll be there[E]     [A]
 {c:Chorus}
 
 [E]       [A]       [E]       [A]       [E]       [D]       [A]       [E]
+{musicpath:/storage/emulated/0/Music/Blue Sky.mp3}

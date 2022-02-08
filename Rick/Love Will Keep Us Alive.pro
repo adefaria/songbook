@@ -16,3 +16,4 @@ I would [D]die for you [F#m]Climb the highest mountain [Bm]Baby, there's nothing
 
 [A]I was standing All alone against the [F#m]world outside You were [D]searching For a place to [E]hide [A]Lost and lonely Now you given me the [F#m]will to survive
 When we're [D]hungry... l[E]ove will keep us [A]alive. 3X
+{musicpath:/storage/emulated/0/Music/Love Will Keep Us Alive.mp3}

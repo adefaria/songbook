@@ -30,3 +30,4 @@ Sl[C]ipping into st[G]ockings, st[C]epping into sh[G]oes,d[C]ipping in the p[G]o
 Du, du, du, du, du, [Am]du, it's just a[D7]nother d[G]ay.
 Du, du, du, d[E]u, du, du,[Am]   it's just an[D7]other d[G]ay. [G/F] [C] [G]
 
+{musicpath:/storage/emulated/0/Music/Another Day.mp3}

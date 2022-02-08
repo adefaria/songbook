@@ -54,4 +54,4 @@ Tell me [D]why[Bm]  you cried
 
 
 [Outro]
-Bb7 A7 A6 D
+Bb7 A7 A6 D{musicpath:/storage/emulated/0/Music/Tell Me Why.mp3}

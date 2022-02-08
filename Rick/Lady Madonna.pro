@@ -17,3 +17,4 @@
 [Dm]Thursday night your stockings needed [G7]mending. [C]See [Dm]how they [E7]run!
 
 [A]Lady [D]Madonna, [A]children at your [D]feet. [A]Wonder how you [D]manage [A]to [F]make [G]ends [A]meet.
+{musicpath:/storage/emulated/0/Music/Lady Madonna.mp3}

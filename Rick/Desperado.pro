@@ -32,3 +32,4 @@ It may be [G]rainin',  [G7]but there's a [C]rainbow above you [Cm]
 You better [G]let some[B7]body [Em]love you, [C]  [G]  [Am7]
 You better [G]let some[B7]body [Em]love you be[Am7]fore it's [D7]too [G]late
 
+{musicpath:/storage/emulated/0/Music/Desperado.mp3}

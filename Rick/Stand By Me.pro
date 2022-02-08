@@ -31,3 +31,4 @@ Darlin', darlin' [G]stand, by me,  [G]Oh, [Em]stand by [Em]me,
 Oh [G]Stand ,now [Em]stand by [Em]me, stand by me, 
 Whenever your in trouble won't you stand by me.
 Ad lib out
+{musicpath:/storage/emulated/0/Music/Stand By Me.mp3}

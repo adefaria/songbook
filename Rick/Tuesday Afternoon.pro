@@ -23,4 +23,4 @@
 [F]Tuesday [C]after[G]noon [F] [C] [G] [G] [F] [C]
 [F]Tuesday [C]after[D]noon
 
-[Outro][Am]
+[Outro][Am]{musicpath:/storage/emulated/0/Music/Tuesday Afternoon.mp3}

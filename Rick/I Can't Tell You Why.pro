@@ -25,3 +25,4 @@ And can't tell you why. No baby, I can't tell you why. 2X
 Repeat chorus and fade
 
 https://youtu.be/YWkkZcQcb5Q
+{musicpath:/storage/emulated/0/Music/I Can't Tell You Why.mp3}

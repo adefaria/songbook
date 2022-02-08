@@ -72,4 +72,4 @@ Just an old sweet song    keeps Georgia on my mind
 Just and [Dm7]old sweet song keeps 
 
 G       G7    C    (F   Fm)  C  (G   G7)   C
-Georgia on my mind
+Georgia on my mind{musicpath:/storage/emulated/0/Music/Georgia On My Mind.mp3}

@@ -26,3 +26,4 @@ And calls me on and on a[A]cross the Uni[A7]verse
 
 **Chorus
 [D]Jai Guru Deva.      Om.       Repeat
+{musicpath:/storage/emulated/0/Music/Across the Universe.mp3}
