@@ -23,4 +23,4 @@ Now I’m [C7]sittin’ here. [F]Sipping at my [C7]Leggacy cold beer.
 Cause I [Dm]love to live so [G]pleasantly. [Dm]Live this life of [G7]luxury. [F]Lazing on a [A]sunny afternoo[Dm]n. [Dm7][Dm6][A7]
 [Dm]In [Dm7]the [Dm6]summ[A7]ertime. 3X
 
-**Chorus Outro Fade 5X
+**Chorus Outro Fade 4X. This day
