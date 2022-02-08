@@ -23,4 +23,4 @@ Capo 2 [D][G] 4X
 [D]How the hell can a [G]person [D]go to work in the [G]morning.
 [D]And come home in the [G]evening and have [A7]noth-thing to [D]say. 
 [**Chorus]
-[D]To believe in this [G]livin is just a [A][*][A7]hard way to [D]go.
+[D]To believe in this [G]livin is just a [A][*][A7]hard way to [D]go.{musicpath:/storage/emulated/0/Music/Angel From Montgomery.mp3}

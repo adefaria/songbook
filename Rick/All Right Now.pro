@@ -23,3 +23,4 @@ She said ''Love, Lord above, now you're tryin' to trick me in love.''
 
 All right now baby, it's all right now
 All right now baby, it's all right now
+{musicpath:/storage/emulated/0/Music/All Right Now.mp3}

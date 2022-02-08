@@ -25,4 +25,4 @@ Solo [Am][G][Fmaj7]
 [Am]Breakd[G]own its a[Fmaj7]lright.
 [Fmaj7][G][Am]Its[G] alri[Fmaj7]ght.[G][Am]It's a[G]lright.[Am][G][Am][G] (Ahaa softly)
 
-Outro [Am][G] 7X
+Outro [Am][G] 7X{musicpath:/storage/emulated/0/Music/Breakdown.mp3}

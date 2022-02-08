@@ -38,3 +38,4 @@ You're coming [F#m]home. You're coming [B7]home
 [E]Every day, [C]we'll be happy I [E]know 
 [E]Now I know that [C]you won't leave me no [E]more. 
 **Chorus [G]Wooo [F#][F][Em]
+{musicpath:/storage/emulated/0/Music/It Won't Be Long.mp3}

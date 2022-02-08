@@ -35,4 +35,4 @@ And she said. [A]We are all just prisoners here, [E]of our own device.
 [A]I had to find the passage back to the [E]place I was before.
 [G]"Relax" said the nightman. We are [D]programmed to receive.
 [Em]You can check out anytime you like. [F#]But you can never leave.
-[Bm][F#][A][E][G][D][Em][F#]
+[Bm][F#][A][E][G][D][Em][F#]{musicpath:/storage/emulated/0/Music/Hotel California.mp3}

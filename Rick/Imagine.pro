@@ -21,4 +21,4 @@
 [F]You may [G]say I'm a [C]dreamer[E7], [F]but I'm [G7]not the only [C]one.[E7]
 [F]I hope some [G]day you'll [C]join [E7]us,
 [F]And the world [G]will [C]live as one.
-                            
+                            {musicpath:/storage/emulated/0/Music/Imagine.mp3}

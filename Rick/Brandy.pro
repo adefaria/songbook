@@ -32,3 +32,4 @@ And [E]loves a man who's[G#m] not [C#m]around, She [F#m]still can [A]hear him [E
 Say [C#m]Brandy you're a [A]fine girl (you're a fine girl)
 What a [C#m]good wife you would [A]be (such a fine girl)
 But my [E]life, my lover, my [B/E]lady is the [A]sea[E] d[A]o, [A]do.[E]
+{musicpath:/storage/emulated/0/Music/Brandy.mp3}

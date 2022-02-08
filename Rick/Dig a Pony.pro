@@ -34,3 +34,4 @@ I T[E]OLD YOU SO,
 
 **CHORUS 
 Outro [G][D][A][A][G][D][A][A]
+{musicpath:/storage/emulated/0/Music/Dig a Pony.mp3}

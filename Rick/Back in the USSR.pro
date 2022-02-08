@@ -34,4 +34,4 @@ L[A]et me hear your balalaikais rin[D]ging out
 C[C]ome and keep your comrade w[D]arm
 I'm back in the U.S.S.[A]R.
 Y[C]ou don't know how lucky you a[D]re boy
-Back in the U.S.S.[A]R. [D] [Eb] [E] [A][Gadd9]
+Back in the U.S.S.[A]R. [D] [Eb] [E] [A][Gadd9]{musicpath:/storage/emulated/0/Music/Back in the USSR.mp3}

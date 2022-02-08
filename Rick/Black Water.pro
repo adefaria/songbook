@@ -30,3 +30,4 @@ Solos
 Comon baby 2 more times. 
 By the [Am7]hand, take me by the [D]hand,
 I want to honky-tonk, honky-tonk pretty momma, come and [Am7]dance with your daddy al[D]l night long, I'd like to, honky-tonk with you all night long.
+{musicpath:/storage/emulated/0/Music/Black Water.mp3}

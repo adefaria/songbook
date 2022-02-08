@@ -20,4 +20,4 @@ LEAD Ooo,   Get up, get up.....Yeah, yeah, yeah
 
 [Am]Talkin' 'bout a [D]girl that looks quite like [Em]you. 
 [Am]She didn't have the [D]time to wait in the [Em]queue.
-[C]She cried away her [Am]life since she fell off the [Bm]cradle. [Am9]
+[C]She cried away her [Am]life since she fell off the [Bm]cradle. [Am9]{musicpath:/storage/emulated/0/Music/Badge.mp3}
