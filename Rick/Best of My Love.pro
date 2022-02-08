@@ -29,3 +29,4 @@ e[Dm]nough. [G7]
 Oh, but [C]here in my heart [Dm]I give you the best of [C]my love. [G7]
 Oh, [C]Sweet Darlin[Dm]', you get the best of my love.
 Repeat and Fade [Cmaj7]
+{musicpath:/storage/emulated/0/Music/Best of My Love.mp3}

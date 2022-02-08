@@ -1,34 +1,29 @@
-{title:I'm Looking Through You}
+{title:Im Looking Through You}
 {subtitle:Beatles}
-{pause:10}
-[G]I'm [C]looking [Am]through you, [Em]where did you [D]go
-[G]I   [C]thought [Am]I knew you, [Em]what did I [D]know
-[Em]You don't look [Am]different, but [G]you [C]have [D]changed
-[G]I'm [C]looking [Am]through you, [C]you're not the [G]same
-[G]        [C]        [G]        [C]        [G]        [C] 
+{zoom-ipad:0.920000}
+BPM 173
+Capo 1
 
-[G]Your [C]lips [Am]are moving, [Em]I cannot [D]hear
-[G]Your [C]voice [Am]is soothing, [Em]but the words aren't [D]clear 
-[Em]You don't sound [Am]different, I've [G]learned [C]the [D]game
-[G]I'm [C]looking [Am]through you, [C]you're not the [G]same
-[G]        [C]        [G]       [C]       [G]       [C] 
+[G][Gmaj9][G][C] 3X
 
+[G]I'm [C]look[G/B]ing [Am]through you. [Em]Where did you [D]go? [G]I [C]thoughtt [G/B]I [Am]knew you. [Em]What did I [D]know?
+[Em7]You don't look d[Asus4]iffere[Am]nt. Buut [G]you [C]have [D]changed. [G]I'm [C]look[G/B]ing [Am]through you. [C]You're not the [G]same. [C]
+[C][G] 2X
 
-{soc}
-[C]Why, tell me why, did you not [G]treat me right? 
-[C]Love has a nasty habit of [G]disappearing [D]overnight
-{eoc}
+[G]Your [C]lips [G/B]are [Am]moving, [Em]I cannot [D]hear. [G]Your [C]voice [G/B]is  [Am]soothing, [Em]but the words aren't [D]clear.
+[Em7]You don't sound [Asus4]differ[Am]ent, I've [G]learned [C]the [D]game. [G]I'm [C]look[G/B]ing [Am]through you. [C]You're not the [G]same. [C]
 
-[G]You're [C]thinking [Am]of me,  [Em]the same old [D]way 
-[G]You [C]were [Am]above me,  [Em]but not to[D]day  
-[Em]The only [Am]difference is [G]you're [C]down [D]there
-[G]I'm [C]looking [Am]through you,  [C]and you're no [G]where
- [G]     [C]       [G]       [C]       [G]       [C] 
+[G][C] 2X [G]
+[C]Why, tell me why, did you not [G]treat me right?
+[C]Love has a nasty habit of [Dsus4]disappearing [D]overnight.
 
-{c:repeat chorus}
+[G]You're [C]think[G/B]ing [Am]of me. [Em]The same old [D]way. [G]You [C]were [G/B]a[Am]bove me. [Em]But not to[D]day.
+[Em7]The only [Asus4]differ[Am]ence is [G]you're [C]down [D]there. [G] I'm [C]look[G/B]ing [Am]through you. [C]And you're no[G]where. [C]
 
-{c:repeat first verse}
-{zoom-android:1.2831212}
-{musicpath:/mnt/sdcard/Music/I'm Looking Through You.mp3}
-{time:4:00}
-{zoom-android-V11:1.379515}
+[G][C] 2X [G]
+[C]Why, tell me why, did you not [G]treat me right?
+[C]Love has a nasty habit of [Dsus4]disappearing [D]overnight.
+
+**1st Verse
+[G]Yeah! [C]A’Baby, you've [G]changed. [C] [G]Ah, [C] I'm looking [G]through [C]you.
+[G]Yeah, [C]I'm looking [G]through [C]you.[G][C][G]
