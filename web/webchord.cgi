@@ -149,7 +149,7 @@ END
           <div id="artist"><a href="/songbook/displayartist.php?artist=$artist">$artist</a></div></td>
       <td align="right" width="300px">
         <audio id="song" controls autoplay style="padding:0; margin:0">
-          <source src="https://defaria.com/Media/$title.mp3" style="padding:0; margin:0" type='audio/mp3'>
+          <source src="/Media/$title.mp3" style="padding:0; margin:0" type='audio/mp3'>
           Your user agent does not support the HTML5 Audio element.
         </audio><br>
         <p align="center" <font size=-1><b>Mark A:</b></font>
