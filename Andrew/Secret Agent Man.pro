@@ -28,8 +28,6 @@ Odds are you won't live to see tomorrow
 
 {c:Solo}
 
-{c:Chorus}
-
 {c:Intro x 2}
 
 Swinging on the Riviera one day
