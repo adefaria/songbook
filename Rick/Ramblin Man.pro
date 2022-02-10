@@ -2,7 +2,8 @@
 {subtitle:Allman Brothers}
 {metronome:181}
 {c:181 BPM}
-{zoom-ipad:1.120000}
+{zoom-ipad:1.140000}
+https://youtu.be/Wa4DCp6cl2U
 Capo 1 [G][D][C][G]
 
 **[G]Lord, I was [F]born a ramblin' [G]man, trying to make a living and
@@ -10,10 +11,8 @@ Capo 1 [G][D][C][G]
 [C]when it's time for [G]leaving, I [Em]hope you'll  understand[C]
 [G]that I was [D7]born a rambling [G]man.
 
-
 [G]My father was a [C]gambler down in [G]Georgia. He wound up on the [C]wrong end of a [D]gun.
 And [C]I was born in the [G]back seat of a [Em]Greyhound [C]bus, [G]rolling down [D]highway forty[G]one.
-
 
 **Chorus
 Solo [G][D][C][G][C][D][G][Em][C][D7][G]

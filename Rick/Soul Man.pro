@@ -1,5 +1,7 @@
 {title:Soul Man}
-{zoom-ipad:1.002360}
+{ipodid: 9024644314861715667}
+{zoom-ipad:1.062360}
+https://youtu.be/XM0TUtqddpg
 Key - C    BPM - 112  Intro 2X
 
 Comin' [E]to you, on a dusty road, [D]good lovin', I got a [E]truck load.
@@ -20,11 +22,5 @@ Grab the rope and I'll pull you in. [C]Give ya hope and [D]be your only [E7]boyf
 
 Instrumental
 
-[F7]I'm a soul man
-I'm a soul man
-You're a soul man
-I'm a soul man
-Talking about a soul man!
-
+[F7]I'm a soul man. I'm a soul man. You're a soul man. I'm a soul man. Talking about a soul man!
 Ha!
-

@@ -1,9 +1,9 @@
 {title:Reeling in the Years}
 {subtitle:Steely Dan}
-{zoom-ipad:1.210000}
+{zoom-ipad:1.178792}
 {ipodid: 9024644314861715656}
-{key:A}
-{duration:4:42}
+https://youtu.be/4dPRGfGmCmU
+{key:A} {duration:4:42}
 
 Your ever la[D]stin' summer, yo[A/C#]u can see it fad[Bm7]in' fast. [A]
 So you grab [D]a piece of somethin' tha[A/C#]t you think is g[Bm7]onna last. [A]

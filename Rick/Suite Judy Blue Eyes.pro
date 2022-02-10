@@ -2,7 +2,11 @@
 {subtitle:Crosby, Stills and Nash}
 {metronome:154}
 {c:154 BPM}
-{ipodid:}
+https://youtu.be/cMJug2iz3NA - Original 
+
+https://youtu.be/kVUwrifwKrI - Live
+
+https://youtu.be/XWvw_uZPGDA - Live 2
 DADDAD
 
 [E]It's getting to the [D]point where [A]I'm no [E]fun any [B]more, I am [A]sorry.   [Asus7]

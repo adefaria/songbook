@@ -1,5 +1,7 @@
 {title:You Can Do Magic}
 {subtitle:America}
+{zoom-ipad: 1.000000}
+https://youtu.be/cLCZV9pQUaE
 
 I [Em]never be[Bm]lieved in [C]things that [D]I couldn't see [Em]
 I said if [Bm]I can't [C]feel it then [D]how can it be [Em]
