@@ -1,4 +1,4 @@
-{title:Magellen}
+{title:Magellan}
 {subtitle:Mike Fraser}
 {key:D}
 
