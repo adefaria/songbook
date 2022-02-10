@@ -1,5 +1,5 @@
 {title:She's A Woman chords}
-{subtitle:The Beatles}
+{subtitle:Beatles}
 She's A Woman chords
 The Beatles
 

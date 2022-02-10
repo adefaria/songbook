@@ -1,5 +1,6 @@
 {title:Feel A Whole Lot Better}
 {subtitle:Byrds}
+https://youtu.be/to-RVV_3anw
 134 BPM 1st guitar - then 2nd guitar
 
 [A]The reas-on why. Oh I can't saay. 

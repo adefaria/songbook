@@ -1,7 +1,9 @@
 {title:Do It Again}
-{zoom-ipad:1.180000}
+{ipodid: 9024644314861715608}
+{zoom-ipad:1.140000}
 {time: 11:40}
-{ipodid:9024644314861715608}
+
+https://youtu.be/jmdiKePVUy8
 
 [Gm7][Cm7][Dm7][Ebmaj7][Bb][Dm7][D7#9] 2X
 
@@ -18,7 +20,6 @@ Then you love a little wild one. And she brings you only sorrow.
 All the time you know she's smilin'. You'll be on your knees tomorrow.
 
 **Chorus
-
 Long Solo [Gm7][Cm7][Dm7][Ebmaj7][Bb][Dm7][D7#9] 
 
 [Gm7]Now you swear and kick and beg us. That you're not a gamblin' man.

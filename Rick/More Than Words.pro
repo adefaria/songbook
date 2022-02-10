@@ -1,7 +1,8 @@
-{title:More than words}
+{title:More Than Words}
 {subtitle:Extreme}
-{zoom-ipad: 1.148845}
-{ipodid:}
+{zoom-ipad: 1.180000}
+{ipodid: 9024644314861715605}
+
 [G]Saying I l[Cadd9]ove you is [Am7]not the words I [C]want to [D]hear from [G]you
 [G]It's not that I [Cadd9]want you [Am7]not to say but [C]if you [D]only [Em]knew
 [Bm7]How [Am7]easy [D]It would be to [G]show me[D/F#] how you [Em]feel
@@ -22,4 +23,4 @@ And touch me. Hold me close don't ever let me go
 More than words Is all I ever needed you to show
 Then you wouldn't have to say That you love me Cos I'd All Ready Know
 
-REPEAT BRIDGE AD LIB AND FADE                                     
+REPEAT BRIDGE AD LIB AND FADE

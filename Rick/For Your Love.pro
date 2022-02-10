@@ -1,6 +1,7 @@
 {title: For Your Love}
 {subtitle:Yardbirds}
-{zoom-ipad:1.175560}
+{zoom-ipad:1.145560}
+https://youtu.be/Z2LSSgQMc2E
 [E][G][A][Am](For your love)3X
 
 [Em]I'll give you [G]everything and [A]more, that's for [Am]sure. (For your love)
