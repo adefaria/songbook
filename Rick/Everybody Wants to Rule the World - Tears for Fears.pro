@@ -1,5 +1,6 @@
 {title:Everybody Wants to Rule the World}
 {subtitle: Tears for FEARS}
+{zoom-ipad: 1.020000}
 
 https://www.youtube.com/watch?v=hhQQgU7hfmI
 

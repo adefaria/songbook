@@ -1,7 +1,9 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{zoom-ipad: 1.270000}
-{ipodid: 9024644314861715726}
+{ipodid:9024644314861715726}
+
+https://youtu.be/qKGTaplzmV4}
+
 {metronome:76}
 {c:76BPM}
 {time:5:46}

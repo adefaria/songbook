@@ -1,10 +1,10 @@
 {title:Lonely People}
+{zoom-ipad: 1.030000}
 {metronome:79}
 {c:155 BPM}
-{zoom-ipad:1.059215}
-[G] [Em] [Bm]   2X
-[C][D][G][D][Em7]
-[C][D][G][D]
+https://youtu.be/f3vnmV6pPKI
+
+[G][Em][Bm]   2X [C][D][G][D][Em7][C][D][G][D]
 
 [G]This is for [Em]all the lonely [Bm]people. [G]Thinking that [Em]life has passed them [Bm]by. [D]
 [C](Don't give [D]up until you [G]drink [D]from the [Em]silver [D]cup.)[C]
@@ -25,4 +25,4 @@ Hit it! Softly [G][D][F][F#][G]      [G][D][F][F#][G][F#]Stop Harp
 [G](ah)This is for [Em]all the lonely [Bm]people. [G]Thinking that [Em]life has passed them [Bm]by. [D]
 [C]Don't give [D]up until you [G]drink from the [Em7]silver cup.
 [C](She'll never [D]take you down or [G]never [Em7]give you up.
-[C]You'll never [D]know until you [Em]try.) Rick 5th Other the 5th
+[C]You'll never [D]know until you [Em]try.) Rick 5th

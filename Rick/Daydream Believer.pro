@@ -1,5 +1,6 @@
 {title:Daydream Believer}
 {subtitle:The Monkees}
+{zoom-ipad: 1.400000}
 {metronome:126} {c:126 BPM}
 Oh, I could h[G]ide 'neath the w[Am]ings of the b[Bm]luebird as it si[C]ngs. 
 The s[G]ix-o-clock a[Em]larm would never r[A7]ing. [D7]

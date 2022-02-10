@@ -2,9 +2,9 @@
 {subtitle:Sam Cooke}
 {metronome: 115}
 {c:115 BPM}
-{zoom-ipad: 1.282628}
-[A]
-Intro - Acapella
+{zoom-ipad:1.272628}
+https://youtu.be/eUPyLsswR_A
+[A]Intro - Acapella
 If you ever, change your mind, about leaving, leaving me behind. 
 Wo, oh, bring it to me. 
 Bring your sweet loving, bring it on home to me. 

@@ -1,6 +1,6 @@
 {title:Band on the Run}
 {subtitle:Beatles}
-{zoom-ipad:0.820000}
+https://youtu.be/d4ZLt-lWRms
 {metronome:109}
 {c:109 BPM}
 Intro 2X
@@ -27,7 +27,6 @@ And a bell was ringing in the [Fmaj7]village square. For the rabbits on the ru[E
 Solo
 
 Well, the [C]night was falling as the [Fmaj7]desert world began to settle dow[C]n. In the [C]town they're searching for us [Fmaj7]every where but we never will be foun[Em]d.
-
 [G]Band on the [C]run. [Em]Band [C]on the [Am]run.
 And the [F]county judge...Who [C]held a grudge...Will [Fmaj7]search for evermore.
 [N.C.]For the [C]band on the run. Band on the run. Band on the run. Band on the run. Band on the run. [C][G][C]

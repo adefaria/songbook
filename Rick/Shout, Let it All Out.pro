@@ -2,6 +2,8 @@
 {subtitle:Tears For Fears}
 Capo 3
 
+https://youtu.be/ZEWwZNUafKo
+
 **[Em]Shout, Shout, let it all out. [Cmaj7]These are the things I can do without.
 Come [Asus2]on, I'm talking to you. Come [Em]on. 2X
 

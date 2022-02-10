@@ -1,25 +1,16 @@
-{title:Do You Love Me - Now That I Can Dance}
-The Contours
-[F] [Bb] [C] [Dm] [Bbm]
+{title:Do You Love Me Now That I Can Dance}
+https://youtu.be/3EoI-6lQFIE
 
-[F]You broke my heart. [Bb]'Cause I couldn't danse.
-[C]You didn't Even want me a[Dm]round.
-And now I'm [C]backk. 
-To let YOU know, I can really shake 'em down.
-(3 hits)
+[F][Bb][C][Dm][Bbm]
 
-*Do you [F]love me? (I can [Bb]really [C]move) 
-Do you [F]love me? (I'm [Bb]in the [C]groove) 
-Now, do you [F]love me? ([Bb]Do you [C]love me) 
-([Bb]Now that [Bbm]I can dance.)  ([C]dance) 
+[F]You broke my heart. [Bb]'Cause I couldn't danse. [C]You didn't Even want me a[Dm]round.
+And now I'm [C]backk. To let YOU know, I can really shake 'em down. (3 hits)
 
-Watch me now, Hey! 
-([F]work, work) 
-Ah, [Bb]work it out [C]baby.
-([F]work, work) 
-Well, you [Bb]drivin' me [C]crazy.
-([F]work, work) 
-With a [Bb]little bit a [C]soul now. ([F]work) 
+*Do you [F]love me? (I can [Bb]really [C]move) Do you [F]love me? (I'm [Bb]in the [C]groove) 
+Now, do you [F]love me? ([Bb]Do you [C]love me.([Bb]Now that [Bbm]I can dance.) ([C]dance) 
+
+Watch me now, Hey! ([F]work, work) Ah, [Bb]work it out [C]baby. ([F]work, work) 
+Well, you [Bb]drivin' me [C]crazy.([F]work, work) With a [Bb]little bit a [C]soul now. ([F]work) 
 
 I can [F]mash-potato (I can [Bb]mash-po[C]tatoe)
 And I can [F]do the twist (I can [Bb]do the [C]twist) 

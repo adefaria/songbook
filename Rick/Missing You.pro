@@ -1,4 +1,4 @@
-{title:MISSING YOU}
+{title:Missing You}
 {subtitle:John Waite}
 
 [C]Every time I think of y[Am]ou

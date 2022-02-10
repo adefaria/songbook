@@ -1,4 +1,4 @@
-{title:I SHOT THE SHERIFF}
+{title:I Shot The Sheriff}
 {zoom-ipad:0.770000}
 
 [Gm]I shot the sheriff. [Cm] But I didn't shoot no [Gm]deputy, oh no! Oh!
