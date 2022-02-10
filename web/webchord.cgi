@@ -247,7 +247,7 @@ $chordpro = param('chordpro');
 if (-f $chordpro) {
   $infile = $chordpro;
 } else {
-  my @songbooks = qw(Andrew Rick Mikey Bluegrass Kent XMAS);
+  my @songbooks = qw(Andrew Rick Mikey Kent Rob Bluegrass Kent XMAS);
 
   for (@songbooks) {
     if (-f "/opt/songbook/$_/$chordpro") {

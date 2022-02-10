@@ -1,9 +1,11 @@
 {title:All You Need Is Love}
 {subtitle:Beatles}
-{zoom-ipad: 0.980000}
+{ipodid: 9024644314861715712}
 {metronome:103}
 {c:103 BPM}
-{ipodid: 9024644314861715712}
+
+https://youtu.be/1A8sOOKianA
+
 [G][D][C][D7][Em7][D7][A7][B7][Em]
  
 [G]Love, [D]love, [Em7]love. [G]Love, [D]love, [Em7]Love. [D7]Love. [G]Love. [D7/F#][D7][D][C][D]Cello.
@@ -34,4 +36,3 @@ Outro
 [G]All you [Am7]need is [D7]love [E][D][C#] Everybody.
 [G]All you [B7]need is [Em]love, [G]love. [C]Love is [D7]all you [G]need.
 Love is all you need (several X) Adlibs to fade to "She Loves you, yeah, yeah, yeah
-{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}

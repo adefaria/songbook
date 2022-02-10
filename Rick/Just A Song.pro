@@ -1,4 +1,4 @@
-{title:Just A Song}
+{title:Just a Song}
 {subtitle:Graham Nash}
 {metronome: 108}
 {c:108 BPM}

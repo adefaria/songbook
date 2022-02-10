@@ -46,3 +46,4 @@ La. . .
 La. . .
 La. . .
 La. . 
+{musicpath:/storage/emulated/0/Music/Dreams.mp3}

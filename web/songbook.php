@@ -7,7 +7,7 @@ if (isset($_REQUEST['debug'])) {
 } // if
 
 // As others do not edit their chordpro files carefully we will favor my subdirectory over others.
-$songFolders = array('Andrew', 'Rick', 'Mikey', 'Kent', 'Bluegrass', 'XMAS');
+$songFolders = array('Andrew', 'Rick', 'Mikey', 'Kent', 'Rob', 'Bluegrass', 'XMAS');
 
 // Initialize music objects
 $songs   = getSongs($songbook);

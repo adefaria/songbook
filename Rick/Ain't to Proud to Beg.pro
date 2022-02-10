@@ -1,5 +1,7 @@
 {title:Ain't to Proud to Beg}
-{subtitle:Temptations}                
+{subtitle:Temptations}
+
+https://youtu.be/_ObVQPBD0Uw
 [C]I know you want to leave me, [F]
 I re[C]fuse to let you go.[F]
 If I have to [C]beg & plead for your [F]sympathy,

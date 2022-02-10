@@ -1,8 +1,10 @@
 {title:Listen To The Music}
 {subtitle:Doobie Brothers}
+{zoom-ipad: 1.020000}
 {metronome:108}
 {c:108 BPM}
-{zoom-ipad:1.080000}
+
+https://youtu.be/S3ta4T9tIUM
 4 X
 [G]Don't you feel it growing, day by [C]day? [G]People, getting ready for the [Em]news. Some are [D]happy, some are [C]sad. Ohha gonna let the music [G]play. [C]mmmh
 

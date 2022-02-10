@@ -1,7 +1,8 @@
 {title:Double Vision}
 {subtitle:Foreigner }
 
-[A]Feelin' down and dirty   feelin' kind of mea[A]n [D] [C] [G] [A]
+https://youtu.be/jGVi_zrH38o
+[A]Feelin' down and dirty   feelin' kind of mea[A]n. [D][C][G][A]
 [A]I've been from one to another extreme [F] [C] [B] [G] [A]
 [A]It's time I had a good time  ain't got time to wai[A]t [D] [C] [G] [A]
 [A]I want to stick around ‘til I can't see straight [F] [C] [B] [G] [A]

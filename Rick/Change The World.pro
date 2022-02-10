@@ -1,9 +1,10 @@
 {title:Change The World}
 {subtitle:Eric Clapton}
+{zoom-ipad: 1.040000}
+{ipodid: 9024644314861715922}
 {metronome:97}
 {c:97 BPM}
-{zoom-ipad:1.070000}
-{ipodid: 9024644314861715922}
+https://youtu.be/x11NA63gLDM
 Chords 2X
 
 If I can reeach the stars.  Poull one down for you. 
