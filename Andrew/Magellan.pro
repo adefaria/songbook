@@ -12,23 +12,19 @@ Of a de[Dmaj7]epest blue [G]ocean [Gb5] [G] [Gb5]
 
 [G] [Gb5] [G6]
 
-And the life of the [D6]sea [Dmaj7] [D] [Dmaj7]
+In the life of the [D6]sea [Dmaj7] [D] [Dmaj7]
 
-Without a connection
-A compass he bears
-Scouting the horizon
-A stormful of tears
-Out in the distance
-Love lights the way
-Guiding the light of a 
-Blazing white blueish blue day
+Without a connection a comfort he bears
+A clouding the horizon a stormful of tears
+Out in the distance a love lights the way
+Flying the light of a blazing white blueish blue day
 He sails far away
 
 {c:Chorus}
 
-Not[Em] that he [A7sus4]may [A7]
+A [Em]life that he [A7sus4]made [A7]
 On that [F#m]shore far [Bm]away
-[G]It's a lo[A]vely [D]day!
+[G]Is a lo[A]ve he [D]saved
 
 {c:Verse - playful}
 
@@ -42,9 +38,9 @@ Could never begin to unwrap all the secrets she knows
 
 The hope that she made
 On that shore far away
-It's a lovely day!
+Is a lovely day!
 
-It's a love lovely day
+Is a love that he gave
 
 {c:Lead}
 
