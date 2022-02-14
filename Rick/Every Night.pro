@@ -1,2 +1,0 @@
-{title:Every Night}
-{subtitle:}
