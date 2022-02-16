@@ -1,13 +1,16 @@
 {title:Crazy Love}
 {subtitle:Poco}
+{Capo:2}
+{time:3:15}
 {duration:2:57}
+{key:D}
 
-[Fmaj7] [C]
+[Gmaj7] [D]
 
-Tonight I'm gonna [Fmaj7]break away
-[G]Just you [Fmaj7]wait and [C]see
-I'll never be imp[Fmaj7]risoned by
-A [G]faded [Fmaj7]memor[C]y
+Tonight I'm gonna [Gmaj7]break away
+[A]Just you [Gmaj7]wait and [D]see
+I'll never be imp[Gmaj7]risoned by
+A [A]faded [Gmaj7]memor[D]y
 
 {start_of_chorus: 3 part}
 Just when I think I'm over her
@@ -24,12 +27,12 @@ The tears come down again
 
 {c:Chorus}
 
-It happens all the [Fmaj7]time
-This [G]crazy love [C]of mine
-Wraps around my [Fmaj7]heart
-Re[G]fusing to [C]unwind
-[Fmaj7]Ooo   [G]Ooo [Fmaj7]Crazy [C]Love
-[Fmaj7]Ahh    [G]ha [Fmaj7] [C]
+It happens all the [Gmaj7]time
+This [A]crazy love [D]of mine
+Wraps around my [Gmaj7]heart
+Re[A]fusing to [D]unwind
+[Gmaj7]Ooo   [A]Ooo [Gmaj7]Crazy [D]Love
+[Gmaj7]Ahh    [A]ha [Gmaj7] [D]
 
 {start_of_chorus: Oohs}
 Count the stars in a summer sky
@@ -49,6 +52,6 @@ A faded memory
 
 {c:Chorus}
 
-Tonight I'm gonna [Fmaj7]break away
+Tonight I'm gonna [Gmaj7]break away
 
-{musicpath:/storage/emulated/0/Music/Crazy Love.nomp3}
+{musicpath:/storage/emulated/0/Music/Crazy Love.mp3}
