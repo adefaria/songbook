@@ -2,6 +2,7 @@
 {subtitle:The Monkees}
 {duration:3:00}
 {key:G}
+{musicpath:/storage/emulated/0/Music/Daydream Believer.mp3}
 
 {c:Intro}
 
@@ -34,4 +35,3 @@ But how much, baby, do we really need?
 
 {c:Chorus repeat and fade}
 
-{musicpath:/storage/emulated/0/Music/Daydream Believer.mp3}

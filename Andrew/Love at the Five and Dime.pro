@@ -2,6 +2,7 @@
 {subtitle:Nanci Griffith}
 {duration:6:32}
 {key:C}
+{musicpath:/storage/emulated/0/Music/Love at the Five and Dime.mp3}
 
 
 [C]Rita was sixteen years, hazel eyes and chestnut hair

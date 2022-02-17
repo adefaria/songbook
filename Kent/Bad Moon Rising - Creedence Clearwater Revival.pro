@@ -1,4 +1,4 @@
-{title:Bad Moon Rising}
+{title:Bad Moon Rising kent}
 {subtitle:Creedence Clearwater Revival}
  [Intro] | D | A G | D | D | 
 
