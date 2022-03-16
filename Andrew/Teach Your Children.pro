@@ -19,8 +19,8 @@ If they told you you will [D] cry
 So just look at them and [Bm] sigh [G] [A]
 And know they [D] love you [G] [D] [A] [A7]
 
-And[D] you of tender [G] years(Can you hear and do you care)
-Can't know the [D] fears (And can you see)
+And[D] you of tender [G] years(Can you hear and do you care and)
+Can't know the [D] fears (Can you see)
 that your elders [A] grew by [A7](We must be free)
 And so please [D] help (To teach your children)
 them with your [G] youth (What you believe in)
