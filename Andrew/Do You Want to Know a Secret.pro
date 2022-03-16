@@ -1,7 +1,7 @@
 {title:Do You Want to Know a Secret}
 {subtitle:Beatles}
 {key:E}
-{time:1:28}
+{duration:1:28}
 {musicpath:/storage/emulated/0/Music/Do You Want to Know a Secret.mp3}
 
 [Em]You'll never know how much [Am]I really [Em]love you

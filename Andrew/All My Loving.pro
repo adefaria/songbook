@@ -1,6 +1,6 @@
 {title:All My Loving}
 {subtitle:Beatles}
-{time:2:10}
+{duration:2:10}
 {key:F#m}
 
 Close your [F#m]eyes and I'll [B]kiss you
