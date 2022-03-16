@@ -1,7 +1,6 @@
 {title:Crazy Love}
 {subtitle:Poco}
 {Capo:2}
-{time:3:15}
 {duration:2:57}
 {key:D}
 
