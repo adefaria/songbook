@@ -12,7 +12,7 @@ And she ran to the police st[D]ation
 When her [E]papa found out he began to shout
 And he started the [A]investigation
 
-It's against the [D]law
+It's against the [E]law
 It was against the [A]law
 What the mama [E]saw
 It was against [A]the law

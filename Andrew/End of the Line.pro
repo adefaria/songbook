@@ -41,7 +41,6 @@ I'm just glad to be here, happy to be alive
 It don't matter if you're by my side
 I'm satisfied
 
-{c:Chorus 2X}
 Well it's all right, even if you're old and grey
 Well it's all right, you still got something to say
 Well it's all right, remember to live and let live
