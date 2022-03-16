@@ -1,7 +1,7 @@
 {title:Hard Country}
 {subtitle:Poco}
 {key:A}
-{time:7:28}
+{duration:7:28}
 {musicpath:/storage/emulated/0/Music/Hard Country.mp3}
 
 T[G]here goes Bobby Ray, Ju[D/F#]nior, he[Em7]'s pullin’ out of town[C]
