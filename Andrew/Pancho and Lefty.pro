@@ -1,5 +1,6 @@
 {title:Pancho and Lefty}
 {subtitle:Townes Van Zandt}
+{musicpath:/storage/emulated/0/Music/Pancho and Lefty.mp3}
 {duration:4:47}
 
 [D]Livin' on the road, my friend
@@ -58,4 +59,3 @@ Yes a few old gray federales still say
 They could have had him any day
 They only let him go so wrong
 Out of kindness, I suppose
-{musicpath:/storage/emulated/0/Music/Pancho and Lefty.mp3}

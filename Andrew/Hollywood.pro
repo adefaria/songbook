@@ -1,8 +1,8 @@
 {title:Hollywood}
 {subtitle:Los Lonely Boys}
+{musicpath:/storage/emulated/0/Music/Hollywood.mp3}
 {key:C}
 {duration:4:14}
-{musicpath:/storage/emulated/0/Music/Hollywood.mp3}
 
 [Dm] [C]
 

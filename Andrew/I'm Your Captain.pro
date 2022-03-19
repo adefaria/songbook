@@ -1,5 +1,6 @@
 {title:I'm Your Captain}
 {subtitle:Grand Funk Railroad}
+{musicpath:/storage/emulated/0/Music/I'm Your Captain.mp3}
 {duration:10:13}
 {key:D}
 
@@ -58,4 +59,3 @@ I'm getting closer to my home ...
 I'm getting closer to my home ...
 
 {c:Repeated to fade}
-{musicpath:/storage/emulated/0/Music/I'm Your Captain.mp3}

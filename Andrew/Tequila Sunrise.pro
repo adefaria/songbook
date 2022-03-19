@@ -1,5 +1,6 @@
 {title:Tequila Sunrise}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Teuila Sunrise.mp3}
 {duration:2:54}
 {key:G}
 
@@ -34,4 +35,3 @@ You just get [Em7]numb[A]
 It's another tequila sunrise
 This old world still looks the same
 Another frame
-{musicpath:/storage/emulated/0/Music/Teuila Sunrise.mp3}

@@ -1,5 +1,6 @@
 {title:Here in Heaven}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Here in Heaven.wma}
 {key:D}
 
 Sometimes I can't escape the sensation kills the overload
@@ -39,5 +40,3 @@ And I can't waste a fantasy - I have for you and me
 
 I wanna stay with you here in Heaven
 I wanna stay with you here in Heaven
-
-{musicpath:/storage/emulated/0/Music/Here in Heaven.wma}

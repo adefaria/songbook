@@ -1,5 +1,6 @@
 {title:Seven Bridges Road}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Seven Bridges Road.mp3}
 {duration:3:14}
 {key:D}
 
@@ -38,5 +39,3 @@ And if ever you decide
 You should go
 There is a taste of time sweetened honey
 Down the Seven Bridges Road
-
-{musicpath:/storage/emulated/0/Music/Seven Bridges Road.mp3}

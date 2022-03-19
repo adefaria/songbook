@@ -1,5 +1,6 @@
 {title:The Load Out - Stay}
 {subtitle:Jackson Browne}
+{musicpath:/storage/emulated/0/Music/The Load Out - Stay.mp3}
 {duration:9:50)}
 {key:G}
 
@@ -97,4 +98,3 @@ And the [G]roadies don't [Em]mind [C] [D]
 If we t[G]ake a little [Em]time
 And we [C]leave it all [D]behind singing
 [Em]One more song
-{musicpath:/storage/emulated/0/Music/The Load Out - Stay.mp3}

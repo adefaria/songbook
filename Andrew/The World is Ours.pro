@@ -1,5 +1,6 @@
 {title:The World is Ours}
 {subtitle:Red Shoes for Romeo}
+{musicpath:/storage/emulated/0/Music/The World is Ours.mp3}
 {key:A}
 
 [Amaj7] [Dmadd2] (4X)
@@ -36,4 +37,3 @@ To [Dm]share... all night long
 {c:Chorus}
 
 All night long
-{musicpath:/storage/emulated/0/Music/The World is Ours.mp3}

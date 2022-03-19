@@ -1,5 +1,6 @@
 {title:Twist and Shout}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Twist and Shout.mp3}
 {duration:2:36}
 {key:A}
 
@@ -41,5 +42,3 @@ And let me know that you're might, (know you're mine)
 {c:Break}
 
 Well shake it shake it shake it baby now (4X)
-
-{musicpath:/storage/emulated/0/Music/Twist and Shout.mp3}

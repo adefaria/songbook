@@ -1,5 +1,6 @@
 {title:Love Will Keep Us Alive}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Love Will Keep Us Alive.mp3}
 {duration:5:05}
 {key:A}
 
@@ -47,4 +48,3 @@ Now you've given me the will to survive
 When we're hungry, love will keep us alive
 When we're hungry, love will keep us alive
 When we're hungry, love will keep us alive
-{musicpath:/storage/emulated/0/Music/Love Will Keep Us Alive.mp3}

@@ -1,5 +1,6 @@
 {title:I Saw Her Standing There}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/I Saw Her Standing There.mp3}
 {duration:2:54}
 {key:E}
 
@@ -41,5 +42,3 @@ Oh, since I saw her standing there
 
 Oh, since I [E]saw her sta[B]nding th[E]ere
 Yeah, well since [E]I saw her stan[B]ding the[A]re [E]
-
-{musicpath:/storage/emulated/0/Music/I Saw Her Standing There.mp3}

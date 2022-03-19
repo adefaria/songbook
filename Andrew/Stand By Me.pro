@@ -1,5 +1,6 @@
 {title:Stand By Me}
 {subtitle:John Lennon}
+{musicpath:/storage/emulated/0/Music/Stand By Me.mp3}
 {duration:2:58}
 
 When the [D]night has come
@@ -34,5 +35,3 @@ Oh, stand by me, stand by me, stand by me
 Darling, darling stand by me
 Stand by me
 Oh stand by me, stand by me, stand by me
-
-{musicpath:/storage/emulated/0/Music/Stand By Me.mp3}

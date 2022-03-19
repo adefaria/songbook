@@ -1,5 +1,6 @@
 {title:Your Momma Don't Dance}
 {subtitle:Loggins and Messina}
+{musicpath:/storage/emulated/0/Music/Your Momma Don't Dance.mp3}
 {duration:2:49}
 {key:C}
 
@@ -41,4 +42,3 @@ OUTTA THE CAR LONG - HAIR
 Where ya [C]go to rock and roll.
 Where ya [C]go to rock and roll.
 Where ya [C]go to rock and roll.
-{musicpath:/storage/emulated/0/Music/Your Momma Don't Dance.mp3}

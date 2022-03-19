@@ -1,5 +1,6 @@
 {title:Boys}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Boys.mp3}
 {duration:2:27}
 {key:E}
 
@@ -45,5 +46,3 @@ Don't ya know I mean boys? (yeah, yeah, boys)
 Ooh, boys (yeah, yeah, boys)
 Ah ha (yeah, yeah, boys)
 Well, I talk about boys now
-
-{musicpath:/storage/emulated/0/Music/Boys.mp3}

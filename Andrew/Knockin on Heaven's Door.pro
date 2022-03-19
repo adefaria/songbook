@@ -1,5 +1,6 @@
 {title:Knockin' On Heaven's Door}
 {subtitle:Bob Dylan}
+{musicpath:/storage/emulated/0/Music/Knockin on Heaven's Door.mp3}
 {duration:5:36}
 {key:G}
 
@@ -25,4 +26,3 @@ There's a long black cloud comin' on down
 I feel like I'm knockin' on heaven's door.
 
 Knock, knock, knockin' on heaven's door 4x
-{musicpath:/storage/emulated/0/Music/Knockin on Heaven's Door.mp3}

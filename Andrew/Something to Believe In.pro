@@ -1,5 +1,6 @@
 {title:Something to Believe In}
 {subtitle:Poison}
+{musicpath:/storage/emulated/0/Music/Something to Believe In.mp3}
 {duration:5:28}
 {key:D}
 
@@ -96,4 +97,3 @@ Yeah sometimes I wish I didn't know now
 The things I didn't know then, yeah
 
 And give me something to believe in, yeah, yeah
-{musicpath:/storage/emulated/0/Music/Something to Believe In.mp3}

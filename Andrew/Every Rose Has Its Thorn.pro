@@ -1,5 +1,6 @@
 {title:Every Rose Has Its Thorn}
 {subtitle:Poison}
+{musicpath:/storage/emulated/0/Music/Every Rose Has Its Thorn.mp3}
 {duration:4:44}
 {key:G}
 
@@ -58,4 +59,3 @@ To hear that tears me up inside
 And to see you cuts me like a knife I guess
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Every Rose Has Its Thorn.mp3}

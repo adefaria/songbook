@@ -1,5 +1,6 @@
 {title:Love Potion #9}
 {subtitle:The Searchers}
+{musicpath:/storage/emulated/0/Music/Love Potion #9.mp3}
 {duration:2:07}
 {key:Am}
 
@@ -35,5 +36,3 @@ He broke my little bottle of Love Potion Number Nine
 Love potion number nine
 Love Potion number nine
 Love Potion number nine
-
-{musicpath:/storage/emulated/0/Music/Love Potion #9.mp3}

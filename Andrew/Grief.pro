@@ -1,5 +1,6 @@
 6{title:Grief}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Grief.mp3}
 {key:C}
 
 [C] [Csus4] [Cadd2] [C] [Fmaj7] [F6] [F]
@@ -44,5 +45,3 @@ And I see it all to clear
 I need to let you know
 
 {c:Chorus 2x}
-
-{musicpath:/storage/emulated/0/Music/Grief.mp3}

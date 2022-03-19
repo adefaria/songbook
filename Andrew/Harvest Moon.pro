@@ -1,5 +1,6 @@
 {title:Harvest Moon}
 {subtitle:Neil Young}
+{musicpath:/storage/emulated/0/Music/Harvest Moon.mp3}
 {duration:5:11}
 {key:D}
 
@@ -62,4 +63,3 @@ On this harvest moon.
 I want to see you dance again
 [A7sus4]Because I'm still in love with you[A]
 On this harvest moon.
-{musicpath:/storage/emulated/0/Music/Harvest Moon.mp3}

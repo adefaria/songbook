@@ -1,5 +1,6 @@
 {title:I'm a Believer}
 {subtitle:The Monkees}
+{musicpath:/storage/emulated/0/Music/I'm a Believer.mp3}
 {duration:2:46}
 {key:G}
 
@@ -40,4 +41,3 @@ Dissapointment haunted all my dream
 {c:Chorus}
 
 {c:vamp}
-{musicpath:/storage/emulated/0/Music/I'm a Believer.mp3}

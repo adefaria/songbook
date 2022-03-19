@@ -1,5 +1,6 @@
 {title:The Promise Land}
 {subtitle:Laidback}
+{musicpath:/storage/emulated/0/Music/The Promise Land.mp3}
 {key:Em}
 
 [Em7] [Bm] [D] [A] 2x
@@ -24,4 +25,3 @@
 [Em7] [Bm] [D] [A] 2x Verse
 
 {c:End}
-{musicpath:/storage/emulated/0/Music/The Promise Land.mp3}

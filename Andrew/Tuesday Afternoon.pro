@@ -1,5 +1,6 @@
 {title:Tuesday Afternoon}
 {subtitle:Moody Blues}
+{musicpath:/storage/emulated/0/Music/Tuesday Afternoon.mp3}
 {duration:4:57}
 {key:Am}
 
@@ -34,5 +35,3 @@ It doesn't matter to me, chasing the clouds away.
 Something, calls to me,
 The trees are drawing me near, I've got to find out why?
 Those gentle voices I hear, explain it all with a sigh.
-
-{musicpath:/storage/emulated/0/Music/Tuesday Afternoon.mp3}

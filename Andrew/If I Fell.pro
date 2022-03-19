@@ -1,5 +1,6 @@
 {title:If I Fell}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/If I Fell.mp3}
 {duration:2:20}
 {key:C}
 
@@ -38,5 +39,3 @@ When she learns we are two
 If I [Fm]fell in love with [G]you
 
 [Fm] [C]
-
-{musicpath:/storage/emulated/0/Music/If I Fell.mp3}

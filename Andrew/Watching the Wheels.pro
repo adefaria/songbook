@@ -1,5 +1,6 @@
 {title:Watching the Wheels}
 {subtitle:John Lennon}
+{musicpath:/storage/emulated/0/Music/Watching the Wheels.mp3}
 {duration:3:33}
 {key:C}
 
@@ -31,4 +32,3 @@ I tell them there's no hurry
 I'm just sitting here doing time
 
 [Chorus]
-{musicpath:/storage/emulated/0/Music/Watching the Wheels.mp3}

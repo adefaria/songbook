@@ -1,5 +1,6 @@
 {title:Here Comes the Sun}
 {subtitle:George Harrison}
+{musicpath:/storage/emulated/0/Music/Here Comes the Sun.mp3}
 {duration:3:12}
 {key:A}
 {capo:7}
@@ -34,4 +35,3 @@ Here comes the sun, here comes the sun
 And I say it's all right
 Here comes the sun, here comes the sun
 It's all right, it's all right
-{musicpath:/storage/emulated/0/Music/Here Comes the Sun.mp3}

@@ -1,5 +1,6 @@
 {title:It Won't Be Long}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/It Won't Be Long.mp3}
 {duration:2:14}
 {key:E}
 
@@ -35,5 +36,3 @@ Now I know that you won't leave me no more
 It won't be long yeah (yeah), yeah (yeah), yeah (yeah)
 It won't be long (yeah), yeah (yeah), yeah (yeah)
 It won't be long yeah (yeah), 'til I belong to you [G6] [F#7] [Fmaj7] [Emaj7]
-
-{musicpath:/storage/emulated/0/Music/It Won't Be Long.mp3}

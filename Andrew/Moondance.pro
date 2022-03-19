@@ -1,5 +1,6 @@
 {title:Moondance}
 {subtitle:Van Morrison}
+{musicpath:/storage/emulated/0/Music/Moondance.mp3}
 {duration:4:35}
 {key:Am}
 
@@ -48,5 +49,3 @@ On a magic night
 La, la, la, la in the moonlight
 On a magic night
 Can't I just have one more dance with you my love
-
-{musicpath:/storage/emulated/0/Music/Moondance.mp3}

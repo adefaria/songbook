@@ -1,5 +1,6 @@
 {title:Last Man on Earth}
 {subtitle:Alice Cooper}
+{musicpath:/storage/emulated/0/Music/Last Man on Earth.mp3}
 {duration:3:48}
 {key:Gm}
 
@@ -50,5 +51,3 @@ Got no troubles, got no time, and everything is fine
 [F]Coz I'm the k[G]ing of [E]eve[D]ryt[C]hin[B]g
 [Am]It's all mine...
 Mine, mine, mine, mine, mine, mine
-
-{musicpath:/storage/emulated/0/Music/Last Man on Earth.mp3}

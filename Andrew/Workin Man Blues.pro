@@ -1,5 +1,6 @@
 {title:Workin Man Blues}
 {subtitle:Merle Haggard}
+{musicpath:/storage/emulated/0/Music/Workin Man Blues.mp3}
 {duration:2:33}
 {key:A}
 
@@ -35,4 +36,3 @@ Sing a little bit of these working man blues
 
 Yeah drink a little beer in a tavern,
 Cry a little bit of these working man blues
-{musicpath:/storage/emulated/0/Music/Workin Man Blues.mp3}

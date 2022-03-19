@@ -1,5 +1,6 @@
 {title:While My Guitar Gently Weeps}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/While My Guitar Gently Weeps.mp3}
 {duration:4:45}
 {key:Am}
 
@@ -37,5 +38,3 @@ Oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, oh, ooh
-
-{musicpath:/storage/emulated/0/Music/While My Guitar Gently Weeps.mp3}

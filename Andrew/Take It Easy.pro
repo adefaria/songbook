@@ -1,5 +1,6 @@
 {title:Take It Easy}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Take It Easy.mp3}
 {duration:3:32}
 {key:G}
 
@@ -50,4 +51,3 @@ We oughta take it [G]easy [F]easy[C]
 
 {c:Big chord ending:}
 [Em]
-{musicpath:/storage/emulated/0/Music/Take It Easy.mp3}

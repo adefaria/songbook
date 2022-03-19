@@ -1,5 +1,6 @@
 {title:She's No Lady She's My Wife}
 {subtitle:Lyle Lovett}
+{musicpath:/storage/emulated/0/Music/She's No Lady She's My Wife.mp3}
 {duration:3:45}
 {key:G}
 
@@ -37,5 +38,3 @@ She's no lady, she's my wife.
 {c:Played retardo}
 
 [Am7] [Bbm7] [Bm7] [C7] [D7] [G7] [G#13] [G13]
-
-{musicpath:/storage/emulated/0/Music/She's No Lady She's My Wife.mp3}

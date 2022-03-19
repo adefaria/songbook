@@ -1,5 +1,6 @@
 {title:Here Today}
 {subtitle:Paul McCartney}
+{musicpath:/storage/emulated/0/Music/Here Today.mp3}
 {duration:2:30}
 {key:C}
 
@@ -50,4 +51,3 @@ Ouh, ouh, ouh
 Cause you're in my song
 
 Ouh, ouh, ouh here today...
-{musicpath:/storage/emulated/0/Music/Here Today.mp3}

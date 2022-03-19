@@ -1,5 +1,6 @@
 {title:Your Fate Has Been Made}
 {subtitle:Ocean}
+{musicpath:/storage/emulated/0/Music/Your Fate Has Been Made.mp3}
 {key:Am}
 
 [Am] [F] [G] [Am]
@@ -52,4 +53,3 @@ Your fate has been made
 Your fate has been made [E7]
 
 {c:Quiet part}
-{musicpath:/storage/emulated/0/Music/Your Fate Has Been Made.mp3}

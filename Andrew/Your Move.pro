@@ -1,5 +1,6 @@
 {title:Your Move}
 {subtitle:Yes}
+{musicpath:/storage/emulated/0/Music/Your Move.mp3}
 {duration:2:56}
 {key:E}
 
@@ -50,5 +51,3 @@ Diddit diddit diddit diddit diddit diddit diddit didda (Is give peace a chance
 
 'Cause it's time, it's time in time with your time
 And it's news is captured
-
-{musicpath:/storage/emulated/0/Music/Your Move.mp3}

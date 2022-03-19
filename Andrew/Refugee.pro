@@ -1,5 +1,6 @@
 {title:Refugee}
 {subtitle:Tom Petty}
+{musicpath:/storage/emulated/0/Music/Refugee.mp3}
 {duration:3:20}
 {key:F#m}
 
@@ -47,5 +48,3 @@ No you don't have to live like a refugee
 (Don't have to live like a refugee)
 You don't have to live like a refugee
 (Don't have to live like a refugee)
-
-{musicpath:/storage/emulated/0/Music/Refugee.mp3}

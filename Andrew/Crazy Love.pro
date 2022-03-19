@@ -1,5 +1,6 @@
 {title:Crazy Love}
 {subtitle:Poco}
+{musicpath:/storage/emulated/0/Music/Crazy Love.mp3}
 {Capo:2}
 {duration:2:57}
 {key:D}
@@ -52,5 +53,3 @@ A faded memory
 {c:Chorus}
 
 Tonight I'm gonna [Gmaj7]break away
-
-{musicpath:/storage/emulated/0/Music/Crazy Love.mp3}

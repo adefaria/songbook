@@ -1,5 +1,6 @@
-{title:When I Grow Up}
+>{title:When I Grow Up}
 {subtitle:Tim Minchin}
+{musicpath:/storage/emulated/0/Music/When I Grow Up.mp3}
 {duration:3:55}
 {key:G}
 
@@ -48,4 +49,3 @@ Will spend all day just lying in the sun
 And I won't burn because I'll be all grown up
 
 When I grow up (3x)
-{musicpath:/storage/emulated/0/Music/When I Grow Up.mp3}

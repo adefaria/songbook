@@ -1,5 +1,6 @@
 {title:Ventura Highway}
 {subtitle:America}
+{musicpath:/storage/emulated/0/Music/Ventura Highway.mp3}
 {duration:3:38}
 {key:D}
 
@@ -28,4 +29,3 @@ Aw, come on Joe, you can always change your name
 Thanks a lot son, just the same
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Ventura Highway.mp3}

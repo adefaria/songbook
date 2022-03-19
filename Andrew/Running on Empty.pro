@@ -1,5 +1,6 @@
 {title:Running on Empty}
 {subtitle:Jackson Browne}
+{musicpath:/storage/emulated/0/Music/Running on Empty.mp3}
 {duration:4:59}
 {key:A}
 
@@ -58,5 +59,3 @@ You know the way you look so kind
 [D] [E]
 
 [D] [C#] [B] [A]
-
-{musicpath:/storage/emulated/0/Music/Running on Empty.mp3}

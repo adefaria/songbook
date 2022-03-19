@@ -1,5 +1,6 @@
 {title:Get Together}
 {subtitle:The Youngbloods}
+{musicpath:/storage/emulated/0/Music/Get Together.mp3}
 {duration:4:41}
 {key:A}
 {capo:2}
@@ -52,5 +53,3 @@ It's there at your command
 
 Right now
 Right now
-
-{musicpath:/storage/emulated/0/Music/Get Together.mp3}

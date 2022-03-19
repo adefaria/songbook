@@ -1,5 +1,6 @@
 {title:On The Road Again}
 {subtitle:Willie Nelson}
+{musicpath:/storage/emulated/0/Music/{title}.mp3}
 {duration:2:34}
 {key:E}
 [Chorus]
@@ -41,5 +42,3 @@ six months on the road that I thought would never end.
 [A]I'm so glad to be [B]on my couch again.[E]
 [A]I'm so glad [B]to be on my couch again.[E]
 [A][B][E]
-
-{musicpath:/storage/emulated/0/Music/{title}.mp3}

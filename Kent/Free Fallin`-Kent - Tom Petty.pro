@@ -41,35 +41,26 @@ Gonna leave this world for awhile
 
 {soc}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never
 {eoc}
 
 {comment:Chugging part} 2x
-Free falling never
-Free failing never
+Free falling never Free failing never{eoh}
 
 {soc}
+Now I'm free, I'm free fallin'     Oh!
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
-Now I'm free, I'm free fallin'
-{soh}Free falling never
-Free failing never{eoh}
+{soh}Free falling never Free failing never{eoh}
 ...
 {eoc}

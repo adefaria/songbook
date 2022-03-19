@@ -1,5 +1,6 @@
 {title:Naptime}
 {subtitle:Jen Hajj}
+{musicpath:/storage/emulated/0/Music/Naptime.mp3}
 {key:E}
 
 {c:Intro}
@@ -27,5 +28,3 @@ He curls up on my chest and blows me face with kitten breath
 And I fall asleep, and I fall asleep and dream....
 
 About love
-
-{musicpath:/storage/emulated/0/Music/Naptime.mp3}

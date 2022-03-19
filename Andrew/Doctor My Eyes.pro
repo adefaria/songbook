@@ -1,5 +1,6 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
+{musicpath:/storage/emulated/0/Music/Doctor My Eyes.mp3}
 {capo:1}
 {duration:3:25}
 {key:F}
@@ -44,5 +45,3 @@ For having l[C]earned how not to c[Bbsus4]ry.  [F]
 [Bb] [F] 
 
 {c:Instrumental fade out}
-
-{musicpath:/storage/emulated/0/Music/Doctor My Eyes.mp3}

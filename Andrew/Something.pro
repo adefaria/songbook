@@ -1,5 +1,6 @@
 {title:Something}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Something.mp3}
 {duration:3:08}
 {key:C}
 
@@ -33,4 +34,3 @@ And all I have to do is think of her
 Something in the things she shows me
 I don't want to leave her now
 You know I believe and how
-{musicpath:/storage/emulated/0/Music/Something.mp3}

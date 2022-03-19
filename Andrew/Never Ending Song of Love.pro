@@ -1,5 +1,6 @@
 {title:Never Ending Love For You}
 {subtitle:Delaney and Bonnie}
+{musicpath:/storage/emulated/0/Music/Never Ending Song of Love.mp3}
 {duration:3:25}
 
 {c:Run down}
@@ -29,5 +30,3 @@ We can love one another, live for each other from now on
 Feels so good, I can hardly stand it
  
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Never Ending Song of Love.mp3}

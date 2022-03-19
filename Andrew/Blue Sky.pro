@@ -1,5 +1,6 @@
 {title:Blue Sky}
 {subtitle:Allman Brothers}
+{musicpath:/storage/emulated/0/Music/Blue Sky.mp3}
 {duration:5:15}
 {key:E}
 
@@ -36,4 +37,3 @@ You're my blue sky, you're my sunny day
 Lord, you know it makes me high
 When you turn your love my way 
 Turn your love my way, yeah, yeah
-{musicpath:/storage/emulated/0/Music/Blue Sky.mp3}

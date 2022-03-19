@@ -1,5 +1,6 @@
 {title:Oh! Darling}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Oh! Darling.mp3}
 {duration:3:28}
 {key:G}
 
@@ -40,5 +41,3 @@ Oh! Darling, please believe me
 I'll never let you down (Oh believe me darlin')
 Believe me when I tell you
 I'll never do you no harm
-
-{musicpath:/storage/emulated/0/Music/Oh! Darling.mp3}

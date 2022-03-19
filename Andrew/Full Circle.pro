@@ -1,5 +1,6 @@
 {title:Full Circle}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Full Circle.mp3}
 {key:D}
 
 {c:Intro}
@@ -38,4 +39,3 @@ I, need to run free and then
 And I'm choosing to find my way
 
 {c:Chorus} 4X and fade
-{musicpath:/storage/emulated/0/Music/Full Circle.mp3}

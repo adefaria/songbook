@@ -1,5 +1,6 @@
 {title:People Are Strange}
 {subtitle:Doors}
+{musicpath:/storage/emulated/0/Music/People Are Strange.mp3}
 {duration:2:13}
 {key:Em}
 
@@ -39,4 +40,4 @@ When you're strange
 No one remembers your name 
 When you're strange 
 When you're strange 
-When you're strange{musicpath:/storage/emulated/0/Music/People Are Strange.mp3}
+When you're strange

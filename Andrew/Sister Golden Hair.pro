@@ -1,5 +1,6 @@
 {title:Sister Golden Hair}
 {subtitle:America}
+{musicpath:/storage/emulated/0/Music/Sister Golden Hair.mp3}
 {duration:3:14}
 {key:A}
 {duration:3:13}
@@ -32,5 +33,3 @@ Will you love me just a little, just enough to show you care?
 Well I tried to fake it, I don't mind sayin', I just can't make it 
 
 Doo wop doo wop ...
-
-{musicpath:/storage/emulated/0/Music/Sister Golden Hair.mp3}

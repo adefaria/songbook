@@ -1,8 +1,8 @@
 {title:One More Night}
 {subtitle:Bob Dylan}
+{musicpath:/storage/emulated/0/Music/One More Night.mp3}
 {key:G}
 {duration:2:23}
-{musicpath:/storage/emulated/0/Music/One More Night.mp3}
 
 [G]One more night, the stars are in sight 
 [G]but tonight I'm as [C]lonesome [D]as can [G]be

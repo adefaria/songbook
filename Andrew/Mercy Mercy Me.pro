@@ -1,5 +1,6 @@
 {title:Mercy Mercy Me}
 {subtitle:Marvin Gaye}
+{musicpath:/storage/emulated/0/Music/Mercy Mercy Me.mp3}
 {duration:3:17}
 {key:E}
 
@@ -29,4 +30,3 @@ My sweet Lord, na, na, na
 My Lord, my sweet Lord
 
 {c:Change key to F}
-{musicpath:/storage/emulated/0/Music/Mercy Mercy Me.mp3}

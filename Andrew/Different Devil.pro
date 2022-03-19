@@ -1,5 +1,6 @@
 {title:Different Devil}
 {subtitle:Chickenfoot}
+{musicpath:/storage/emulated/0/Music/Different Devil.mp3}
 {duration:4:21}
 {metronome:120}
 {key:C}
@@ -68,4 +69,3 @@ I'm right here waiting for you
 Oh, yeah, come on, girl
 I'm right here waiting for you
 Turn around girl
-{musicpath:/storage/emulated/0/Music/Different Devil.mp3}

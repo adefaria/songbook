@@ -1,5 +1,6 @@
 {title:Who'll Stop The Rain}
 {subtitle:Creedence Clearwater Revival}
+{musicpath:/storage/emulated/0/Music/Who'll Stop The Rain.mp3}
 {duration:2:31}
 {key:G}
 
@@ -24,4 +25,3 @@
 [C]And I wonder, [D]still I wonder, [Em]who'll stop the [Em]rain
 
 [G] [Em]  [G] [Em][G] [Em].  end  G
-{musicpath:/storage/emulated/0/Music/Who'll Stop The Rain.mp3}

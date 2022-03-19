@@ -1,5 +1,6 @@
 {title:Sunny Afternoon}
 {subtitle:Kinks}
+{musicpath:/storage/emulated/0/Music/Sunny Afternoon.mp3}
 {duration:3:32}
 {key:Dm}
 
@@ -35,4 +36,3 @@ Sipping at my ice-cold beer
 Lazing on a sunny afternoon
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Sunny Afternoon.mp3}

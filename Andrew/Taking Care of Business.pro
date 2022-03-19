@@ -1,5 +1,6 @@
 {title:Taking Care of Business}
 {subtitle:Bachman Turner Overdrive}
+{musicpath:/storage/emulated/0/Music/Taking Care of Business.mp3}
 {duration:4:57}
 {key:B}
 
@@ -82,6 +83,4 @@ Takin' care of business (4x)
 
 {c:Repeat and fade}
 
-Takin care of business 
-
-{musicpath:/storage/emulated/0/Music/Taking Care of Business.mp3}
+Takin care of business

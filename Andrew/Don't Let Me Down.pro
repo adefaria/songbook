@@ -1,5 +1,6 @@
 {title:Don't Let Me Down}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Don't Let Me Down.mp3}
 {duration:4:09}
 {key:F#m}
 
@@ -57,5 +58,3 @@ Don't let me down
 {eoc}
 
 {c:Keyboard solo}
-
-{musicpath:/storage/emulated/0/Music/Don't Let Me Down.mp3}

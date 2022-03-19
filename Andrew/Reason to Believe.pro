@@ -1,5 +1,6 @@
 {title:Reason to Believe}
 {subtitle:Tim Hardin}
+{musicpath:/storage/emulated/0/Music/Reason to Believe.mp3}
 {duration:4:10}
 
 If I listened long enough to you
@@ -26,5 +27,3 @@ Someone like you makes it hard to live without
 somebody else
 Someone like you makes it easy to give
 never think about myself
-
-{musicpath:/storage/emulated/0/Music/Reason to Believe.mp3}

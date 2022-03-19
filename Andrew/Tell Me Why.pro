@@ -1,5 +1,6 @@
 {title:Tell Me Why}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Tell Me Why.mp3}
 {duration:2:09}
 {key:D}
 
@@ -34,5 +35,3 @@ If you'll [A7]only listen to my pleas
 
 Tell me why you cried, and why you lied to me
 Tell me why you cried, and why you lied to me [Bm] [Bb] [A7sus4] [A7] [D]
-
-{musicpath:/storage/emulated/0/Music/Tell Me Why.mp3}

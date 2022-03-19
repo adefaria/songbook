@@ -1,5 +1,6 @@
 {title:Black Water}
 {subtitle:Doobie Brothers}
+{musicpath:/storage/emulated/0/Music/Black Water.mp3}
 {duration:4:22}
 {key:D}
 {tuning:D A D G B D}
@@ -46,4 +47,3 @@ By the hand, take me by the hand pretty mama
 Come and dance with your daddy all night long
 I want to honky tonk, honky tonk, honky tonk
 With you all night long
-{musicpath:/storage/emulated/0/Music/Black Water.mp3}

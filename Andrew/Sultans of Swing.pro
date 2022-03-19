@@ -1,5 +1,6 @@
 {title:Sultans of Swing}
 {subtitle:Dire Straights}
+{musicpath:/storage/emulated/0/Music/Sultans of Swing.mp3}
 {duration:5:47}
 {key:Dm}
 
@@ -63,5 +64,3 @@ We are the Sultans
 We are the Sultans of Swing
 
 {c:Lead 2}
-
-{musicpath:/storage/emulated/0/Music/Sultans of Swing.mp3}

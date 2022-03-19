@@ -1,5 +1,6 @@
 {title:Mother}
 {subtitle:Pink Floyd}
+{musicpath:/storage/emulated/0/Music/Mother.mp3}
 {duration:5:35}
 {key:G}
 	
@@ -38,5 +39,3 @@ Ooooh babe oooh babe oooh babe,
 You'll always be baby to me.
 
 Mother, did it need to be so high?
-
-{musicpath:/storage/emulated/0/Music/Mother.mp3}

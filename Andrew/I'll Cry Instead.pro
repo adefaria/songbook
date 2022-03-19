@@ -1,5 +1,6 @@
 {title:I'll Cry Instead}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/I'll Cry Instead.mp3}
 {duration:1:46}
 {key:C}
 
@@ -38,5 +39,3 @@ And when I do you'd better hide all the girls
 Yes, I'm gonna break them in two
 And show you what your lovin' man can do
 Until then I'll cry instead
-
-{musicpath:/storage/emulated/0/Music/I'll Cry Instead.mp3}

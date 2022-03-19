@@ -1,5 +1,6 @@
 {title:A Day in the Life}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/A Day in the Life.mp3}
 {duration:5:13}
 
 [G] [Bm] [Em] [Em7] [C]
@@ -44,5 +45,3 @@ And though the holes were rather small
 They had to count them all
 Now they know how many holes it takes to fill the Albert Hall.
 I'd love to turn you on.
-
-{musicpath:/storage/emulated/0/Music/A Day in the Life.mp3}

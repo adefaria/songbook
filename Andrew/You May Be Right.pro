@@ -1,5 +1,6 @@
 {title:You May Be Right}
 {subtitle:Billy Joel}
+{musicpath:/storage/emulated/0/Music/You May Be Right.mp3}
 {duration:4:18}
 {key:A}
 
@@ -63,4 +64,3 @@ You may be right
 {c:Repeat and fade}
 
 You may be wrong but you may be right 
-{musicpath:/storage/emulated/0/Music/You May Be Right.mp3}

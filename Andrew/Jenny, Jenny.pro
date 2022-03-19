@@ -1,5 +1,6 @@
 {title:Jenny, Jenny}
 {subtitle:Tommy Tutone}
+{musicpath:/storage/emulated/0/Music/Jenny, Jenny.mp3}
 {duration:3:47}
 {key:F#m}
 
@@ -36,4 +37,3 @@ Jenny Jenny who can I turn to (867-5309)
 For the price of a dime I can always turn to you (867-5309)
 
 (867-5309) vamp
-{musicpath:/storage/emulated/0/Music/Jenny, Jenny.mp3}

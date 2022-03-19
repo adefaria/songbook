@@ -1,5 +1,6 @@
 {title:She's Not There}
 {subtitle:The Zombies}
+{musicpath:/storage/emulated/0/Music/She's Not There.mp3}
 {duration:2:24}
 {key:Am}
 
@@ -31,5 +32,3 @@ Though they all knew
 {c:Bridge}
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/She's Not There.mp3}

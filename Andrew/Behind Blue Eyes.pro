@@ -1,5 +1,6 @@
 {title:Behind Blue Eyes}
 {subtitle:The Who}
+{musicpath:/storage/emulated/0/Music/Behind Blue Eyes.mp3}
 {duration:1:50}
 {key:Em}
 
@@ -63,4 +64,3 @@ No one knows what it's like
 To be the bad man
 To be the sad man
 Behind blue eyes
-{musicpath:/storage/emulated/0/Music/Behind Blue Eyes.mp3}

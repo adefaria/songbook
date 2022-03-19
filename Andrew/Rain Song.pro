@@ -1,5 +1,6 @@
 {title:Rain Song}
 {subtitle:Led Zeppelin}
+{musicpath:/storage/emulated/0/Music/Rain Song.mp3}
 {duration:7:33}
 {key:G}
 {tuning:D G C G C D}
@@ -38,4 +39,3 @@ This is the mystery of the quotient, quotient
 Upon us all, upon us all a little rain must fall
 Just a little rain, oh
 Ooh, yeah-yeah-yeah
-{musicpath:/storage/emulated/0/Music/Rain Song.mp3}

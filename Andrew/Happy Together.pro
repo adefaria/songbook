@@ -1,9 +1,9 @@
 {title:Happy Together}
 {subtitle:The Turtles}
+{musicpath:/storage/emulated/0/Music/Happy Together.mp3}
 {duration:2:58}
 {key:F#m}
 {capo:2}
-
  
 Imagine [F#m]me and you - I do
 I think about you [E]day and night, it's only right
@@ -62,4 +62,3 @@ So happy together
 So happy together
 
 [F#]
-{musicpath:/storage/emulated/0/Music/Happy Together.mp3}

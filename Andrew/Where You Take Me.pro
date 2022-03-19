@@ -1,5 +1,6 @@
 {title:Where You Take Me}
 {subtitle:Jen Hajj}
+{musicpath:/storage/emulated/0/Music/Where You Take Me.mp3}
 {key:A}
 
 {c:Intro}
@@ -39,4 +40,3 @@ All I can do is sit and stare sometimes
 And it hurts me when you think that I don't care
 
 {c:Chorus 2X}
-{musicpath:/storage/emulated/0/Music/Where You Take Me.mp3}

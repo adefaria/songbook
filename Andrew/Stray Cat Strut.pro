@@ -1,5 +1,6 @@
 {title:Stray Cat Strut}
 {subtitle:Stray Cats}
+{musicpath:/storage/emulated/0/Music/Stray Cat Strut.mp3}
 {duration:3:21}
 {key:Cm}
 
@@ -49,4 +50,3 @@ Singin' the blues while the lady cats cry
 "Wild stray cat, you're a real gone guy"
 I wish I could be as carefree and wild
 But I got cat class and I got cat style
-{musicpath:/storage/emulated/0/Music/Stray Cat Strut.mp3}

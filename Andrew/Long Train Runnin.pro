@@ -1,5 +1,6 @@
 {title:Long Train Runnin}
 {subtitle:Doobie Brothers}
+{musicpath:/storage/emulated/0/Music/Long Train Runnin.mp3}
 {duration:3:43}
 {key:Gm}
 
@@ -49,4 +50,3 @@ When the train is movin' on I got to keep on movin'
 Keep on movin'
 Won't you keep on movin'?
 Gonna keep on movin'
-{musicpath:/storage/emulated/0/Music/Long Train Runnin.mp3}

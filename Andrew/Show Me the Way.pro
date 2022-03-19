@@ -1,5 +1,6 @@
 {title:Show Me the Way}
 {subtitle:Peter Frampton}
+{musicpath:/storage/emulated/0/Music/Show Me the Way.mp3}
 {duration:4:37}
 {metronome:113}
 {key:D}
@@ -37,4 +38,3 @@ I watch you when you're sleeping
 And then I want to take your love
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Show Me the Way.mp3}

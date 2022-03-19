@@ -1,5 +1,6 @@
 {title:Peaceful, Easy Feeling}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Peaceful, Easy Feeling.mp3}
 {duration:4:18}
 {key:E}
 
@@ -37,4 +38,3 @@ And I know you won't let me down
 I'm alll-ready standing
 Yes, I'm allll-ready standing,
 On the ground
-{musicpath:/storage/emulated/0/Music/Peaceful, Easy Feeling.mp3}

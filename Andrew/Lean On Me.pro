@@ -1,5 +1,6 @@
 {title:Lean on Me}
 {subtitle:Temptations}
+{musicpath:/storage/emulated/0/Music/Lean On Me.mp3}
 {duration:4:55}
 {key:C}
 
@@ -46,5 +47,3 @@ Till I'm gonna need
 Somebody to lean on
 
 Lean on me...
-
-{musicpath:/storage/emulated/0/Music/Lean On Me.mp3}

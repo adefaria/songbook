@@ -1,5 +1,6 @@
 {title:Dear Prudence}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Dear Prudence.mp3}
 {duration:3:56}
 {key:D}
 
@@ -31,4 +32,3 @@ The sun is up, the sky is blue
 It's beautiful and so are you
 Dear Prudence won't you come out to play
 
-{musicpath:/storage/emulated/0/Music/Dear Prudence.mp3}

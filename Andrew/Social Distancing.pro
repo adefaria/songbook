@@ -1,5 +1,6 @@
 {title:Social Distancing}
 {subtitle:Mike Staples}
+{musicpath:/storage/emulated/0/Music/Social Distancing.mp3}
 {capo:2}
 {Key:A}
 
@@ -34,4 +35,3 @@ Fauci says we gonna' die, but wipe the tear from your eye
 Because I'm grateful to be 1.8 meters from me 
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Social Distancing.mp3}

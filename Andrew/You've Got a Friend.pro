@@ -1,5 +1,6 @@
 {title:You Got a Friend}
 {subtitle:James Taylor}
+{musicpath:/storage/emulated/0/Music/You've Got a Friend.mp3}
 {duration:4:27}
 {key:G}
 
@@ -46,4 +47,3 @@ You've got a friend, yeah
 Ain't it good to know you've got a friend
 Ain't it good to know you've got a friend
 Oh, ye yeah, you've got a friend
-{musicpath:/storage/emulated/0/Music/You've Got a Friend.mp3}

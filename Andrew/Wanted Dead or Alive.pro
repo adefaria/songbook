@@ -1,5 +1,6 @@
 {title:Wanted Dead or Alive}
 {subtitle:Bon Jovi}
+{musicpath:/storage/emulated/0/Music/Wanted Dead or Alive.mp3}
 {duration:4:10}
 {tuning:D A D G B E}
 
@@ -35,4 +36,3 @@ I'm wanted dead or alive
 And I ride, dead or alive
 I still drive, dead or alive
 Dead or alive (4x)
-{musicpath:/storage/emulated/0/Music/Wanted Dead or Alive.mp3}

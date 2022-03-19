@@ -1,5 +1,6 @@
 {title:Sweet Caroline}
 {subtitle:Neil Diamond}
+{musicpath:/storage/emulated/0/Music/Sweet Carolinie.mp3}
 {duration:3:24}
 {key:A}
 
@@ -41,5 +42,3 @@ touching you
 {c:Intro}
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Sweet Carolinie.mp3}
-

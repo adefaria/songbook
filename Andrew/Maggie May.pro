@@ -1,5 +1,6 @@
 {title:Maggie May}
 {subtitle:Rod Stewart}
+{musicpath:/storage/emulated/0/Music/Maggie May.mp3}
 {duration:5:46}
 {key:A}
 
@@ -47,5 +48,3 @@ You stole my heart but I love you anyway
 
 Maggie I wish I'd never seen your face
 I'll get on back home one of these days
-
-{musicpath:/storage/emulated/0/Music/Maggie May.mp3}

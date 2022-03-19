@@ -1,5 +1,6 @@
 {title:Your Love is Driving Me Crazy}
 {subtitle:Sammy Hagar}
+{musicpath:/storage/emulated/0/Music/Your Love is Driving Me Crazy.mp3}
 {duration:3:32}
 {key:E}
 
@@ -45,4 +46,3 @@ So sublime, hot sweet cherries on the vine
 
 [A]Your love, [E]your love, [C#] [B] 
 [A]Your love [F#m]just takes me [E]away
-{musicpath:/storage/emulated/0/Music/Your Love is Driving Me Crazy.mp3}

@@ -1,5 +1,6 @@
 {title:What I've Already Heard}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/What I've Already Heard.mp3}
 {key:E}
 
 [E] [F#] [E]
@@ -38,4 +39,3 @@ You live out your days with no one to call a friend
 {c:Break}
 
 {c:Chorus 2x}
-{musicpath:/storage/emulated/0/Music/What I've Already Heard.mp3}

@@ -1,5 +1,6 @@
 {title:I'll Be Your Baby Tonight}
 {subtitle:Bob Dylan}
+{musicpath:/storage/emulated/0/Music/I'll Be Your Baby Tonight.mp3}
 {duration:2:41}
 {key:C}
 
@@ -20,7 +21,3 @@ But we[G]'re gonna let it, you won't regret it
 Kick your shoes off, do not fear
 Bring that bottle over here
 I'll be your baby tonight
-
-
-Enjoy!
-{musicpath:/storage/emulated/0/Music/I'll Be Your Baby Tonight.mp3}

@@ -1,5 +1,6 @@
 {title:Lightning Strikes}
 {subtitle:Yes}
+{musicpath:/storage/emulated/0/Music/Lightning Strikes.mp3}
 {duration:4:36}
 {key:D}
 
@@ -60,4 +61,3 @@ Help me get me some... come on
 
 Ooh ya... ooh ya... ooh ya... ooh ya
 Ooh ya... ooh ya... ooh ya
-{musicpath:/storage/emulated/0/Music/Lightning Strikes.mp3}

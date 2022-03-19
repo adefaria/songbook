@@ -1,5 +1,6 @@
 {title:Brown Eyed Girl}
 {subtitle:Van Morrison}
+{musicpath:/storage/emulated/0/Music/Brown Eyed Girl.mp3}
 {duration:3:05}
 {key:G}
 
@@ -31,4 +32,3 @@ Making love in the green grass, behind the stadium with you
 My brown eyed girl, you my brown eyed girl
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Brown Eyed Girl.mp3}

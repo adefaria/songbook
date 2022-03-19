@@ -1,5 +1,6 @@
 {title:Feel Like Making Love}
 {subtitle:Bad Company}
+{musicpath:/storage/emulated/0/Music/Feel Like Making Love.mp3}
 {duration:5:14}
 {key:D}
 
@@ -51,4 +52,3 @@ Till I'm dying
 On the way
 
 {c: Repeat chorus many times (with  solo)}
-{musicpath:/storage/emulated/0/Music/Feel Like Making Love.mp3}

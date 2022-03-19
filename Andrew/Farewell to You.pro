@@ -1,5 +1,6 @@
 {title:Farewell to You}
 {subtitle:White Lion}
+{musicpath:/storage/emulated/0/Music/Farewell to You.mp3}
 {duration:4:22}
 {key:D}
 
@@ -44,4 +45,3 @@ I'll be there for you
 Na na na na na
 Na na na na na
 Na na na na na ...
-{musicpath:/storage/emulated/0/Music/Farewell to You.mp3}

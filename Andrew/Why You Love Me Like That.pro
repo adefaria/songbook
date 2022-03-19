@@ -1,5 +1,6 @@
 {title:Why You Love Me Like That}
 {subtitle:Michelle Branch}
+{musicpath:/storage/emulated/0/Music/Why You Love Me Like That.mp3}
 {duration:3:31}
 {key:C}
 
@@ -75,4 +76,3 @@ Say all the things you need to say
 Thought we were going all the way 
 Play all the games you want to play 
 Sooner we'll stay away
-{musicpath:/storage/emulated/0/Music/Why You Love Me Like That.mp3}

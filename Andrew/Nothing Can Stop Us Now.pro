@@ -1,5 +1,6 @@
 {title:Nothing Can Stop Us Now}
 {subtitle:Tim Minchin}
+{musicpath:/storage/emulated/0/Music/Nothing Can Stop Us Now.mp3}
 {duration:2:04}
 {key:E}
 
@@ -22,4 +23,3 @@ Cause [E]nothing can stop us now[Amaj7]
 [F#m]Only the good times [B]left
 [A]Nothing can [B]stop our love[C#m]
 Except [A]terminal illness or [B]sudden accidental death
-{musicpath:/storage/emulated/0/Music/Nothing Can Stop Us Now.mp3}

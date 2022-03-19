@@ -1,5 +1,6 @@
 {title:Norwegian Wood}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Norwegian Wood.mp3}
 {duration:2:05}
 {key:D}
 {tuning:D A D G B E}
@@ -29,5 +30,3 @@ And when I awoke I was alone
 This bird had flown
 So I lit a fire
 Isn't it good Norwegian wood?
-
-{musicpath:/storage/emulated/0/Music/Norwegian Wood.mp3}
