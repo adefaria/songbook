@@ -1,5 +1,6 @@
 {title:Lady Madonna}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Lady Madonna.mp3}
 {duration:2:17}
 {key:A}
 
@@ -34,5 +35,3 @@ Lady Madonna, children at your feet
 Wonder how you manage to make ends meet
 
 [A] [Bm] [C] [Bm] [A] 2x
-
-{musicpath:/storage/emulated/0/Music/Lady Madonna.mp3}

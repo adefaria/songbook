@@ -1,5 +1,6 @@
 {title:Gentle on My Mind}
 {subtitle:Glen Campbell}
+{musicpath:/storage/emulated/0/Music/Gentle on My Mind.mp3}
 {duration:2:59}
 {key:D}
 
@@ -49,5 +50,3 @@ I pretend to hold you to my breast and find
 That you're waitin' from the back roads
 By the rivers of my memory
 Ever smilin', ever gentle on my mind
-
-{musicpath:/storage/emulated/0/Music/Gentle on My Mind.mp3}

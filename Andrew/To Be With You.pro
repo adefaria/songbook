@@ -1,5 +1,6 @@
 {title:To Be With You}
 {subtitle:Mr Big}
+{musicpath:/storage/emulated/0/Music/To Be With You.mp3}
 {duration:3:31}
 {key:E}
 
@@ -46,4 +47,3 @@ Let me be the one to show you
 {comment:Chorus in G w/Em chord}
 
 {comment:Chorus in E w/C#m7 chord}
-{musicpath:/storage/emulated/0/Music/To Be With You.mp3}

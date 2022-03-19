@@ -1,5 +1,6 @@
 {title:Everybody Wants to Rule the World}
 {subtitle:Tears For Fears}
+{musicpath:/storage/emulated/0/Music/Everybody Wants to Rule the World.mp3}
 {duration:4:51}
 {key:D}
 
@@ -54,5 +55,3 @@ Everybody wants to rule the world
 [Em]All for freedom a[F#m]nd for pleasure
 [G]Nothing ever la[F#m]sts forever
 [Em]Everyb[F#m]ody w[G]ants to r[A]ule the world
-
-{musicpath:/storage/emulated/0/Music/Everybody Wants to Rule the World.mp3}

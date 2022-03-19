@@ -1,5 +1,6 @@
 {title:Let the Guitar Do the Talking}
 {subtitle:Joe Robinson}
+{musicpath:/storage/emulated/0/Music/Let the Guitar Do the Talking.mp3}
 {duration:3:40}
 {key:Am}
 
@@ -66,5 +67,3 @@ I saw her from across the room
 And I could not look away
 But I knew that all too song
 I'd get on the stage and play
-
-{musicpath:/storage/emulated/0/Music/Let the Guitar Do the Talking.mp3}

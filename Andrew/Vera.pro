@@ -48,4 +48,3 @@ You've got my heart and it's just the start
 [D]And I'm an old man, too old to plan
 [A]We'll just see where the world takes [D]us.
 [A]We'll just see where the world takes [D]us.
-

@@ -1,5 +1,6 @@
 {title:I Can See Clearly Now}
 {subtitle:Johnny Nash}
+{musicpath:/storage/emulated/0/Music/I Can See Clearly Now.mp3}
 {duration:2:45}
 {key:D}
 
@@ -23,4 +24,3 @@ It's gonna be a bright, (bright) bright, (bright) sun shiny day
 [D]Here is the [G]rainbow I've been [D]praying for
 It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
 It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
-{musicpath:/storage/emulated/0/Music/I Can See Clearly Now.mp3}

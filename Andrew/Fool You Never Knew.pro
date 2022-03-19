@@ -1,5 +1,6 @@
 {title:Fool You Never Knew}
 {subtitle:Tempest}
+{musicpath:/storage/emulated/0/Music/Fool you never knew.mp3}
 {key:D}
 
 {c:Intro}
@@ -36,4 +37,3 @@ I'm just a fool - You know I'm a fool
 I'm just a fool - Don't be so cruel
 
 {c:Vamp}
-{musicpath:/storage/emulated/0/Music/Fool you never knew.mp3}

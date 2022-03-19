@@ -1,5 +1,6 @@
 {title:Longview}
 {subtitle:Greenday}
+{musicpath:/storage/emulated/0/Music/Longview.mp3}
 {duration:3:48}
 {key:D}
 
@@ -48,5 +49,3 @@ Bite my lip and close my eyes
 I was slipping away to paradise
 Some say, "Quit or I'll go blind."
 But it's just a myth
-
-{musicpath:/storage/emulated/0/Music/Longview.mp3}

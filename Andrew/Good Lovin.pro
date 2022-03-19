@@ -1,5 +1,6 @@
 {title:Good Lovin}
 {subtitle:The Rascals}
+{musicpath:/storage/emulated/0/Music/Good Lovin.mp3}
 {duration:2:43}
 {key:D}
 
@@ -55,5 +56,3 @@ Good Lovin
 All I need is love
 
 {c:Vamp}
-
-{musicpath:/storage/emulated/0/Music/Good Lovin.mp3}

@@ -1,5 +1,6 @@
 {title:Drugstore Novels}
 {subtitle:Cast of Shadows}
+{musicpath:/storage/emulated/0/Music/Drugstore Novels.mp3}
 {duration:4:32}
 {key:A}
 
@@ -54,5 +55,3 @@ That [A]I'm [C#m]spending all my
 [A]I [C#m]wonder what you 
 [G]Think if I say [D]that I love
 The [B]way you look, the [E]way you are to me
-
-{musicpath:/storage/emulated/0/Music/Drugstore Novels.mp3}

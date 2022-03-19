@@ -1,5 +1,6 @@
 {title:Nowhere Man}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Nowhere Man.mp3}
 {duration:2:44}
 {key:E}
 
@@ -41,5 +42,3 @@ Sitting in his nowhere land
 Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
 Making all his nowhere plans for nobody
-
-{musicpath:/storage/emulated/0/Music/Nowhere Man.mp3}

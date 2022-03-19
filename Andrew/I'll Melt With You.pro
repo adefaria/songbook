@@ -1,5 +1,6 @@
 {title:I'll Melt With You}
 {subtitle:Modern English}
+{musicpath:/storage/emulated/0/Music/I'll Melt With You.mp3}
 {duration:3:48}
 {key:C}
 
@@ -49,5 +50,3 @@ I'll stop the world and melt with you
 (I'll stop the world) I'll stop the world and melt with you
 
 (Let's stop the world) I'll stop the world and melt with you 4x 
-
-{musicpath:/storage/emulated/0/Music/I'll Melt With You.mp3}

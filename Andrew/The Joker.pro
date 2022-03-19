@@ -1,5 +1,6 @@
 {title:The Joker}
 {subtitle:Steve Miller}
+{musicpath:/storage/emulated/0/Music/The Joker.mp3}
 {duration:3:38}
 {key:G}
 
@@ -44,4 +45,3 @@ You're the cutest thing I ever did see
 Really love your peaches want to shake your tree
 Lovey-dovey, lovey-dovey, lovey-dovey all the time
 Come on baby and I'll show you a good time
-{musicpath:/storage/emulated/0/Music/The Joker.mp3}

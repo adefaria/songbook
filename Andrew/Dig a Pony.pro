@@ -1,5 +1,6 @@
 {title:Dig a Pony}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Dig a Pony.mp3}
 {duration:3:55}
 {key:A}
 
@@ -52,4 +53,3 @@ Yes you can syndicate any boat you row, I told you so
 [G] [D] [A] 2x
 
 [G]All I [E]want is [A]you
-{musicpath:/storage/emulated/0/Music/Dig a Pony.mp3}

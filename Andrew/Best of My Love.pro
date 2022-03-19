@@ -1,5 +1,6 @@
 {title:Best of My Love}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Best of My Love.mp3}
 {duration:4:35}
 {key:C}
 
@@ -74,4 +75,3 @@ You get the best of my love (the best of my love)
 
 Oh, sweet darlin', (Hmmm)
 You get the best of my love (the best of my love)
-{musicpath:/storage/emulated/0/Music/Best of My Love.mp3}

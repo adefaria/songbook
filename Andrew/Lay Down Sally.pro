@@ -1,5 +1,6 @@
 {title:Lay Down Sally}
 {subtitle:Eric Clapton}
+{musicpath:/storage/emulated/0/Music/Lay Down Sally.mp3}
 {duration:3:49}
 {key:A}
 
@@ -31,4 +32,3 @@ So don't you go and say goodbye
 You can lay your worries down and stay with me
 
 {c:Chorus 2x}
-{musicpath:/storage/emulated/0/Music/Lay Down Sally.mp3}

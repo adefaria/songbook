@@ -1,5 +1,6 @@
 {title:Heart of Gold}
 {subtitle:Neil Young}
+{musicpath:/storage/emulated/0/Music/Heart of Gold.mp3}
 {duration:3:11}
 {key:Em}
 
@@ -52,4 +53,3 @@
 [Em]Keep me searchin' for a [G]heart of gold,
 [C]Hmmmm ( ** base run) [G]
 {eoc}
-{musicpath:/storage/emulated/0/Music/Heart of Gold.mp3}

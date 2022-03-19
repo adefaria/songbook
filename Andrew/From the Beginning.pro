@@ -1,5 +1,6 @@
 {title:From the Beginning}
 {subtitle:Emerson, Lake and Palmer}
+{musicpath:/storage/emulated/0/Music/From the Beginning.mp3}
 {duration:4:17}
 {key:Am}
 
@@ -25,4 +26,3 @@ I just can't recall
 It doesn't matter at all
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/From the Beginning.mp3}

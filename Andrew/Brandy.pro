@@ -1,5 +1,6 @@
 {title:Brandy}
 {subtitle:Looking Glass}
+{musicpath:/storage/emulated/0/Music/Brandy.mp3}
 {duratino:3:09}
 {key:E}
 
@@ -58,5 +59,3 @@ It is, yes it is
 He said, "Brandy, you're a fine girl" (you're a fine girl)
 "What a good wife you would be" (such a fine girl)
 "But my life, my lover, my lady is the sea"
-
-{musicpath:/storage/emulated/0/Music/Brandy.mp3}

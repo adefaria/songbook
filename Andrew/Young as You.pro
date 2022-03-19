@@ -1,5 +1,6 @@
 {title:Young as You}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Young as You.mp3}
 {key:A}
 
 Walking wounded, like before
@@ -36,5 +37,3 @@ I can't help but want you this far
 Alone I will look beyond my heart
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Young as You.mp3}

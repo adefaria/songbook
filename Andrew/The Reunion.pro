@@ -1,5 +1,6 @@
 {title:The Reunion}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/The Reunion.mp3}
 {duration:3:57}
 {key:G}
 
@@ -54,5 +55,3 @@ There you were, open and lonely
 Making me, love you again
 
 Love you again
-
-{musicpath:/storage/emulated/0/Music/The Reunion.mp3}

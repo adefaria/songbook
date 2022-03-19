@@ -1,5 +1,6 @@
 {title:California Dreamin}
 {subtitle:Moma's and Papa's}
+{musicpath:/storage/emulated/0/Music/California Dreamin.mp3}
 {duration:2:44}
 
 {c:capo 2}
@@ -39,4 +40,3 @@ California dreamin' (California dreamin')
 On such a winter's day (California dreamin')
 On such a winter's day (California dreamin')
 On such a winter's day
-{musicpath:/storage/emulated/0/Music/California Dreamin.mp3}

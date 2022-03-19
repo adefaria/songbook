@@ -1,5 +1,6 @@
 {title:Venus}
 {subtitle:Shocking Blue}
+{musicpath:/storage/emulated/0/Music/Venus.mp3}
 {duration:3:04}
 {key:Em}
 
@@ -35,4 +36,3 @@ Got what now one elese has, wow!
 {c:Vocal break}
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Venus.mp3}

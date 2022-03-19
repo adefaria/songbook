@@ -1,5 +1,6 @@
 {title:Confessions}
 {subtitle:Tim Minchin}
+{musicpath:/storage/emulated/0/Music/Confessions.mp3}
 {duration:6:08}
 {key:A}
 
@@ -73,5 +74,3 @@ We're [Bm]just fucki[C#m]ng m[Eb]onkeys [D#dim7]in sh[E]oes
 
 And I will always love boobs
 I will always love boobs
-
-{musicpath:/storage/emulated/0/Music/Confessions.mp3}

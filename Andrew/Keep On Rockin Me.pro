@@ -1,5 +1,6 @@
 {title:Keep On Rocking}
 {subtitle:Steve Miller}
+{musicpath:/storage/emulated/0/Music/Keep On Rockin Me.mp3}
 {duration:3:09}
 {key:A}
 
@@ -62,6 +63,4 @@ So I could hear my sweet baby say
 
 Keep on a rockin me baby
 
-{c:Repeat until fade.}
-
-{musicpath:/storage/emulated/0/Music/Keep On Rockin Me.mp3}
+{c:Repeat until fade}

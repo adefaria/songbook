@@ -1,5 +1,6 @@
-pop{title:Golden Slumbers}
+{title:Golden Slumbers}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Golden Slumbers.mp3}
 {key:Am}
 
 [Am7]Once there was a way, to get back [Dm]homeward
@@ -58,6 +59,3 @@ The [G]love you take
 Is [F]equal to the [G]love you [C]make
 
 [D7] [D#] [F] [C]
-
-{musicpath:/storage/emulated/0/Music/Golden Slumbers.mp3}
-

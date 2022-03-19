@@ -1,5 +1,6 @@
 {title:Spooky}
 {subtitle:Atlanta Rhythm Section}
+{musicpath:/storage/emulated/0/Music/Spooky.mp3}
 {duration:4:59}
 {key:Em}
 
@@ -34,6 +35,3 @@ Baby, love is kinda crazy with a spooky little girl like you Ah, spooky, yeah-uh
 [Piano Solo] 
 [Guitar Solo]
 [Ending] Cm7 Cm7 Cm7 Cm7
-
-{musicpath:/storage/emulated/0/Music/Spooky.mp3}
-

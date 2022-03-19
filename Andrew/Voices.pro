@@ -1,5 +1,6 @@
 {title:Voices}
 {subtitle:Red Shoes for Romeo}
+{musicpath:/storage/emulated/0/Music/Voices.mp3}
 {key:Em}
 
 [Em] [C] [Dsus4add2]
@@ -43,5 +44,3 @@ Doesn't mean I am a man that is insane
 
 See I just want the headaches to be gone
 I just want the headaches to be gone
- 
-{musicpath:/storage/emulated/0/Music/Voices.mp3}

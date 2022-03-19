@@ -1,5 +1,6 @@
 {title:Never Going Back Again}
 {subtitle:Fleetwood Mac}
+{musicpath:/storage/emulated/0/Music/Never Going Back Again.mp3}
 {duration:2:17}
 
 She broke down and let me in
@@ -16,5 +17,3 @@ Been down one time
 Been down two times
 
 I'm never going back again
-{musicpath:/storage/emulated/0/Music/Never Going Back Again.mp3}
-

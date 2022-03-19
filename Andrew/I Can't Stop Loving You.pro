@@ -1,5 +1,6 @@
 {title:I Can't Stop Loving You}
 {subtitle:Tommy Emmanuel}
+{musicpath:/storage/emulated/0/Music/I Can't Stop Loving You.mp3}
 {key:D}
 
 [A] [D/A] [Eb/A] [E] [D/E] [C#m/E] [Bm/E] [E] [A] [D] [E] [A]
@@ -50,5 +51,3 @@ So I'll [A#dim]just [E7sus4]live my [E7]life in [A]dreams of yesterday[D] [E] [A
 {c:Arpeggeated}
 
 [F] [G] [G/B] [C6/9]
-
-{musicpath:/storage/emulated/0/Music/I Can't Stop Loving You.mp3}

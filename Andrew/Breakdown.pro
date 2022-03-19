@@ -1,5 +1,6 @@
 {title:Breakdown}
 {subtitle:Tom Petty}
+{musicpath:/storage/emulated/0/Music/Breakdown.mp3}
 {duration:2:44}
 {key:Am}
 
@@ -28,4 +29,3 @@ Breakdown now I standin' here can't you see
 Breakdown, it's all right
 It's all right
 It's all right
-{musicpath:/storage/emulated/0/Music/Breakdown.mp3}

@@ -1,5 +1,6 @@
 {title:Down by the River}
 {subtitle:Neil Young}
+{musicpath:/storage/emulated/0/Music/Down by the River.mp3}
 {duration:9;19}
 {key:Em}
 
@@ -32,5 +33,3 @@ When you could be taking me for a ride.
 Yeah, she could drag me over the rainbow, send me away
 
 {chorus}
-
-{musicpath:/storage/emulated/0/Music/Down by the River.mp3}

@@ -1,5 +1,6 @@
 {title:Seems Like a Dream}
 {subtitle:Tempest}
+{musicpath:/storage/emulated/0/Music/Seems like a dream.mp3}
 {key:G}
 
 {c:Intro}
@@ -43,4 +44,3 @@ I got to be with her again oh!
 {c:Lead over the Chorus with odd ending}
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Seems like a dream.mp3}

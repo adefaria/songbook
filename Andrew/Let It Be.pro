@@ -1,5 +1,6 @@
 {title:Let It Be}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Let It Be.mp3}
 {duration:4:04}
 {key:C}
 
@@ -55,4 +56,3 @@ Whisper words of wisdom, let it be
 {eoc}
 
 [F] [Em] [Dm7] [C] [Bb] [F/A] [G] [F] [C]
-{musicpath:/storage/emulated/0/Music/Let It Be.mp3}

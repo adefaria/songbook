@@ -1,5 +1,6 @@
 {title:Mrs. Robinson}
 {subtitle:Paul Simon}
+{musicpath:/storage/emulated/0/Music/Mrs. Robinson.mp3}
 {duration:4:04}
 {key:E}
 {c:chorus}
@@ -41,4 +42,3 @@ What's that you say, Mrs. Robinson.
 Jolting Joe has left and gone away,
 Hey, hey, hey
 Hey, hey, hey
-{musicpath:/storage/emulated/0/Music/Mrs. Robinson.mp3}

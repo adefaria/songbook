@@ -1,5 +1,6 @@
 {title:The Ballad of John and Yoko}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/The Ballad of John and Yoko.mp3}
 {duration:3:06}
 {key:E}
 
@@ -67,4 +68,3 @@ The way things are going
 They're gonna crucify me
 The way things are going
 They're gonna crucify me
-{musicpath:/storage/emulated/0/Music/The Ballad of John and Yoko.mp3}

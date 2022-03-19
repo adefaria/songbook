@@ -1,5 +1,6 @@
 {title:Trained Runner}
 {subtitle:Tempest}
+{musicpath:/storage/emulated/0/Music/Trained Runner.mp3}
 {key:F#m}
 
 Shuttles out of DC, it must be 5 Am
@@ -35,5 +36,3 @@ He sits back and lights a smoke as if he never was around
 
 He's a trained runner, trained runner
 Trained runner, trained runner, ah you know he is
-
-{musicpath:/storage/emulated/0/Music/Trained Runner.mp3}

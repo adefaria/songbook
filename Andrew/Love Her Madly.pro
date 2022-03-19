@@ -1,5 +1,6 @@
 {title:Love Her Madly}
 {subtitle:Doors}
+{musicpath:/storage/emulated/0/Music/Love Her Madly.mp3}
 {duration:3:41}
 {key:Am}
 
@@ -38,5 +39,3 @@ Seven horses seem to be on the mark
 {c:Break}
 
 Don't you love her madly? (3x)
-
-{musicpath:/storage/emulated/0/Music/Love Her Madly.mp3}

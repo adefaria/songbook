@@ -1,5 +1,6 @@
 {title:Piano Man}
 {subtitle:Billy Joel}
+{musicpath:/storage/emulated/0/Music/Piano Man.mp3}
 {duration:5:42}
 {key:C}
 
@@ -92,5 +93,3 @@ And you got us feeling alright.
 
 [C] [G/B] [Am] [G] [F] [G] 
 [C] [F/C] [G] [F] [Em] [D] 2x
-
-{musicpath:/storage/emulated/0/Music/Piano Man.mp3}

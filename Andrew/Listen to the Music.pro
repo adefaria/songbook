@@ -1,5 +1,6 @@
 {title:Listen to the Music}
 {subtitle:Doobie Brothers}
+{musicpath:/storage/emulated/0/Music/Listen to the Music.mp3}
 {duration:3:48}
 {key:E}
 
@@ -39,4 +40,3 @@ And the crowd is growing [D]bigger
 And I got to let 'em fly 
 
 {c:chorus}
-{musicpath:/storage/emulated/0/Music/Listen to the Music.mp3}

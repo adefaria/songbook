@@ -1,5 +1,6 @@
 {title:For You, For Me}
 {subtitle:Greg Lee/Chris Bundy}
+{musicpath:/storage/emulated/0/Music/For You, For Me.mp3}
 
 [D] [C6add2] [Bm7] [C6add2]
 [D] [C6add2]
@@ -50,5 +51,3 @@ Don't give a damn if it's a crying shame for me
 
 As the mist comes rolling down
 I wonder why you laid your body down for me
-
-{musicpath:/storage/emulated/0/Music/For You, For Me.mp3}

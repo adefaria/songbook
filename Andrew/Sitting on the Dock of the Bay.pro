@@ -1,5 +1,6 @@
 {title:Sitting on the Dock of the Bay}
 {subtitle:Otis Redding}
+{musicpath:/storage/emulated/0/Music/Sitting on the Dock of the Bay.mp3}
 {duration:2:47}
 {key:G}
 
@@ -36,4 +37,4 @@ Just to [C]make this[B/G] dock my [A7]home
 
 {c:Chorus}
 
-{c:Ad lib G G G E7}{musicpath:/storage/emulated/0/Music/Sitting on the Dock of the Bay.mp3}
+{c:Ad lib G G G E7}

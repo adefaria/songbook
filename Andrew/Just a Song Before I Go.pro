@@ -1,5 +1,6 @@
 {title:Just a Song Before I Go}
 {subtitle:Graham Nash}
+{musicpath:/storage/emulated/0/Music/Just a Song Before I Go.mp3}
 {duration:2:16}
 {key:Fem}
 {capo:2}
@@ -31,4 +32,3 @@ Just a song before I go,
 A lesson to be learned
 Traveling twice the speed of sound
 It's easy to get burned
-{musicpath:/storage/emulated/0/Music/Just a Song Before I Go.mp3}

@@ -1,5 +1,6 @@
 {title:Feeling Alright}
 {subtitle:Joe Cocker}
+{musicpath:/storage/emulated/0/Music/Feeling Alright.mp3}
 {duration:4:11}
 {key:C}
 
@@ -38,5 +39,3 @@ I can't get off, I guess I'm here to stay
 With a different name, oh, and a different face
 
 {c:Chorus} 2x fade
-
-{musicpath:/storage/emulated/0/Music/Feeling Alright.mp3}

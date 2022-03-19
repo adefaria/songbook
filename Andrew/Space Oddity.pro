@@ -1,5 +1,6 @@
 {title:Space Oddity}
 {subtitle:David Bowie}
+{musicpath:/storage/emulated/0/Music/Space Oddity.mp3}
 {duration:5:05}
 {key:Em}
 
@@ -47,5 +48,3 @@ Can you [G]hear me, Major Tom? Can you....
 Far above the Moon
 Planet Earth is blue
 And there's nothing I can do."
-
-{musicpath:/storage/emulated/0/Music/Space Oddity.mp3}

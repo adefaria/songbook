@@ -1,5 +1,6 @@
 {title:The Letter}
 {subtitle:Joe Cocker}
+{musicpath:/storage/emulated/0/Music/The Letter.mp3}
 {duration:4:22}
 {key:Am}
 
@@ -26,4 +27,3 @@ A[E7]nyway, yeah!
 {c:Chorus}
 
 {c:First verse}
-{musicpath:/storage/emulated/0/Music/The Letter.mp3}

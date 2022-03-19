@@ -1,5 +1,6 @@
 {title:Desperado}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Desperado.mp3}
 {duration:3:34}
 {key:G}
 
@@ -37,4 +38,3 @@ Come down from your fences, open the gate
 It may be rainin',  but there's a rainbow above you
 You better let somebody love you,        
 You better let somebody love you before it's too late
-{musicpath:/storage/emulated/0/Music/Desperado.mp3}

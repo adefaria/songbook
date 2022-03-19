@@ -1,5 +1,6 @@
 {title:Southern Cross}
 {subtitle:Crosby, Stills and Nash}
+{musicpath:/storage/emulated/0/Music/Southern Cross.mp3}
 {duration:4:41}
 {key:A}
 
@@ -61,5 +62,3 @@ You will survive being bested
 Somebody fine
 Will come along, make me forget about loving you
 In the Southern Cross
-
-{musicpath:/storage/emulated/0/Music/Southern Cross.mp3}

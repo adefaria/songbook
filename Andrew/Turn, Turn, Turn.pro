@@ -1,5 +1,6 @@
 {title:Turn, Turn, Turn}
 {subtitle:Pete Seeger}
+{c:Chorus}{musicpath:/storage/emulated/0/Music/Turn, Turn, Turn.mp3}
 {duration:3:57}
 
 {c:Chorus}
@@ -33,5 +34,3 @@ A time to gain, a time to lose;
 A time to rend a time to sew;
 A time to love, a time to hate;
 A time for peace, I swear it's not too late.
-
-{c:Chorus}{musicpath:/storage/emulated/0/Music/Turn, Turn, Turn.mp3}

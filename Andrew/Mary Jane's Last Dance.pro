@@ -1,5 +1,6 @@
 {title:Mary Jane's Last Dance}
 {subtitle:Tom Petty}
+{musicpath:/storage/emulated/0/Music/Mary Jane's Last Dance.mp3}
 {duration:4:41}
 
 [A] [G] [D] 4x
@@ -44,5 +45,3 @@ It was too cold to cry, I woke up alone
 I hit the last number, I walked to the road
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Mary Jane's Last Dance.mp3}

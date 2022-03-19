@@ -1,5 +1,6 @@
 {title:Revolution}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Revolution.mp3}
 {duration:3:28}
 {key:A}
 
@@ -51,4 +52,3 @@ But if you go carrying pictures of Chairman Mao
 You ain't going to make it with anyone anyhow
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Revolution.mp3}

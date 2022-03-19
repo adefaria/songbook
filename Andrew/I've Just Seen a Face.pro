@@ -1,5 +1,6 @@
 {title:I've Just Seen a Face}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/I've Just Seen a Face.mp3}
 {duration:2:06}
 {key:G}
 
@@ -34,4 +35,3 @@ Da da da da da da
 {c:First verse}
 
 {c:Chorus 3X}
-{musicpath:/storage/emulated/0/Music/I've Just Seen a Face.mp3}

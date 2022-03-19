@@ -1,5 +1,6 @@
 {title:Give a Little Bit}
 {subtitle:Roger Hodgson}
+{musicpath:/storage/emulated/0/Music/Give a Little Bit.mp3}
 {duration:4:09}
 {key:D}
 
@@ -44,4 +45,3 @@ Come come come come along ooh yea come along
 Come along [C]way come along [Em]right
 Come along [C]way [Em] [A7]Sing it tonight [D]
 Ooh ooh
-{musicpath:/storage/emulated/0/Music/Give a Little Bit.mp3}

@@ -1,5 +1,6 @@
 {title:You Can't Do That}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/You Can't Do That.mp3}
 {duration:2:35}
 
 [G7]I got something to say that might 'cause you pain
@@ -47,5 +48,3 @@ And leave you flat
 (Gonna let you down and leave you flat)
 Because I've told you before, oh
 You can't do that
-
-{musicpath:/storage/emulated/0/Music/You Can't Do That.mp3}

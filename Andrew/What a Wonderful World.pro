@@ -1,5 +1,6 @@
 {title:What a Wonderful World}
 {subtitle:Louis Armstrong}
+{musicpath:/storage/emulated/0/Music/What a Wonderful World.mp3}
 {duration:2:30}
 {key:E}
 
@@ -26,4 +27,3 @@ And I [C]think to myself, [F#m7]what a won[B7]derful [E]world[E7] [C#7]
 Yes I [F#m7]think to myself[B7], what a [B7b9]wonderful [E]wo[Eaug]rl[Amaj7]d [Am7]
 
 [Emaj7]
-{musicpath:/storage/emulated/0/Music/What a Wonderful World.mp3}

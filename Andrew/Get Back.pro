@@ -1,5 +1,6 @@
 {title:Get Back}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Get Back.mp3}
 {key:A}
 {duration:3:10}
 
@@ -44,5 +45,3 @@ Get back home Loretta
 
 Get back, get back
 Get back to where you wonce belonged
-
-{musicpath:/storage/emulated/0/Music/Get Back.mp3}

@@ -1,5 +1,6 @@
 {title:I Saw the Light}
 {subtitle:Todd Rundgren}
+{musicpath:/storage/emulated/0/Music/I Saw the Light.mp3}
 {duration:3:03}
 {key:Dm}
 {zoom-android-A1046:0.9379879}
@@ -53,5 +54,3 @@ And I [Fmaj7]ran out before [Em]
 But I [Am]won't do it anymore[D7]
 Can't you[Dm7] see the light [G]
 In my [Cmaj7]eyes  [Dm7]   4X
-
-{musicpath:/storage/emulated/0/Music/I Saw the Light.mp3}

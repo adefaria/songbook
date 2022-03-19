@@ -1,5 +1,6 @@
 {title:Wish You Were Here}
 {subtitle:Pink Floyd}
+{musicpath:/storage/emulated/0/Music/Wish You Were Here.mp3}
 {duration:4:54}
 {key:G}
 
@@ -21,5 +22,3 @@ How I wish, how I wish you were here
 We're just two lost souls swimming in a fish bowl
 Year after year, Running over the same old ground[C]
 What have we found? The same old fears. Wish you were here
-
-{musicpath:/storage/emulated/0/Music/Wish You Were Here.mp3}

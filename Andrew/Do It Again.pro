@@ -1,5 +1,6 @@
 {title:Do It Again}
 {subtitle:Steely Dan}
+{musicpath:/storage/emulated/0/Music/Do It Again.mp3}
 {duration:5:54}
 {key:Gm}
 
@@ -31,4 +32,3 @@ Your black cards can make you money so you hide them when you're able
 In the land of milk and honey you must put them on the table
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Do It Again.mp3}

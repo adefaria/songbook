@@ -1,5 +1,6 @@
 {title:Please Please Me}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Please Please Me.mp3}
 {duration:2:01}
 {key:E}
 
@@ -34,6 +35,3 @@ Please, please me, whoa yeah,
 Like I please you
 (Please me) whoa yeah, like I please you
 (Please me) whoa yeah, like I please yo[E]u [G] [C] [B] [E]
-
-{musicpath:/storage/emulated/0/Music/Please Please Me.mp3}
-

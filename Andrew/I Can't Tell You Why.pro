@@ -1,5 +1,6 @@
 {title:I Can't Tell You Why}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/I Can't Tell You Why.mp3}
 {duration:4:56}
 {key:D}
 
@@ -30,6 +31,4 @@ And [Bm]I can't tell you [A/B]why. No no baby,
 [Bm]I can't tell you why[F#m7] 
 [Gmaj7]I can't tell you [F#m7]why no no no. 
 
-Final Solo: [Gmaj7] [F#m7] Repeat and Fade 
-{musicpath:/storage/emulated/0/Music/I Can't Tell You Why.mp3}
-
+Final Solo: [Gmaj7] [F#m7] Repeat and Fade

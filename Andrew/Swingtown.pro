@@ -1,5 +1,6 @@
 {title:Swingtown}
 {subtitle:Steve Miller}
+{musicpath:/storage/emulated/0/Music/Swingtown.mp3}
 {duration:3:29}
 {key:A}
 
@@ -30,5 +31,3 @@ We may not get another chance
 You know the night is fallin'
 And the music's callin'
 And we've got to get down to Swingtown
-
-{musicpath:/storage/emulated/0/Music/Swingtown.mp3}

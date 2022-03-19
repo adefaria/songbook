@@ -1,5 +1,6 @@
 {title:Sweet Melissa}
 {subtitle:Allman Brothers}
+{musicpath:/storage/emulated/0/Music/Sweet Melissa.mp3}
 {duration:3:34}
 {key:E}
 
@@ -38,4 +39,3 @@ Yes, I know that he won't stay, yeah
 Without Melissa
 Lord, Lord, it's all the same 
 Mmmmm-hmmmmm
-{musicpath:/storage/emulated/0/Music/Sweet Melissa.mp3}

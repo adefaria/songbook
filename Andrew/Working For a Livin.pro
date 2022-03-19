@@ -1,5 +1,6 @@
 {title:Working For a Livin}
 {subtitle:Huey Lewis and The News}
+{musicpath:/storage/emulated/0/Music/Working For a Livin.mp3}
 {duration:2:38}
 {key:A}
 {metronome:160}
@@ -48,5 +49,3 @@ Workin' for a livin', livin' and a-workin'
 [G]Workin' for a livin', [D]livin' and a-workin' [A]
 N.C. Whoa! 
 [Outro] Over Intro/Verse riff with harmonica solo
-{musicpath:/storage/emulated/0/Music/Working For a Livin.mp3}
-

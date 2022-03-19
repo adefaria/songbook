@@ -1,5 +1,6 @@
 {title:Magellan}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}
 {key:D}
 
 [D6] [Dmaj7] [D] [Dmaj7] 2x
@@ -55,4 +56,3 @@ Is a love that he gave
 It's a lovely day
 
 [D6]Little Magell[Dmaj7]en a s[D]tar gazers [Dmaj7]fate
-{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}

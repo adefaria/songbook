@@ -1,5 +1,6 @@
 {title:Treasure}
 {subtitle:The Cure}
+{musicpath:/storage/emulated/0/Music/Treasure.mp3}
 {duration:3:46}
 {c:Capo}
 [C] (c e g d c e g d)
@@ -24,5 +25,3 @@ Than to remember me and [C]cry
 {c:Lead}
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Treasure.mp3}

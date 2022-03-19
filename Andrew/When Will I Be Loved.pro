@@ -1,5 +1,6 @@
 {title:When Will I Be Loved}
 {subtitle:Linda Ronstadt}
+{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}
 {duration:2:05}
 
 [E]I've been cheated
@@ -34,5 +35,3 @@ When will I be loved
 
 When will I be loved
 Tell me when will I be loved
-
-{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}

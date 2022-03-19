@@ -1,5 +1,6 @@
 {title:Lookin Out My Back Door}
 {subtitle:Creedence Clearwater Revival}
+{musicpath:/storage/emulated/0/Music/Lookin Out My Back Door.mp3}
 {duration:2:25}
 {key:A}
 
@@ -45,5 +46,3 @@ Doot doot doot lookin out my back door
 [E]Doot doot [B] doot lookin [F#] out my back [B] door
 
 [E] [B] [F#] [B]   [F#] [B]
-
-{musicpath:/storage/emulated/0/Music/Lookin Out My Back Door.mp3}

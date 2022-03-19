@@ -1,5 +1,6 @@
 {title:You Ain't Seen Nothing Yet}
 {subtitle:Bachman Turner Overdrive}
+{musicpath:/storage/emulated/0/Music/You Ain't Seen Nothing Yet.mp3}
 {duration:3:45}
 
 {c:Intro}
@@ -45,4 +46,3 @@ You ain't seen nothin' yet,
 B-B-B-Baby, you just ain't seen n-n-n-nothin' yet,
 Here's some lovin' that you never gonna forget,
 B-B-B-Baby, you just ain't seen n-n-n-n-nothin' yet. 
-{musicpath:/storage/emulated/0/Music/You Ain't Seen Nothing Yet.mp3}

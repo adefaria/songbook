@@ -1,5 +1,6 @@
 {title:My Life}
 {subtitle:Tempest}
+{musicpath:/storage/emulated/0/Music/My Life.mp3}
 {key:D}
 
 {c:Intro}
@@ -47,4 +48,3 @@ In my [C]life, don't slow it [D]down, cause it's my [A]life
 {c:Break}
 
 {c:Chorus 3x fade}
-{musicpath:/storage/emulated/0/Music/My Life.mp3}

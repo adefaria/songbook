@@ -1,5 +1,6 @@
 {title:You and Tequila}
 {subtitle:Kenny Chesney}
+{musicpath:/storage/emulated/0/Music/You and Tequila.mp3}
 {duration:4:06}
 {key:G}
 
@@ -36,5 +37,3 @@ Swore I wouldn't go back there again
 [A7]That do you in
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/You and Tequila.mp3}

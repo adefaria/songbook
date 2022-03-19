@@ -1,5 +1,6 @@
 {title:Margaritaville}
 {subtitle:Jimmy Buffett}
+{musicpath:/storage/emulated/0/Music/Margaritaville.mp3}
 {duration:4:09}
 {key:D}
 
@@ -43,5 +44,3 @@ but I [A]know, it's my own damn [D]fault.  [D7] Yes and
 [G]some people [A]claim that there's a [D]wom[A]an to [G]blame,
 and I [A]know, it's my own damn [D]fault.
 {eoc}
-
-{musicpath:/storage/emulated/0/Music/Margaritaville.mp3}

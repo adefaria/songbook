@@ -1,5 +1,6 @@
 {title:Bring it on Home}
 {subtitle:Sam Cooke}
+{musicpath:/storage/emulated/0/Music/Bring it on Home.mp3}
 {duration:2:46}
 {key:C}
 
@@ -43,4 +44,3 @@ Yeah (yeah), yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
 Yeah (yeah), yeah (yeah)
-{musicpath:/storage/emulated/0/Music/Bring it on Home.mp3}

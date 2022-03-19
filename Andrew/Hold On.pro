@@ -1,5 +1,6 @@
 {title:Hold On}
 {subtitle:Kansas}
+{musicpath:/storage/emulated/0/Music/Hold On.mp3}
 {duration:3:50}
 {key:Em}
 
@@ -46,4 +47,3 @@ You're on the right track
 
 {c:2x}
 {c:chorus}
-{musicpath:/storage/emulated/0/Music/Hold On.mp3}

@@ -1,5 +1,6 @@
 {title:Goodbye Yellow Brick Road}
 {subtitle:Elton John}
+{musicpath:/storage/emulated/0/Music/Goodbye Yellow Brick Road.mp3}
 {duration:3:13}
 {key:E}
 
@@ -40,4 +41,3 @@ Sniffing for tidbits like you
 On the ground... Ah....  Ah....
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Goodbye Yellow Brick Road.mp3}

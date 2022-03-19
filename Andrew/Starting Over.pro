@@ -1,5 +1,6 @@
 {title:Starting Over}
 {subtitle:John Lennon}
+{musicpath:/storage/emulated/0/Music/Starting Over.mp3}
 {duration:3:56}
 {key:A}
 
@@ -45,4 +46,3 @@ Although our love still is special
 Let's take a chance and fly away somewhere
 
 Starting over (over and over and over)
-{musicpath:/storage/emulated/0/Music/Starting Over.mp3}

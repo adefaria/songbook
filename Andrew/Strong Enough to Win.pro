@@ -1,5 +1,6 @@
 {title:Strong Enough to Win}
 {subtitle:Mike Fraser}
+{musicpath:/storage/emulated/0/Music/Strong Enough to Win.mp3}
 {key:A}
 
 [A] [Amaj7] [A6] [Amaj7]
@@ -48,4 +49,3 @@ But not to fear that you've seen better days
 {c:Break}
 
 {c:Chorus 3x fade} 
-{musicpath:/storage/emulated/0/Music/Strong Enough to Win.mp3}

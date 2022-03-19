@@ -1,5 +1,6 @@
 {title:Soul Man}
 {subtitle:The Blues Brothers}
+{musicpath:/storage/emulated/0/Music/Soul Man.mp3}
 {duration:2:40}
 {key:E}
 
@@ -53,4 +54,3 @@ You're a soul man
 I'm a soul man
 I'm a soul man
 I'm a soul man
-{musicpath:/storage/emulated/0/Music/Soul Man.mp3}

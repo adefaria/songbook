@@ -1,5 +1,6 @@
 {title:I'll Be Back}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/I'll Be Back.mp3}
 {duration:2:25}
 {key:Am}
 
@@ -40,5 +41,3 @@ You, if you break my heart I'll go
 But I'll be back again
 
 [A] [Am] [A] [Am] [A]
-
-{musicpath:/storage/emulated/0/Music/I'll Be Back.mp3}

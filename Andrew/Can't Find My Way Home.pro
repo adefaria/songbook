@@ -1,5 +1,6 @@
 {title:Can't Find My Way Home}
 {subtitle:Blind Faith}
+{musicpath:/storage/emulated/0/Music/Can't Find My Way Home.mp3}
 {duration:3:19}
 {key:D}
 
@@ -19,4 +20,3 @@ You are the reason I've been waiting all these years
 Somebody holds the key
 
 {c:Chorus}
-{musicpath:/storage/emulated/0/Music/Can't Find My Way Home.mp3}

@@ -1,5 +1,6 @@
 {title:More Than Words}
 {subtitle:Extreme}
+{musicpath:/storage/emulated/0/Music/More Than Words.mp3}
 {duration:4:16}
 {key:G}
 
@@ -63,4 +64,3 @@ Just by saying I love you
 {eoc}
 
 More than words
-{musicpath:/storage/emulated/0/Music/More Than Words.mp3}

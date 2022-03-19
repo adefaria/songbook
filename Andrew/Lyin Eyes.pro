@@ -1,5 +1,6 @@
 {title:Lyin' Eyes}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}
 {duration:6:32}
 {key:G}
 
@@ -59,5 +60,3 @@ You're still the same old girl you used to be
 
 There ain't no way to hide your lyin' eyes
 Honey, you can't hide your lyin' eyes
-
-{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}

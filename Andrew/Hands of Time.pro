@@ -1,6 +1,6 @@
 {title:Hands of Time}
 {subtitle:Red Shoes for Romeo}
-{zoom-android-A1046:1.4218017}
+{musicpath:/storage/emulated/0/Music/Hands of Time.mp3}
 {key:A}
 
 [A] [F#m] [A] [F#m]
@@ -40,5 +40,3 @@ I [D]think it's magic in my [E]soul
 [D] [E] 4x
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Hands of Time.mp3}

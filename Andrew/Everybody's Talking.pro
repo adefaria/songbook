@@ -1,5 +1,6 @@
 {title:Everybody's Talking}
 {subtitle:Harry Nielson}
+{musicpath:/storage/emulated/0/Music/Everybody's Talking.mp3}
 {duration:2:46}
 {key:E}
 {tuning:D A D G B E}
@@ -32,4 +33,3 @@ I won't let you leave my love behind
 No, I won't let you leave
 Wah, wah
 I won't let you leave my love behind
-{musicpath:/storage/emulated/0/Music/Everybody's Talking.mp3}

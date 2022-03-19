@@ -1,5 +1,6 @@
 {title:If You Could Read My Mind}
 {subtitle:Gordon Lightfoot}
+{musicpath:/storage/emulated/0/Music/If You Could Read My Mind.mp3}
 {duration:3:49}
 {key:G}
 
@@ -56,5 +57,3 @@ And I've got to say that I just don't get it.
 I don't know where we went wrong,
 But the feelin's gone
 And I just can't get it back!
-
-{musicpath:/storage/emulated/0/Music/If You Could Read My Mind.mp3}

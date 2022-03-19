@@ -1,5 +1,6 @@
 {title:Run To You}
 {subtitle:Bryan Adams}
+{musicpath:/storage/emulated/0/Music/Run To You.mp3}
 {duration:3:46}
 {capo:2}
 {key:F#m}
@@ -44,4 +45,3 @@ But it's so damn easy makin' love to you
 {c:Chorus chords}
 
 {c:Chorus repeat and fade}
-{musicpath:/storage/emulated/0/Music/Run To You.mp3}

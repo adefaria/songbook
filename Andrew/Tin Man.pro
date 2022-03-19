@@ -1,5 +1,6 @@
 {title:Tin Man}
 {subtitle:America}
+{musicpath:/storage/emulated/0/Music/Tin Man.mp3}
 {duration:3:30}
 {key:G}
 
@@ -29,5 +30,3 @@ And Cause never was the reason for the evening
 Or the tropic of Sir Galahad
 
 So please believe in me
-
-{musicpath:/storage/emulated/0/Music/Tin Man.mp3}

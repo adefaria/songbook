@@ -1,5 +1,6 @@
 {title:End of the Line}
 {subtitle:Traveling Wilburys}
+{musicpath:/storage/emulated/0/Music/End of the Line.mp3}
 {duration:3:26}
 {key:D}
 
@@ -52,5 +53,3 @@ Well it's all right, riding around in the breeze
 Well it's all right, if you live the life you please
 Well it's all right, even if the sun don't shine
 Well it's all right, we're going to the end of the line
-
-{musicpath:/storage/emulated/0/Music/End of the Line.mp3}

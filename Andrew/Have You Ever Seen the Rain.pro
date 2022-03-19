@@ -1,5 +1,6 @@
 {title:Have You Ever Seen the Rain}
 {subtitle:Creedence Clearwater Revival}
+{musicpath:/storage/emulated/0/Music/Have You Ever Seen the Rain.mp3}
 {duration:2:41}
 {key:C}
 {tempo:120}
@@ -26,5 +27,3 @@ I [G]know,      and I can't stop. I [C]wonder.[C]
 {eoc}
 
 repeat chorus           Bill C. ultimate guitar
-
-{musicpath:/storage/emulated/0/Music/Have You Ever Seen the Rain.mp3}

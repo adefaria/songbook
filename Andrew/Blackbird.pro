@@ -1,5 +1,6 @@
 {title:Blackbird}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Blackbird.mp3}
 {duration:2:19}
 {metronome:92}
 
@@ -34,4 +35,3 @@ All your life
 You were only waiting for this moment to arise
 You were only waiting for this moment to arise
 You were only waiting for this moment to arise
-{musicpath:/storage/emulated/0/Music/Blackbird.mp3}

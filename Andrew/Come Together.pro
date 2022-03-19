@@ -1,5 +1,6 @@
 {title:Come Together}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Come Together.mp3}
 {duration:4:20}
 {key:D}
 
@@ -36,4 +37,3 @@ He say, one and one and one is three,
 Got to be good looking 'cause he so hard to see
 
 Come together, right now, over me
-{musicpath:/storage/emulated/0/Music/Come Together.mp3}

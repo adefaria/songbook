@@ -1,5 +1,6 @@
 {title:Kashmir}
 {subtitle:Led Zeppelin}
+{musicpath:/storage/emulated/0/Music/Kashmir.mp3}
 {duration:8:38}
 {key:D}
 {tuning:D A D G A D}
@@ -37,4 +38,3 @@ Ooh, yeah-yeah, ooh, yeah-yeah, well I'm down, so down
 Ooh, my baby, oooh, my baby, let me take you there
 
 Let me take you there. Let me take you there
-{musicpath:/storage/emulated/0/Music/Kashmir.mp3}

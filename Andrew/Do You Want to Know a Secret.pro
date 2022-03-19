@@ -1,8 +1,8 @@
 {title:Do You Want to Know a Secret}
 {subtitle:Beatles}
+{musicpath:/storage/emulated/0/Music/Do You Want to Know a Secret.mp3}
 {key:E}
 {duration:1:28}
-{musicpath:/storage/emulated/0/Music/Do You Want to Know a Secret.mp3}
 
 [Em]You'll never know how much [Am]I really [Em]love you
 [G]You'll never know how much I [F]really [B7]care

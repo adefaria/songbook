@@ -1,5 +1,6 @@
 {title:Free Fallin}
 {subtitle:Tom Petty}
+{musicpath:/storage/emulated/0/Music/Free Fallin.mp3}
 {duration:4:15}
 {key:F}
 {capo:3}
@@ -61,5 +62,3 @@ Free falling never
 Free failing never
 ...
 {eoc}
-
-{musicpath:/storage/emulated/0/Music/Free Fallin.mp3}
