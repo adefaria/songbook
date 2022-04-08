@@ -18,7 +18,7 @@ But I [Em7]can't le[D/F#]ave 'cause my r[G]oots go d[C]eep in this [G]hard [D/F#
 
 I[G]'ve got a friend got a[D/F#] job in the city i[Em7]nstalling burglar a[C]larms
 H[G]e says he's makin' r[D/F#]eal good money but I can t[C]ell he misses the farm
-H[G]e calls to ask how the c[D/F#]rops are doin�, I[Em7] say we could use some r[C]ain
+H[G]e calls to ask how the c[D/F#]rops are doin', I[Em7] say we could use some r[C]ain
 [G]Says his life is m[D/F#]ovin' kinda fast and I t[C]ell him out here things are a[D]lways the same
 
 {c:Chorus}
