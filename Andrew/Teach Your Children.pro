@@ -23,7 +23,7 @@ And[D] you of tender [G] years(Can you hear and do you care and)
 Can't know the [D] fears (Can you see)
 that your elders [A] grew by [A7](We must be free)
 And so please [D] help (To teach your children)
-them with your [G] youth (What you believe in)
+them with your [G] youth (You believe in)
 They seek the [D] truth (Make a world)
 before they [A] can die(That we can live in)
 
