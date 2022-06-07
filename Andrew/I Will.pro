@@ -27,7 +27,7 @@ Your song will fill the air
 Sing it loud so I can hear you
 Make it easy to be near you
 For the things you do endear you to me
-Oh you know I [Bb]will
+[G]Oh you [A]know I [Bb]will
 I [D]will
 
 [G]Di, da, [F#m]di, di [Bm], di, da [D7]da
