@@ -1,33 +1,33 @@
 {title:Hollywood}
+{subtitle:Los Lonely Boys}
+{musicpath:/storage/emulated/0/Music/Hollywood.mp3}
+{key:C}
+{duration:4:14}
 
+[Dm] [C]
 
-[Bb]I'm calling up my cherie, tell her that I'm gonna leave
-c[Eb]ause I'm m[Ebm]oving on to Hollywood you s[Bb]ee.
+[C]I'm calling up my cherie, tell her that I'm gonna leave
+[F]cause I'm moving on to [Fm]Hollywood you [C]see
+[C]It's always been a lifelong dream, for my family
+[F]to see me... [Fm]on that silver [C]screen
 
-[Bb]It's always been a lifelong dream, for my family
-[Eb]to see me... [Ebm]on that silver sc[Bb]reen.
+[Dm]And I know I can't go [G]wrong, cause I've [Dm]finally found my [G]song
+[Dm]I'm headed where I belong[G]...Holl[C]ywood.
 
-A[Cm]nd I know I can't go [F]wrong, cause I'[Cm]ve finally found my [F]song
-I[Cm]'m headed where I bel[F]ong...Hollyw[Bb]ood.
+I know there's something in store for me, but nothing like the tragedies
+That have seen me thru in real life you see.
+And I know I can't go wrong, cause I've finally found my song
+I'm headed where I belong...Hollywood, Hollywood
 
-[C]
-I[Bb] know there's something in store for me, but nothing like the tragedies
-T[Eb]hat have seen me thru in[Ebm] real life you [Bb]see.
+{c:Lead}
 
-A[Cm]nd I know I can't[F] go wrong, cause [Cm]I've finally f[F]ound my song
-I'm [Cm]headed where I be[F]long...Hol[Cm]lywood, Hol[Bb]lywood
+{c:Bridge}
 
-[D]I know that s[Gm]omething's there for[C][Cm] me 
-I'm flying[F] free
+I [Em]know that something's [Am]there for [D]me 
+I'm flying free [G] [F] [Em] [Dm]
 
-Next time that you see me
-I'll be done with misery
-I'll be shining bright
-For all the world to see
+Next time that you see me I'll be done with misery
+I'll be shining bright for all the world to see
 
 Cause I know I can't go wrong  I've finally found my song
 I'm headed where I belong  Hollywood Hollywood (2x)
-
-
-
- 

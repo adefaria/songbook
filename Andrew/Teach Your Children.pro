@@ -1,7 +1,7 @@
 {title:Teach Your Children}
 {subtitle:Crosby, Stills and Nash}
 {key:D}
-{duration:2;55}
+{duration:2:55}
 {musicpath:/storage/emulated/0/Music/Teach Your Children.mp3}
 
 [D]You who are on the [G] road
