@@ -4,7 +4,7 @@
 {duration:2:36}
 
 [C]All the little boys and [Cmaj7]girls
-[C6]Living in this crazy [Edim]world
+[C6]Living in this crazy [Eaug]world
 [F]All they really needed from [Dm7]you [Gsus4] [G]
 Is maybe some [C]love [Fm] [C]
 
