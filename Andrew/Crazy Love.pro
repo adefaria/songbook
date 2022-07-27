@@ -1,5 +1,6 @@
 {title:Crazy Love}
 {subtitle:Poco}
+{metronome:82}
 {musicpath:/storage/emulated/0/Music/Crazy Love.mp3}
 {Capo:2}
 {duration:2:57}
