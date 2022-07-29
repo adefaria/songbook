@@ -2,7 +2,7 @@
 {subtitle:The Youngbloods}
 {musicpath:/storage/emulated/0/Music/Get Together.mp3}
 {duration:4:41}
-{key:A}
+{key:G}
 {capo:2}
 
 [G] [F] [G] [F] [G] [F]
