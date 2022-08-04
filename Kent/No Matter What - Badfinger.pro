@@ -1,6 +1,5 @@
 {title:No Matter What}
 {subtitle:Badfinger}
-{key:Electric?}
 {key:A}
 [Intro][A][A][A](break)
 [Verse 1] 
