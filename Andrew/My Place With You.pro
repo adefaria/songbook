@@ -1,5 +1,9 @@
-{title:My Place with You}
+{title:My Place With You}
 {subtitle:Dan Graper}
+{musicpath:/storage/emulated/0/Music/My Place With You.mp3}
+{key:A}
+{capo:2}
+{duration:4:22}
 
 I wonder sometimes if things had been different
 If we still were two
