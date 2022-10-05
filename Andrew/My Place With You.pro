@@ -37,5 +37,5 @@ I need to find a space with you
 
 {c:Chorus}
 
-Well, they say that life’s a journey, 
+Well, they say that life's a journey, 
 But I feel sometimes I lost my way
