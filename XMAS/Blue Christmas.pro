@@ -1,7 +1,8 @@
 {title:Blue Christmas}
 {subtitle:Elvis Presley}
-
-{Key: D}
+{musicpath:/storage/emulated/0/Music/Blue Christmas.mp3}
+{duration:2:07}
+{key: D}
 
 I'll have a [D]blue Christmas with[A]out you
 I'll be so [A7]blue just thinki[D]ng about you

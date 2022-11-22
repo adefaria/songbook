@@ -1,5 +1,7 @@
 {title:Jingle Bell Rock}
 {subtitle:Tommy Emmanuel}
+{musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}
+{duration:2:31}
 {key:G}
 
 {c:Intro}
@@ -45,5 +47,3 @@ Jingle ar[Adim7]ound the [A#min7]clock
 [A#7]That's the [D#7]jingle bell
 [A#7]With old E[D#7]mmanuel
 [A#7]That's the jingle bell rock [A#6]
-
-{musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}

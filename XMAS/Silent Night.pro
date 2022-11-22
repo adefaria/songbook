@@ -1,5 +1,7 @@
 {title:Silent Night}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Silent Night.mp3}
+{duration:3:06}
 {key:C}
 
 [C]Silent night! holy night

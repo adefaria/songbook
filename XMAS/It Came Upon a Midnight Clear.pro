@@ -1,12 +1,14 @@
-{title:It Came Upon the Midnight Clear}
+{title:It Came Upon a Midnight Clear}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/It Came Upon a Midnight Clear.mp3}
+{duration:3:29}
 {key:C}
 
 It c[C]ame up[F]on the m[C]idnight clear,
 That g[F]lorious s[D7]ong of ol[G7]d,
-From [C]angels b[F]ending n[C]ear the earth,
+From [C]angels b[F]ending n[C]ear the Earth,
 To to[F]uch their h[G7]arps of go[C]ld:
-"Peace [E7]on the earth, goodw[Am]ill to men
+"Peace [E7]on the Earth, goodw[Am]ill to men
 From hea[G]vens a[D7]ll gracious K[G]ing!"
 The wo[C]rld in so[F]lemn sti[C]llness lay
 To h[F]ear the a[G7]ngels s[C]ing.
@@ -33,7 +35,7 @@ For lo! the days are hastening on,
 By prophets seen of old,
 When with the ever-circling years
 Shall come the time foretold,
-When the new heaven and earth shall own
+When the new heaven and Earth shall own
 The Prince of Peace, their King,
 And the whole world send back the song
 Which now the angels sing.

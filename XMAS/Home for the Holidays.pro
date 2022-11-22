@@ -1,5 +1,7 @@
 {title:Home for the Holidays}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Home for the Holidays.mp3}
+{duration:2:35}
 {key:G}
 
 Oh, the[G7]re's no p[C]lace like h[F]ome for t[C]he holidays

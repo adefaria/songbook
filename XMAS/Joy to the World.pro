@@ -1,5 +1,7 @@
 {title:Joy to the World}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Joy to the World.mp3}
+{duration:2:09}
 {key:D}
 
 [D]Joy to the world! The lord is come

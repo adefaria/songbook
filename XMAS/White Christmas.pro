@@ -1,5 +1,7 @@
 {title:White Christmas}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/White Christmas.mp3}
+{duration:2:34}
 {key:C}
 
 {c:Intro}

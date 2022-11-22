@@ -1,5 +1,7 @@
 {title:Silver Bells}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Silver Bells.mp3}
+{duration:3:45}
 {key:D}
 
 [D]City sidewalks busy sidewalks .

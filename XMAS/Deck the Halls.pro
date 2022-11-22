@@ -1,5 +1,7 @@
 {title:Deck the Halls}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Deck the Halls.mp3}
+{duration:1:38}
 {key:D}
 
 [D]Deck the halls with [Bm]boughs of holly, 

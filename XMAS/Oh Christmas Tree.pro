@@ -1,5 +1,7 @@
 {title:Oh Christmas Tree}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Oh Christmas Tree.mp3}
+{duration:3:09}
 {key:D}
 
 O [D]Christmas Tree! [A7]O [D]Christmas Tree!
