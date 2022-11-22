@@ -1,5 +1,7 @@
 {title:We Three Kings}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/We Three Kings.mp3}
+{duration:3:16}
 {key:G}
 
 [Em]We three kings of [B7]Orient [Em]are

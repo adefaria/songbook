@@ -1,5 +1,8 @@
-{title:War Is Over Happy Christmas}
+{title:Happy Christmas (War is over)}
 {subtitle:John Lennon}
+{musicpath:/storage/emulated/0/Music/Happy Christmas (War is over).mp3}
+{duration:3:35}
+{key:A}
 
 So this is [A]Christmas
 And what have y[Bm]ou done

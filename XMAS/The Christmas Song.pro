@@ -1,5 +1,7 @@
 {title:The Christmas Song}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/The Christmas Song.mp3}
+{duration:3:30}
 {key:C}
 
 [C]Chestnuts roast[Dm6]ing on an open fire[Em] [Am], 

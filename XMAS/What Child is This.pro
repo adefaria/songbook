@@ -1,5 +1,7 @@
 {title:What Child is This}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/What Child is This.mp3}
+{duration:2:49}
 {key:C}
 
 What [Am]Child is [C]this who, [G]laid to [Em]rest

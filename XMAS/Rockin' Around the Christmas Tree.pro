@@ -1,5 +1,7 @@
 {title:Rockin' Around the Christmas Tree}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Rockin' Around the Christmas Treemp3}
+{duration:2:38}
 {key:G}
 
 {c:Intro}

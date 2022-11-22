@@ -1,5 +1,7 @@
 {title:Auld Lang Syne}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/Auld Lang Syne.mp3}
+{duration:5:03}
 {key:D}
 
 [D]Should auld acquaintance [A]be forgot, 

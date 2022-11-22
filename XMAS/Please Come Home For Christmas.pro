@@ -1,5 +1,7 @@
 {title:Please Come Home For Christmas}
 {subtitle:Eagles}
+{musicpath:/storage/emulated/0/Music/Please Come Home For Christmas.mp3}
+{duration:2:57}
 {key:A}
 
 Bells will be [A]ringing[Amaj7] this sad, sad [A7]news
@@ -30,5 +32,3 @@ Ooh, There'll be no more [A]sorrow, [C#7]no grief and [F#m]pain [F#m/E]  [D]
 And [D#dim]I'll be [A/E]happy [F#m] at Ch[B7]ristmas o[E7]nce ag[A]ain
 
 [D] [A]
-
-{musicpath:/storage/emulated/0/Music/Please Come Home For Christmas.mp3}

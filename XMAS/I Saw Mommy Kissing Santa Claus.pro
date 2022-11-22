@@ -1,5 +1,7 @@
-{title:I saw Mommy Kissing Santa Claus}
+{title:I Saw Mommy Kissing Santa Claus}
 {subtitle:Traditional}
+{musicpath:/storage/emulated/0/Music/I Saw Mommy Kissing Santa Claus.mp3}
+{duration:2:27}
 {key:C}
 
 [C]I saw mommy [Am]kissing [Em]Santa Claus
