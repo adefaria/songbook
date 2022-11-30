@@ -2,16 +2,16 @@
 {subtitle:Traditional}
 {musicpath:/storage/emulated/0/Music/It Came Upon a Midnight Clear.mp3}
 {duration:3:29}
-{key:C}
+{key:Bb}
 
-It c[C]ame up[F]on the m[C]idnight clear,
-That g[F]lorious s[D7]ong of ol[G7]d,
-From [C]angels b[F]ending n[C]ear the Earth,
-To to[F]uch their h[G7]arps of go[C]ld:
-"Peace [E7]on the Earth, goodw[Am]ill to men
-From hea[G]vens a[D7]ll gracious K[G]ing!"
-The wo[C]rld in so[F]lemn sti[C]llness lay
-To h[F]ear the a[G7]ngels s[C]ing.
+It c[Bb]ame up[Eb]on the m[Bb]idnight clear,
+That g[Eb]lorious s[C7]ong of ol[F7]d,
+From [Bb]angels b[Eb]ending n[Bb]ear the Earth,
+To to[Eb]uch their h[F7]arps of go[Bb]ld:
+"Peace [D7]on the Earth, goodw[Gm]ill to men
+From hea[F]vens a[C7]ll gracious K[F]ing!"
+The wo[Bb]rld in so[Eb]lemn sti[Bb]llness lay
+To h[Eb]ear the a[F7]ngels s[Bb]ing.
  
 Still through the cloven skies they come,
 With peaceful wings unfurled;

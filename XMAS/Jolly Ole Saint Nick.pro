@@ -2,16 +2,17 @@
 {subtitle:Traditional}
 {musicpath:/storage/emulated/0/Music/Jolly Ole Saint Nick.mp3}
 {duration:1:48}
-{key:D}
+{key:Ab}
+{capo:4}
 
-[D]Jolly old Saint [A]Nickolas
-[Bm]Lean your ear this [D]way!
-[G]Don't you tell a [D]single soul
-[A]What I'm going to say
-[D]Christmas Eve is [A]coming soon
-[Bm]Now, you dear old [D]man
-[G]Whisper what you'll [D]bring to me
-[A]Tell me if you [D]can
+[Ab]Jolly old Saint [Eb]Nickolas
+[Fm]Lean your ear this [Cm7]way!
+[Db]Don't you tell a [Ab]single soul
+[Eb]What I'm going to say
+[Ab]Christmas Eve is [Eb]coming soon
+[Fm]Now, you dear old [Cm7]man
+[Db]Whisper what you'll [Ab]bring to me
+[Eb]Tell me if you [Ab]can
 
 When the clock is string twelve
 When I'm fast asleep

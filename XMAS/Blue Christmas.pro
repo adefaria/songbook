@@ -2,25 +2,25 @@
 {subtitle:Elvis Presley}
 {musicpath:/storage/emulated/0/Music/Blue Christmas.mp3}
 {duration:2:07}
-{key: D}
+{key:E}
 
-I'll have a [D]blue Christmas with[A]out you
-I'll be so [A7]blue just thinki[D]ng about you
-Deco[Am]rations of [D]red on a [G]green Christmas tree
-[E]Won't be the same dear, if [A]you're not here with [A7]me
+I'll have a [E]blue Christmas with[B]out you
+I'll be so [B7]blue just thinki[E]ng about you
+Deco[Bm]rations of [E]red on a [A]green Christmas tree
+[F#]Won't be the same dear, if [B]you're not here with [B7]me
 
-And when those [D]blue snowflakes start [A]fallin'
-That's when those [A7]blue memories start [D]callin'
-You'll be [Am]doin' al[D]right with your [G]Christmas of [E7]white
-But [A]I'll have a blue, blue, blue, blue [D]Christmas
+And when those [E]blue snowflakes start [B]fallin'
+That's when those [B7]blue memories start [E]callin'
+You'll be [Bm]doin' al[E]right with your [A]Christmas of [F#7]white
+But [B]I'll have a blue, blue, blue, blue [E]Christmas
 
 
 {c:Instrumental}
 
-[D] [A] [A7] [D]
+[E] [B] [B7] [E]
 
-You'll be [Am7]doin' al[D]right with your [G]Christmas of [E7]white
-But [A]I'll have a blue, blue, blue, blue [D]Christmas
+You'll be [Bm7]doin' al[E]right with your [A]Christmas of [F#7]white
+But [B]I'll have a blue, blue, blue, blue [E]Christmas
 
 I'll have a blue Christmas that's certain
 And when that blue heartache starts hurtin'

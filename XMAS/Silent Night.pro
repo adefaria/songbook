@@ -2,7 +2,6 @@
 {subtitle:Traditional}
 {musicpath:/storage/emulated/0/Music/Silent Night.mp3}
 {duration:3:06}
-{key:C}
 
 [C]Silent night! holy night
 [G7]All is calm [C]all is bright

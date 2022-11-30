@@ -2,16 +2,16 @@
 {subtitle:Traditional}
 {musicpath:/storage/emulated/0/Music/Oh Christmas Tree.mp3}
 {duration:3:09}
-{key:D}
+{key:C}
 
-O [D]Christmas Tree! [A7]O [D]Christmas Tree!
-Thy [Em]leaves are so [A7]unchang[D]ing;
-O Christmas Tree! [A7]O Christ[D]mas Tree!
-Thy [Em]leaves are so [A7]unchang[D]ing;
-Not only [G]green when [A7]summer's here,
-But also when 'tis [D]cold and drear.
-O Christmas Tree! [A7]O [D]Christmas Tree!
-Thy [Em]leaves are so [A7]unchang[D]ing!
+O [C]Christmas Tree! [G7]O [C]Christmas Tree!
+Thy [Dm]leaves are so [G7]unchang[C]ing;
+O Christmas Tree! [G7]O Christ[C]mas Tree!
+Thy [Dm]leaves are so [G7]unchang[C]ing;
+Not only [F]green when [G7]summer's here,
+But also when 'tis [C]cold and drear.
+O Christmas Tree! [G7]O [C]Christmas Tree!
+Thy [Dm]leaves are so [G7]unchang[C]ing!
 
 O Christmas Tree! O Christmas Tree!
 Much pleasure thou can'st give me;
