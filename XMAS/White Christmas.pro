@@ -2,17 +2,17 @@
 {subtitle:Traditional}
 {musicpath:/storage/emulated/0/Music/White Christmas.mp3}
 {duration:2:34}
-{key:C}
+{key:G}
 
 {c:Intro}
 
-[C] [Csus4] [C]
+[G] [Gsus4] [G]
 
-[C]I'm [Csus4]dream[C]ing of a whi[Dm]te Chr[Gmaj7]istma[G]s 
-[F]Just like the ones [G7]I used to kno[C]w 
-Where the treetops g[C7]listen, 
-and ch[F]ildren listen [Ddim] 
-To [C]hear sleig[Am]h bells in the [Dm7]snow [G7]
+[G]I'm [Gsus4]dream[G]ing of a whi[Am]te Chr[Dmaj7]istma[D]s 
+[C]Just like the ones [D7]I used to kno[G]w 
+Where the treetops g[G7]listen, 
+and ch[C]ildren listen [Adim] 
+To [G]hear sleig[Em]h bells in the [Am7]snow [D7]
 
 I'm dreaming of a white Christmas 
 With every Christmas card I write 
