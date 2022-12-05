@@ -12,7 +12,6 @@ When will I be loved
 [E]I've been p[A]ut d[B]own, 
 [E]I've been pu[A]shed 'r[B]ound
 [E]When will [A]I b[B]e loved
-
 [A]When I find a new [B]man
 [A]That I want for [E]mine
 [A]Always breaks my [B]heart in two 

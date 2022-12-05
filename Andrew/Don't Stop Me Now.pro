@@ -4,7 +4,7 @@
 {key:D}
 {zoom-android-A1046:0.91306025}
 
-Ton[D]ight, I'm gonna have my[F#M]self a real go[Bm]od time
+Ton[D]ight, I'm gonna have my[F#m]self a real go[Bm]od time
 I feel [Em]al[D/F#]iv[G]e[Asus4] and the [D]world tu[D7]rning it inside o[G]ut, yeah
 And fl[Em]oating around in e[B7]cstasy
 So [Em]don't [D]stop [A]me [Em]now 
