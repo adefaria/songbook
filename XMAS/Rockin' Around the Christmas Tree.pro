@@ -49,7 +49,7 @@ You will get a sentimental feeling When you hear voices singing
 
 [Eb7]Deck the halls with boughs of holly
 
-[Ab6]ockin' around the Christmas tree, have a [Bbm7happy holiday [Db7]
+[Ab6]ockin' around the Christmas tree, have a [Bbm7]happy holiday [Db7]
 Am7       D7      Am7  D7         D7                G    Em  C  G
 [Bbm7]Ev'ryone danc[Db7]ing merrily, in the [Bbm7]new old-fashion[D7]ed way... [Ab6]
 
