@@ -1,4 +1,4 @@
-{title:Jingle Bell Rock}
+{title:Jingle Bell Rock Rocking Around the Christmas Tree}
 {subtitle:Tommy Emmanuel}
 {duration:2:31}
 {key:G}
