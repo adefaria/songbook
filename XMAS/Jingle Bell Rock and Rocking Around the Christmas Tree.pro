@@ -52,7 +52,7 @@ Jingle ar[G#dim7]ound the [Amin7]clock
 
 [Eb7]Deck the halls with boughs of holly
 
-[Ab6]ockin' around the Christmas tree, have a [Bbm7]happy holiday [Db7]
+[Ab6]Rockin' around the Christmas tree, have a [Bbm7]happy holiday [Db7]
 [Bbm7]Ev'ryone danc[Db7]ing merrily, in the [Eb7]new [E7/B]old-[Bbm7]fashion[A7]ed [G#]way[G#7] [Db/F] [Db/E]
 
 [eb] [e] [f] [f] [gb] [g] [ab] [Ab6]
