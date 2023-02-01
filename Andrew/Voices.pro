@@ -1,6 +1,6 @@
 {title:Voices}
 {subtitle:Red Shoes for Romeo}
-{musicpath:/storage/emulated/0/Music/Voices.mp3}
+{musicpath:/storage/emulated/0/Music/Voices.flac}
 {key:Em}
 
 [Em] [C] [Dsus4add2]
