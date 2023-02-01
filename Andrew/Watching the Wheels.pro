@@ -1,6 +1,6 @@
 {title:Watching the Wheels}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Watching the Wheels.mp3}
+{musicpath:/storage/emulated/0/Music/Watching the Wheels.flac}
 {duration:3:33}
 {key:C}
 

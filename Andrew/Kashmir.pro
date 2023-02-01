@@ -1,6 +1,6 @@
 {title:Kashmir}
 {subtitle:Led Zeppelin}
-{musicpath:/storage/emulated/0/Music/Kashmir.mp3}
+{musicpath:/storage/emulated/0/Music/Kashmir.flac}
 {duration:8:38}
 {key:D}
 {tuning:D A D G A D}

@@ -1,6 +1,6 @@
 6{title:Grief}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Grief.mp3}
+{musicpath:/storage/emulated/0/Music/Grief.flac}
 {key:C}
 
 [C] [Csus4] [Cadd2] [C] [Fmaj7] [F6] [F]

@@ -1,6 +1,7 @@
 {title:Hands of Time}
 {subtitle:Red Shoes for Romeo}
-{musicpath:/storage/emulated/0/Music/Hands of Time.mp3}
+{time:4:19}
+{musicpath:/storage/emulated/0/Music/Hands of Time (1).mp3}
 {key:A}
 
 [A] [F#m] [A] [F#m]
