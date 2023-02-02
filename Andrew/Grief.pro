@@ -1,4 +1,4 @@
-6{title:Grief}
+{title:Grief}
 {subtitle:Mike Fraser}
 {musicpath:/storage/emulated/0/Music/Grief.flac}
 {key:C}
