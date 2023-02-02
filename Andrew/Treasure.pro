@@ -2,7 +2,7 @@
 {subtitle:The Cure}
 {musicpath:/storage/emulated/0/Music/Treasure.flac}
 {duration:3:46}
-{c:Capo}
+{c:Capo 2cp }
 [C] (c e g d c e g d)
 [Am] (a e a a a e a c)
 
