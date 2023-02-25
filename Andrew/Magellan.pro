@@ -1,6 +1,6 @@
 {title:Magellan}
 {subtitle:Mike Fraser}
-{time:4:42}
+{duration:4:42}
 {musicpath:/storage/emulated/0/Music/Magellan.mp3}
 {key:D}
 
