@@ -1,6 +1,6 @@
 {title:Desperado}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Desperado.flac}
+{musicpath:/storage/emulated/0/Music/Desperado.mp3}
 {duration:3:34}
 {key:G}
 

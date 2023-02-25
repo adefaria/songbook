@@ -1,6 +1,6 @@
 {title:Treasure}
 {subtitle:The Cure}
-{musicpath:/storage/emulated/0/Music/Treasure.flac}
+{musicpath:/storage/emulated/0/Music/Treasure.mp3}
 {duration:3:46}
 {c:Capo 2cp }
 [C] (c e g d c e g d)
