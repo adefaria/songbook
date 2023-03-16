@@ -1,7 +1,7 @@
 {title:Shine on You Crazy Diamond (Short)}
 {subtitle:Pink Floyd}
 {musicpath:/storage/emulated/0/Music/Shine on You Crazy Diamond (Short).mp3}
-{duration:13:33}
+{duration:9:52}
 {key:Gm}
 
 Remember when you were young
@@ -30,5 +30,6 @@ Shine on you crazy diamond
 Well you wore out your welcome
 With random precision
 Rode on the steel breeze
+
 Come on you raver, you seer of visions
 Come on you painter, you piper, you prisoner, and shine!

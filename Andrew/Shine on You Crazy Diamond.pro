@@ -30,5 +30,6 @@ Shine on you crazy diamond
 Well you wore out your welcome
 With random precision
 Rode on the steel breeze
+
 Come on you raver, you seer of visions
 Come on you painter, you piper, you prisoner, and shine!
