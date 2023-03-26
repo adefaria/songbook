@@ -31,7 +31,8 @@ include_once "songbook.php";
 </div>
 
 <div id="content">
-
+<p>
+</p>
 <p>As a professional musician do yourself a favor and invest in a tablet or if
 you must an iPad and get either SongBook (for Android) or OnSong (for iPad) then
 send me a request to sign up for Dropbox which integrates with these apps and
