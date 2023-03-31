@@ -195,7 +195,6 @@ function setsDropdown()
         preg_match("/.*\/(.*)\.lst/", $set, $matches);
         $title = $matches[1];
         preg_match("/\/opt\/songbook\/(.*)/", dirname($set), $matches);
-        $subdir = $matches[1];
         $title = basename($set, ".lst");
 
         print "<option value=\"$title.lst\">$title</option>";

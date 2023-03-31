@@ -1,6 +1,8 @@
 {title:Time in a Bottle}
 {subtitle:Jim Croce}
 {musicpath:/storage/emulated/0/Music/Time in a Bottle.mp3}
+{duration:2:27}
+{key:Dm}
 
 If I could save time in a bottle
 The first thing that I'd like to do

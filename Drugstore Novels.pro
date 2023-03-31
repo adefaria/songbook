@@ -24,16 +24,16 @@ Never [D]needing not to [E]share
 
 {c:Chorus}
 
-[A]I'm [C#m]spending all my 
+[A]I'm [C#m]spending all my
 [G]time just reading [D]drugstore novels
 [A]Wishing I was [C#m]spending time with [G]you [Esus4] [E]
-[A]I [C#m]wonder what you 
+[A]I [C#m]wonder what you
 [G]Think if I say [D]that I love
 The [B]way you look, the [E]way you are to me
 
-[Dmaj7] [D6] [C#m7] [A]  
-[Dmaj7] [D6] [C#m7] [A]  
-An [Dmaj7]arbitrary [D6]hope remains in[C#m7]side [A]  
+[Dmaj7] [D6] [C#m7] [A]
+[Dmaj7] [D6] [C#m7] [A]
+An [Dmaj7]arbitrary [D6]hope remains in[C#m7]side [A]
 And I'm won[Dmaj7]dering how l[D6]ong it will sur[C#m7]vi[A]e
 
 [E/D] [Dmaj7/9] [E/D] [Dmaj7/9]
@@ -46,12 +46,12 @@ All this time you didn't care
 
 {c:Chorus}
 
-That [A]I'm [C#m]spending all my 
+That [A]I'm [C#m]spending all my
 [G]time just reading [D]drugstore novels
 [A]Wishing I was [C#m]spending time with [G]you [Esus4] [E]
 [A]I've [C#m]wasted all this
 [G]time just waiting [D]for tomorrow
 [A]Never wanting [C#m7]time apart from [G]you [Esus4] [E]
-[A]I [C#m]wonder what you 
+[A]I [C#m]wonder what you
 [G]Think if I say [D]that I love
 The [B]way you look, the [E]way you are to me

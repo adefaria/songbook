@@ -11,9 +11,9 @@
   <link rel="SHORTCUT ICON" href="https://defaria.com/favicon.ico" type="image/png">
 
   <?php
-  include_once "songbook.php";
-  $set = $_REQUEST["set"];
-  ?>
+include_once "songbook.php";
+$set = $_REQUEST["set"];
+?>
 
   <style>
     li {
@@ -32,19 +32,20 @@
   <table width="100%" cellspacing="1" cellpadding="1" border="1">
     <tbody>
       <?php
-      global $songbook, $songDir, $artists;
+global $songbook, $songDir, $artists;
 
-      $firstLine     = true;
-      $count         = 0;
-      $library       = dirname($set);
-      $totalDuration = 0;
+$firstLine = true;
+$count = 0;
+$library = dirname($set);
 
-      foreach (file("$songbook/$set") as $line) {
-        // Skip first line which is merely the set name again
-        if ($firstLine) {
-          $firstLine = false;
-          print "<tr><th colspan=\"7\"><a href=\"$set\"> $line</a></th></tr>";
-          print <<<END
+$totalDuration = 0;
+
+foreach (file("$songbook/$set") as $line) {
+    // Skip first line which is merely the set name again
+    if ($firstLine) {
+        $firstLine = false;
+        print "<tr><th colspan=\"7\"><a href=\"$set\"> $line</a></th></tr>";
+        print <<<END
 <tr>
   <th align="center">#</th>
   <th>Title</th>
@@ -55,52 +56,56 @@
   <th>Duration</th>
 </tr>
 END;
-          continue;
-        } // if
+        continue;
+    } // if
 
-        if (preg_match("/(.*)\s+-\s+(.*)/", $line, $matches)) {
-          $title  = trim($matches[1]);
-          $artist = trim($matches[2]);
-        } else {
-          $title  = trim($line);
-          $artist = '';
-        } // if
+    if (preg_match("/(.*)\s+-\s+(.*)/", $line, $matches)) {
+        $title = trim($matches[1]);
+        $artist = trim($matches[2]);
+    } else {
+        $title = trim($line);
+        $artist = '';
+    } // if
 
-        $song = findSong($title, $library);
+    $song = findSong($title, $library);
 
-        // If $song[file] is not set then findSong didn't find a song
-        if (empty($song["file"])) {
-          $song["file"] = $title;
+    // If $song[file] is not set then findSong didn't find a song
+    if (empty($song["file"])) {
+        $song["file"] = $title;
 
-          debug("Song $song[file] not found");
-        } else {
-          debug("Found song[file]: $song[file] - Folder: $song[library]");
+        debug("Song $song[file] not found");
+    } else {
+        if ($song["library"] == '.') {
+            $song["library"] = "Andrew";
         }
 
-        $songfile = fileExists($song['file']);
+        debug("Found song[file]: $song[file] - Folder: $song[library]");
+    }
 
-        if ($songfile) {
-          $songtitle = "<a href=\"webchord.cgi?chordpro=$songfile\">$title</a>";
-        } else {
-          $songtitle = $title;
-        } // if
+    $songfile = fileExists($song['file']);
 
-        if ($artist == '') {
-          $artist = getArtist($song['file']);
-        } // if
+    if ($songfile) {
+        $songtitle = "<a href=\"webchord.cgi?chordpro=$songfile\">$title</a>";
+    } else {
+        $songtitle = $title;
+    } // if
 
-        $artist = "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
+    if ($artist == '') {
+        $artist = getArtist($song['file']);
+    } // if
 
-        $count++;
+    $artist = "<a href=\"displayartist.php?artist=$artist\">$artist</a>";
 
-        if (!empty($song['duration'])) {
-          list($m, $s) = explode(':', $song["duration"]);
-          $totalDuration += ms2s($m, $s);
-        }
+    $count++;
 
-        debug("Total Duration: $totalDuration");
+    if (!empty($song['duration'])) {
+        list($m, $s) = explode(':', $song["duration"]);
+        $totalDuration += ms2s($m, $s);
+    }
 
-        print <<<END
+    debug("Total Duration: $totalDuration");
+
+    print <<<END
 <tr>
   <td align="center">$count</td>
   <td>$songtitle</td>
@@ -111,10 +116,10 @@ END;
   <td align="right">$song[duration]</td>
 </tr>
 END;
-      } // foreach
+} // foreach
 
-      $total = s2ms($totalDuration);
-      print <<<END
+$total = s2ms($totalDuration);
+print <<<END
     <tr>
       <th colspan="6" align="left">Total</th>
       <td align="right">$total</td>
@@ -122,7 +127,7 @@ END;
   </tbody>
 </table>
 END;
-      ?>
+?>
     </tbody>
     </body>
 
