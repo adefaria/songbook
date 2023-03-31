@@ -2,7 +2,9 @@
 {subtitle:The Cure}
 {musicpath:/storage/emulated/0/Music/Treasure.mp3}
 {duration:3:46}
-{c:Capo 2cp }
+{capo:2}
+{key:D}
+
 [C] (c e g d c e g d)
 [Am] (a e a a a e a c)
 
