@@ -46,7 +46,7 @@ Simple world and I'm alive
 Toting time and then I die
 
 Why must I be so shy?
-When there's so much more to can be
+When there's so much more you can be
 
 {c:Chorus}
 
