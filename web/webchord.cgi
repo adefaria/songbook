@@ -163,9 +163,9 @@ END
   my $musicFile;
 
   if (-r "/opt/media/$title.mp3") {
-    print "<source src='/Media/$title.mp3'";
+    print "<source src=\"/Media/$title.mp3\"";
   } elsif (-r "/opt/media/$title.flac") {
-    print "<source src='/Media/$title.flac'";
+    print "<source src=\"/Media/$title.flac\"";
   }    # if
 
   print << "END";
