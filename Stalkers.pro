@@ -8,9 +8,9 @@ Cool axe as I can hear him speaking
 In around the jynx so I could go met them
 It's ain't a typical weekend
 
-Beutiful girls we met
+Beautiful girls we met
 I can't believe it
-Toasting with some shots
+Toasting with the shots
 Now we're off peaking
 This ain't a typical weekend
 
@@ -41,7 +41,7 @@ Just another typical weekend
 {c:Bridge}
 
 Just in time to find the wine
-Riden on a moonlit night
+Hidden on a moonlit night
 Simple world and I'm alive
 Toting time and then I die
 
