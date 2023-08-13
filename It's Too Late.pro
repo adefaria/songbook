@@ -1,4 +1,4 @@
-{title:It's To Late}
+{title:It's Too Late}
 {subtitle:Carly Simon}
 {musicpath:/Storage/Emulated/0/Music/It's Too Late.mp3}
 {duration:3:55}
@@ -14,7 +14,7 @@
 
 And it's too [Bbmaj7]late, baby, now i[Fmaj7]t's too late
 Though we rea[Bbmaj7]lly did try to ma[Fmaj7]ke it
-[Gm7]Somethin' inside has [Fmaj7]died
+[Bbmaj7]Somethin' inside has [Fmaj7]died
 And I can't h[Dm]ide and I just can't [E7sus4]fake [E]it
 
 Oh, no, no, no, no, no
