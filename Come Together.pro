@@ -1,45 +1,45 @@
-{title:Come Together}
-{subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Come Together.mp3}
-{duration:4:20}
-{key:D}
+{Title:Come Together}
+{Subtitle:Beatles}
+{Musicpath:/Storage/Emulated/0/Music/Come Together.Mp3}
+{Duration:4:20}
+{Key:D}
 
-[D]Here come old flat top,
-He come grooving up slowly,
-He got juju eyeball,
-He one holy roller,
-He got [A]hair down to his knee,
-[G]Got to be a joker, he just do what he please
+[D]Here Come Old Flat Top,
+He Come Grooving Up Slowly,
+He Got Juju Eyeball,
+He One Holy Roller,
+He Got [A]Hair Down To His Knee,
+[G]Got To Be A Joker, He Just Do What He Please
 
-He wear no shoe shine,
-He got toe jam football
-He got monkey finger,
-He shoot coca cola,
-He say, I know you, you know me
-One thing I can tell you is you got to be free
+He Wear No Shoe Shine,
+He Got Toe Jam Football
+He Got Monkey Finger,
+He Shoot Coca Cola,
+He Say, I Know You, You Know Me
+One Thing I Can Tell You Is You Got To Be Free
 
-Come [Bm]together, [A]right [G]now, [A]   over me
+Come [Bm]Together, [A]Right [G]Now, [A]   Over Me
 
-He bag production,
-He got walrus gumboot,
-He got oh no sideboard,
-He one spinal cracker,
-He got feet down below his knee,
-Hold you in his armchair, you can feel his disease
+He Bag Production,
+He Got Walrus Gumboot,
+He Got Oh No Sideboard,
+He One Spinal Cracker,
+He Got Feet Down Below His Knee,
+Hold You In His Armchair, You Can Feel His Disease
 
-Come together, right now, over me
+Come Together, Right Now, Over Me
 
-{c:Lead}
+{C:Lead}
 
-He roller coaster,
-He got early warning,
-He got muddy water,
-He one mojo filter,
-He say, one and one and one is three,
-Got to be good looking 'cause he so hard to see
+He Roller Coaster,
+He Got Early Warning,
+He Got Muddy Water,
+He One Mojo Filter,
+He Say, One And One And One Is Three,
+Got To Be Good Looking 'Cause He So Hard To See
 
-Come together, right now, over me
+Come Together, Right Now, Over Me
 
-{c:Lead}
+{C:Lead}
 
-Come together, yeah (7X)
+Come Together, Yeah (7x)
