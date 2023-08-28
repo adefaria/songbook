@@ -1,7 +1,7 @@
 {title:Crossroads}
-{subtitle:Eric Clapton}
+{subtitle:Jack Yellen}
 {musicpath:/storage/emulated/0/Music/Big Bad Bill.mp3}
-{duration:4:16}
+{duration:2:44}
 {key:E}
 
 [E7] [C#7] [F#7] [B7] [E7]
