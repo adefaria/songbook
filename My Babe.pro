@@ -6,7 +6,7 @@
 
 [F] [Bb] [F] 4x
 
-[F]My ba[Bb}by don't st[F]and no cheatin', my [F]babe [Bb] [F]
+[F]My ba[Bb]by don't st[F]and no cheatin', my [F]babe [Bb] [F]
 Oh, yeah[F], she don't [Bb]stand no chea[F]tin', my [F]babe [Bb] [F]
 Oh, yeah[F] she don't [Bb]stand no cheat[F]in' [Bb]
 She don't stand none of that midnight creepin'
