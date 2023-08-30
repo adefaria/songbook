@@ -23,10 +23,10 @@ Something's goin' on here
 I have a bad bad feeling
 That my baby don't live her no more
 
-Well, i might as well go back over yonder,
+Well, I might as well go back over yonder,
 Way back up on the hill
 That's something to do
-Lord, i might as well go back over yonder,
+Lord, I might as well go back over yonder,
 Way back yonder cross the hill
 'Cus if my baby don't love me no more...
 I know her sister will
