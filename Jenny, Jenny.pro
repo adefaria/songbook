@@ -4,6 +4,8 @@
 {duration:3:47}
 {key:F#m}
 
+{c:Mark Sings}
+
 [F#m] [D] [A] [B] 2x
 
 Jenny jenny who can I turn to

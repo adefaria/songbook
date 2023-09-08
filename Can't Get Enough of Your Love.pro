@@ -4,6 +4,8 @@
 {duration:4:14}
 {key:C}
 
+{c:Lindsay sings}
+
 [C] [Bb] [F] [C][F] 2x
 
 Well, I [C]take what[Bb]ever I [F]want

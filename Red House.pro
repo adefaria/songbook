@@ -4,6 +4,8 @@
 {duration:3:50}
 {key:A}
 
+{c:Mark Sings}
+
 {c:Slow blues in A}
 
 Ah yeah!

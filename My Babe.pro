@@ -4,6 +4,9 @@
 {duration:2:57}
 {key:F}
 
+{c:Mark Sings}
+
+{c:Need to work on backup vocals, Rick may be able to help}
 [F] [Bb] [F] 4x
 
 [F]My ba[Bb]by don't st[F]and no cheatin', my [F]babe [Bb] [F]
