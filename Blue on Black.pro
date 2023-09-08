@@ -4,6 +4,8 @@
 {duration:5:31}
 {key:D}
 
+{c:Lindsay Sings}
+
 Night falls and I'm alone
 Skin, yeah, chilled me to the bone
 You turned and you ran, oh yeah

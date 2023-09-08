@@ -4,6 +4,8 @@
 {duration:6:22}
 {key:Bm}
 
+{c:Andy Sings - Mark or Lindsay 2nd vocals}
+
 Hello? (Hello? Hello? Hello?)
 Is there anybody in there?
 Just nod if you can hear me

@@ -4,6 +4,8 @@
 {duration:3:50}
 {key:D}
 
+{c:Lindsay sings}
+
 [D] [A] [D] [A] [D] 2x
 
 [D] [A] [D] [E] [A]
