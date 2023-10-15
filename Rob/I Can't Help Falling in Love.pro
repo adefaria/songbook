@@ -2,6 +2,7 @@
 {subtitle:Elvis Presley}
 {duration:3:00}
 {key:D}
+{musicpath:/storage/emulated/0/Music/I Can't Help Falling in Love.mp3}
 
 Wise men say
 Only fools rush in
@@ -26,4 +27,3 @@ Take my hand,
 Take my whole life, too
 For I can't help falling in love with you
 For I can't help falling in love with you
-{musicpath:/storage/emulated/0/Music/I Can't Help Falling in Love.mp3}
