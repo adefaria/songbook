@@ -4,26 +4,23 @@
 {key:D}
 {musicpath:/storage/emulated/0/Music/I Can't Help Falling in Love.mp3}
 
-Wise men say
-Only fools rush in
-But I can't help falling in love with you
-Shall I stay?
-Would it be a sin
-If I can't help falling in love with you?
+[C]Wise [Em]men [Am]say, only [F]fools [C]rush [G]in
+But [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
 
-Like a river flows
-Surely to the sea
-Darling, so it goes
-Some things are meant to be
-Take my hand,
-Take my whole life, too
+Shall I  stay, would it be a sin?
+If I can't help falling in love with you
+
+{c:Chorus}
+
+[Em]Like a river [B7]flows [Em]surely to the [B7]sea
+[Em]Darling so it [B7]goes
+[Em]Some things  [A7]are  meant to [Dm]be  [G]
+
+Take my hand, take my whole life too
 For I can't help falling in love with you
 
-Like a river flows
-Surely to the sea
-Darling, so it goes
-Some things are meant to be
-Take my hand,
-Take my whole life, too
+{c:Chorus}
+
+Take my hand, take my whole life too
 For I can't help falling in love with you
 For I can't help falling in love with you
