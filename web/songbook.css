@@ -43,8 +43,8 @@ body {
   padding-right: 4pt;
 }
 .comment, .comment_italic {
-  color: #999;
-  font-size: 18pt;
+  color: Red;
+  font-size: 24pt;
 }
 .comment_box {
   background-color: #ffbbaa;
