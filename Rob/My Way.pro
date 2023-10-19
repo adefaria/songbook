@@ -10,8 +10,8 @@ My [Dm]friend, I'll say it [Dm7]clear
 I'll state my [G7]case, of which I'm [C]certain
 
 I've [C]lived a life that's [C7]full
-I traveled [F]each and every [Fm]highway
-And [C]more, much more than {G]this, I did it [F]my [C]way
+I traveled [F]each and every [Bb]highway
+And [C]more, much more than [G]this, I did it [F]my [C]way
 
 Regrets, I've had a few
 but then again, too few to mention
@@ -22,11 +22,11 @@ I planned each chartered course
 each careful step along the byway
 And more, much more than this, I did it my way
 
-Yes, there were times, I'm sure you knew
-when I bit off more than I could chew
+[G]Yes, there were [C]times, I'm sure you [C7]knew
+when I bit [F]off more than I could chew
 But through it [Dm7]all, when there was [G]doubt
 I ate it [Em]up, and spit it [Am]out
-I faced it {Dm7]all, and I stood [G]tall, and did it [F]my way
+I faced it [Dm7]all, and I stood [G]tall, and did it [F]my way
 
 I've loved, I've laughed and cried
 I've had my fill, my share of losing
