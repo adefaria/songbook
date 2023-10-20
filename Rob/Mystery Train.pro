@@ -18,6 +18,8 @@ Train, train..comin' down the line
 Well, it's bringin' my baby, 'cause
 she's mine all, all mine.
 
+{c:Solo}
+
 (She's mine, all, all mine.)
 
 Train, train..comin' 'round, 'round the bend.
