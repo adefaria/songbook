@@ -101,7 +101,7 @@ sub updateMusicpath ($$) {
     return;
   }    # unless
 
-  print $songfile "{musicpath:/storage/emulated/0/Music/$title.mp3}\n";
+  print $songfile "{musicpath:Music/$title.mp3}\n";
 
   close $songfile;
 
