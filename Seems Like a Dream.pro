@@ -1,6 +1,6 @@
 {title:Seems Like a Dream}
 {subtitle:Tempest}
-{musicpath:/storage/emulated/0/Music/Seems like a dream.mp3}
+{musicpath:Music/Seems like a dream.mp3}
 {key:G}
 
 {c:Intro}

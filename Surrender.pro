@@ -1,6 +1,6 @@
 {title:Surrender}
 {subtitle:Cheap Trick}
-{musicpath:/storage/emulated/0/Music/Surrender.mp3}
+{musicpath:Music/Surrender.mp3}
 {duration:4:15}
 {key:B}
 

@@ -2,7 +2,7 @@
 {subtitle:John Melloncamp}
 {duration:3:24}
 {key:E}
-{musicpath:/storage/emulated/0/Music/Rock in the USA.mp3}
+{musicpath:Music/Rock in the USA.mp3}
 
 They [E]come from the [A]cities and they [D]come from the [A]smaller towns
 

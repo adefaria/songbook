@@ -1,6 +1,6 @@
 {title:Your Love is Driving Me Crazy}
 {subtitle:Sammy Hagar}
-{musicpath:/storage/emulated/0/Music/Your Love is Driving Me Crazy.mp3}
+{musicpath:Music/Your Love is Driving Me Crazy.mp3}
 {duration:3:32}
 {key:E}
 

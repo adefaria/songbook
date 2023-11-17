@@ -1,6 +1,6 @@
 {title:I'll Cry Instead}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/I'll Cry Instead.mp3}
+{musicpath:Music/I'll Cry Instead.mp3}
 {duration:1:46}
 {key:C}
 

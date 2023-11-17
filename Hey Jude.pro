@@ -1,6 +1,6 @@
 {title:Hey Jude}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Hey Jude.mp3}
+{musicpath:Music/Hey Jude.mp3}
 {duration:8:10}
 {key:E}
 

@@ -1,6 +1,6 @@
 {title:We Three Kings}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/We Three Kings.mp3}
+{musicpath:Music/We Three Kings.mp3}
 {duration:3:16}
 {key:G}
 

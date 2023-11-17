@@ -1,6 +1,6 @@
 {title:Grief}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Grief.mp3}
+{musicpath:Music/Grief.mp3}
 {duration:4:12}
 {key:C}
 

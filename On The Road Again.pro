@@ -1,6 +1,6 @@
 {title:On The Road Again}
 {subtitle:Willie Nelson}
-{musicpath:/storage/emulated/0/Music/{title}.mp3}
+{musicpath:Music/{title}.mp3}
 {duration:2:34}
 {key:E}
 [Chorus]

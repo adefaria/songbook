@@ -1,6 +1,6 @@
 {title:Who'll Stop The Rain}
 {subtitle:Creedence Clearwater Revival}
-{musicpath:/storage/emulated/0/Music/Who'll Stop The Rain.mp3}
+{musicpath:Music/Who'll Stop The Rain.mp3}
 {duration:2:31}
 {key:G}
 

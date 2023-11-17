@@ -1,7 +1,7 @@
 {title:Magellan}
 {subtitle:Mike Fraser}
 {duration:4:42}
-{musicpath:/storage/emulated/0/Music/Magellan.mp3}
+{musicpath:Music/Magellan.mp3}
 {key:D}
 
 [D6] [Dmaj7] [D] [Dmaj7] 2x

@@ -1,6 +1,6 @@
 {title:Fire and Rain}
 {subtitle:James Taylor}
-{musicpath:/storage/emulated/0/Music/Fire and Rain.mp3}
+{musicpath:Music/Fire and Rain.mp3}
 {duration:3:25}
 
 

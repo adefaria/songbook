@@ -1,6 +1,6 @@
 {title:Goodbye Yellow Brick Road}
 {subtitle:Elton John}
-{musicpath:/storage/emulated/0/Music/Goodbye Yellow Brick Road.mp3}
+{musicpath:Music/Goodbye Yellow Brick Road.mp3}
 {duration:3:13}
 {key:E}
 

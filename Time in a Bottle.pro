@@ -1,6 +1,6 @@
 {title:Time in a Bottle}
 {subtitle:Jim Croce}
-{musicpath:/storage/emulated/0/Music/Time in a Bottle.mp3}
+{musicpath:Music/Time in a Bottle.mp3}
 {duration:2:27}
 {key:Dm}
 

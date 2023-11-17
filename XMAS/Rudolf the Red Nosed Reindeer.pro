@@ -1,6 +1,6 @@
 {title:Rudolf the Red Nosed Reindeer}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Rudolf the Red Nosed Reindeer.mp3}
+{musicpath:Music/Rudolf the Red Nosed Reindeer.mp3}
 {duration:3:23}
 {key:C}
 

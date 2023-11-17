@@ -1,6 +1,6 @@
 {title:To Be With You}
 {subtitle:Mr Big}
-{musicpath:/storage/emulated/0/Music/To Be With You.mp3}
+{musicpath:Music/To Be With You.mp3}
 {duration:3:31}
 {key:E}
 

@@ -1,6 +1,6 @@
 {title:If I Ever Lose My Faith In You}
 {subtitle:Sting}
-{musicpath:/storage/emulated/0/Music/If I Ever Lose My Faith In You.mp3}
+{musicpath:Music/If I Ever Lose My Faith In You.mp3}
 {duration:4:26}
 {key:A}
 

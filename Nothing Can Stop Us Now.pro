@@ -1,6 +1,6 @@
 {title:Nothing Can Stop Us Now}
 {subtitle:Tim Minchin}
-{musicpath:/storage/emulated/0/Music/Nothing Can Stop Us Now.mp3}
+{musicpath:Music/Nothing Can Stop Us Now.mp3}
 {duration:2:04}
 {key:E}
 

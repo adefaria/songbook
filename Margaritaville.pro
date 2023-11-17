@@ -1,6 +1,6 @@
 {title:Margaritaville}
 {subtitle:Jimmy Buffett}
-{musicpath:/storage/emulated/0/Music/Margaritaville.mp3}
+{musicpath:Music/Margaritaville.mp3}
 {duration:4:09}
 {key:D}
 

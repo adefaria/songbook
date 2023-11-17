@@ -2,7 +2,7 @@
 {subtitle:Jim Croce}
 {duration:2:30}
 {key:A}
-{musicpath:/storage/emulated/0/Music/I'll Have to Say I Love You in a Song.mp3}
+{musicpath:Music/I'll Have to Say I Love You in a Song.mp3}
 
 {c:Intro}
 

@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:A}
 {duration:2:02}
-{musicpath:/storage/emulated/0/Music/Blue Suede Shoes.mp3}
+{musicpath:Music/Blue Suede Shoes.mp3}
 
 Well, its o[A]ne for the money
 Two for the show

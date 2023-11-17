@@ -1,6 +1,6 @@
 {title:The Letter}
 {subtitle:Joe Cocker}
-{musicpath:/storage/emulated/0/Music/The Letter.mp3}
+{musicpath:Music/The Letter.mp3}
 {duration:4:22}
 {key:Am}
 

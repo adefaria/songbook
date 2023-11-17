@@ -53,4 +53,4 @@ It's easy
 {eoc}
 
 {c:Chorus 2x}
-{musicpath:/storage/emulated/0/Music/All You Need Is Love.mp3}
+{musicpath:Music/All You Need Is Love.mp3}

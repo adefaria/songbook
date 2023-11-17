@@ -1,6 +1,6 @@
 {title:Now and Then minus John}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Now and Then minus John.mp3}
+{musicpath:Music/Now and Then minus John.mp3}
 {duration:4:20}
 
 [Am] [G6] 2x

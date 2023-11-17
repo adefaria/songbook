@@ -1,6 +1,6 @@
 {title:Longview}
 {subtitle:Greenday}
-{musicpath:/storage/emulated/0/Music/Longview.mp3}
+{musicpath:Music/Longview.mp3}
 {duration:3:48}
 {key:D}
 

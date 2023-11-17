@@ -1,6 +1,6 @@
 {title:Heart of Gold}
 {subtitle:Neil Young}
-{musicpath:/storage/emulated/0/Music/Heart of Gold.mp3}
+{musicpath:Music/Heart of Gold.mp3}
 {duration:3:11}
 {key:Em}
 

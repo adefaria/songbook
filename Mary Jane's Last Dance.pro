@@ -1,6 +1,6 @@
 {title:Mary Jane's Last Dance}
 {subtitle:Tom Petty}
-{musicpath:/storage/emulated/0/Music/Mary Jane's Last Dance.mp3}
+{musicpath:Music/Mary Jane's Last Dance.mp3}
 {duration:4:41}
 
 [A] [G] [D] 4x

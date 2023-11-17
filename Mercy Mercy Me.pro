@@ -1,6 +1,6 @@
 {title:Mercy Mercy Me}
 {subtitle:Marvin Gaye}
-{musicpath:/storage/emulated/0/Music/Mercy Mercy Me.mp3}
+{musicpath:Music/Mercy Mercy Me.mp3}
 {duration:3:17}
 {key:E}
 

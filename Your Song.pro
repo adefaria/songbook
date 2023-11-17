@@ -1,6 +1,6 @@
 {title:Your Song}
 {subtitle:Elton John}
-{musicpath:/storage/emulated/0/Music/Your Song.mp3}
+{musicpath:Music/Your Song.mp3}
 {duration:3:48}
 
 It's a little bit funny, this feeling inside

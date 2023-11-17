@@ -1,6 +1,6 @@
 {title:Every Rose Has Its Thorn}
 {subtitle:Poison}
-{musicpath:/storage/emulated/0/Music/Every Rose Has Its Thorn.mp3}
+{musicpath:Music/Every Rose Has Its Thorn.mp3}
 {duration:4:44}
 {key:G}
 

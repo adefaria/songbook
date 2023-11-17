@@ -1,6 +1,6 @@
 {title:Starry, Starry Night}
 {subtitle:Donovan}
-{musicpath:/storage/emulated/0/Music/Starry, Starry Night.mp3}
+{musicpath:Music/Starry, Starry Night.mp3}
 {duration:3:58}
 {key:G}
 

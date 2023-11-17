@@ -1,6 +1,6 @@
 {title:Amanda}
 {subtitle:Boston}
-{musicpath:/storage/emulated/0/Music/Amanda.mp3}
+{musicpath:Music/Amanda.mp3}
 {duration:4:16}
 {key:G}
 

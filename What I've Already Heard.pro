@@ -1,6 +1,6 @@
 {title:What I've Already Heard}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/What I've Already Heard.mp3}
+{musicpath:Music/What I've Already Heard.mp3}
 {key:E}
 
 [E] [F#] [E]

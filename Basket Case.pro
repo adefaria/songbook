@@ -1,6 +1,6 @@
 {title:Basket Case}
 {subtitle:Green Day}
-{musicpath:/storage/emulated/0/Music/Basket Case.mp3}
+{musicpath:Music/Basket Case.mp3}
 {duration:3:03}
 {key:E}
 

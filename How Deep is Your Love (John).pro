@@ -1,6 +1,6 @@
 {title:How Deep is Your Love (John)}
 {subtitle:Bee Gees}
-{musicpath:/storage/emulated/0/Music/How Deep is Your Love (John).mp3}
+{musicpath:Music/How Deep is Your Love (John).mp3}
 {duration:3:59}
 
 I know your eyes in the mornin' sun

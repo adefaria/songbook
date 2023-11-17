@@ -1,6 +1,6 @@
 {title:You Really Got a Hold on Me}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/You Really Got a Hold on Me.mp3}
+{musicpath:Music/You Really Got a Hold on Me.mp3}
 {duration:2:59}
 
 [e] [e] [f#] [a] [b] [a] [f#]

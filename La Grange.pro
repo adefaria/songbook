@@ -1,6 +1,6 @@
 {title:La Grange}
 {subtitle:ZZTop}
-{musicpath:/storage/emulated/0/Music/La Grange.mp3}
+{musicpath:Music/La Grange.mp3}
 {duration:3:47}
 {key:A}
 

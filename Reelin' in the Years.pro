@@ -1,6 +1,6 @@
 {title:Reelin' in the Years}
 {subtitle:Steely Dan}
-{musicpath:/storage/emulated/0/Music/Reelin' in the Years.mp3}
+{musicpath:Music/Reelin' in the Years.mp3}
 {duration:4:42}
 {key:A}
 

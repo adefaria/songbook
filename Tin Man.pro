@@ -1,6 +1,6 @@
 {title:Tin Man}
 {subtitle:America}
-{musicpath:/storage/emulated/0/Music/Tin Man.mp3}
+{musicpath:Music/Tin Man.mp3}
 {duration:3:30}
 {key:G}
 

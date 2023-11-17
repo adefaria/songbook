@@ -1,6 +1,6 @@
 {title:Dig a Pony}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Dig a Pony.mp3}
+{musicpath:Music/Dig a Pony.mp3}
 {duration:3:55}
 {key:A}
 

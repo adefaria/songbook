@@ -1,6 +1,6 @@
 {title:Give a Little Bit}
 {subtitle:Roger Hodgson}
-{musicpath:/storage/emulated/0/Music/Give a Little Bit.mp3}
+{musicpath:Music/Give a Little Bit.mp3}
 {duration:4:09}
 {key:D}
 

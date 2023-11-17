@@ -1,6 +1,6 @@
 {title:Pancho and Lefty}
 {subtitle:Townes Van Zandt}
-{musicpath:/storage/emulated/0/Music/Pancho and Lefty.mp3}
+{musicpath:Music/Pancho and Lefty.mp3}
 {duration:4:47}
 
 [D]Livin' on the road, my friend

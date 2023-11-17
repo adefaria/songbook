@@ -1,6 +1,6 @@
 {title:Stand By Me}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Stand By Me.mp3}
+{musicpath:Music/Stand By Me.mp3}
 {duration:2:58}
 
 When the [D]night has come

@@ -1,6 +1,6 @@
 {title:The World is Ours}
 {subtitle:Red Shoes for Romeo}
-{musicpath:/storage/emulated/0/Music/The World is Ours.mp3}
+{musicpath:Music/The World is Ours.mp3}
 {key:A}
 
 [Amaj7] [Dmadd2] (4X)

@@ -1,6 +1,6 @@
 {title:Lay Down Sally}
 {subtitle:Eric Clapton}
-{musicpath:/storage/emulated/0/Music/Lay Down Sally.mp3}
+{musicpath:Music/Lay Down Sally.mp3}
 {duration:3:49}
 {key:A}
 

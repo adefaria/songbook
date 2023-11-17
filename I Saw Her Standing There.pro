@@ -1,6 +1,6 @@
 {title:I Saw Her Standing There}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/I Saw Her Standing There.mp3}
+{musicpath:Music/I Saw Her Standing There.mp3}
 {duration:2:54}
 {key:E}
 

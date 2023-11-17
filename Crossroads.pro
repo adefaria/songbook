@@ -1,6 +1,6 @@
 {title:Crossroads}
 {subtitle:Eric Clapton}
-{musicpath:/storage/emulated/0/Music/Crossroads.mp3}
+{musicpath:Music/Crossroads.mp3}
 {duration:4:16}
 {key:A}
 

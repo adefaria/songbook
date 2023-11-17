@@ -1,6 +1,6 @@
 {title:Lady Madonna}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Lady Madonna.mp3}
+{musicpath:Music/Lady Madonna.mp3}
 {duration:2:17}
 {key:A}
 

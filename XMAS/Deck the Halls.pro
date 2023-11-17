@@ -1,6 +1,6 @@
 {title:Deck the Halls}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Deck the Halls.mp3}
+{musicpath:Music/Deck the Halls.mp3}
 {duration:1:38}
 {key:D}
 

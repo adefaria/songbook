@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:A}
 {duration:1.57}
-{musicpath:/storage/emulated/0/Music/That's All Right Momma.mp3}
+{musicpath:Music/That's All Right Momma.mp3}
 
 Well, that's[A] alright, mama
 That's alright for you

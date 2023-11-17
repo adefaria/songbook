@@ -1,6 +1,6 @@
 {title:For You, For Me}
 {subtitle:Greg Lee/Chris Bundy}
-{musicpath:/storage/emulated/0/Music/For You, For Me.mp3}
+{musicpath:Music/For You, For Me.mp3}
 
 [D] [C6add2] [Bm7] [C6add2]
 [D] [C6add2]

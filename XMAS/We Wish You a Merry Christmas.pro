@@ -1,6 +1,6 @@
 {title:We Wish You a Merry Christmas}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/We Wish You a Merry Christmas.mp3}
+{musicpath:Music/We Wish You a Merry Christmas.mp3}
 {duration:2:00}
 {key:G}
 

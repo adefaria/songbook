@@ -2,7 +2,7 @@
 {subtitle:Badfinger}
 {key:A}
 {duration:3:15}
-{musicpath:/storage/emulated/0/Music/No Matter What.mp3}
+{musicpath:Music/No Matter What.mp3}
 
 {c:Intro}
 [A] [A] [A]

@@ -1,6 +1,6 @@
 {title:More Than Words}
 {subtitle:Extreme}
-{musicpath:/storage/emulated/0/Music/More Than Words.mp3}
+{musicpath:Music/More Than Words.mp3}
 {duration:4:16}
 {key:G}
 

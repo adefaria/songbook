@@ -1,6 +1,6 @@
 {title:Down by the River}
 {subtitle:Neil Young}
-{musicpath:/storage/emulated/0/Music/Down by the River.mp3}
+{musicpath:Music/Down by the River.mp3}
 {duration:9;19}
 {key:Em}
 

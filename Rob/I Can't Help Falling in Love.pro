@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {duration:3:00}
 {key:D}
-{musicpath:/storage/emulated/0/Music/I Can't Help Falling in Love.mp3}
+{musicpath:Music/I Can't Help Falling in Love.mp3}
 
 [C]Wise [Em]men [Am]say, only [F]fools [C]rush [G]in
 But [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you

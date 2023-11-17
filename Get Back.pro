@@ -1,6 +1,6 @@
 {title:Get Back}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Get Back.mp3}
+{musicpath:Music/Get Back.mp3}
 {key:A}
 {duration:3:10}
 

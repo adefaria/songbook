@@ -1,6 +1,6 @@
 {title:Red House}
 {subtitle:Jimi Hendrix}
-{musicpath:/storage/emulated/0/Music/Red House.mp3}
+{musicpath:Music/Red House.mp3}
 {duration:3:50}
 {key:A}
 

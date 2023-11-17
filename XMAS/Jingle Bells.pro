@@ -1,6 +1,6 @@
 {title:Jingle Bells}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Jingle Bells.mp3}
+{musicpath:Music/Jingle Bells.mp3}
 {duration:2:30}
 {key:A}
 

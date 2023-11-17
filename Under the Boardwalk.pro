@@ -1,6 +1,6 @@
 {title:Under the Boardwalk}
 {subtitle:The Drifters}
-{musicpath:/storage/emulated/0/Music/Under the Boardwalk.mp3}
+{musicpath:Music/Under the Boardwalk.mp3}
 {duration:2:41}
 {key:G}
 

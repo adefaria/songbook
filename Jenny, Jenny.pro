@@ -1,6 +1,6 @@
 {title:Jenny, Jenny}
 {subtitle:Tommy Tutone}
-{musicpath:/storage/emulated/0/Music/Jenny, Jenny.mp3}
+{musicpath:Music/Jenny, Jenny.mp3}
 {duration:3:47}
 {key:F#m}
 

@@ -1,6 +1,6 @@
 {title:Space Oddity}
 {subtitle:David Bowie}
-{musicpath:/storage/emulated/0/Music/Space Oddity.mp3}
+{musicpath:Music/Space Oddity.mp3}
 {duration:5:05}
 {key:Em}
 

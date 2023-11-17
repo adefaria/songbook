@@ -1,6 +1,6 @@
 {title:Turn, Turn, Turn}
 {subtitle:Pete Seeger}
-{c:Chorus}{musicpath:/storage/emulated/0/Music/Turn, Turn, Turn.mp3}
+{c:Chorus}{musicpath:Music/Turn, Turn, Turn.mp3}
 {duration:3:57}
 
 {c:Chorus}

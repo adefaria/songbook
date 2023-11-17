@@ -1,6 +1,6 @@
 {title:Venus}
 {subtitle:Shocking Blue}
-{musicpath:/storage/emulated/0/Music/Venus.mp3}
+{musicpath:Music/Venus.mp3}
 {duration:3:04}
 {key:Em}
 

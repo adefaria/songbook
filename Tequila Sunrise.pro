@@ -1,6 +1,6 @@
 {title:Tequila Sunrise}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Teuila Sunrise.mp3}
+{musicpath:Music/Teuila Sunrise.mp3}
 {duration:2:54}
 {key:G}
 

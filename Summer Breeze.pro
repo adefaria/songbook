@@ -1,6 +1,6 @@
 {title:Summer Breeze}
 {subtitle:Seals and Crofts}
-{musicpath:/storage/emulated/0/Music/Summer Breeze.mp3}
+{musicpath:Music/Summer Breeze.mp3}
 {duration:3:28}
 {key:Em}
 

@@ -1,6 +1,6 @@
 {title:Sweet Melissa}
 {subtitle:Allman Brothers}
-{musicpath:/storage/emulated/0/Music/Sweet Melissa.mp3}
+{musicpath:Music/Sweet Melissa.mp3}
 {duration:3:34}
 {key:E}
 

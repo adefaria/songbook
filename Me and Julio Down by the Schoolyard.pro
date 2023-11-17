@@ -1,6 +1,6 @@
 {title:Me and Julio Down by the Schoolyard}
 {subtitle:Paul Simon}
-{musicpath:/storage/emulated/0/Music/Me and Julio Down by the Schoolyard.mp3}
+{musicpath:Music/Me and Julio Down by the Schoolyard.mp3}
 {duration:2:47}
 {key:A}
 

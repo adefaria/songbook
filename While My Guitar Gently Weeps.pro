@@ -1,6 +1,6 @@
 {title:While My Guitar Gently Weeps}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/While My Guitar Gently Weeps.mp3}
+{musicpath:Music/While My Guitar Gently Weeps.mp3}
 {duration:4:45}
 {key:Am}
 
