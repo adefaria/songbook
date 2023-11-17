@@ -1,6 +1,6 @@
 {title:Best of My Love}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Best of My Love.mp3}
+{musicpath:Music/Best of My Love.mp3}
 {duration:4:35}
 {key:C}
 

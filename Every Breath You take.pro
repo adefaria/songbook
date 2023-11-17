@@ -1,6 +1,6 @@
 {title:Every Breath You Take}
 {subtitle:Sting}
-{musicpath:/storage/emulated/0/Music/Every Breath You Take.mp3}
+{musicpath:Music/Every Breath You Take.mp3}
 {duration:3:48}
 {key:G}
 

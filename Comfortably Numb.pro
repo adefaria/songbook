@@ -1,6 +1,6 @@
 {title:Comfortably Numb}
 {subtitle:Pink Floyd}
-{musicpath:/storage/emulated/0/Music/Comfortably Numb.mp3}
+{musicpath:Music/Comfortably Numb.mp3}
 {duration:6:22}
 {key:Bm}
 

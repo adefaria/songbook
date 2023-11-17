@@ -1,6 +1,6 @@
 {title:Farewell to You}
 {subtitle:White Lion}
-{musicpath:/storage/emulated/0/Music/Farewell to You.mp3}
+{musicpath:Music/Farewell to You.mp3}
 {duration:4:22}
 {key:D}
 

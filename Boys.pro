@@ -1,6 +1,6 @@
 {title:Boys}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Boys.mp3}
+{musicpath:Music/Boys.mp3}
 {duration:2:27}
 {key:E}
 

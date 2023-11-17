@@ -53,4 +53,4 @@ Yes, I'm free!
 Yeah, back in the U.S.S.R. 
 
 
-{musicpath:/storage/emulated/0/Music/Back in the USSR.mp3}
+{musicpath:Music/Back in the USSR.mp3}

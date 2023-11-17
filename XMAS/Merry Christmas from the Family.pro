@@ -1,6 +1,6 @@
 {title:Merry Christmas from the Family}
 {subtitle:Montgomery Gentry}
-{musicpath:/storage/emulated/0/Music/Merry Christmas from the Family.mp3}
+{musicpath:Music/Merry Christmas from the Family.mp3}
 {duration:4:05}
 {key:G}
 

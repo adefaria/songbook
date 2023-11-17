@@ -1,6 +1,6 @@
 {title:Cowgirl In The Sand}
 {subtitle:Neil Young}
-{musicpath:/storage/emulated/0/Music/Cowgirl In The Sand.mp3}
+{musicpath:Music/Cowgirl In The Sand.mp3}
 {duration:10:07}
 {key:Am}
 

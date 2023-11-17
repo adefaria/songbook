@@ -1,6 +1,6 @@
 {title:Feel Like Making Love}
 {subtitle:Bad Company}
-{musicpath:/storage/emulated/0/Music/Feel Like Making Love.mp3}
+{musicpath:Music/Feel Like Making Love.mp3}
 {duration:5:14}
 {key:D}
 

@@ -1,6 +1,6 @@
 {title:One More Night}
 {subtitle:Bob Dylan}
-{musicpath:/storage/emulated/0/Music/One More Night.mp3}
+{musicpath:Music/One More Night.mp3}
 {key:G}
 {duration:2:23}
 

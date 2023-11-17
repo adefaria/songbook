@@ -1,6 +1,6 @@
 {title:One After 909}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/One After 909.mp3}
+{musicpath:Music/One After 909.mp3}
 {duration:2:54}
 {key:B}
 

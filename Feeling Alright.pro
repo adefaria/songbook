@@ -1,6 +1,6 @@
 {title:Feeling Alright}
 {subtitle:Joe Cocker}
-{musicpath:/storage/emulated/0/Music/Feeling Alright.mp3}
+{musicpath:Music/Feeling Alright.mp3}
 {duration:4:11}
 {key:C}
 

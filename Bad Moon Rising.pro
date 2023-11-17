@@ -32,4 +32,4 @@ One eye is taken for an eye
 
 {c:Chorus} 2x
 
-{musicpath:/storage/emulated/0/Music/Bad Moon Rising.mp3}
+{musicpath:Music/Bad Moon Rising.mp3}

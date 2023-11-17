@@ -60,4 +60,4 @@ Singing "Sweet Home Alabama" all summer long
 Singing "Sweet Home Alabama" all summer long
 Singing "Sweet Home Alabama" all summer long
 
-{musicpath:/storage/emulated/0/Music/All Summer Long.mp3}{musicpath:/storage/emulated/0/Music/All Summer Long.mp3}
+{musicpath:Music/All Summer Long.mp3}{musicpath:/storage/emulated/0/Music/All Summer Long.mp3}

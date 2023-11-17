@@ -1,6 +1,6 @@
 {title:Working For a Livin}
 {subtitle:Huey Lewis and The News}
-{musicpath:/storage/emulated/0/Music/Working For a Livin.mp3}
+{musicpath:Music/Working For a Livin.mp3}
 {duration:2:38}
 {key:A}
 {metronome:160}

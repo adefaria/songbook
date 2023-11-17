@@ -1,6 +1,6 @@
 {title:Imagine}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Imagine.mp3}
+{musicpath:Music/Imagine.mp3}
 {duration:3:54}
 {key:C}
 

@@ -1,6 +1,6 @@
 {title:Dust in the Wind}
 {subtitle:Kansas}
-{musicpath:/storage/emulated/0/Music/Dust in the Wind.mp3}
+{musicpath:Music/Dust in the Wind.mp3}
 {duration:3:31}
 {key:C}
 

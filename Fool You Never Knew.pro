@@ -1,6 +1,6 @@
 {title:Fool You Never Knew}
 {subtitle:Tempest}
-{musicpath:/storage/emulated/0/Music/Fool you never knew.mp3}
+{musicpath:Music/Fool you never knew.mp3}
 {key:D}
 
 {c:Intro}

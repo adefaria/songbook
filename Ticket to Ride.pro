@@ -1,7 +1,7 @@
 {title:Ticket to Ride}
 {subtitle:Beatles}
 {duration:3:52}
-{musicpath:/storage/emulated/0/Music/Ticket to Ride.mp3}
+{musicpath:Music/Ticket to Ride.mp3}
 
 {c:Intro}
 

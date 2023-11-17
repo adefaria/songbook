@@ -1,6 +1,6 @@
 {title:Brandy}
 {subtitle:Looking Glass}
-{musicpath:/storage/emulated/0/Music/Brandy.mp3}
+{musicpath:Music/Brandy.mp3}
 {duratino:3:09}
 {key:E}
 

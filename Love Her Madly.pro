@@ -1,6 +1,6 @@
 {title:Love Her Madly}
 {subtitle:Doors}
-{musicpath:/storage/emulated/0/Music/Love Her Madly.mp3}
+{musicpath:Music/Love Her Madly.mp3}
 {duration:3:41}
 {key:Am}
 

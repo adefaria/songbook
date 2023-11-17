@@ -1,6 +1,6 @@
 {title:From the Beginning}
 {subtitle:Emerson, Lake and Palmer}
-{musicpath:/storage/emulated/0/Music/From the Beginning.mp3}
+{musicpath:Music/From the Beginning.mp3}
 {duration:4:17}
 {key:Am}
 

@@ -1,6 +1,6 @@
 {title:Stalkers}
 {subtitle:Red Shoes for Romeo}
-{musicpath:/storage/emulated/0/Music/Stalkers.mp3}
+{musicpath:Music/Stalkers.mp3}
 {duration:4:12}
 {key:Em}
 

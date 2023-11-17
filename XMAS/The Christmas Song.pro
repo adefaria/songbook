@@ -1,6 +1,6 @@
 {title:The Christmas Song}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/The Christmas Song.mp3}
+{musicpath:Music/The Christmas Song.mp3}
 {duration:3:30}
 {key:C}
 

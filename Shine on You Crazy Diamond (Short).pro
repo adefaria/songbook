@@ -1,6 +1,6 @@
 {title:Shine on You Crazy Diamond (Short)}
 {subtitle:Pink Floyd}
-{musicpath:/storage/emulated/0/Music/Shine on You Crazy Diamond (Short).mp3}
+{musicpath:Music/Shine on You Crazy Diamond (Short).mp3}
 {duration:9:52}
 {key:Gm}
 

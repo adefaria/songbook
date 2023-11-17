@@ -1,6 +1,6 @@
 {title:Let the Guitar Do the Talking}
 {subtitle:Joe Robinson}
-{musicpath:/storage/emulated/0/Music/Let the Guitar Do the Talking.mp3}
+{musicpath:Music/Let the Guitar Do the Talking.mp3}
 {duration:3:40}
 {key:Am}
 

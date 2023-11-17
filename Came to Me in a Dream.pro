@@ -1,6 +1,6 @@
 {title:Came to Me in a Dream}
 {subtitle:Greg Lee/Chris Bundy}
-{musicpath:/storage/emulated/0/Music/Came to Me in a Dream.mp3}
+{musicpath:Music/Came to Me in a Dream.mp3}
 
 [D]  [Dadd2]  [Cadd2] [G/B] 2x
 

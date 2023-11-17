@@ -1,6 +1,6 @@
 {title:Sitting on the Dock of the Bay}
 {subtitle:Otis Redding}
-{musicpath:/storage/emulated/0/Music/Sitting on the Dock of the Bay.mp3}
+{musicpath:Music/Sitting on the Dock of the Bay.mp3}
 {duration:2:47}
 {key:G}
 

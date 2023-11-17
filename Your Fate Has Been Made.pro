@@ -1,6 +1,6 @@
 {title:Your Fate Has Been Made}
 {subtitle:Ocean}
-{musicpath:/storage/emulated/0/Music/Your Fate Has Been Made.mp3}
+{musicpath:Music/Your Fate Has Been Made.mp3}
 {key:Am}
 
 [Am] [F] [G] [Am]

@@ -1,6 +1,6 @@
 {title:Seven Bridges Road}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Seven Bridges Road.mp3}
+{musicpath:Music/Seven Bridges Road.mp3}
 {duration:3:14}
 {key:D}
 

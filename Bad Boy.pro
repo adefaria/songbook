@@ -31,4 +31,4 @@ Well, mama's head has got to stop
 Junior's head is hard as rock
 Now junior, behave yourself
 
-{musicpath:/storage/emulated/0/Music/Bad Boy.mp3}
+{musicpath:Music/Bad Boy.mp3}

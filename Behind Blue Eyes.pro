@@ -1,6 +1,6 @@
 {title:Behind Blue Eyes}
 {subtitle:The Who}
-{musicpath:/storage/emulated/0/Music/Behind Blue Eyes.mp3}
+{musicpath:Music/Behind Blue Eyes.mp3}
 {duration:1:50}
 {key:Em}
 

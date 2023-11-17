@@ -1,6 +1,6 @@
 {title:Refugee}
 {subtitle:Tom Petty}
-{musicpath:/storage/emulated/0/Music/Refugee.mp3}
+{musicpath:Music/Refugee.mp3}
 {duration:3:20}
 {key:F#m}
 

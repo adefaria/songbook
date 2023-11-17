@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {duration:2:03}
 {key:D}
-{musicpath:/storage/emulated/0/Music/Don't Be Cruel.mp3}
+{musicpath:Music/Don't Be Cruel.mp3}
 
 You [D]know I can be found
 Sitting home all alone

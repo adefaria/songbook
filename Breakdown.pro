@@ -1,6 +1,6 @@
 {title:Breakdown}
 {subtitle:Tom Petty}
-{musicpath:/storage/emulated/0/Music/Breakdown.mp3}
+{musicpath:Music/Breakdown.mp3}
 {duration:2:44}
 {key:Am}
 

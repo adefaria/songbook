@@ -1,6 +1,6 @@
 {title:Running on Empty}
 {subtitle:Jackson Browne}
-{musicpath:/storage/emulated/0/Music/Running on Empty.mp3}
+{musicpath:Music/Running on Empty.mp3}
 {duration:4:59}
 {key:A}
 

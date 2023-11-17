@@ -1,6 +1,6 @@
 {title:Bring it on Home}
 {subtitle:Sam Cooke}
-{musicpath:/storage/emulated/0/Music/Bring it on Home.mp3}
+{musicpath:Music/Bring it on Home.mp3}
 {duration:2:46}
 {key:C}
 

@@ -1,6 +1,6 @@
 {title:Let It Be}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Let It Be.mp3}
+{musicpath:Music/Let It Be.mp3}
 {duration:4:04}
 {key:C}
 

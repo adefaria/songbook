@@ -24,4 +24,4 @@ Yes, before they bring the curtain down.
 Talkin' 'bout a girl that looks quite like you.
 She didn't have the time to wait in the queue.
 She cried away her life since she fell off the cradle.
-{musicpath:/storage/emulated/0/Music/Badge.mp3}
+{musicpath:Music/Badge.mp3}

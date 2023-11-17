@@ -1,6 +1,6 @@
 {title:Dear Prudence}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Dear Prudence.mp3}
+{musicpath:Music/Dear Prudence.mp3}
 {duration:3:56}
 {key:D}
 

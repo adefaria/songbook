@@ -1,6 +1,6 @@
 {title:Questions}
 {subtitle:Moody Blues}
-{musicpath:/storage/emulated/0/Music/Questions.mp3}
+{musicpath:Music/Questions.mp3}
 {duration:5:20}
 {key:C}
 

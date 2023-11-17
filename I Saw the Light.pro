@@ -1,6 +1,6 @@
 {title:I Saw the Light}
 {subtitle:Todd Rundgren}
-{musicpath:/storage/emulated/0/Music/I Saw the Light.mp3}
+{musicpath:Music/I Saw the Light.mp3}
 {duration:3:03}
 {key:Dm}
 {zoom-android-A1046:0.9379879}

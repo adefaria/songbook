@@ -26,4 +26,4 @@ And soon I'll hear old winter's song
 But I miss you most of all my darling
 When autumn leaves start to fall
 
-{musicpath:/storage/emulated/0/Music/Autumn Leaves.mp3}
+{musicpath:Music/Autumn Leaves.mp3}

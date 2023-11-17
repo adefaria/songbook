@@ -1,6 +1,6 @@
 {title:The Reunion}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/The Reunion.mp3}
+{musicpath:Music/The Reunion.mp3}
 {duration:3:57}
 {key:G}
 

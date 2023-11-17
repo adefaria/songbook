@@ -1,6 +1,6 @@
 {title:You Don't Wanna Get You One of Those}
 {subtitle:Mark Knofler}
-{musicpath:/storage/emulated/0/Music/You Don't Wanna Get You One of Those.mp3}
+{musicpath:Music/You Don't Wanna Get You One of Those.mp3}
 {duration:2:48}
 
 That old car would like to break your heart

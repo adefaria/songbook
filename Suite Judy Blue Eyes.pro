@@ -1,6 +1,6 @@
 {title:Suite Judy Blue Eyes}
 {subtitle:Crosby, Stills and Nash}
-{musicpath:/storage/emulated/0/Music/Suite Judy Blue Eyes.mp3}
+{musicpath:Music/Suite Judy Blue Eyes.mp3}
 {duration:7:26}
 {key:D}
 {tuning:D A D D A D}

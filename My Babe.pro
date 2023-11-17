@@ -1,6 +1,6 @@
 {title:My Babe}
 {subtitle:Little Walter}
-{musicpath:/storage/emulated/0/Music/My Babe.mp3}
+{musicpath:Music/My Babe.mp3}
 {duration:2:57}
 {key:F}
 

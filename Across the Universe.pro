@@ -2,6 +2,7 @@
 {subtitle:Beatles}
 {duration:3:50}
 {key:D}
+{musicpath:Music/Across the Universe.mp3}
 
 {c:Intro}
 
@@ -39,5 +40,3 @@ Inc[Em]iting and inv[Gm]iting me
 It c[Em]alls me on and on [A]across the universe
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Across the Universe.mp3}

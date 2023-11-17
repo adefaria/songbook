@@ -1,6 +1,6 @@
 {title:Maybe I'm Amazed}
 {subtitle:Paul McCartney}
-{musicpath:/storage/emulated/0/Music/Maybe I'm Amazed.mp3}
+{musicpath:Music/Maybe I'm Amazed.mp3}
 {duration:5:31}
 {key:Bb}
 

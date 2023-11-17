@@ -1,6 +1,6 @@
 {title:Confessions}
 {subtitle:Tim Minchin}
-{musicpath:/storage/emulated/0/Music/Confessions.mp3}
+{musicpath:Music/Confessions.mp3}
 {duration:6:08}
 {key:A}
 

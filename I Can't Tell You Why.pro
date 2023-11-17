@@ -1,6 +1,6 @@
 {title:I Can't Tell You Why}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/I Can't Tell You Why.mp3}
+{musicpath:Music/I Can't Tell You Why.mp3}
 {duration:4:56}
 {key:D}
 

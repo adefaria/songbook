@@ -1,6 +1,6 @@
 {title:People Are Strange}
 {subtitle:Doors}
-{musicpath:/storage/emulated/0/Music/People Are Strange.mp3}
+{musicpath:Music/People Are Strange.mp3}
 {duration:2:13}
 {key:Em}
 

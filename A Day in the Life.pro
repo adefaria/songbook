@@ -1,7 +1,7 @@
 {title:A Day in the Life}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/A Day in the Life.mp3}
 {duration:5:13}
+{musicpath:Music/A Day in the Life.mp3}
 
 [G] [Bm] [Em] [Em7] [C]
 

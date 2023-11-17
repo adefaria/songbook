@@ -1,6 +1,6 @@
 {title:End of the Line}
 {subtitle:Traveling Wilburys}
-{musicpath:/storage/emulated/0/Music/End of the Line.mp3}
+{musicpath:Music/End of the Line.mp3}
 {duration:3:26}
 {key:D}
 

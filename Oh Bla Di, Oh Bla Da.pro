@@ -1,6 +1,6 @@
 {title:Ob-La-Di, Ob-La-Da}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Ob-La-Di, Ob-La-Da.mp3}
+{musicpath:Music/Ob-La-Di, Ob-La-Da.mp3}
 {duration:3:12}
 {key:A}
 

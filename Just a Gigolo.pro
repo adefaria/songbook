@@ -1,6 +1,6 @@
 {title:Just a Gigolo}
 {subtitle:Louis Prima}
-{musicpath:/storage/emulated/0/Music/Just a Gigolo.mp3}
+{musicpath:Music/Just a Gigolo.mp3}
 {duration:4:44}
 
 [G]  [Am]  [D7] 2x

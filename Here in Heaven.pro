@@ -1,6 +1,6 @@
 {title:Here in Heaven}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Here in Heaven.wma}
+{musicpath:Music/Here in Heaven.wma}
 {key:D}
 
 Sometimes I can't escape the sensation kills the overload

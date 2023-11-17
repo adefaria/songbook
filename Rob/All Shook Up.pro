@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:A}
 {duration:1:58}
-{musicpath:/storage/emulated/0/Music/All Shook Up.mp3}
+{musicpath:Music/All Shook Up.mp3}
 
 Well [A]bless my soul
 What's wrong with me?

@@ -1,6 +1,6 @@
 {title:It Won't Be Long}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/It Won't Be Long.mp3}
+{musicpath:Music/It Won't Be Long.mp3}
 {duration:2:14}
 {key:E}
 

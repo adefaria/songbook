@@ -1,6 +1,6 @@
 {title:She's No Lady She's My Wife}
 {subtitle:Lyle Lovett}
-{musicpath:/storage/emulated/0/Music/She's No Lady She's My Wife.mp3}
+{musicpath:Music/She's No Lady She's My Wife.mp3}
 {duration:3:45}
 {key:G}
 

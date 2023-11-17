@@ -1,6 +1,6 @@
 {title:I'm a Believer}
 {subtitle:The Monkees}
-{musicpath:/storage/emulated/0/Music/I'm a Believer.mp3}
+{musicpath:Music/I'm a Believer.mp3}
 {duration:2:46}
 {key:G}
 

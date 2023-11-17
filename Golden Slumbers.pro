@@ -1,6 +1,6 @@
 {title:Golden Slumbers}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Golden Slumbers.mp3}
+{musicpath:Music/Golden Slumbers.mp3}
 {key:Am}
 
 [Am7]Once there was a way, to get back [Dm]homeward

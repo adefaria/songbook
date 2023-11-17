@@ -1,6 +1,6 @@
 {title:Band on the Run}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Band on the Run.mp3}
+{musicpath:Music/Band on the Run.mp3}
 {duration:5:09}
 {key:D}
 

@@ -1,6 +1,6 @@
 {title:Gimme Three Steps}
 {subtitle:Lynyrd Skynyrd}
-{musicpath:/storage/emulated/0/Music/Gimme Three Steps.mp3}
+{musicpath:Music/Gimme Three Steps.mp3}
 {duration:3:50}
 {key:D}
 

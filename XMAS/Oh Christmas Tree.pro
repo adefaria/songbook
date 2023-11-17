@@ -1,6 +1,6 @@
 {title:Oh Christmas Tree}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Oh Christmas Tree.mp3}
+{musicpath:Music/Oh Christmas Tree.mp3}
 {duration:3:09}
 {key:C}
 

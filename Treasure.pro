@@ -1,6 +1,6 @@
 {title:Treasure}
 {subtitle:The Cure}
-{musicpath:/storage/emulated/0/Music/Treasure.mp3}
+{musicpath:Music/Treasure.mp3}
 {duration:3:46}
 {capo:2}
 {key:D}

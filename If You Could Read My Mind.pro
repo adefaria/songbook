@@ -1,6 +1,6 @@
 {title:If You Could Read My Mind}
 {subtitle:Gordon Lightfoot}
-{musicpath:/storage/emulated/0/Music/If You Could Read My Mind.mp3}
+{musicpath:Music/If You Could Read My Mind.mp3}
 {duration:3:49}
 {key:G}
 

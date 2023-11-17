@@ -1,6 +1,6 @@
 {title:Why You Love Me Like That}
 {subtitle:Michelle Branch}
-{musicpath:/storage/emulated/0/Music/Why You Love Me Like That.mp3}
+{musicpath:Music/Why You Love Me Like That.mp3}
 {duration:3:31}
 {key:C}
 

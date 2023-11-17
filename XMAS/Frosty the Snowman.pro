@@ -1,6 +1,6 @@
 {title:Frosty the Snowman}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Frosty the Snowman.mp3}
+{musicpath:Music/Frosty the Snowman.mp3}
 {duration:3:08}
 {key:C}
 

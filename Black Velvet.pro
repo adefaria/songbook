@@ -2,7 +2,7 @@
 {subtitle:Alannah Myles}
 {duration:4:50}
 {key:Em}
-{musicpath:/storage/emulated/0/Music/Black Velvet.mp3}
+{musicpath:Music/Black Velvet.mp3}
 
 [Em]Mississippi in the middle of a dry spell
 Jimmy Rogers on the Victrola up high

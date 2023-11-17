@@ -1,6 +1,6 @@
 {title:I'll be Home for Christmas}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/I'll be Home for Christmas.mp3}
+{musicpath:Music/I'll be Home for Christmas.mp3}
 {duration:2:55}
 {key:G}
 

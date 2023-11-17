@@ -1,6 +1,6 @@
 {title:Piano Man}
 {subtitle:Billy Joel}
-{musicpath:/storage/emulated/0/Music/Piano Man.mp3}
+{musicpath:Music/Piano Man.mp3}
 {duration:5:42}
 {key:C}
 

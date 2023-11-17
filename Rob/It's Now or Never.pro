@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:E}
 {duration:3:15}
-{musicpath:/storage/emulated/0/Music/It's Now or Never.mp3}
+{musicpath:Music/It's Now or Never.mp3}
 
 {c:Chorus}
 
