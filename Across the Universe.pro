@@ -1,14 +1,14 @@
 {title:Across the Universe}
 {subtitle:Beatles}
 {duration:3:50}
-{key:D}
 {musicpath:Music/Across the Universe.mp3}
+{key:D}
 
 {c:Intro}
 
 [D]Words are flowing [Bm]out like 
 Endless [F#m]rain into a paper cup
-They [Em]slither wildly as they slip 
+They [Em]slither wildly as they slip
 [A]Away across the universe
 [D]Pools of sorrow [Bm]waves of joy
 Are dr[F#m]ifting through my opened mind
@@ -33,7 +33,7 @@ Way across the universe
 {c:Chorus}
 
 [D]Sounds of laughter, [Bm]shades of life
-Are ring[F#m]ing through my opened ears 
+Are ring[F#m]ing through my opened ears
 Inc[Em]iting and inv[Gm]iting me
 [D]Limitless undying [Bm]love, which
 [F#m]Shines around me like a million suns,
