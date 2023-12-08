@@ -4,6 +4,8 @@
 {duration:3:47}
 {key:A}
 
+{c:Mark sings}
+
 Rumor spreadin' 'round
 In that Texas town
 About that shack outside La Grange
