@@ -1,6 +1,6 @@
 {title:Swingtown}
 {subtitle:Steve Miller}
-{musicpath:/storage/emulated/0/Music/Swingtown.mp3}
+{musicpath:Music/Swingtown.mp3}
 {duration:3:29}
 {key:A}
 

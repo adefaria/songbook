@@ -1,6 +1,6 @@
 {title:Blackbird}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Blackbird.mp3}
+{musicpath:Music/Blackbird.mp3}
 {duration:2:19}
 {metronome:92}
 

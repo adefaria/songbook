@@ -1,6 +1,6 @@
 {title:Get Together}
 {subtitle:The Youngbloods}
-{musicpath:/storage/emulated/0/Music/Get Together.mp3}
+{musicpath:Music/Get Together.mp3}
 {duration:4:41}
 {key:G}
 {capo:2}

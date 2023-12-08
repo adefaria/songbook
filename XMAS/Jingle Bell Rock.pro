@@ -1,6 +1,6 @@
 {title:Jingle Bell Rock}
 {subtitle:Tommy Emmanuel}
-{musicpath:/storage/emulated/0/Music/Jingle Bell Rock.mp3}
+{musicpath:Music/Jingle Bell Rock.mp3}
 {duration:2:31}
 {key:G}
 

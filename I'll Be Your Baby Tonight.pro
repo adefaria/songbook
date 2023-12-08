@@ -1,6 +1,6 @@
 {title:I'll Be Your Baby Tonight}
 {subtitle:Bob Dylan}
-{musicpath:/storage/emulated/0/Music/I'll Be Your Baby Tonight.mp3}
+{musicpath:Music/I'll Be Your Baby Tonight.mp3}
 {duration:2:41}
 {key:C}
 

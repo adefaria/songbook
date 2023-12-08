@@ -1,6 +1,6 @@
 {title:Something}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Something.mp3}
+{musicpath:Music/Something.mp3}
 {duration:3:08}
 {key:C}
 

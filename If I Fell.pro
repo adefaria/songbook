@@ -1,6 +1,6 @@
 {title:If I Fell}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/If I Fell.mp3}
+{musicpath:Music/If I Fell.mp3}
 {duration:2:20}
 {key:C}
 

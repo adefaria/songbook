@@ -1,6 +1,6 @@
 {title:Mother}
 {subtitle:Pink Floyd}
-{musicpath:/storage/emulated/0/Music/Mother.mp3}
+{musicpath:Music/Mother.mp3}
 {duration:5:35}
 {key:G}
 	

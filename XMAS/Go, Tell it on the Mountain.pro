@@ -1,6 +1,6 @@
 {title:Go Tell it on the Mountain}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Go Tell it on the Mountain.mp3}
+{musicpath:Music/Go Tell it on the Mountain.mp3}
 {duration:3:31}
 {key:D}
 

@@ -1,6 +1,6 @@
 {title:I'll Melt With You}
 {subtitle:Modern English}
-{musicpath:/storage/emulated/0/Music/I'll Melt With You.mp3}
+{musicpath:Music/I'll Melt With You.mp3}
 {duration:3:48}
 {key:C}
 

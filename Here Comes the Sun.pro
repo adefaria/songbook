@@ -1,6 +1,6 @@
 {title:Here Comes the Sun}
 {subtitle:George Harrison}
-{musicpath:/storage/emulated/0/Music/Here Comes the Sun.mp3}
+{musicpath:Music/Here Comes the Sun.mp3}
 {duration:3:12}
 {key:A}
 {capo:7}

@@ -35,4 +35,4 @@ Then they can bring the curtain down
 [Outro]
 Is your heart filled with pain? Shall I come back again?
 Tell me, dear, are you lonesome tonight?
-{musicpath:/storage/emulated/0/Music/Are You Lonesome Tonight.mp3}
+{musicpath:Music/Are You Lonesome Tonight.mp3}

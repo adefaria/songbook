@@ -1,6 +1,6 @@
 >{title:When I Grow Up}
 {subtitle:Tim Minchin}
-{musicpath:/storage/emulated/0/Music/When I Grow Up.mp3}
+{musicpath:Music/When I Grow Up.mp3}
 {duration:3:55}
 {key:G}
 

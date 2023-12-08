@@ -1,6 +1,6 @@
 {title:Your Move}
 {subtitle:Yes}
-{musicpath:/storage/emulated/0/Music/Your Move.mp3}
+{musicpath:Music/Your Move.mp3}
 {duration:2:56}
 {key:E}
 

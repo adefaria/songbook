@@ -1,6 +1,6 @@
 {title:Moondance}
 {subtitle:Van Morrison}
-{musicpath:/storage/emulated/0/Music/Moondance.mp3}
+{musicpath:Music/Moondance.mp3}
 {duration:4:35}
 {key:Am}
 

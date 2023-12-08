@@ -1,6 +1,6 @@
 {title:Strong Enough to Win}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Strong Enough to Win.mp3}
+{musicpath:Music/Strong Enough to Win.mp3}
 {key:A}
 
 [A] [Amaj7] [A6] [Amaj7]

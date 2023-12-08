@@ -35,4 +35,4 @@ Verse 3:
 
 Outro:
 [G]Rolling, rolling, rolling on the river, [G]Rolling, rolling, rolling on the river
-[G]Rolling, rolling, rolling on the river{musicpath:/storage/emulated/0/Music/Proud Mary.mp3}
+[G]Rolling, rolling, rolling on the river{musicpath:Music/Proud Mary.mp3}

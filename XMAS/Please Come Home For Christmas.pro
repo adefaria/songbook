@@ -1,6 +1,6 @@
 {title:Please Come Home For Christmas}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Please Come Home For Christmas.mp3}
+{musicpath:Music/Please Come Home For Christmas.mp3}
 {duration:2:57}
 {key:A}
 

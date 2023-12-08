@@ -1,6 +1,6 @@
 {title:Our House}
 {subtitle:Crosby, Stills and Nash}
-{musicpath:/storage/emulated/0/Music/Our House.mp3}
+{musicpath:Music/Our House.mp3}
 {duration:3:00}
 {key:A}
 

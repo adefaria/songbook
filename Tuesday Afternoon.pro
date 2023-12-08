@@ -1,6 +1,6 @@
 {title:Tuesday Afternoon}
 {subtitle:Moody Blues}
-{musicpath:/storage/emulated/0/Music/Tuesday Afternoon.mp3}
+{musicpath:Music/Tuesday Afternoon.mp3}
 {duration:4:57}
 {key:Am}
 

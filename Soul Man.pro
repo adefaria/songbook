@@ -1,6 +1,6 @@
 {title:Soul Man}
 {subtitle:The Blues Brothers}
-{musicpath:/storage/emulated/0/Music/Soul Man.mp3}
+{musicpath:Music/Soul Man.mp3}
 {duration:2:40}
 {key:E}
 

@@ -37,4 +37,4 @@ If its[C] one of us I'm sure we'll both will[E] see
 
 {c:Chorus 2x}
 
-{musicpath:/storage/emulated/0/Music/Amie.mp3}
+{musicpath:Music/Amie.mp3}

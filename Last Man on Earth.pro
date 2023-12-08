@@ -1,6 +1,6 @@
 {title:Last Man on Earth}
 {subtitle:Alice Cooper}
-{musicpath:/storage/emulated/0/Music/Last Man on Earth.mp3}
+{musicpath:Music/Last Man on Earth.mp3}
 {duration:3:48}
 {key:Gm}
 

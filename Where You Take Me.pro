@@ -1,6 +1,6 @@
 {title:Where You Take Me}
 {subtitle:Jen Hajj}
-{musicpath:/storage/emulated/0/Music/Where You Take Me.mp3}
+{musicpath:Music/Where You Take Me.mp3}
 {key:A}
 
 {c:Intro}

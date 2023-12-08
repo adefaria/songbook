@@ -1,6 +1,6 @@
 {title:Tell Me Why}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Tell Me Why.mp3}
+{musicpath:Music/Tell Me Why.mp3}
 {duration:2:09}
 {key:D}
 

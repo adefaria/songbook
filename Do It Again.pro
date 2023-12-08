@@ -1,6 +1,6 @@
 {title:Do It Again}
 {subtitle:Steely Dan}
-{musicpath:/storage/emulated/0/Music/Do It Again.mp3}
+{musicpath:Music/Do It Again.mp3}
 {duration:5:54}
 {key:Gm}
 

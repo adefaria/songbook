@@ -1,6 +1,6 @@
 {title:Take It Easy}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Take It Easy.mp3}
+{musicpath:Music/Take It Easy.mp3}
 {duration:3:32}
 {key:G}
 

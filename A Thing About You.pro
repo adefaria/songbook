@@ -1,6 +1,6 @@
 {title:A Thing About You}
 {subtitle:Tom Petty}
-{musicpath:/storage/emulated/0/Music/A Thing About You.mp3}
+{musicpath:Music/A Thing About You.mp3}
 {key:A}
 
 [A]Well I'm not much on mystery

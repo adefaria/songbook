@@ -1,6 +1,6 @@
 {title:Sultans of Swing}
 {subtitle:Dire Straights}
-{musicpath:/storage/emulated/0/Music/Sultans of Swing.mp3}
+{musicpath:Music/Sultans of Swing.mp3}
 {duration:5:47}
 {key:Dm}
 

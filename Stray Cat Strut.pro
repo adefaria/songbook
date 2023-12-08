@@ -1,6 +1,6 @@
 {title:Stray Cat Strut}
 {subtitle:Stray Cats}
-{musicpath:/storage/emulated/0/Music/Stray Cat Strut.mp3}
+{musicpath:Music/Stray Cat Strut.mp3}
 {duration:3:21}
 {key:Cm}
 

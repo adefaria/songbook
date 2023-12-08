@@ -1,6 +1,6 @@
 {title:You Ain't Seen Nothing Yet}
 {subtitle:Bachman Turner Overdrive}
-{musicpath:/storage/emulated/0/Music/You Ain't Seen Nothing Yet.mp3}
+{musicpath:Music/You Ain't Seen Nothing Yet.mp3}
 {duration:3:45}
 
 {c:Intro}

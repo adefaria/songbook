@@ -1,6 +1,6 @@
 {title:You and Tequila}
 {subtitle:Kenny Chesney}
-{musicpath:/storage/emulated/0/Music/You and Tequila.mp3}
+{musicpath:Music/You and Tequila.mp3}
 {duration:4:06}
 {key:G}
 

@@ -1,6 +1,6 @@
 {title:Please Please Me}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Please Please Me.mp3}
+{musicpath:Music/Please Please Me.mp3}
 {duration:2:01}
 {key:E}
 

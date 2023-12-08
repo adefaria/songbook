@@ -1,6 +1,6 @@
 {title:Social Distancing}
 {subtitle:Mike Staples}
-{musicpath:/storage/emulated/0/Music/Social Distancing.mp3}
+{musicpath:Music/Social Distancing.mp3}
 {duration:3:00}
 {capo:2}
 {Key:A}

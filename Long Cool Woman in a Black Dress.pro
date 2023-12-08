@@ -1,6 +1,6 @@
 {title:Long Cool Woman in a Black Dress}
 {subtitle:The Hollies}
-{musicpath:/storage/emulated/0/Music/Long Cool Woman in a Black Dress.mp3}
+{musicpath:Music/Long Cool Woman in a Black Dress.mp3}
 {duration:3:25}
 {key:Em}
 

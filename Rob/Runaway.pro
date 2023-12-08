@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:Am}
 {duration:2:47}
-{musicpath:/storage/emulated/0/Music/Runaway.mp3}
+{musicpath:Music/Runaway.mp3}
 
 [Am]As I walk along I [G]wonder what went wrong
 With [F]our love, a love that was so s[E]trong

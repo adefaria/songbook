@@ -101,7 +101,7 @@ sub updateMusicpath ($$) {
     return;
   }    # unless
 
-  print $songfile "{musicpath:/storage/emulated/0/Music/$title.mp3}\n";
+  print $songfile "{musicpath:Music/$title.mp3}\n";
 
   close $songfile;
 
@@ -162,10 +162,10 @@ END
 
   my $musicFile;
 
-  if (-r "/opt/media/$title.mp3") {
-    print "<source src=\"/Media/$title.mp3\"";
-  } elsif (-r "/opt/media/$title.flac") {
-    print "<source src=\"/Media/$title.flac\"";
+  if (-r "/opt/songbook/Music/$title.mp3") {
+    print "<source src=\"/Music/$title.mp3\"";
+  } elsif (-r "/opt/songbook/Music/$title.flac") {
+    print "<source src=\"/Music/$title.flac\"";
   }    # if
 
   print << "END";

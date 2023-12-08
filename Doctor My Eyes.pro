@@ -1,6 +1,6 @@
 {title:Doctor My Eyes}
 {subtitle:Jackson Browne}
-{musicpath:/storage/emulated/0/Music/Doctor My Eyes.mp3}
+{musicpath:Music/Doctor My Eyes.mp3}
 {capo:1}
 {duration:3:25}
 {key:F}

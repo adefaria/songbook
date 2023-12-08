@@ -1,6 +1,6 @@
 {title:Peaceful, Easy Feeling}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Peaceful, Easy Feeling.mp3}
+{musicpath:Music/Peaceful, Easy Feeling.mp3}
 {duration:4:18}
 {key:E}
 

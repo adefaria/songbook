@@ -1,7 +1,7 @@
 {title:Michelle}
 {subtitle:Beatles}
 {capo:5}
-{musicpath:/storage/emulated/0/Music/Michelle.mp3}
+{musicpath:Music/Michelle.mp3}
 {duration:2:49}
 {key:F}
 

@@ -1,6 +1,6 @@
 {title:Wish You Were Here}
 {subtitle:Pink Floyd}
-{musicpath:/storage/emulated/0/Music/Wish You Were Here.mp3}
+{musicpath:Music/Wish You Were Here.mp3}
 {duration:4:54}
 {key:G}
 

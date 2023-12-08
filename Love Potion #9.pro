@@ -1,6 +1,6 @@
 {title:Love Potion #9}
 {subtitle:The Searchers}
-{musicpath:/storage/emulated/0/Music/Love Potion #9.mp3}
+{musicpath:Music/Love Potion #9.mp3}
 {duration:2:07}
 {key:Am}
 

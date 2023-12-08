@@ -1,6 +1,6 @@
 {title:Rain Song}
 {subtitle:Led Zeppelin}
-{musicpath:/storage/emulated/0/Music/Rain Song.mp3}
+{musicpath:Music/Rain Song.mp3}
 {duration:7:33}
 {key:G}
 {tuning:D G C G C D}

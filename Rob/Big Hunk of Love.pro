@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:C}
 {duration:2:14}
-{musicpath:/storage/emulated/0/Music/Big Hunk of Love.mp3}
+{musicpath:Music/Big Hunk of Love.mp3}
 
 [C]Hey baby, I ain't askin much of you,
 no, no, no, no, no, no, no, no [F]baby, I ain't

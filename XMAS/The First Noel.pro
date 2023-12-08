@@ -1,6 +1,6 @@
 {title:The First Noel}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/The First Noel.mp3}
+{musicpath:Music/The First Noel.mp3}
 {duration:5:03}
 {key:D}
 

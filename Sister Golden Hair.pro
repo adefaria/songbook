@@ -1,6 +1,6 @@
 {title:Sister Golden Hair}
 {subtitle:America}
-{musicpath:/storage/emulated/0/Music/Sister Golden Hair.mp3}
+{musicpath:Music/Sister Golden Hair.mp3}
 {duration:3:14}
 {key:A}
 {duration:3:13}

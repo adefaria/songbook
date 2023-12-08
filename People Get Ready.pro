@@ -1,6 +1,6 @@
 {title:People Get Ready}
 {subtitle:Rod Stewart}
-{musicpath:/storage/emulated/0/Music/People Get Ready.mp3}
+{musicpath:Music/People Get Ready.mp3}
 {duration:4:41}
 {key:D}
 

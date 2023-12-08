@@ -1,6 +1,6 @@
 {title:What a Wonderful World}
 {subtitle:Louis Armstrong}
-{musicpath:/storage/emulated/0/Music/What a Wonderful World.mp3}
+{musicpath:Music/What a Wonderful World.mp3}
 {duration:2:30}
 {key:E}
 

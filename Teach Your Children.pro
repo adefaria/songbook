@@ -2,7 +2,7 @@
 {subtitle:Crosby, Stills and Nash}
 {key:D}
 {duration:2:55}
-{musicpath:/storage/emulated/0/Music/Teach Your Children.mp3}
+{musicpath:Music/Teach Your Children.mp3}
 
 [D]You who are on the [G] road
 Must have a [D] code that you can [A] live by [A7]

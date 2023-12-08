@@ -1,6 +1,6 @@
 {title:Grandma Got Run Over by a Reindeer}
 {subtitle:Elmo and Patsy}
-{musicpath:/storage/emulated/0/Music/Grandma Got Run Over by a Reindeer.mp3}
+{musicpath:Music/Grandma Got Run Over by a Reindeer.mp3}
 {duration:3:24}
 {key:E}
 

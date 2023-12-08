@@ -1,6 +1,6 @@
 {title:Drugstore Novels}
 {subtitle:Cast of Shadows}
-{musicpath:/storage/emulated/0/Music/Drugstore Novels.mp3}
+{musicpath:Music/Drugstore Novels.mp3}
 {duration:4:32}
 {key:A}
 

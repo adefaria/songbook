@@ -1,6 +1,6 @@
 {title:Hotel California}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Hotel California.mp3}
+{musicpath:Music/Hotel California.mp3}
 {duration:6:31}
 {key:Bm}
 

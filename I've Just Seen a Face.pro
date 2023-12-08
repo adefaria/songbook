@@ -1,6 +1,6 @@
 {title:I've Just Seen a Face}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/I've Just Seen a Face.mp3}
+{musicpath:Music/I've Just Seen a Face.mp3}
 {duration:2:06}
 {key:G}
 

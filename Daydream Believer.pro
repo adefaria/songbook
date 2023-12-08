@@ -1,6 +1,6 @@
 {title:Daydream Believer}
 {subtitle:The Monkees}
-{musicpath:/storage/emulated/0/Music/Daydream Believer.mp3}
+{musicpath:Music/Daydream Believer.mp3}
 {duration:3:00}
 {key:G}
 

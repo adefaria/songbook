@@ -1,6 +1,6 @@
 {title:Your Momma Don't Dance}
 {subtitle:Loggins and Messina}
-{musicpath:/storage/emulated/0/Music/Your Momma Don't Dance.mp3}
+{musicpath:Music/Your Momma Don't Dance.mp3}
 {duration:2:49}
 {key:C}
 

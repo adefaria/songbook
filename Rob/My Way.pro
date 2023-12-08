@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:C}
 {duration:3:46}
-{musicpath:/storage/emulated/0/Music/My Way.mp3}
+{musicpath:Music/My Way.mp3}
 
 And now[C] the end is[Em] near
 and so I [Gm]face the final [A7]curtain

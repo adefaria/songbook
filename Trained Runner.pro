@@ -1,6 +1,6 @@
 {title:Trained Runner}
 {subtitle:Tempest}
-{musicpath:/storage/emulated/0/Music/Trained Runner.mp3}
+{musicpath:Music/Trained Runner.mp3}
 {key:F#m}
 
 Shuttles out of DC, it must be 5 Am

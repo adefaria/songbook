@@ -1,6 +1,6 @@
 {title:Happy Together}
 {subtitle:The Turtles}
-{musicpath:/storage/emulated/0/Music/Happy Together.mp3}
+{musicpath:Music/Happy Together.mp3}
 {duration:2:58}
 {key:F#m}
 {capo:2}

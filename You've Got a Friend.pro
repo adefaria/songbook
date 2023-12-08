@@ -1,6 +1,6 @@
 {title:You Got a Friend}
 {subtitle:James Taylor}
-{musicpath:/storage/emulated/0/Music/You've Got a Friend.mp3}
+{musicpath:Music/You've Got a Friend.mp3}
 {duration:4:27}
 {key:G}
 

@@ -1,6 +1,6 @@
 {title:Georgia on My Mind}
 {subtitle:Ray Charles}
-{musicpath:/storage/emulated/0/Music/Georgia on My Mind.mp3}
+{musicpath:Music/Georgia on My Mind.mp3}
 {duration:3:53}
 {key:G}
 

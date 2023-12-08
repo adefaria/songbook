@@ -2,7 +2,7 @@
 {subtitle:Beatles}
 {capo:2}
 {duration:1:45}
-{musicpath:/storage/emulated/0/Music/I Will.mp3}
+{musicpath:Music/I Will.mp3}
 {key:D}
 
 [D] [Bm] [Em] [A7] 2x

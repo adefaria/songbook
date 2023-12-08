@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:D}
 {duration:3:59}
-{musicpath:/storage/emulated/0/Music/You've Lost That Loving Feeling.mp3}
+{musicpath:Music/You've Lost That Loving Feeling.mp3}
 
 You never [C/D]close your eyes anymore when I kiss your l[D]ips
 And there's no [C/D]tenderness like before in your finger[D]tips

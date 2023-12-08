@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:E}
 {duration:2:08}
-{musicpath:/storage/emulated/0/Music/Heartbreak Hotel.mp3}
+{musicpath:Music/Heartbreak Hotel.mp3}
 
 Well, [E]since my baby left me,
 I found a new place to dwell

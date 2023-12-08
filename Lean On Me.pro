@@ -1,6 +1,6 @@
 {title:Lean on Me}
 {subtitle:Temptations}
-{musicpath:/storage/emulated/0/Music/Lean On Me.mp3}
+{musicpath:Music/Lean On Me.mp3}
 {duration:4:55}
 {key:C}
 

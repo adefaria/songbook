@@ -1,6 +1,6 @@
 {title:Isolation}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Isolation.mp3}
+{musicpath:Music/Isolation.mp3}
 {duration:2:51}
 {key:D}
 

@@ -1,6 +1,6 @@
 {title:Turn the Page}
 {subtitle:Bob Seger}
-{musicpath:/storage/emulated/0/Music/Turn the Page.mp3}
+{musicpath:Music/Turn the Page.mp3}
 {duration:5:04}
 {key:Em}
 
