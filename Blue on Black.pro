@@ -1,6 +1,6 @@
 {title:Blue on Black}
 {subtitle:Kenny Wayne Shepherd}
-{musicpath:/storage/emulated/0/Music/Blue on Black.mp3}
+{musicpath:Music/Blue on Black.mp3}
 {duration:5:31}
 {key:D}
 

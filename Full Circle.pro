@@ -1,6 +1,6 @@
 {title:Full Circle}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Full Circle.mp3}
+{musicpath:Music/Full Circle.mp3}
 {key:D}
 
 {c:Intro}

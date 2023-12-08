@@ -1,6 +1,6 @@
 {title:Just Like Heaven}
 {subtitle:The Cure}
-{musicpath:/storage/emulated/0/Music/Just Like Heaven.mp3}
+{musicpath:Music/Just Like Heaven.mp3}
 {duration:3:26}
 {key:A}
 

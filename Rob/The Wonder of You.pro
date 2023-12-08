@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:G}
 {duration:2:27}
-{musicpath:/storage/emulated/0/Music/The Wonder of You.mp3}
+{musicpath:Music/The Wonder of You.mp3}
 
 When [G]no one else can understand [Em]me   [Am]
 When everything I do is [D7]wrong

@@ -1,6 +1,6 @@
 {title:Never Ending Love For You}
 {subtitle:Delaney and Bonnie}
-{musicpath:/storage/emulated/0/Music/Never Ending Song of Love.mp3}
+{musicpath:Music/Never Ending Song of Love.mp3}
 {duration:3:25}
 
 {c:Run down}

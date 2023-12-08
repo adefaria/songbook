@@ -1,6 +1,6 @@
 {title:Everybody's Talking}
 {subtitle:Harry Nielson}
-{musicpath:/storage/emulated/0/Music/Everybody's Talking.mp3}
+{musicpath:Music/Everybody's Talking.mp3}
 {duration:2:46}
 {key:E}
 {tuning:D A D G B E}

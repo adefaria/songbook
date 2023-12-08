@@ -1,6 +1,6 @@
 {title:Mrs. Robinson}
 {subtitle:Paul Simon}
-{musicpath:/storage/emulated/0/Music/Mrs. Robinson.mp3}
+{musicpath:Music/Mrs. Robinson.mp3}
 {duration:4:04}
 {key:E}
 {c:chorus}

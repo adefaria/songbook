@@ -1,6 +1,6 @@
 {title:Secret Agent Man}
 {subtitle:Johnny Rivers}
-{musicpath:/storage/emulated/0/Music/Secret Agent Man.mp3}
+{musicpath:Music/Secret Agent Man.mp3}
 {duration:3:10}
 {key:Em}
 

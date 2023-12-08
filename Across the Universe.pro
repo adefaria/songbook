@@ -1,13 +1,14 @@
-{title:Across the Universe}
+{title:Across the Universe
 {subtitle:Beatles}
 {duration:3:50}
+{musicpath:Music/Across the Universe.mp3}
 {key:D}
 
 {c:Intro}
 
-[D]Words are flowing [Bm]out like 
+[D]Words are flowing [Bm]out like
 Endless [F#m]rain into a paper cup
-They [Em]slither wildly as they slip 
+They [Em]slither wildly as they slip
 [A]Away across the universe
 [D]Pools of sorrow [Bm]waves of joy
 Are dr[F#m]ifting through my opened mind
@@ -18,26 +19,24 @@ Pos[Em]sessing and car[Gm]essing me
 No[A7]thing's gonna change my world
 No[G]thing's gonna change my [D]world
 No[A7]thing's gonna change my world
-No[G]thing's gonna change my [D]world
+No[G]thing's gonna changexter my [D]world
 {eoc}
 
-Images of broken light, which 
+Images of broken light, which
 Dance before me like a million eyes,
 They call me on and on across the universe.
-Thoughts meander like a 
+Thoughts meander like a x
 Restless wind inside a letter box
-They tumble blindly as they make their 
+They tumble blindly as they make their
 Way across the universe
 
 {c:Chorus}
 
 [D]Sounds of laughter, [Bm]shades of life
-Are ring[F#m]ing through my opened ears 
+Are ring[F#m]ing through my opened ears
 Inc[Em]iting and inv[Gm]iting me
 [D]Limitless undying [Bm]love, which
 [F#m]Shines around me like a million suns,
 It c[Em]alls me on and on [A]across the universe
 
 {c:Chorus}
-
-{musicpath:/storage/emulated/0/Music/Across the Universe.mp3}

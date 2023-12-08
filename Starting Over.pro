@@ -1,6 +1,6 @@
 {title:Starting Over}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Starting Over.mp3}
+{musicpath:Music/Starting Over.mp3}
 {duration:3:56}
 {key:A}
 

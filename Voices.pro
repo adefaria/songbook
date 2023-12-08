@@ -1,6 +1,6 @@
 {title:Voices}
 {subtitle:Red Shoes for Romeo}
-{musicpath:/storage/emulated/0/Music/Voices.mp3}
+{musicpath:Music/Voices.mp3}
 {duration:5:05}
 {key:Em}
 

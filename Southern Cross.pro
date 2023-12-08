@@ -1,6 +1,6 @@
 {title:Southern Cross}
 {subtitle:Crosby, Stills and Nash}
-{musicpath:/storage/emulated/0/Music/Southern Cross.mp3}
+{musicpath:Music/Southern Cross.mp3}
 {duration:4:41}
 {key:A}
 

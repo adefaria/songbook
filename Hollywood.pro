@@ -1,6 +1,6 @@
 {title:Hollywood}
 {subtitle:Los Lonely Boys}
-{musicpath:/storage/emulated/0/Music/Hollywood.mp3}
+{musicpath:Music/Hollywood.mp3}
 {key:C}
 {duration:4:14}
 

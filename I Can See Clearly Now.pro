@@ -1,6 +1,6 @@
 {title:I Can See Clearly Now}
 {subtitle:Johnny Nash}
-{musicpath:/storage/emulated/0/Music/I Can See Clearly Now.mp3}
+{musicpath:Music/I Can See Clearly Now.mp3}
 {duration:2:45}
 {key:D}
 

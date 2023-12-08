@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {duration:2:08}
 {key:C}
-{musicpath:/storage/emulated/0/Music/Return to Sender.mp3}
+{musicpath:Music/Return to Sender.mp3}
 
 [C]Return to [Am]sender
 [Dm7]Return to [G7]sender

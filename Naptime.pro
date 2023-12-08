@@ -1,6 +1,6 @@
 {title:Naptime}
 {subtitle:Jen Hajj}
-{musicpath:/storage/emulated/0/Music/Naptime.mp3}
+{musicpath:Music/Naptime.mp3}
 {key:E}
 
 {c:Intro}

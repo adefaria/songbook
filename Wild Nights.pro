@@ -1,6 +1,6 @@
 {title:Wild Nights}
 {subtitle:Van Morrison}
-{musicpath:/storage/emulated/0/Music/Wild Nights.mp3}
+{musicpath:Music/Wild Nights.mp3}
 {duration:3:31}
 {key:G}
 

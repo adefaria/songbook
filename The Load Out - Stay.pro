@@ -1,6 +1,6 @@
 {title:The Load Out - Stay}
 {subtitle:Jackson Browne}
-{musicpath:/storage/emulated/0/Music/The Load Out - Stay.mp3}
+{musicpath:Music/The Load Out - Stay.mp3}
 {duration:9:50)}
 {key:G}
 

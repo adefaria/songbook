@@ -1,6 +1,6 @@
 {title:I Still Can't Say Goodbye}
 {subtitle:Chet Atkins}
-{musicpath:/storage/emulated/0/Music/I Still Can't Say Goodbye.mp3}
+{musicpath:Music/I Still Can't Say Goodbye.mp3}
 {duration:3:55}
 {key:A}
 {capo:2}

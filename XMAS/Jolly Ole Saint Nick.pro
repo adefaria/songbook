@@ -1,6 +1,6 @@
 {title:Jolly Ole Saint Nick}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Jolly Ole Saint Nick.mp3}
+{musicpath:Music/Jolly Ole Saint Nick.mp3}
 {duration:1:48}
 {key:Ab}
 

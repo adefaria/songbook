@@ -1,6 +1,6 @@
 {title:Show Me the Way}
 {subtitle:Peter Frampton}
-{musicpath:/storage/emulated/0/Music/Show Me the Way.mp3}
+{musicpath:Music/Show Me the Way.mp3}
 {duration:4:37}
 {metronome:113}
 {key:D}

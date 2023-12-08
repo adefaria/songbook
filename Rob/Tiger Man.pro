@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:E}
 {duration:2:39}
-{musicpath:/storage/emulated/0/Music/Tiger Man.mp3}
+{musicpath:Music/Tiger Man.mp3}
 
 Well, I'm the [A7]king of the jungle
 They call me Tiger [E]Man

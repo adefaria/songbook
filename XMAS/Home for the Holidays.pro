@@ -1,6 +1,6 @@
 {title:Home for the Holidays}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Home for the Holidays.mp3}
+{musicpath:Music/Home for the Holidays.mp3}
 {duration:2:35}
 {key:G}
 

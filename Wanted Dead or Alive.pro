@@ -1,6 +1,6 @@
 {title:Wanted Dead or Alive}
 {subtitle:Bon Jovi}
-{musicpath:/storage/emulated/0/Music/Wanted Dead or Alive.mp3}
+{musicpath:Music/Wanted Dead or Alive.mp3}
 {duration:4:10}
 {tuning:D A D G B E}
 

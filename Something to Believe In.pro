@@ -1,6 +1,6 @@
 {title:Something to Believe In}
 {subtitle:Poison}
-{musicpath:/storage/emulated/0/Music/Something to Believe In.mp3}
+{musicpath:Music/Something to Believe In.mp3}
 {duration:5:28}
 {key:D}
 

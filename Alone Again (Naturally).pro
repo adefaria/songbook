@@ -1,6 +1,7 @@
 {title:Alone Again (Naturally)}
 {subtitle:Gilbert O'Sullivan}
 {duration:3:35}
+{musicpath:Music/Alone Again (Naturally).mp3}
 
 {key:E}
 
@@ -84,4 +85,3 @@ I cried and cried all day
 
 Alone again, naturally
 Alone again, naturally
-{musicpath:/storage/emulated/0/Music/Alone Again (Naturally).mp3}

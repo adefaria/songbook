@@ -1,6 +1,6 @@
 {title:Cryin' in the Rain}
 {subtitle:Cast of Shadows}
-{musicpath:/storage/emulated/0/Music/Cryin' in the Rain.mp3}
+{musicpath:Music/Cryin' in the Rain.mp3}
 {duration:4:30}
 {key:G}
 

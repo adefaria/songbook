@@ -1,6 +1,6 @@
 {title:We Can Work it Out}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/We Can Work it Out.mp3}
+{musicpath:Music/We Can Work it Out.mp3}
 {duration:2:18}
 {key:D}
 

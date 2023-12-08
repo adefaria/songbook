@@ -1,6 +1,6 @@
 {title:Can't Get Enough of Your Love}
 {subtitle:Free}
-{musicpath:/storage/emulated/0/Music/Can't Get Enough of Your Love.mp3}
+{musicpath:Music/Can't Get Enough of Your Love.mp3}
 {duration:4:14}
 {key:C}
 

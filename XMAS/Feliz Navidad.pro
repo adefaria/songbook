@@ -1,6 +1,6 @@
 {title:Feliz Navidad}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/Feliz Navidad.mp3}
+{musicpath:Music/Feliz Navidad.mp3}
 {duration:3:12}
 {key:C}
 

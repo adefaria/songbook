@@ -1,6 +1,6 @@
 {title:Harvest Moon}
 {subtitle:Neil Young}
-{musicpath:/storage/emulated/0/Music/Harvest Moon.mp3}
+{musicpath:Music/Harvest Moon.mp3}
 {duration:5:11}
 {key:D}
 

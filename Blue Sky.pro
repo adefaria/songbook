@@ -1,6 +1,6 @@
 {title:Blue Sky}
 {subtitle:Allman Brothers}
-{musicpath:/storage/emulated/0/Music/Blue Sky.mp3}
+{musicpath:Music/Blue Sky.mp3}
 {duration:5:15}
 {key:E}
 

@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:A}
 {duration:3:00}
-{musicpath:/storage/emulated/0/Music/CC Rider.mp3}
+{musicpath:Music/CC Rider.mp3}
 
 I said [A]C., C. C. Rider
 Oh see, what you have done (Yea yea yea)

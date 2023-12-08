@@ -1,6 +1,6 @@
 {title:Workin Man Blues}
 {subtitle:Merle Haggard}
-{musicpath:/storage/emulated/0/Music/Workin Man Blues.mp3}
+{musicpath:Music/Workin Man Blues.mp3}
 {duration:2:33}
 {key:A}
 

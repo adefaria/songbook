@@ -1,6 +1,6 @@
 {title:Reason to Believe}
 {subtitle:Tim Hardin}
-{musicpath:/storage/emulated/0/Music/Reason to Believe.mp3}
+{musicpath:Music/Reason to Believe.mp3}
 {duration:4:10}
 
 If I listened long enough to you

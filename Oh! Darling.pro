@@ -1,6 +1,6 @@
 {title:Oh! Darling}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Oh! Darling.mp3}
+{musicpath:Music/Oh! Darling.mp3}
 {duration:3:28}
 {key:G}
 

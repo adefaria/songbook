@@ -1,6 +1,6 @@
 {title:Black Water}
 {subtitle:Doobie Brothers}
-{musicpath:/storage/emulated/0/Music/Black Water.mp3}
+{musicpath:Music/Black Water.mp3}
 {duration:4:22}
 {key:D}
 {tuning:D A D G B D}

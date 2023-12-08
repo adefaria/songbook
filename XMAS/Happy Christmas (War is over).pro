@@ -1,6 +1,6 @@
 {title:Happy Christmas (War is over)}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Happy Christmas (War is over).mp3}
+{musicpath:Music/Happy Christmas (War is over).mp3}
 {duration:3:35}
 {key:A}
 

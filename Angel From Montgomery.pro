@@ -35,4 +35,4 @@ Make me an angel that flies from Montgom'ry
 Make me a poster of an old rodeo
 Just give me one thing that I can hold on to
 To believe in this living is just a hard way to go
-{musicpath:/storage/emulated/0/Music/Angel From Montgomery.mp3}
+{musicpath:Music/Angel From Montgomery.mp3}

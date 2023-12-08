@@ -1,6 +1,6 @@
 {title:Keep On Rocking}
 {subtitle:Steve Miller}
-{musicpath:/storage/emulated/0/Music/Keep On Rockin Me.mp3}
+{musicpath:Music/Keep On Rockin Me.mp3}
 {duration:3:09}
 {key:A}
 

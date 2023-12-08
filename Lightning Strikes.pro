@@ -1,6 +1,6 @@
 {title:Lightning Strikes}
 {subtitle:Yes}
-{musicpath:/storage/emulated/0/Music/Lightning Strikes.mp3}
+{musicpath:Music/Lightning Strikes.mp3}
 {duration:4:36}
 {key:D}
 

@@ -1,6 +1,6 @@
 {title:She's Not There}
 {subtitle:The Zombies}
-{musicpath:/storage/emulated/0/Music/She's Not There.mp3}
+{musicpath:Music/She's Not There.mp3}
 {duration:2:24}
 {key:Am}
 

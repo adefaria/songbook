@@ -1,6 +1,6 @@
 {title:Serenade}
 {subtitle:Steve Miller}
-{musicpath:/storage/emulated/0/Music/Serenade.mp3}
+{musicpath:Music/Serenade.mp3}
 {duration:3:14}
 {key:Am}
 

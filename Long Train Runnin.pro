@@ -1,6 +1,6 @@
 {title:Long Train Runnin}
 {subtitle:Doobie Brothers}
-{musicpath:/storage/emulated/0/Music/Long Train Runnin.mp3}
+{musicpath:Music/Long Train Runnin.mp3}
 {duration:3:43}
 {key:Gm}
 

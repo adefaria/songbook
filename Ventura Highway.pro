@@ -1,6 +1,6 @@
 {title:Ventura Highway}
 {subtitle:America}
-{musicpath:/storage/emulated/0/Music/Ventura Highway.mp3}
+{musicpath:Music/Ventura Highway.mp3}
 {duration:3:38}
 {key:D}
 

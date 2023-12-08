@@ -1,6 +1,6 @@
 {title:I Can't Stop Loving You}
 {subtitle:Tommy Emmanuel}
-{musicpath:/storage/emulated/0/Music/I Can't Stop Loving You.mp3}
+{musicpath:Music/I Can't Stop Loving You.mp3}
 {key:D}
 
 [A] [D/A] [Eb/A] [E] [D/E] [C#m/E] [Bm/E] [E] [A] [D] [E] [A]

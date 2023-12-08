@@ -1,6 +1,6 @@
 {title:Lyin' Eyes}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Lyin Eyes.mp3}
+{musicpath:Music/Lyin Eyes.mp3}
 {duration:6:32}
 {key:G}
 

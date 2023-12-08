@@ -1,6 +1,6 @@
 {title:Lookin Out My Back Door}
 {subtitle:Creedence Clearwater Revival}
-{musicpath:/storage/emulated/0/Music/Lookin Out My Back Door.mp3}
+{musicpath:Music/Lookin Out My Back Door.mp3}
 {duration:2:25}
 {key:A}
 

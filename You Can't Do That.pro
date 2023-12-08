@@ -1,6 +1,6 @@
 {title:You Can't Do That}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/You Can't Do That.mp3}
+{musicpath:Music/You Can't Do That.mp3}
 {duration:2:35}
 
 [G7]I got something to say that might 'cause you pain

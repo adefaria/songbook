@@ -1,6 +1,6 @@
 {title:My Life}
 {subtitle:Tempest}
-{musicpath:/storage/emulated/0/Music/My Life.mp3}
+{musicpath:Music/My Life.mp3}
 {key:D}
 
 {c:Intro}

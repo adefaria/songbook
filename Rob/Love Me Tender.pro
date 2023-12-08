@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:D}
 {duration:2:42}
-{musicpath:/storage/emulated/0/Music/Love Me Tender.mp3}
+{musicpath:Music/Love Me Tender.mp3}
 
 [D]Love me tender, [E7]love me sweet, [A7]never let me [D]go
 [D]You have made my [E7]life complete, [A7]and I love you [D]so

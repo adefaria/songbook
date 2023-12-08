@@ -1,6 +1,6 @@
 {title:Crazy Little Thing Called Love}
 {subtitle:Queen}
-{musicpath:/storage/emulated/0/Music/Crazy Little Thing Called Love.mp3}
+{musicpath:Music/Crazy Little Thing Called Love.mp3}
 {duration:2:54}
 {key:D}
 

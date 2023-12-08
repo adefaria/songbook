@@ -1,6 +1,6 @@
 {title:Love Will Keep Us Alive}
 {subtitle:Eagles}
-{musicpath:/storage/emulated/0/Music/Love Will Keep Us Alive.mp3}
+{musicpath:Music/Love Will Keep Us Alive.mp3}
 {duration:5:05}
 {key:A}
 

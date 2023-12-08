@@ -1,6 +1,6 @@
 {title:Different Devil}
 {subtitle:Chickenfoot}
-{musicpath:/storage/emulated/0/Music/Different Devil.mp3}
+{musicpath:Music/Different Devil.mp3}
 {duration:4:21}
 {metronome:120}
 {key:C}

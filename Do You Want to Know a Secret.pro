@@ -1,6 +1,6 @@
 {title:Do You Want to Know a Secret}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Do You Want to Know a Secret.mp3}
+{musicpath:Music/Do You Want to Know a Secret.mp3}
 {key:E}
 {duration:1:28}
 

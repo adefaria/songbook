@@ -1,6 +1,6 @@
 {title:Brown Eyed Girl}
 {subtitle:Van Morrison}
-{musicpath:/storage/emulated/0/Music/Brown Eyed Girl.mp3}
+{musicpath:Music/Brown Eyed Girl.mp3}
 {duration:3:05}
 {key:G}
 

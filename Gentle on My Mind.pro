@@ -1,6 +1,6 @@
 {title:Gentle on My Mind}
 {subtitle:Glen Campbell}
-{musicpath:/storage/emulated/0/Music/Gentle on My Mind.mp3}
+{musicpath:Music/Gentle on My Mind.mp3}
 {duration:2:59}
 {key:D}
 

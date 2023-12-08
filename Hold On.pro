@@ -1,6 +1,6 @@
 {title:Hold On}
 {subtitle:Kansas}
-{musicpath:/storage/emulated/0/Music/Hold On.mp3}
+{musicpath:Music/Hold On.mp3}
 {duration:3:50}
 {key:Em}
 

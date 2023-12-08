@@ -1,6 +1,6 @@
 {title:Talk to You Later}
 {subtitle:The Tubes}
-{musicpath:/storage/emulated/0/Music/Talk to You Later.mp3}
+{musicpath:Music/Talk to You Later.mp3}
 {duration:4:32}
 {key:E}
 

@@ -2,7 +2,7 @@
 {subtitle:Elvis Presley}
 {key:C}
 {duration:2:13}
-{musicpath:/storage/emulated/0/Music/Hound Dog.mp3}
+{musicpath:Music/Hound Dog.mp3}
 
 You ain't nothin[C]' but a hound dog
 Cryin' all the time

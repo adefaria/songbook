@@ -1,6 +1,6 @@
 {title:Sunny Afternoon}
 {subtitle:Kinks}
-{musicpath:/storage/emulated/0/Music/Sunny Afternoon.mp3}
+{musicpath:Music/Sunny Afternoon.mp3}
 {duration:3:32}
 {key:Dm}
 

@@ -1,6 +1,6 @@
 {title:Maggie May}
 {subtitle:Rod Stewart}
-{musicpath:/storage/emulated/0/Music/Maggie May.mp3}
+{musicpath:Music/Maggie May.mp3}
 {duration:5:46}
 {key:A}
 

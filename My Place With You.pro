@@ -1,6 +1,6 @@
 {title:My Place With You}
 {subtitle:Dan Graper}
-{musicpath:/storage/emulated/0/Music/My Place With You.mp3}
+{musicpath:Music/My Place With You.mp3}
 {key:A}
 {capo:2}
 {duration:4:22}

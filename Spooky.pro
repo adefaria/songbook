@@ -1,6 +1,6 @@
 {title:Spooky}
 {subtitle:Atlanta Rhythm Section}
-{musicpath:/storage/emulated/0/Music/Spooky.mp3}
+{musicpath:Music/Spooky.mp3}
 {duration:4:59}
 {key:Em}
 

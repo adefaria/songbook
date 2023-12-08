@@ -1,6 +1,6 @@
 {title:Real Love}
 {subtitle:John Lennon}
-{musicpath:/storage/emulated/0/Music/Real Love.mp3}
+{musicpath:Music/Real Love.mp3}
 {duration:2:36}
 
 [C]All the little boys and [Cmaj7]girls

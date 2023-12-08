@@ -1,6 +1,6 @@
 {title:Twist and Shout}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Twist and Shout.mp3}
+{musicpath:Music/Twist and Shout.mp3}
 {duration:2:36}
 {key:A}
 

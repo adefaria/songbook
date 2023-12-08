@@ -1,6 +1,6 @@
 {title:Crystal Blue Persuasion}
 {subtitle:Tommy James and the Shondells}
-{musicpath:/storage/emulated/0/Music/Crystal Blue Persuasion.mp3}
+{musicpath:Music/Crystal Blue Persuasion.mp3}
 {duration:4:08}
 {key:G}
 

@@ -1,6 +1,6 @@
 {title:Kodachrome}
 {subtitle:Paul Simon}
-{musicpath:/storage/emulated/0/Music/Kodachrome.mp3}
+{musicpath:Music/Kodachrome.mp3}
 {duration:3:37}
 {key:E}
 

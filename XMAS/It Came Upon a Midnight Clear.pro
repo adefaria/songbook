@@ -1,6 +1,6 @@
 {title:It Came Upon a Midnight Clear}
 {subtitle:Traditional}
-{musicpath:/storage/emulated/0/Music/It Came Upon a Midnight Clear.mp3}
+{musicpath:Music/It Came Upon a Midnight Clear.mp3}
 {duration:3:29}
 {key:Bb}
 

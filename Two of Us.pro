@@ -1,6 +1,6 @@
 {title:Two of Us}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Two of Us.mp3}
+{musicpath:Music/Two of Us.mp3}
 {duration:3:37}
 {key:G}
 

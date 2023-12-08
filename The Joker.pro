@@ -1,6 +1,6 @@
 {title:The Joker}
 {subtitle:Steve Miller}
-{musicpath:/storage/emulated/0/Music/The Joker.mp3}
+{musicpath:Music/The Joker.mp3}
 {duration:3:38}
 {key:G}
 

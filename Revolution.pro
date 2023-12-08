@@ -1,6 +1,6 @@
 {title:Revolution}
 {subtitle:Beatles}
-{musicpath:/storage/emulated/0/Music/Revolution.mp3}
+{musicpath:Music/Revolution.mp3}
 {duration:3:28}
 {key:A}
 

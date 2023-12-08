@@ -1,6 +1,6 @@
 {title:Young as You}
 {subtitle:Mike Fraser}
-{musicpath:/storage/emulated/0/Music/Young as You.mp3}
+{musicpath:Music/Young as You.mp3}
 {key:A}
 
 Walking wounded, like before

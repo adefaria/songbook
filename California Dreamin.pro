@@ -1,6 +1,6 @@
 {title:California Dreamin}
 {subtitle:Moma's and Papa's}
-{musicpath:/storage/emulated/0/Music/California Dreamin.mp3}
+{musicpath:Music/California Dreamin.mp3}
 {duration:2:44}
 {key:Eb}
 {capo:3}

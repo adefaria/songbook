@@ -1,6 +1,6 @@
 {title:Somebody to Love}
 {subtitle:Queen}
-{musicpath:/storage/emulated/0/Music/Somebody to Love.mp3}
+{musicpath:Music/Somebody to Love.mp3}
 {duration:5:09}
 {key:G}
 
