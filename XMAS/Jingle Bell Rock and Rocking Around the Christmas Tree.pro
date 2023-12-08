@@ -1,5 +1,6 @@
-{title:Jingle Bell Rock and Rocking Around the Christmas Tree}
+{title:Jingle Bell Rock and Rockin' Around the Christmas Tree}
 {subtitle:Tommy Emmanuel}
+{musicpath:Music/Jingle Bell Rock and Rockin' Around the Christmas Tree.mp3}
 {duration:2:31}
 {key:G}
 
@@ -45,14 +46,16 @@ Jingle ar[G#dim7]ound the [Amin7]clock
 [G6]   [Am7]  [D7]  [Am7]  [D7]  [Am7]  [D7]  [Am7]  [D7]   [G6] 2x
 
 [C]You will get a sentimental [Bm]feeling, when you hear
-[Em7]Voices [EmMaj7]singing, "[Em7]let's be [Em6]jolly
+[Em7]Voices [EmMaj7]singing, "[Em7]let's be [Em6]jolly"
 [D7]Deck the halls with [Daug]boughs of holly"
 
 {c:Key change up 1}
 
 [Eb7]Deck the halls with boughs of holly
 
-[Ab6]Rockin' around the Christmas tree, have a [Bbm7]happy holiday [Db7]
-[Bbm7]Ev'ryone danc[Db7]ing merrily, in the [Eb7]new [E7/B]old-[Bbm7]fashion[A7]ed [G#]way[G#7] [Db/F] [Db/E]
+[Ab6]Rockin' around the Christmas tree, have a [Bbm7]happy holiday [Eb9]
+[Bbm7]Ev'ryone danc[Eb9]ing merrily, in the [Eb7]new [E7/B]old-[Bbm7]fash[A7]ioned [Ab]way[Ab7] [Db] [Ddim]
 
-[eb] [e] [f] [f] [gb] [g] [ab] [Ab6]
+[Eb] [D] [Db] [B] [Bb] [A] [Ab]
+
+[Ab6]
