@@ -1,7 +1,7 @@
 {title:Jingle Bell Rock and Rockin' Around the Christmas Tree}
 {subtitle:Tommy Emmanuel}
 {musicpath:Music/Jingle Bell Rock and Rockin' Around the Christmas Tree.mp3}
-{duration:2:31}
+{duration:3:25}
 {key:G}
 
 {c:Intro}
