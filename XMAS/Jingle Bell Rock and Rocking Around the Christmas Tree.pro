@@ -23,7 +23,7 @@ In the frosty [G6]air
 What a [C]bright time, it's the [Cm]right time
 To [G6]rock the night away [G6] [F#6] [G6] [G#6]
 Jingle [A7]bell time is a swell time[D7]
-To go gliding in a[Gaug] one-horse sleigh
+To go gliding in a[Daug] one-horse sleigh
 
 [G6]Giddy-up jingle horse, pick up your feet
 Jingle ar[G#dim7]ound the [Amin7]clock
