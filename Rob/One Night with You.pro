@@ -12,7 +12,7 @@ The things that we two could plan
 Would make my dreams come [E]true
 
 Just call my name
-And I'll be [B7[right by your side
+And I'll be [B7]right by your side
 I want your sweet helping hand
 My loves too strong to [E]hide [E7]
 
