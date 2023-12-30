@@ -13,7 +13,7 @@ The sun is setting like molasses in the sky
 
 {c:Chorus}
 
-[Am]Black Velvet in that [B]little boy's smile
+[Am]Black Velvet in that [D]little boy's smile
 [Am]Black Velvet with that s[F]low southern [C]style
 [Am]A new religion that'll [D]bring you to your knees
 [C7]Black V[B7]elvet - if you [Em]please
