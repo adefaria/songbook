@@ -21,8 +21,7 @@ It makes me just feel like crying
 
 {c:Chorus}
 
-C      F     G             F               C   F G  F \ G
-[D]Baby, [G}baby, [A]I'll get down on[G] my knees for [D]you [G] [A]
+[D]Baby, [G]baby, [A]I'll get down on[G] my knees for [D]you [G] [A]
 [D]If you would [G]only l[A]ove me, [G]like you used to [D]do
 [D]We had a [G]love, a love, a [A]love you don't [G]find every [D]day
 [D]So don't, [G]don't, [A]don't, don't [G]let it slip [D]away.
