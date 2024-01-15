@@ -4,9 +4,11 @@
 {duration:3:35}
 {key:D}
 
-I want you to know
-I've been watching from above
-And wiping away tears from my eyes
+[D] [D7] [G] [A7]
+
+[D]I want you to know
+I've been [D7]watching from above
+And [G]wiping away tears from my eyes[A7]
 
 You know it's hard to understand
 What has happened to our land
@@ -14,7 +16,7 @@ The land that are so dear
 We're all watching from up here
 
 When I was down and things were wrong
-I'm always smiling and said
+My momma alwasy smiling and said
 I'll send you a handful of love
 Now this is Elvis from above
 Sending a handfull of love
@@ -29,15 +31,15 @@ In me
 
 {c:Spoken word}
 
-You know I seen dark times when I was there
-And there were people who just didn't care
-Now it seems everyone has lost their way
-You know the good lord will be back someday
-And he will change the bad to good
-Until then, can't we see each other in a different way
-It's the right thing we must do
-Let love show you the way
-That's what Evlis would do!
+[D]You know I seen dark times when I was there
+And there were [D6]people who just didn't care
+Now it [D7]seems everyone has lost their way
+You know the [G]good lord will be back someday [Gm]
+And he will [A7]change the bad to good
+Until then, [D]can't we see each other in a different way
+[D7]It's the right thing we must do
+[G]Let love show you the way [Gm]
+That's what [A7]Evlis would do!
 
 Just remember when your down
 And things things are getting tough
