@@ -1,6 +1,7 @@
 {title:The World is Ours}
 {subtitle:Red Shoes for Romeo}
 {musicpath:Music/The World is Ours.mp3}
+{duration:3:49}
 {key:A}
 
 [Amaj7] [Dmadd2] (4X)
