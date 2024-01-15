@@ -1,25 +1,25 @@
 {title:In the Ghetto}
 {subtitle:Elvis Presley}
 {duration:2:59}
-{key:G}
+{key:C}
 
-[G]As the snow flies
-On a [Bm]cold and grey Chicago mornin
-A [C]poor little baby [D]child is born
-In the [G]ghetto
+[C]As the snow flies
+On a [Em]cold and grey Chicago mornin
+A [F]poor little baby [G]child is born
+In the [C]ghetto
 And his mamma cries
-Cause if [Bm]there's one thing that she don't need
-It's [C]another hungry [D]mouth to feed
-In the [G]ghetto.
+Cause if [Em]there's one thing that she don't need
+It's [F]another hungry [G]mouth to feed
+In the [C]ghetto.
 
 {soc}
-People, don't you [D]understand
-The child needs a [C]helping [G]hand
-Or [C]he'll grow to be an [D]angry young man some [G]day
-Take a look at [D]you and me
-Are we [C]too blind to [G]see
-[C]Do we simply [Bm]turn our heads
-And [Am]look the other [D]way [G]
+People, don't you [G]understand
+The child needs a [F]helping [C]hand
+Or [F]he'll grow to be an [G]angry young man some [C]day
+Take a look at [G]you and me
+Are we [F]too blind to [C]see
+[F]Do we simply [Em]turn our heads
+And [Dm]look the other [G]way [C]
 {eoc}
 
 Well the world turns
