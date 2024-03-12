@@ -1,4 +1,4 @@
-{title:Across the Universe
+{title:Across the Universe}
 {subtitle:Beatles}
 {duration:3:50}
 {musicpath:Music/Across the Universe.mp3}
