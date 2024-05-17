@@ -1,8 +1,8 @@
-{Title:Come Together}
-{Subtitle:Beatles}
-{Musicpath:/Storage/Emulated/0/Music/Come Together.Mp3}
-{Duration:4:20}
-{Key:D}
+{title:Come Together}
+{subtitle:Beatles}
+{musicpath:Music/Come Together.Mp3}
+{duration:4:20}
+{key:D}
 
 [D]Here Come Old Flat Top,
 He Come Grooving Up Slowly,
