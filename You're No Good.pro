@@ -9,7 +9,7 @@
 [Am]Feelin' be[D]tter [Am]now that we're [D]through
 [Am]Feelin' be[D]tter, 'cause [Am]I'm over you[D]
 [F]I learned my [G]lesson, it [C]left a scar
-[Am]Now I [C]see how you [E7]really are
+[Am]Now I [D]see how you [E7]really are
 
 {c:Chorus}
 
@@ -28,9 +28,9 @@ I wouldn't blame him if he said to me
 
 {c:Break}
 
-[Amadd2] [D7] [F7] 4x
+[Em7] [C] [D] 4x
 
-[F] [G] [C] [Am] [D] [E]
+[F] [G] [C] [Am] [D] [E7]
 
 I'm tellin' you now, baby
 And I'm going my way
