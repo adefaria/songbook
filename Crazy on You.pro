@@ -4,13 +4,18 @@
 {key:Am}
 {musicpath:Music/Crazy on You.mp3}
 
-If we still have time, we might still get by
-Every time I think about it, I wanna cry
-With bombs and the Devil, and the kids keep comin'
-No way to breathe easy, no time to be young
+{c:Intro}
 
-But I tell myself that I was doin' all right
-There's nothin' left to do at night
+[Am]  [F]  [G] 4x
+[Am]  [G]  [F]
+
+If we [Am]still have time, we [C]might still get by
+Every [Dm]time I think about it, [E7]I wanna cry
+With [Am]bombs and the Devil, and the[C] kids keep comin'
+No way [Dm]to breathe easy, no [e7]time to be young [Am] [Bm/A]
+
+But I [F]tell my[Em]self that I was [C]doin' all[Am] right
+There's [Dm]nothin' left to do at [E7]night
 
 {c:Chorus}
 
@@ -28,10 +33,12 @@ My love, the pleasure's mine
 
 {c:Chorus}
 
-Wild man's world is cryin' in pain
-What you gonna do when everybody's insane?
-So afraid of one who's so afraid of you
-What you gonna do?
+[F#]Wild man's world is [D]cryin' in pain
+[C#m]What you gonna do when every[D]body's insane?
+[C#m]So afraid of one who's so [D]afraid of you
+[C#m]What you gonna do? [Bm]   [A]
+
+[E7]
 
 {c:Chorus}
 
@@ -49,5 +56,3 @@ Let me go crazy, crazy on you, yeah
 Crazy on you
 Crazy on you
 Let me go crazy, crazy on you, oh
-
-
