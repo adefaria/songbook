@@ -4,18 +4,21 @@
 {key:A}
 {musicpath:Music/Footloose.mp3}
 
-Been working so hard, I'm punching my card
-Eight hours, for what? Oh, tell me what I got
-I've got this feeling, that time's just holding me down
-I'll hit the ceiling, or else I'll tear up this town
+[A]
+
+[D] [A]Been working so hard, [D] [A]I'm punching my card
+[D] [A]Eight hours, for what? [D] [A]Oh, tell me what I got
+I've got this [D]feeling, that time's just holding me down [A]
+[D]I'll hit the ceiling, [Daug]or else I'll tear up this town
+[E] [F#] [G] [G#]
 
 {c:Chorus}
 
-So now I gotta cut loose, footloose
-Kick off the Sunday shoes
-Please, Louise, pull me off of my knees
-Jack, get back, come on before we crack
-Lose your blues, everybody cut footloose
+So now I gotta cut [A]loose, [D]foot[A]loose
+[D]Kick off the Sunday [A]shoes
+Please, [D]Loui[A]se, [D]pull me off of my knees [A]
+Jack, [D]get [A]back, [D]come on before we crack [A]
+Lose [D]your [A]blues, [G]everybody [D]cut footloose [A]
 
 You're playing so cool, obeying every rule
 Deep way down in your heart, you're burning, yearning for some
