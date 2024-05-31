@@ -1,23 +1,23 @@
 {title:Don't Dream It's Over}
 {subtitle:Crowded House}
 {duration:3:49}
-{key:D}
+{key:Eb}
 {musicpath:Music/Don't Dream It's Over.mp3}
 
-[Dadd2]  [D7add2]  [D7sus4] 2x
+[Ebadd2]  [Eb7add2]  [Eb7sus4] 2x
 
-[Dadd2]There is freedom within, [Badd2]there is freedom without
-[G]Try to catch the deluge in a [F#]paper cup
-[Dadd2]There's a battle ahead, [Badd2]many battles are lost
-[G]But you'll never see the end of the road
-While you're [F#]travelling with me
+[Ebadd2]There is freedom within, [Cadd2]there is freedom without
+[Ab]Try to catch the deluge in a [G]paper cup
+[Ebadd2]There's a battle ahead, [Cadd2]many battles are lost
+[Ab]But you'll never see the end of the road
+While you're [G]travelling with me
 
 {c:Chorus}
 
-[G]Hey now, [A]hey now, don't [Dadd2]dream it's [Badd2]over
-[G]Hey now, [A]hey now, when the [Dadd2]world comes [Badd2]in
-[G]They come, [A]they come, [Dadd2]to build a wall [Badd2]between us
-[G]We know they won't win[A]
+[Ab]Hey now, [Bb]hey now, don't [Ebadd2]dream it's [Cadd2]over
+[Ab]Hey now, [Bb]hey now, when the [Ebadd2]world comes [Cadd2]in
+[Ab]They come, [Bb]they come, [Ebadd2]to build a wall [Cadd2]between us
+[Ab]We know they won't win[Bb]
 
 Now I'm towing my car, there's a hole in the roof
 My possessions are causing me suspicion but there's no proof
@@ -30,14 +30,14 @@ But you turn right over to the TV page
 
 {c:Guitar Solo}
 
-[G]  [D]  [G]  [D]  [G]  [D]  [C]
+[Ab]  [Eb]  [Ab]  [Eb]  [Ab]  [Eb]  [C]
 
 Now I'm walking again, to the beat of a drum
 And I'm counting the steps to the door of your heart
 Only shadows ahead, barely clearing the roof
-Get to know the feeling of liberation and release
+[Ab]et to know the feeling of liberation and release
 
-{c:Chorus - First chord is Em}
+{c:Chorus - First chord is Fm then Gm}
 
 {c:Organ}
 
