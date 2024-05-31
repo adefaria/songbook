@@ -1,25 +1,25 @@
 {title:Faithfully}
 {subtitle:Journey}
 {duration:4:26}
-{key:Bb}
+{key:B}
 {musicpath:Music/Faithfully.mp3}
 
-[Bb]  [Gm]  [Eb]  [Bb]
+[B]  [G#m]  [E]  [B]
 
-Highway run[Bb] into the [Gm]midnight sun
-[Eb]Wheels go 'round and 'round, you're on my [Bb]mind[F]
-[Bb]Restless hearts, sleep [Gm]alone tonight
-[Eb]Sendin' all my love along the [Bb]wire[F]
+Highway run[B] into the [G#m]midnight sun
+[E]Wheels go 'round and 'round, you're on my [B]mind[F#]
+[B]Restless hearts, sleep [G#m]alone tonight
+[E]Sendin' all my love along the [B]wire[F#]
 
-They [Eb]say that the road ain't no p[Gm'lace to start a [Bb]family
-[Eb]Right down the [Gm]line, it's been you and [Bb]me
-And [Eb]lovin' a music m[Gm]an ain't always what it's [Bb]supposed to be
-Oh, g[F]irl, you s[Dm]tand by [F]me
+They [E]say that the road ain't no p[G#m'lace to start a [Bb]family
+[E]Right down the [G#m]line, it's been you and [B]me
+And [E]lovin' a music m[G#m]an ain't always what it's [B]supposed to be
+Oh, g[F#]irl, you s[D#m]tand by [F#]me
 
 {c:Chorus}
 
-[Cm]I'm forever yours[Eb]
-Faithfully[Bb]   [Gm]   [F]   [Eb]
+[C#m]I'm forever yours[E]
+Faithfully[B]   [G#m]   [F#]   [E]
 
 Circus life under the big-top world
 We all need the clowns to make us smile
