@@ -11,9 +11,9 @@
 When you're [Em]down and [B7sus4]troubled
 And you [Em]need some [B7]lovin' [Em7]care
 And [C]nothin', [Am7]nothin' is [D7]goin' right
-[G] [C/G] [G] [F#m]
+[G] [C/G] [G]
 
-[Em]Close your eyes and [B7sus4]think of me
+[F#m]Close your eyes and [B7sus4]think of me
 And [Em]soon I [B7]will be [Em]there
 To [C]brighten up [Bm7]even your darkest [C/D]night
 [D] [C] [D] [C]
@@ -32,7 +32,7 @@ You've got a friend
 
 If the sky above you
 Should turn dark and full of clouds
-And that [Am7]old north [G/B]wind be[D7]gins to blow
+And that [Am7]old north [C/D]wind be[D]gins to blow
 [G] [C/G] [G]
 
 Keep your head together
