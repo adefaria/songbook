@@ -1,5 +1,6 @@
 {title:Strong Enough to Win}
 {subtitle:Mike Fraser}
+{duration:4:31}
 {musicpath:Music/Strong Enough to Win.mp3}
 {key:A}
 

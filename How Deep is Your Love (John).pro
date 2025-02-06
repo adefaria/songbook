@@ -2,6 +2,7 @@
 {subtitle:Bee Gees}
 {musicpath:Music/How Deep is Your Love (John).mp3}
 {duration:3:59}
+{key:E}
 
 I know your eyes in the mornin' sun
 I feel you touch me in the pourin' rain

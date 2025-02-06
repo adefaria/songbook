@@ -1,6 +1,7 @@
 {title:Now and Then minus John}
 {subtitle:Beatles}
 {musicpath:Music/Now and Then minus John.mp3}
+{key:Am}
 {duration:4:20}
 
 [Am] [G6] 2x

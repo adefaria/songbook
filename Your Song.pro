@@ -1,6 +1,7 @@
 {title:Your Song}
 {subtitle:Elton John}
 {musicpath:Music/Your Song.mp3}
+{key:D}
 {duration:3:48}
 
 It's a little bit funny, this feeling inside

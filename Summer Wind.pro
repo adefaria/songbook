@@ -7,7 +7,7 @@
 
 [Badd2] [G#m] [E] [F#]
 
-[Badd2]What remains of a day[G#]
+[Badd2]What remains of a day[G#m]
 Will tell me something new[E]
 As long as I hold your [F#sus4]hand[F#]
 
