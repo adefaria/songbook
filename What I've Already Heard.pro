@@ -1,6 +1,7 @@
 {title:What I've Already Heard}
 {subtitle:Mike Fraser}
 {musicpath:Music/What I've Already Heard.mp3}
+{duration:4:49}
 {key:E}
 
 [E] [F#] [E]
