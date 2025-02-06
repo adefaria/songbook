@@ -2,7 +2,6 @@
 {subtitle:Carol King}
 {musicpath:Music/You've Got a Friend.mp3}
 {duration:6:28}
-{capo:2}
 {key:G}
 
 [G] [C/G] 2x

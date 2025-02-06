@@ -43,4 +43,4 @@ Now [D]everything is [A/C#]easy 'cause of [D]you [A]
 
 [A]I'll light the [Amaj7]fire
 [F#m]You place the [E]flowers in the [D]vase
-That you [A/C#]bought [Bm]today [A]
+That you [F]bought today [A]
