@@ -27,8 +27,8 @@ Did I miss that turn yesterday
 
 Every now and then when someone fingerpicks guitar,
 Are there images you see of what could have been
-A child that looks like both of us, smiling full of life
-Another ghost of what wasn't meant to be
+Remembering times when we were happy with our life
+Another ghost of what was never meant to be
 
 I'm looking for my place with you
 I need to find a space with you
