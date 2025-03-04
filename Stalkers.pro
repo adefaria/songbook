@@ -4,52 +4,37 @@
 {duration:4:12}
 {key:Em}
 
-Cool axe as I can hear him speaking
-In around the jynx so I could go met them
-It's ain't a typical weekend
+Cool accents I can hear them speakin'
+Get a round of drinks so I ca go meet them
+This ain't my typical weekend
 
-Beautiful girls we met
-I can't believe it
-Toasting with the shots
-Now we're off peaking
-This ain't a typical weekend
-
-{c:Pre Chorus}
-No, but what about us
-What about love
-Yeah
+Beautiful girls man I can't believe it
+Toasting with the shots and now we're all speaking
+This ain't my typical weekend.
+No...but what about us? What about love?
 
 {c:Chorus}
 
-Ah cuz, I can hear the stalkers climbing up your window
-You ignore them makes me want to see you
-Maybe not that it's a big secret
+Cause I can hear the stalkers climbing up your window
+You ignore them - makes them wanna see you.
+Live your life like it's a big secret.
 And I can hear the stalkers climbing up your window
-You ignore me makes me want to see you
-Never be a stalker at your window
+You ignore me - makes me wanna see you
+I'll never be a stalker at your window.
 
 Forgot my damn keys again I can't believe it
-Breaking in the house, girls trying leave it
+Breakin in the house, girls are tryin to leave and
 Just another typical weekend
 
-Forgot my damn keys again I can't believe it
-Running down the street, girls they're trying to leave it
+Forgot my keys again I can't believe it
+Running down the street, girls are tryin to leave and
 Just another typical weekend
-
-{c:Pre Chorus}
-
-{c:Bridge}
-
-Just in time to find the wine
-Hidden on a moonlit night
-Simple world and I'm alive
-Toting time and then I die
-
-Why must I be so shy?
-When there's so much more you can be
+Yeah, but what about us? What about love?
 
 {c:Chorus}
 
-{c:Lead}
+Chocolate hearts and sparkling wine, raining on a moonlit night
+A simple word and I'm alive - no reply again, I die.
+Why must I be so shy? When there's so much more we can be?
 
 {c:Chorus}
