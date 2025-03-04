@@ -1,4 +1,5 @@
 {title:Can’t Buy Me Love}
+{subtitle:Beatles}
 {key:C}
 
 Em Am Em Am
