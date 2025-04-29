@@ -3,20 +3,20 @@
 {musicpath:Music/Summer Wind.mp3}
 {duration:4:11}
 {key:A}
-{capo:2}
+{c:capo:2}
 
-[Badd2] [G#m] [E] [F#]
+[Aadd2] [F#m] [D] [E]
 
-[Badd2]What remains of a day[G#m]
-Will tell me something new[E]
-As long as I hold your [F#sus4]hand[F#]
+[Aadd2]What remains of a day[F#m]
+Will tell me something new[D]
+As long as I hold your [Esus4]hand[E]
 
 To climb the highest hill
 And see the summer rain
 As long as we always
 Feel the summer wind begin again
 
-[Badd2] [G#m] [E] [F#]
+[Aadd2] [F#m] [D] [E]
 
 If time could only be still
 And show me something new
@@ -28,11 +28,17 @@ And feel like we belong
 
 {c:Chorus}
 
-[C#m]And what I [F#]find I know is [Bmaj7]true
-Coming [G#]back to dance with [C#m]you
-In this [F#]dream the summer [B]wind
-Will blow [B7]inside of me and [E]you
-Can it [F#]be that I'm [B]falling [G#/B]so [G#m]deep
-In [F#]love with [E]you[F#]
+[Bm]And what I [E]find I know is [Amaj7]true
+Coming [F#]back to dance with [Bm]you
+In this [E]dream the summer [A]wind
+Will blow [A7]inside of me and [D]you
+Can it [E]be that I'm [A]falling [G#/A]so [F#m]deep
+In [E]love with [D]you[E]
+
+{c:Bridge}
+
+[A]   [Amaj7]   [A7]   [D]   [Dm]    [E]   2x
+
+{c:Chorus}
 
 I'm not living without you...
