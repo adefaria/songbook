@@ -1,62 +1,129 @@
+/* /opt/songbook/web/songbook.css */
 body {
-  background-image: url('/songbook/background.jpg');
   padding: 0px;
   border: 0px;
   margin: 0px;
 }
+
 #title {
   text-align: center;
   font-family: Arial, Helvetica;
   font-size: 28pt;
 }
+
 #artist {
   text-align: center;
   font-family: Arial, Helvetica;
   font-size: 22pt;
 }
-#song {
-  padding-top: 100px;
-  padding-left: 20px;
-}
+
 #heading {
   border: 0;
   border-bottom: 1px solid black;
   position: fixed;
+  /* Takes the heading out of the normal flow */
+  top: 0;
+  /* Ensure it's at the top */
+  left: 0;
+  /* Ensure it's at the left */
   margin: 0;
-  padding: 0;
+  padding: 10px 0;
+  /* Add some padding for aesthetics */
   background-color: #ddd;
   width: 100%;
+  z-index: 10;
+  /* Ensure heading stays above song content */
+  /* column-span: all; /* Not needed here as it's outside #song */
 }
-.lyrics, .lyrics_chorus {
+
+#song {
+  /* Adjust padding-top to be height of fixed header + desired space */
+  /* You might need to measure the actual height of #heading */
+  padding-top: 140px;
+  /* Example: Adjust this value based on heading height */
+  padding-left: 20px;
+  padding-right: 20px;
+  /* Add some right padding too */
+
+  /* Create two columns */
+  column-count: 2;
+
+  /* Adjust the gap between columns */
+  column-gap: 40px;
+}
+
+/* Corrected selector for break-inside rules */
+/* Apply directly to children of #song */
+#song>table,
+#song>div,
+#song>span,
+#song>p {
+  break-inside: avoid-column;
+  page-break-inside: avoid;
+  /* Older property for compatibility */
+  -webkit-column-break-inside: avoid;
+  /* Safari/Chrome */
+}
+
+/* Optional: Add responsiveness. On smaller screens, revert to a single column */
+@media (max-width: 768px) {
+  #song {
+    column-count: 1;
+    padding-top: 80px;
+    /* Ensure padding is consistent on mobile */
+  }
+}
+
+/* Removed duplicate media query */
+
+
+.lyrics,
+.lyrics_chorus {
   font-size: 22pt;
 }
-.lyrics_tab, .lyrics_chorus_tab {
+
+.lyrics_tab,
+.lyrics_chorus_tab {
   font-family: "Courier New", Courier;
   font-size: 18pt;
 }
-.lyrics_chorus, .lyrics_chorus_tab, .chords_chorus, .chords_chorus_tab {
+
+.lyrics_chorus,
+.lyrics_chorus_tab,
+.chords_chorus,
+.chords_chorus_tab {
   font-weight: bold;
 }
-.chords, .chords_chorus, .chords_tab, .chords_chorus_tab {
+
+.chords,
+.chords_chorus,
+.chords_tab,
+.chords_chorus_tab {
   font-size: 18pt;
   color: blue;
   padding-right: 4pt;
 }
-.comment, .comment_italic {
+
+.comment,
+.comment_italic {
   color: Red;
   font-size: 24pt;
 }
+
 .comment_box {
   background-color: #ffbbaa;
   text-align: center;
 }
+
 .comment_italic {
   font-style: italic;
 }
+
 .comment_box {
   border: solid;
 }
 
 .dim {
-  color: 333;
+  color: #333;
+  /* Added '#' for hex color */
 }
