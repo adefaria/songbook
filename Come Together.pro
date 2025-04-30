@@ -29,7 +29,7 @@ Hold You In His Armchair, You Can Feel His Disease
 
 Come Together, Right Now, Over Me
 
-{C:Lead}
+{c:Lead}
 
 He Roller Coaster,
 He Got Early Warning,
@@ -40,6 +40,6 @@ Got To Be Good Looking 'Cause He So Hard To See
 
 Come Together, Right Now, Over Me
 
-{C:Lead}
+{c:Lead}
 
 Come Together, Yeah (7x)

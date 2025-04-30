@@ -4,7 +4,7 @@
 {duration:3:32}
 {key:G}
 
-{c:Intro:}
+{c:Intro}
 
 {define:C/G 1 frets 3 x 2 0 1 3 fingers 3 - 2 - 1 4}
 {define:Dsus4/G 1 frets 3 x 0 2 1 3}

@@ -24,7 +24,7 @@ This much madness is too much sorrow
 It's impossible to make it today. 
 Yeah, she could drag me over the rainbow, send me away
 
-{chorus}
+{c:Chorus}
 
 Be on my side, I'll be on your side, baby 
 There is no reason for you to hide 
@@ -32,4 +32,4 @@ It's so hard for me staying here all alone
 When you could be taking me for a ride.
 Yeah, she could drag me over the rainbow, send me away
 
-{chorus}
+{c:Chorus}
