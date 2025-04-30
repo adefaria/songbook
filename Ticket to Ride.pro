@@ -40,5 +40,5 @@ She ought to do right by me
 
 {c:Verse 2}
 
-{C:Outro}
+{c:Outro}
 My baby don't care 4x

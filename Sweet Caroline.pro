@@ -37,7 +37,7 @@ Reaching out,
 touching me, 
 touching you
 
-{C:Chorus}
+{c:Chorus}
 
 {c:Intro}
 
