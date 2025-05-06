@@ -50,7 +50,7 @@ No matter how they toss the dice, it had to be
 The only one for me is you, and you for me
 So happy together
  
-{C:Outro}
+{c:Outro}
 
 [F#m]So happy to[C#7]gether
 How is the weather?

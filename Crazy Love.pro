@@ -2,7 +2,7 @@
 {subtitle:Poco}
 {metronome:82}
 {musicpath:Music/Crazy Love.mp3}
-{Capo:2}
+{capo:2}
 {duration:2:57}
 {key:D}
 
@@ -13,18 +13,18 @@ Tonight I'm gonna [Gmaj7]break away
 I'll never be imp[Gmaj7]risoned by
 A [A]faded [Gmaj7]memor[D]y
 
-{start_of_chorus: 3 part}
+{soc: 3 part}
 Just when I think I'm over her
-{end_of_chorus}
-{start_of_chorus: 2 parth}
+{eoc}
+{soc: 2 parth}
 this broken heart will mend
-{end_of_chorus}
-{start_of_chorus: 3 part}
+{eoc}
+{soc: 3 part}
 I hear her name and I have to cry
-{end_of_chorus}
-{start_of_chorus: 2 parth}
+{eoc}
+{soc: 2 parth}
 The tears come down again
-{end_of_chorus}
+{eoc}
 
 {c:Chorus}
 
@@ -35,14 +35,14 @@ Re[A]fusing to [D]unwind
 [Gmaj7]Ooo   [A]Ooo [Gmaj7]Crazy [D]Love
 [Gmaj7]Ahh    [A]ha [Gmaj7] [D]
 
-{start_of_chorus: Oohs}
+{soc: Oohs}
 Count the stars in a summer sky
 That fall without a sound
-{end_of_chorus}
-{start_of_chorus: 3 part}
+{eoc}
+{soc: 3 part}
 And then pretend that you can't hear
 These teardrops coming down
-{end_of_chorus}
+{eoc}
 
 {c:Chorus}
 
