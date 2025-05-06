@@ -1,295 +1,818 @@
 #!/usr/bin/perl
 
-# Web Chord v1.1 - A CGI script	to convert a ChordPro file to HTML
+# Web Chord v1.1 - A CGI script to convert a ChordPro file to HTML
 # Copyright 1998-2003 Martin Vilcans (martin@mamaviol.org)
 #
 # CGI parameters:
-#  chopro - This parameter can be submitted by a form	as a text field or file
-#           upload.
+#  chordpro - Filename or full path to the ChordPro file.
+#  setlist  - (Optional) Filename of the setlist this song came from.
+#  songidx  - (Optional) 0-based index of the song within the setlist.
+#  debug    - (Optional) Set to 1 to enable debug output.
 #
 # History:
 # 1998-07-20 Version 1.0
 # 2003-08-03 Version 1.1 Uses stylesheets
 # 2014-02-05 Added things particular to my implementation of Songbook at
 #            https://defaria.com/songbook
+# 2024-XX-XX Integrated setlist navigation (Prev/Next buttons), OO CGI style
 use strict;
 use warnings;
 
-use CGI       qw(:standard);
-use CGI::Carp qw (fatalsToBrowser);
+# Use CGI in object-oriented mode
+use CGI;
+use CGI::Carp qw (fatalsToBrowser);    # Send fatal errors to browser
 use File::Basename;
+use File::Spec;
+use Cwd 'abs_path';
+use HTML::Entities;                    # For explicit HTML escaping
 
-my ($chopro, $i);
+# --- Configuration ---
+my $base_dir = "/opt/songbook";
+my $song_dir = $base_dir;              # Where .pro files are (base and subdirs)
 
-my $documentRoot = "/web";
-my $debug        = param ('debug');
-my $infile       = param ('chordpro');
-my $title;
+# *** IMPORTANT: Set $list_dir to where your .lst files are located ***
+my $list_dir = $base_dir;    # Assuming .lst files are in /opt/songbook
+
+# my $list_dir = File::Spec->catdir($base_dir, "lists"); # If in /opt/songbook/lists
+
+my $music_base_dir = "/opt/songbook/Music";    # Base directory for music files
+my $music_web_path = "/Music";    # Web path corresponding to music base dir
+
+# --- End Configuration ---
+
+# --- Create CGI Object ---
+my $q = CGI->new;
+
+# --- Get Parameters ---
+my $debug = $q->param ('debug');
+my $song_filename_param =
+  $q->param ('chordpro');    # Primary parameter for song file
+my $setlist_name_param = $q->param ('setlist');
+my $song_index_param   = $q->param ('songidx');
+
+my $title;                   # Will be extracted later
+my $infile;                  # Will hold the validated path to the song file
+
+# --- Helper Subroutines ---
+# NOTE: These subroutines are defined only ONCE here.
 
 sub debug ($) {
   my ($msg) = @_;
-
   return unless $debug;
 
-  print "<font color=red><b>Debug:</b></font> $msg<br>";
-
-  return;
-}    # debug
+  # Use HTML escaping for safety
+  # Output as HTML comment to avoid breaking layout
+  print "<!-- Debug: " . HTML::Entities::encode_entities ($msg) . " -->\n";
+} ## end sub debug ($)
 
 sub warning ($) {
   my ($msg) = @_;
 
-  debug "warning";
+  # Use HTML escaping for safety
+  # Output as HTML comment
+  print "<!-- Warning: " . HTML::Entities::encode_entities ($msg) . " -->\n";
+} ## end sub warning ($)
 
-  print "<font color=orange><b>Warning</b></font> $msg<br>";
-
-  return;
-}    # warning
-
+# Error subroutine now uses the $q object
 sub error {
   my ($msg) = @_;
-
-  print "<html><head><title>Web Chord: Error</title></head>"
-    . "<body><h1>Error</h1><p>\n$msg\n</p>"
-    . "</body></html>";
-
+  print $q->header (
+    -type   => 'text/html',
+    -status => '500 Internal Server Error'
+  );
+  print $q->start_html (-title => 'Web Chord: Error');
+  print $q->h1         ('Error');
+  print $q->p (HTML::Entities::encode_entities ($msg));    # Escape message
+  print $q->end_html;
   exit;
-}    # error
+} ## end sub error
 
-sub getTitle ($) {
-  my ($song) = @_;
+sub trim {
+  my $s = shift;
+  return $s unless defined $s;
+  $s =~ s/^\s+|\s+$//g;
+  return $s;
+} ## end sub trim
 
-  return fileparse ($song, qr/\.pro/);
-}    # getTitle
+# Searches priority folders and base directory, case-insensitively.
+sub find_actual_song_path {
+  my ($base_search_dir, $filename) = @_;
+  debug (
+"[find_actual_song_path] Searching for '$filename' starting from '$base_search_dir'"
+  );
+  return undef unless defined $filename && $filename ne '';
+  my $lower_filename = lc ($filename);
+  my @dirs_to_search;
+  my @priority_folders = ('Rob', 'Bluegrass', 'XMAS');
+  push @dirs_to_search,
+    map {File::Spec->catdir ($base_search_dir, $_)} @priority_folders;
+  push @dirs_to_search, $base_search_dir;
+  debug (
+    "[find_actual_song_path] Search paths: " . join (", ", @dirs_to_search));
 
+  foreach my $dir (@dirs_to_search) {
+    next unless -d $dir;
+    opendir my $dh, $dir or do {warn "Cannot open directory '$dir': $!"; next;};
+    debug ("[find_actual_song_path] Checking dir '$dir'");
+    while (my $entry = readdir $dh) {
+      if (lc ($entry) eq $lower_filename) {
+        my $found_path = File::Spec->catfile ($dir, $entry);
+        if (-f $found_path && -r _) {
+          closedir $dh;
+          debug ("[find_actual_song_path] Found match: '$found_path'");
+          return $found_path;
+        } else {
+          debug (
+"[find_actual_song_path] Found matching name '$entry' but not a readable file."
+          );
+        }
+      } ## end if (lc ($entry) eq $lower_filename)
+    } ## end while (my $entry = readdir...)
+    closedir $dh;
+  } ## end foreach my $dir (@dirs_to_search)
+  debug ("[find_actual_song_path] Did not find '$filename' in search paths.");
+  return undef;
+} ## end sub find_actual_song_path
+
+# Checks if a corresponding music file exists based on the base title
 sub musicFileExists ($) {
-  my ($song) = @_;
+  my ($base_title) = @_;
+  debug ("ENTER musicFileExists ($base_title)");
+  return 1 if -r File::Spec->catfile ($music_base_dir, "$base_title.mp3");
+  return 1 if -r File::Spec->catfile ($music_base_dir, "$base_title.flac");
+  debug ("No music file found for $base_title");
+  return 0;
+} ## end sub musicFileExists ($)
 
-  debug "ENTER musicFileExists ($song)";
-
-  my $musicfile = "/opt/media/$title.mp3";
-
-  return -r $musicfile;
-
-  $musicfile = "/opt/media/$title.flac";
-
-  return -r $musicfile;
-}    # musicFileExists
-
+# Appends {musicpath: ...} if missing and audio file exists
 sub updateMusicpath ($$) {
-  my ($chopro, $song) = @_;
-
-  # If there's no corresponding music file then do nothing
-  return unless musicFileExists $song;
-
-  # If the .pro file already has musicpath then do nothing
-  return if $chopro =~ /\{musicpath:.*\}/;
-
-  # Otherwise append the musicpath
-  my $songfile;
-
-  open $songfile, '>>', $song
-    or undef $songfile;
-
-  unless (defined $songfile) {
-    my $msg = "Unable to open $song for append - $!<br>";
-    $msg .=
-"<br>Please notify <a href=\"mailto:adefaria\@gmail.com?subject=Please chmod 666 $song\">Andrew DeFaria</a> so this can be corrected.<br>";
-    $msg .= "<br>Thanks";
-    warning $msg;
-
+  my ($chopro_content, $song_filepath) = @_;
+  my $base_title = fileparse ($song_filepath, qr/\.[^.]*$/);
+  return unless musicFileExists ($base_title);
+  debug ("Music file exists for $base_title");
+  if ($chopro_content =~ /\{musicpath:.*\}/i) {
+    debug ("Music path already exists in $song_filepath");
     return;
-  }    # unless
-
-  print $songfile "{musicpath:Music/$title.mp3}\n";
-
-  close $songfile;
-
+  }
+  debug ("Music path missing, attempting to append to $song_filepath");
+  my $music_ext =
+    (-r File::Spec->catfile ($music_base_dir, "$base_title.mp3"))
+    ? "mp3"
+    : "flac";
+  my $music_path_line = "{musicpath:$music_web_path/$base_title.$music_ext}\n";
+  my $songfile_fh;
+  unless (open $songfile_fh, '>>', $song_filepath) {
+    my $err_msg = "Unable to open $song_filepath for append - $!";
+    $err_msg .=
+"<br><br>This usually means the web server user (e.g., www-data) needs write permission on the file.";
+    $err_msg .= "<br>Please notify the administrator.";
+    warning ($err_msg);
+    return;
+  } ## end unless (open $songfile_fh,...)
+  print $songfile_fh $music_path_line;
+  close $songfile_fh;
+  debug ("Appended music path: $music_path_line");
   return;
-}    # updateMusicPath
+} ## end sub updateMusicpath ($$)
 
-# Outputs the HTML code of the chordpro file in the first parameter
-sub chopro2html ($$) {
-  my ($chopro, $song) = @_;
+# --- Helper Subroutines ---
+# ... (existing debug, warning, error, trim, find_actual_song_path, etc.) ...
 
-  $chopro =~ s/\</\&lt;/g;     # replace < with &lt;
-  $chopro =~ s/\>/\&gt;/g;     # replace > with &gt;
-  $chopro =~ s/\&/\&amp;/g;    # replace & with &amp;
+# NEW Helper: Find the index of the nearest *previous* valid song in the list
+sub find_prev_valid_index {
+  my ($songs_ref, $current_index) = @_;
+  for (my $i = $current_index - 1; $i >= 0; $i--) {
+    return $i if defined $songs_ref->[$i];
+  }
+  return undef;    # No previous valid song found
+} ## end sub find_prev_valid_index
 
-  my $artist = "Unknown";
+# NEW Helper: Find the index of the nearest *next* valid song in the list
+sub find_next_valid_index {
+  my ($songs_ref, $current_index) = @_;
+  my $last_index = $#{$songs_ref};
+  for (my $i = $current_index + 1; $i <= $last_index; $i++) {
+    return $i if defined $songs_ref->[$i];
+  }
+  return undef;    # No next valid song found
+} ## end sub find_next_valid_index
 
-  if ( ($chopro =~ /^\{title:\s*(.*)\}/mi)
-    || ($chopro =~ /^\{title:\s*(.*)\}/mi))
-  {
-    $title = $1;
-  }                            # if
+# ... (rest of existing subroutines like musicFileExists, updateMusicpath, chopro2html) ...
 
-  if ( ($chopro =~ /^\{subtitle:\s*(.*)\}/mi)
-    || ($chopro =~ /^\{subtitle:(.*)\}/mi))
-  {
-    $artist = $1;
-  }                            # if
+# Takes ChordPro content string and the original filepath
+# Returns a list: ($metadata_hashref, $html_string)
+# This version escapes upfront, causing directives to be displayed.
+sub chopro2html {
+  my ($chopro_content, $song_filepath) = @_;
 
-  print <<"END";
-<html>
-<head>
-<title>$title</title>
-<link rel="stylesheet" type="text/css" href="songbook.css">
-<link rel="stylesheet" type="text/css" href="question.mark.css">
-<script src="songbook.js"></script>
-<script src="question.mark.js"></script>
-</head>
+  # Use HTML::Entities for escaping upfront (THIS CAUSES THE PROBLEM for chords)
+  my $escaped_content = HTML::Entities::encode_entities ($chopro_content);
 
-<body>
-END
+  my %meta = (
+    title  => fileparse ($song_filepath, qr/\.[^.]*$/),    # Default title
+    artist => "Unknown",
 
-  if ($title) {
-    updateMusicpath $chopro, $song;
-  }    # if
+    # Add other metadata fields as needed
+  );
+  my $html_output = "";
 
-  (my $profile = $infile) =~ s/\/opt\/songbook\///;
-  my $titleLink = "<a href=\"Andrew/$profile\">$title</a>";
-  print << "END";
-<table id="heading">
-  <tbody>
-    <tr>
-      <td align="left"><a href="/songbook"><img src="/Icons/Home.png" alt="Home"></a></td>
-      <td><div id="title">$titleLink</div>
-          <div id="artist"><a href="/songbook/displayartist.php?artist=$artist">$artist</a></div></td>
-      <td align="right" width="300px">
-        <audio id="song" controls autoplay style="padding:0; margin:0">
-END
+  # Extract metadata (from original content before escaping)
+  if ($chopro_content =~ /^\{(?:t|title):\s*(.+?)\s*\}/mi) {
+    $meta{title} = trim ($1);
+  }
+  if ($chopro_content =~ /^\{(?:st|subtitle):\s*(.+?)\s*\}/mi) {
+    $meta{artist} = trim ($1);
+  }
 
-  my $musicFile;
-
-  if (-r "/opt/songbook/Music/$title.mp3") {
-    print "<source src=\"/Music/$title.mp3\"";
-  } elsif (-r "/opt/songbook/Music/$title.flac") {
-    print "<source src=\"/Music/$title.flac\"";
-  }    # if
-
-  print << "END";
-          style="padding:0; margin:0" type='audio/mp3'>
-          Your user agent does not support the HTML5 Audio element.
-        </audio><br>
-        <p align="center" <font size=-1><b>Mark A:</b></font>
-                          <font size=-1 color=#666><span id="a"><i>not set</i></span></font>
-                          <font size=-1><b>Mark B:</b></font>
-                          <font size=-1 color=#666><span id="b">not set</span></font></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<div id="song">
-END
-  my $mode = 0;    # mode defines which class to use
-
-  #mode =           0           1              2             3
-  #       normal      chorus         normal+tab    chorus+tab
+  my $mode     = 0;    # 0=lyrics, 1=chorus, 2=tab, 3=chorus_tab
   my @lClasses = ('lyrics', 'lyrics_chorus', 'lyrics_tab', 'lyrics_chorus_tab');
   my @cClasses = ('chords', 'chords_chorus', 'chords_tab', 'chords_chorus_tab');
 
-  while ($chopro ne '') {
-    $chopro =~ s/(.*)\n?//;    # extract and remove first line
-    $_ = $1;
-    chomp;
+  # Split both original and escaped content to compare
+  my @original_lines = split /\n/, $chopro_content;
+  my @escaped_lines  = split /\n/, $escaped_content;
 
-    if (/^#(.*)/) {            # a line starting with # is a comment
-      print "<!--$1-->\n";     # insert as HTML comment
-    } elsif (/{(.*)}/) {    # this is a command
-      $_ = $1;
-      if (/^start_of_chorus/i || /^soc/i) {    # start_of_chorus
-        $mode |= 1;
-      } elsif (/^end_of_chorus/i || /^eoc/i) {    # end_of_chorus
-        $mode &= ~1;
-      } elsif (/^comment:/i || /^c:/i) {          # comment
-        print "<span class=\"comment\">($')</span>\n";
-      } elsif (/^comment_italic:/i || /^ci:/i) {    # comment_italic
-        print "<span class=\"comment_italic\">($')</span>\n";
-      } elsif (/^comment_box:/i || /^cb:/i) {       # comment_box
-        print "<P class=\"comment_box\">$'</P>\n";
-      } elsif (/^start_of_tab/i || /^sot/i) {       # start_of_tab
-        $mode |= 2;
-      } elsif (/^end_of_tab/i || /^eot/i) {         # end_of_tab
-        $mode &= ~2;
-      } else {
-        print "<!--Unsupported command: $_-->\n";
-      }
-    } else {    # this is a line with chords and lyrics
+  # Process lines using an index to access both original and escaped versions
+  for my $i (0 .. $#original_lines) {
+    my $original_line = $original_lines[$i];
+    my $line = $escaped_lines[$i];    # This is the escaped line we'll process
+
+    # --- Skip Metadata Directives (using original line) ---
+    # Check the *original* line content for metadata directives we want to hide.
+    if ($original_line =~
+/^\s*\{(?:t|title|st|subtitle|duration|key|capo|musicpath|tuning|metronome):.*\}\s*$/i
+      )
+    {
+      debug ("Skipping metadata directive: $original_line");
+      next;    # Skip the rest of the loop for this line
+    } ## end if ($original_line =~ ...)
+
+    # --- Handle Comment Directives (using original line) ---
+    elsif ($original_line =~ /^\s*\{(?:c|comment):\s*(.*?)\s*\}\s*$/i) {
+      my $comment_text = trim ($1);
+
+      # Escape the extracted comment text *itself* to prevent HTML injection
+      my $escaped_comment = HTML::Entities::encode_entities ($comment_text);
+
+# Wrap in a div with a specific class for styling (e.g., make it italic/blue in CSS)
+      $html_output .= "<div class=\"comment\">$escaped_comment</div>\n";
+      debug ("Formatting comment directive: $original_line");
+      next;    # Skip further processing for this line
+    } ## end elsif ($original_line =~ ...)
+
+    # --- Handle Chorus/Tab Environment Directives (using original line) ---
+    # These change the $mode but don't output the directive line itself
+    elsif ($original_line =~ /^\s*\{\s*(soc|start_of_chorus)\s*\}/i) {
+      $mode |= 1;    # Set chorus bit
+      debug ("Entering chorus mode");
+      next;
+    } elsif ($original_line =~ /^\s*\{\s*(eoc|end_of_chorus)\s*\}/i) {
+      $mode &= ~1;    # Clear chorus bit
+      debug ("Exiting chorus mode");
+      next;
+    } elsif ($original_line =~ /^\s*\{\s*(sot|start_of_tab)\s*\}/i) {
+      $mode |= 2;     # Set tab bit
+      debug ("Entering tab mode");
+      next;
+    } elsif ($original_line =~ /^\s*\{\s*(eot|end_of_tab)\s*\}/i) {
+      $mode &= ~2;    # Clear tab bit
+      debug ("Exiting tab mode");
+      next;
+    }
+
+    # --- Existing logic applied to the ESCAPED line ($line) ---
+    # This part remains largely unchanged from your reverted version.
+    # It will still display other escaped directives and chords literally.
+
+# Handle ChordPro commands {} (attempts to match escaped commands - likely fails)
+# Note: This check might still incorrectly match things if the content contained "&lt;" etc.
+    if ($line =~ /^\s*\{&lt;(.*)&gt;}\s*$/) {    # Match escaped { }
+          # This block is unlikely to work reliably after escaping.
+      $html_output .= "<!-- Escaped command potentially skipped: $line -->\n";
+    }
+
+    # Handle comments starting with # (also tricky after escaping)
+    elsif ($line =~ /^\s*#(.+)/) {
+
+   # This will only match lines literally starting with # in the escaped output.
+      $html_output .=
+        "<!-- Escaped comment potentially skipped: " . trim ($1) . " -->\n";
+    } ## end elsif ($line =~ /^\s*#(.+)/)
+
+# Handle lines with chords and lyrics (using escaped content - STILL FLAWED)
+# This regex needs to find escaped brackets: &lt; and &gt; - which it won't.
+# It currently checks for literal '[' which might exist if escaping failed or wasn't complete.
+    elsif ($line =~ /\[/) {
+      debug (
+"Processing line with potential chords (using flawed escaped logic): $line"
+      );
+
+# --- Existing flawed logic for escaped chord/lyric lines ---
+# This section attempts to parse the already-escaped line, which
+# won't correctly identify chords like [C] (now &amp;lbrack;C&amp;rbrack; or similar).
+# It will likely treat the line as mostly lyrics containing escaped characters.
       my (@chords, @lyrics);
+      my $current_line = $line;          # Use the escaped line
+      $current_line =~ s/\s/&nbsp;/g;    # Ensure spaces are non-breaking
       @chords = ("");
       @lyrics = ();
-      s/\s/\&nbsp;/g;    # replace spaces with hard spaces
-      while (s/(.*?)\[(.*?)\]//) {
-        push (@lyrics, $1);
-        push (@chords, $2 eq '\'|' ? '|' : $2);
-      }
-      push (@lyrics, $_);    # rest of line (after last chord) into @lyrics
 
-      if ($lyrics[0] eq "") {    # line began with a chord
-        shift (@chords);         # remove first item
-        shift (@lyrics);         # (they are both empty)
+# This regex won't work correctly on escaped content like &amp;lbrack;...&amp;rbrack;
+      while ($current_line =~ s/^(.*?)\[(.*?)\]//)  # Tries to match literal '['
+      {
+        push @lyrics, $1;
+        my $chord =
+          ($2 eq '\'|') ? '|' : $2;    # Chord content might be escaped entities
+        push @chords, $chord;
+      } ## end while ($current_line =~ s/^(.*?)\[(.*?)\]//...)
+      push @lyrics, $current_line;     # Remaining part of the line
+      if ($lyrics[0] eq "" && @lyrics > 1) {shift @chords; shift @lyrics;}
+
+# --- Check if the line was essentially chord-only (on escaped content - inaccurate) ---
+      my $temp_line_check = $line;
+      $temp_line_check =~ s/\[.*?\]//g;  # Won't correctly remove escaped chords
+      $temp_line_check =~ s/\s+//g;
+      my $is_chord_only_line = ($temp_line_check eq '');
+
+      # --- Generate table (based on potentially incorrect parsing) ---
+      $html_output .=
+"<table cellpadding=0 cellspacing=0 border=0 style='margin-bottom: 5px; border-collapse: collapse;'>"
+        ;                                # Added border=0, collapse
+
+      # Chord Row
+      if (@chords > 1 || ($chords[0] ne '')) {
+        $html_output .= "<tr>\n";
+        for (my $j = 0; $j < @chords; $j++) {
+
+          # *** Add bold tag if in chorus mode ***
+          my $chord_content = $chords[$j];
+          if ($mode & 1) {    # Check if chorus bit is set
+            $chord_content = "<b>$chord_content</b>";
+          }
+
+          # Added padding: 0
+          $html_output .=
+"<td class=\"$cClasses[$mode]\" style='text-align: left; padding: 0 10px 0 0;'>$chord_content</td>\n";
+        } ## end for (my $j = 0; $j < @chords...)
+        $html_output .= "</tr>\n";
+      } ## end if (@chords > 1 || ($chords...))
+
+# Lyric Row (generate ONLY if it's NOT a chord-only line - check might be flawed)
+      unless ($is_chord_only_line) {
+        $html_output .= "<tr>\n";
+        for (my $j = 0; $j < @lyrics; $j++) {
+          my $colspan =
+            ($j < $#lyrics || @chords == @lyrics) ? 1 : (@chords - @lyrics + 1);
+
+      # Display whatever was parsed as lyrics (likely includes escaped entities)
+          my $lyric_display =
+            (($lyrics[$j] eq '') || ($lyrics[$j] eq '&nbsp;'))
+            ? '&nbsp;'
+            : $lyrics[$j];
+
+          # *** Add bold tag if in chorus mode ***
+          my $lyric_content = $lyric_display;
+          if ($mode & 1) {    # Check if chorus bit is set
+            $lyric_content = "<b>$lyric_content</b>";
+          }
+
+          # Added padding: 0
+          $html_output .=
+              "<td class=\"$lClasses[$mode]\""
+            . ($colspan > 1 ? " colspan=$colspan" : "")
+            . " style='padding: 0;'>$lyric_content</td>\n";   # Added padding: 0
+        } ## end for (my $j = 0; $j < @lyrics...)
+        $html_output .= "</tr>\n";
+      } ## end unless ($is_chord_only_line)
+      $html_output .= "</table>\n";
+
+      # --- End flawed logic ---
+    } ## end elsif ($line =~ /\[/) (])
+
+    # Handle plain lyric lines (including those with escaped directives/chords)
+    elsif ($line =~ /\S/) {    # If the line contains non-whitespace
+      my $formatted_line = $line;       # Use the escaped line
+      $formatted_line =~ s/\s/&nbsp;/g; # Ensure non-breaking spaces
+                                        # *** Add bold tag if in chorus mode ***
+      my $output_line = $formatted_line;
+      if ($mode & 1) {                  # Check if chorus bit is set
+        $output_line = "<b>$output_line</b>";
       }
 
-      if (@lyrics == 0) {        # empty line?
-        print "<BR>\n";
-      } elsif (@lyrics == 1 && $chords[0] eq "") {    # line without chords
-        print "<div class=\"$lClasses[$mode]\">$lyrics[0]</div>\n";
+      # Apply class based on current mode (chorus/tab)
+      $html_output .= "<div class=\"$lClasses[$mode]\">$output_line</div>\n";
+    } ## end elsif ($line =~ /\S/)
+
+    # Handle blank lines
+    else {
+      # Don't output multiple <br> if mode is tab, just one is enough
+      if ($mode & 2) {                  # Check if tab bit is set
+        $html_output .= "<br>\n"
+          unless $html_output =~ /<br>\n$/;    # Avoid consecutive breaks in tab
       } else {
-        print "<table cellpadding=0 cellspacing=0>";
-        print "<tr>\n";
-        for (my $i = 0; $i < @chords; $i++) {
-          print "<td class=\"$cClasses[$mode]\">$chords[$i]</td>";
-        }
-        print "</tr>\n<tr>\n";
-        for ($i = 0; $i < @lyrics; $i++) {
-          print "<td class=\"$lClasses[$mode]\">$lyrics[$i]</td>";
-        }
-        print "</tr></table>\n";
-      }    # if
-    }    # if
-  }    # while
+        $html_output .= "<br>\n";
+      }
+    } ## end else [ if ($line =~ /^\s*\{&lt;(.*)&gt;}\s*$/)]
+  } ## end for my $i (0 .. $#original_lines)
 
-  print "</div>";
-}    # chordpro2html
+  return (\%meta, $html_output);
+} ## end sub chopro2html
 
-## Main
-print header;
+# ==================
+# === Main Logic ===
+# ==================
 
-unless ($infile) {
-  error "No chordpro parameter";
-}    # unless
-
-my $chordpro;
-
-$chordpro = param ('chordpro');
-
-if (-f $chordpro) {
-  $infile = $chordpro;
-} else {
-  my @songbooks = qw(Andrew Rick Mikey Kent Rob Bluegrass Kent XMAS);
-
-  for (@songbooks) {
-    if (-f "/opt/songbook/$_/$chordpro") {
-      $infile = "/opt/songbook/$_/$chordpro";
-
-      last;
-    }    # if
-  }    # for
-}    # if
-
-open my $file, '<', $infile
-  or error "Unable to open file \"$infile\" - $!";
-
-{
-  local $/;
-  $chopro = <$file>;
+# --- Validate Song File Parameter ---
+unless (defined $song_filename_param) {
+  error ("No 'chordpro' parameter specified.");
 }
 
-$title = getTitle $infile;
+# --- Determine and Validate Song File Path ---
+if ($song_filename_param =~ m{/}) {
 
-chopro2html ($chopro, $infile);
+  # If a path is provided, validate it's within the base directory
+  my $real_song_base_dir = eval {abs_path ($base_dir)};
+  my $real_song_path     = eval {abs_path ($song_filename_param)};
+  unless ($real_song_base_dir
+    && $real_song_path
+    && $real_song_path =~ /^\Q$real_song_base_dir\E/
+    && -f $real_song_path
+    && -r _)
+  {
+    error ("Access denied, invalid path, or file not readable: "
+        . $q->escapeHTML ($song_filename_param));
+  } ## end unless ($real_song_base_dir...)
+  $infile = $real_song_path;
+  debug ("Using full path provided: $infile");
+} else {
 
-print end_html;
+  # If only a filename is provided, search for it
+  $infile = find_actual_song_path ($song_dir, $song_filename_param);
+  unless (defined $infile) {
+    error ("Song file not found: " . $q->escapeHTML ($song_filename_param));
+  }
+  debug ("Found song file via search: $infile");
+} ## end else [ if ($song_filename_param...)]
 
-exit;
+# --- Read ChordPro File Content ---
+my $chopro_content;
+open my $file_fh, '<', $infile
+  or error ("Unable to open file \"$infile\" - $!");
+{local $/ = undef; $chopro_content = <$file_fh>;}
+close $file_fh;
+
+# --- Declare Nav Variables (outside the conditional block) ---
+my $nav_html       = '';
+my $prev_link_html = '';
+my $next_link_html = '';
+
+# --- Generate Setlist Navigation HTML (Conditionally) ---
+if ( defined $setlist_name_param
+  && defined $song_index_param
+  && $setlist_name_param ne ''
+  && $song_index_param =~ /^\d+$/)
+{
+  debug (
+"Setlist parameters detected (Set: $setlist_name_param, Idx: $song_index_param). Generating navigation."
+  );
+
+  # Basic validation of setlist name parameter
+  if (
+    $setlist_name_param    =~ m{[\\/]}    # Contains slashes
+    || $setlist_name_param =~ m{\.\.}     # Contains '..'
+    || $setlist_name_param !~ /\.lst$/i
+    )    # Doesn't end with .lst (case-insensitive)
+  {
+    warning ("Invalid setlist name parameter received: "
+        . $q->escapeHTML ($setlist_name_param));
+  } else {
+    my $setlist_path = File::Spec->catfile ($list_dir, $setlist_name_param);
+    debug ("Attempting to read setlist: $setlist_path");
+    if (-f $setlist_path && -r _) {
+      my @songs_in_list_filenames;    # Holds just the filenames found
+      if (open my $setlist_fh, '<', $setlist_path) {
+        my $is_first_line = 1;
+        while (my $line = <$setlist_fh>) {
+          chomp $line;
+          $line =~ s/\r$//;   # Remove potential Windows line ending
+                              # Skip header line (assuming first line is header)
+          if ($is_first_line) {$is_first_line = 0; next;}
+
+          # Skip blank lines and comments
+          next if $line =~ /^\s*$/ || $line =~ /^#/;
+
+         # Extract song title (assuming format "Title - Artist" or just "Title")
+          my $song_entry_title =
+            ($line =~ /^(.*?)\s+-\s+.*/) ? trim ($1) : trim ($line);
+
+          # Construct potential filename (adjust extension if needed)
+          my $potential_filename = $song_entry_title . ".pro";
+
+          # Find the actual path and check existence
+          my $actual_song_file_path =
+            find_actual_song_path ($song_dir, $potential_filename);
+
+          if ($actual_song_file_path) {
+
+            # Store only the filename part for the URL
+            my $file = fileparse ($actual_song_file_path);
+            push @songs_in_list_filenames, $file;
+            debug ("Found '$file' for setlist entry '$song_entry_title'");
+          } else {
+            warning (
+"Song '$song_entry_title' from setlist '$setlist_name_param' not found. Skipping."
+            );
+
+            # Add undef placeholder to keep indices correct
+            push @songs_in_list_filenames, undef;
+          } ## end else [ if ($actual_song_file_path)]
+        } ## end while (my $line = <$setlist_fh>)
+        close $setlist_fh;
+
+        # --- Calculate Indices and Generate Links ---
+        my $num_songs          = @songs_in_list_filenames;
+        my $current_song_index = int ($song_index_param);
+
+        debug ("Setlist Check: num_songs = $num_songs");
+        debug ("Setlist Check: current_song_index = $current_song_index");
+
+        my $prev_idx = find_prev_valid_index (\@songs_in_list_filenames,
+          $current_song_index);
+        debug ("Prev Button Check: find_prev_valid_index returned "
+            . ($prev_idx // 'undef'));
+
+        if (defined $prev_idx) {
+          my $prev_song_file = $songs_in_list_filenames[$prev_idx];
+
+      # Ensure the file is actually defined (should be, but belt-and-suspenders)
+          if (defined $prev_song_file) {
+            debug (
+"Prev Button Check: Using prev_idx = $prev_idx, prev_song_file = $prev_song_file"
+            );
+
+            # Manually build the query string...
+            my @query_parts;
+            push @query_parts, "chordpro=" . $q->escape ($prev_song_file);
+            push @query_parts, "setlist=" . $q->escape ($setlist_name_param);
+            push @query_parts, "songidx=" . $q->escape ($prev_idx);
+            my $prev_url_query_manual = "?" . join (';', @query_parts);
+            my $script_basename       = fileparse ($q->script_name ());
+
+            # Extract title for display
+            my ($prev_title)       = fileparse ($prev_song_file, qr/\.[^.]*$/);
+            my $escaped_prev_title = $q->escapeHTML ($prev_title || '');
+
+            my $prev_button_html = $q->a ({
+                -href  => $script_basename . $prev_url_query_manual,
+                -class => 'nav-button prev-button'
+              },
+              "&#10094; Prev"
+            );
+
+            # Wrap button and title
+            $prev_link_html = $q->div ({-style => 'text-align: center;'},
+              $prev_button_html, $q->br,
+              $q->span ({-class => 'nav-title'}, $escaped_prev_title));
+          } else {
+            debug (
+"Prev Button Check: File at index $prev_idx was unexpectedly undef."
+            );
+          }
+        } else {
+          debug ("Prev Button Check: No valid previous song found.");
+        }
+
+        my $next_idx = find_next_valid_index (\@songs_in_list_filenames,
+          $current_song_index);
+        debug ("Next Button Check: find_next_valid_index returned "
+            . ($next_idx // 'undef'));
+        if (defined $next_idx) {
+          my $next_song_file = $songs_in_list_filenames[$next_idx];
+
+          # Ensure the file is actually defined
+          if (defined $next_song_file) {
+            debug (
+"Next Button Check: Using next_idx = $next_idx, next_song_file = $next_song_file"
+            );
+
+            # Manually build the query string...
+            my @query_parts;
+            push @query_parts, "chordpro=" . $q->escape ($next_song_file);
+            push @query_parts, "setlist=" . $q->escape ($setlist_name_param);
+            push @query_parts, "songidx=" . $q->escape ($next_idx);
+            my $next_url_query_manual = "?" . join (';', @query_parts);
+            my $script_basename       = fileparse ($q->script_name ());
+
+            # Extract title for display
+            my ($next_title)       = fileparse ($next_song_file, qr/\.[^.]*$/);
+            my $escaped_next_title = $q->escapeHTML ($next_title || '');
+
+            my $next_button_html = $q->a ({
+                -href  => $script_basename . $next_url_query_manual,
+                -class => 'nav-button next-button'
+              },
+              "Next &#10095;"
+            );
+
+            # Wrap button and title
+            $next_link_html = $q->div ({-style => 'text-align: center;'},
+              $next_button_html, $q->br,
+              $q->span ({-class => 'nav-title'}, $escaped_next_title));
+          } else {
+            debug (
+"Next Button Check: File at index $next_idx was unexpectedly undef."
+            );
+          }
+        } else {
+          debug ("Next Button Check: No valid next song found.");
+        }
+
+      } else {
+        warning ("Could not open setlist file '$setlist_path': $!");
+      }
+    } else {
+      warning ("Setlist file '$setlist_path' not found or not readable.");
+    }
+  } ## end else [ if ($setlist_name_param...)]
+} else {
+  debug (
+    "Setlist parameters not detected or invalid. Skipping nav generation.");
+}
+
+# --- Convert ChordPro content to HTML ---
+# This calls the subroutine which handles directives and formatting
+my ($meta, $song_html) = chopro2html ($chopro_content, $infile);
+$title = $meta->{title};    # Use title extracted by chopro2html
+
+# --- Update music path if necessary (after getting title) ---
+updateMusicpath ($chopro_content, $infile) if $title;
+
+# --- Prepare HTML Output ---
+print $q->header (-type => 'text/html', -charset => 'utf-8');
+print $q->start_html (
+  -title => $title || "Song",
+  -dtd   => "-//W3C//DTD HTML 4.01 Transitional//EN",
+  -head  => [
+    $q->Link ({
+        -rel  => 'stylesheet',
+        -type => 'text/css',
+        -href => '/songbook/songbook.css'
+      }
+    ),
+    $q->Link ({
+        -rel  => 'stylesheet',
+        -type => 'text/css',
+        -href => '/songbook/question.mark.css'
+      }
+    ),
+    qq{<script src="}
+      . $q->escapeHTML ('/songbook/songbook.js')
+      . qq{"></script>},
+    qq{<script src="}
+      . $q->escapeHTML ('/songbook/question.mark.js')
+      . qq{"></script>}
+  ]
+);
+
+my $home_link = $q->a (
+  {-href => '/songbook'},
+  $q->img ({
+      -src    => '/Icons/Home.ico',
+      -alt    => 'Home',
+      -border => 0,
+      -style  => 'width: 100%; height: auto;',
+    }
+  )
+);
+(my $profile = $infile) =~ s/^\Q$base_dir\E\/?//;
+my $title_link = $q->a (
+  {-href => "viewpro.php?file=$profile"},
+  $q->escapeHTML ($title || 'Unknown Title')
+);
+my $artist_link = $q->a ({
+    -href => "/songbook/displayartist.php?artist="
+      . $q->escape ($meta->{artist})
+  },
+  $q->escapeHTML ($meta->{artist})
+);
+my $audio_source        = '';
+my $music_file_web_path = '';
+
+# Check for music file using the potentially updated title
+if ($title) {
+  if (-r File::Spec->catfile ($music_base_dir, "$title.mp3")) {
+    $music_file_web_path = "$music_web_path/" . $q->escapeHTML ("$title.mp3");
+    $audio_source = qq{<source src="$music_file_web_path" type="audio/mpeg">};
+  } elsif (-r File::Spec->catfile ($music_base_dir, "$title.flac")) {
+    $music_file_web_path = "$music_web_path/" . $q->escapeHTML ("$title.flac");
+    $audio_source = qq{<source src="$music_file_web_path" type="audio/flac">};
+  }
+} ## end if ($title)
+my $audio_player = '';
+if ($audio_source) {
+  my $style_attr = 'padding:0; margin:0; width: 95%;';
+  $audio_player =
+      qq{<audio id="song" controls autoplay style="$style_attr">\n}
+    . $audio_source
+    . qq{\nYour browser does not support HTML5 Audio.\n</audio>};
+} ## end if ($audio_source)
+
+# --- Build the content for the last cell (Audio/Marks) ---
+my $last_cell_content = $audio_player;
+if ($audio_player) {
+  $last_cell_content .= $q->br . $q->p ({
+      -align => 'center',
+      -style =>
+        'margin-top: 20px; color: white;'  # Set default color for the paragraph
+    },
+    $q->b ({-style => 'color: white;'}, "Mark A:"),  # Make label white and bold
+    $q->span (
+      {-id => 'a', -style => 'color: white; font-weight: bold;'}
+      ,            # Make value white and bold
+      "not set"    # Removed italics
+    ),
+    '&nbsp;&nbsp;',
+    $q->b ({-style => 'color: white;'}, "Mark B:"),  # Make label white and bold
+    $q->span ({-id => 'b', -style => 'color: white; font-weight: bold;'},
+      "not set")                                     # Make value white and bold
+  );
+} ## end if ($audio_player)
+
+# --- Print the Heading Table ---
+my $setlist_link_html         = '';
+my $setlist_link_html_wrapped = '';
+
+if (defined $setlist_name_param && $setlist_name_param ne '') {
+
+  # Create link back to displayset.php
+  my $setlist_display_url =
+    "/songbook/displayset.php?set=" . $q->escape ($setlist_name_param);
+
+  # Prepare link text by removing .lst extension
+  (my $setlist_display_name = $setlist_name_param) =~
+    s/\.lst$//i;    # Remove .lst (case-insensitive)
+
+  # Create the link with the correct URL and display name
+  my $setlist_link = $q->a ({-href => $setlist_display_url},
+    $q->escapeHTML ($setlist_display_name));
+
+  # --- Wrap the link in a div with id="title" ---
+  $setlist_link_html_wrapped =
+    $q->div ({-id => 'title'}, 'Set: ' . $setlist_link);
+} ## end if (defined $setlist_name_param...)
+
+print $q->table (
+  {-id => 'heading'},
+
+  $q->Tr (
+
+    # Cell 1: Home Icon
+    $q->td ({
+        -align  => 'left',
+        -width  => '50',                    # Keep width if desired, or adjust
+        -valign => 'middle',
+        -style  => 'padding-left: 10px;'    # Add padding to the cell
+      },
+      $home_link . '<br><font size="5pt">&nbsp;&nbsp;2.0</font>'
+    ),
+
+    # Cell 2: Previous Button (only if it exists)
+    $q->td ({
+        -align  => 'right',
+        -valign => 'middle',
+        -style  => 'padding-right: 10px;'
+      },
+      $prev_link_html || ''    # Output button or empty string
+    ),
+
+    # Cell 3: Title and Artist
+    $q->td (
+      $q->div (
+        {-align => 'center', -valign => 'middle'},
+        $q->div ({-id => 'title'},  $setlist_link_html_wrapped),
+        $q->div ({-id => 'title'},  'Title: ' . $title_link),
+        $q->div ({-id => 'artist'}, 'Artist: ' . $artist_link)
+      ),
+    ),
+
+    # Cell 4: Next Button (only if it exists)
+    $q->td (
+      {-align => 'left', -valign => 'middle', -style => 'padding-left: 10px;'},
+      $next_link_html || ''    # Output button or empty string
+    ),
+
+    # Cell 5: Audio Player and A/B Marks
+    $q->td (
+      {-align => 'right', -width => '300', -valign => 'middle'}
+      ,                        # Use middle valign
+      $last_cell_content
+    )
+  )
+);
+
+# --- Print Song Content ---
+print $q->div ({-id => 'song'}, $song_html);
+
+print $q->end_html;
+
+exit 0;

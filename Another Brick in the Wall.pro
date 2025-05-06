@@ -1,6 +1,7 @@
 {title:Another Brick in the Wall}
 {subtitle:Pink Floyd}
 {musicpath:Music/Another Brick in the Wall.mp3}
+{duration:4:02}
 {key:Dm}
 
 We don't need no education

@@ -31,7 +31,7 @@ There ain't nothin' we can't do or say
 Feelin' good, Feeling fine
 Wo, baby, let the music play 
 
-{C:chorus}
+{c:Chorus}
 
 [E]Like a lazy flowing [D]river
 [A]Surrounding castles in the [E]sky
@@ -39,4 +39,4 @@ And the crowd is growing [D]bigger
 [A]List'nin' for the happy sounds
 And I got to let 'em fly 
 
-{c:chorus}
+{c:Chorus}
