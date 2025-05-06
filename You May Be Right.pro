@@ -19,7 +19,7 @@ And you told me not to drive
 But I made it home alive
 So you said that only proves that I'm insane
 
-{cChorus}
+{c:Chorus}
 
 You may be [E]right
 I may be cr[A]azy

@@ -1,7 +1,7 @@
 {title:Brandy}
 {subtitle:Looking Glass}
 {musicpath:Music/Brandy.mp3}
-{duratino:3:09}
+{duration:3:09}
 {key:E}
 
 [C#m] [A] [C#m] [A] [E] [B] [A] [E] [F#m] [B]

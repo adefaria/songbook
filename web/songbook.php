@@ -77,54 +77,86 @@ function findSong($title, $library)
 {
     global $songbook, $songFolders;
 
-    $folders = array();
-    debug("findSong($title, $library)");
-    if (!isset($library)) {
-        debug("Using default songfolders");
-        $folders = $songFolders;
-    } else {
-        debug("Pushing $library");
-        // Favor passed in $library
-        array_unshift($folders, $library);
+    $folders_to_search = array(); // Use a clearer variable name
+    debug("findSong(Title: '$title', Library: '$library')");
 
+    // --- Determine Search Order ---
+    if (!isset($library) || $library === '' || $library === null) {
+        debug("Library not specified. Using default song folder order.");
+        // Add configured subfolders first
+        $folders_to_search = $songFolders; // ['Rob', 'Bluegrass', 'XMAS']
+    } else {
+        debug("Library specified: '$library'. Prioritizing.");
+        // Add specified library first
+        array_unshift($folders_to_search, $library);
+        // Add other configured subfolders
         foreach ($songFolders as $folder) {
             if ($folder != $library) {
-                array_push($folders, $folder);
-            } // if
-        } // foreach
+                array_push($folders_to_search, $folder);
+            }
+        }
     }
 
-    debug("Searching for $title");
-    foreach ($folders as $folder) {
-        debug("Checking for $songbook/$folder/$title.pro");
+    // --- Add the base songbook directory to the search path ---
+    // We add an empty string '' which will represent the base directory later
+    // This ensures it's checked *after* the prioritized subfolders.
+    array_push($folders_to_search, '');
+    debug("Full search folder list ('' represents base): " . implode(', ', $folders_to_search));
 
-        $song = array(
-            'artist' => '',
-            'library' => '',
-            'key' => '',
-            'capo' => '',
-            'duration' => '',
-            'audio' => '',
-        );
 
-        $song['file'] = fileExists("$songbook/$folder/$title.pro");
+    // --- Initialize default song structure ---
+    $found_song_data = array(
+        'file' => $title . '.pro', // Default filename if not found
+        'artist' => '',
+        'library' => '',
+        'key' => '',
+        'capo' => '',
+        'duration' => '',
+        'audio' => '',
+        'error' => 'Not found in search paths' // Default error
+    );
 
-        if ($song['file']) {
-            $song = parseSong($song['file']);
 
-            if (!isset($song['capo'])) {
-                echo "capo not found for song $song[file]<br>";
-                #exit;
+    // --- Iterate through the determined search paths ---
+    debug("Searching for '$title.pro'");
+    foreach ($folders_to_search as $folder) {
+        // Construct the path: If $folder is '', it becomes $songbook/$title.pro
+        // If $folder is 'Rob', it becomes $songbook/Rob/$title.pro
+        $potential_file_path = rtrim($songbook, '/') . '/' . ($folder ? rtrim($folder, '/') . '/' : '') . $title . '.pro';
+
+        debug("Checking path: '$potential_file_path'");
+
+        // Use fileExists (case-insensitive check)
+        $actual_file_path = fileExists($potential_file_path);
+
+        if ($actual_file_path) {
+            debug("Found match via fileExists: '$actual_file_path'. Parsing...");
+            $found_song_data = parseSong($actual_file_path); // Parse the found file
+
+            // Check if parseSong indicated an error (e.g., file not readable)
+            if (isset($found_song_data['error'])) {
+                debug("findSong: parseSong reported error: " . $found_song_data['error']);
+                // Keep the file path even if parsing failed
+                $found_song_data['file'] = $actual_file_path;
+                // Decide if you want to stop or keep searching if parsing fails.
+                // Let's stop here, returning the parse error.
+                break;
+            } else {
+                // Successfully found and parsed
+                unset($found_song_data['error']); // Remove default error message
+                debug("Successfully found and parsed '$actual_file_path'. Stopping search.");
+                break; // Stop searching once found and parsed successfully
             }
-            break;
         } else {
-            $song['file'] = $title;
-            debug("Didn't find $title.pro in $songbook/$folder");
-        } // if
-    } // foreach
+            debug("No match via fileExists for '$potential_file_path'");
+        }
+    } // foreach folder
 
-    return $song;
+    // If loop finished without finding the file, $found_song_data still holds the default error state.
+    debug("--- findSong finished for '$title'. Returning data. ---");
+    return $found_song_data;
 } // findSong
+
 
 function getSongs($songbook)
 {
@@ -142,7 +174,8 @@ function songsDropdown()
 
     print "<form method=\"get\" action=\"webchord.cgi\" name=\"song\">";
     print "Songs:&nbsp;&nbsp;";
-    print "<select name=\"chordpro\">";
+    print "<select name=\"chordpro\" id=\"song-select\">";
+    print "<option value=''>Select a song...</option>";
 
     sort($songs);
 
@@ -168,7 +201,8 @@ function artistsDropdown()
 
     print "<form method=\"get\" action=\"displayartist.php\" name=\"artist\">";
     print "Artists:&nbsp;&nbsp;";
-    print "<select name=\"artist\">";
+    print "<select name=\"artist\" id=\"artist-select\">";
+    print "<option value=''>Select an artist...</option>";
 
     sort($artists);
 
@@ -187,7 +221,8 @@ function setsDropdown()
 
     print "<form method=\"get\" action=\"displayset.php\" name=\"set\">";
     print "Sets:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-    print "<select name=\"set\">";
+    print "<select name=\"set\" id=\"set-select\">";
+    print "<option value=''>Select a set...</option>";
 
     sort($sets);
 
