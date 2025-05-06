@@ -2,9 +2,6 @@ body {
   padding: 0px;
   border: 0px;
   margin: 0px;
-  /* Prevent body scrolling when #song is scrollable */
-  /* overflow: hidden; */
-  /* Uncomment this if you only want #song to scroll */
 }
 
 #title {
@@ -34,14 +31,50 @@ body {
   margin: 0;
   padding: 10px 0;
   /* Contributes to height */
-  background-color: #ddd;
+  background-color: steelblue;
+  color: white;
   width: 100%;
   z-index: 1000;
-  /* High z-index */
   height: var(--header-height);
-  /* Use variable */
   box-sizing: border-box;
-  /* Include padding/border in height */
+}
+
+#heading a {
+  color: white;
+  text-decoration: none;
+}
+
+#heading td .nav-button {
+  /* Re-apply styles needed to make them look like buttons */
+  display: inline-block;
+  /* Important for padding/margins */
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  /*background-color: #eee;
+  color: #333;*/
+  text-decoration: none;
+  border-radius: 12px;
+  /* Add any other styles you had for .nav-button */
+}
+
+/* --- Header Home Icon Hover --- */
+/* Style the link containing the home icon */
+#heading td a {
+  display: inline-block;
+  /* Allows background to apply correctly */
+  text-decoration: none;
+  /* Remove underline if any */
+  transition: background-color 0.2s ease-in-out;
+  /* Smooth transition */
+}
+
+/* Apply background on hover */
+#heading td a:hover {
+  background-color: steelblue
+}
+
+#heading td .nav-button:hover {
+  /*background-color: #ddd;*/
 }
 
 /* --- Setlist Navigation Bar --- */
@@ -62,26 +95,44 @@ body {
 /* --- Navigation Buttons --- */
 .nav-button {
   display: inline-block;
-  padding: 8px 15px;
-  margin: 0 10px;
-  border: 1px solid #ccc;
-  background-color: #eee;
-  color: #337ab7;
+  /* Ensure proper block behavior */
+  background-color: rgb(50, 90, 170);
+  color: white;
+  /* Black text/arrow */
+  border: none;
+  /* Remove previous border */
+  padding: 12px 16px;
+  /* Adjust padding */
   text-decoration: none;
-  border-radius: 4px;
-  font-size: 11pt;
+  border-radius: 12px;
+  /* Make it round */
+  font-size: 16px;
+  /* Adjust font size */
+  font-weight: bold;
   cursor: pointer;
-  transition: background-color 0.2s ease, border-color 0.2s ease;
+  margin: 0 5px;
+  transition: background-color 0.6s ease, color 0.6s ease;
+  /* Smooth transition */
+  line-height: 1;
+  /* Adjust line height for vertical centering if needed */
+  width: 100px;
+  /* Fixed width for roundness */
+  height: 30px;
+  /* Fixed height for roundness */
+  text-align: center;
+  /* Center the arrow */
+  box-sizing: border-box;
 }
 
-.nav-button:hover {
-  background-color: #ddd;
-  border-color: #bbb;
-  color: #23527c;
+#heading .nav-button:hover {
+  background-color: white;
+  color: rgb(50, 90, 170);
 }
 
 /* --- Song Content Area --- */
 #song {
+  margin-top: 100px;
+  /* Push down to avoid overlap with header */
   /* Calculate available height: Viewport minus header, nav, and gap */
   /* Using max-height is often safer than height */
   max-height: calc(100vh - var(--header-height) - var(--nav-height) - var(--content-top-gap));
@@ -96,10 +147,8 @@ body {
   /* Horizontal padding */
   padding-left: 20px;
   padding-right: 20px;
-  /* NO padding-top here - space is created by the container's position/height */
-  padding-top: 20px;
+  padding-top: 60px;
   padding-bottom: 20px;
-  /* Add some space at the bottom */
 
   box-sizing: border-box;
   /* Include padding in width/height calculations */
@@ -150,7 +199,7 @@ body {
     overflow-y: visible;
     /* Use main page scrollbar */
     /* Add back top padding if needed, relative to nav */
-    padding-top: 10px;
+    padding-top: 40px;
     /* Small gap below nav */
   }
 }
@@ -210,4 +259,52 @@ body {
 /* --- Dim Style --- */
 .dim {
   color: #333;
+}
+
+/* --- Setlist Table Styles (displayset.php) --- */
+.setlist-table {
+  width: 80%;
+  /* Adjust width as needed */
+  margin: 20px auto;
+  /* Center the table with some top/bottom margin */
+  border-collapse: collapse;
+  /* Collapse borders into a single line */
+  font-family: Arial, sans-serif;
+  /* Consistent font */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow */
+}
+
+.setlist-table th,
+.setlist-table td {
+  border: 1px solid #ddd;
+  /* Light grey borders */
+  padding: 10px 15px;
+  /* Padding inside cells */
+  text-align: left;
+  /* Align text to the left */
+}
+
+.setlist-table th {
+  background-color: steelblue;
+  font-weight: bold;
+  color: white;
+}
+
+/* Optional: Add hover effect for rows */
+.setlist-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.setlist-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Style the footer row (Total Duration) to match header */
+.setlist-table tfoot th,
+.setlist-table tfoot td {
+  background-color: steelblue;
+  /* Steel blue background */
+  color: white;
+  /* White text */
 }
