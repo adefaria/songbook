@@ -19,7 +19,7 @@ So give a little bit give a little bit of your time to me
 See the man with the lonely eyes
 Oh, take his hand, you'll be surprised (Oh take his hand)
 
-{break}
+{c:Break}
 
 [F#m7] [Bm] [F#m7] [Bm] [F#m7] [G] [C] [G]
 [A7] [Dsus4] [Am7] [Bm7] 3x

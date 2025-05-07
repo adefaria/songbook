@@ -1,4 +1,3 @@
-/* /opt/songbook/web/songbook.css */
 body {
   padding: 0px;
   border: 0px;
@@ -17,74 +16,206 @@ body {
   font-size: 22pt;
 }
 
+:root {
+  --header-height: 70px;
+  --nav-height: 45px;
+  --content-top-gap: 15px;
+}
+
 #heading {
   border: 0;
   border-bottom: 1px solid black;
   position: fixed;
-  /* Takes the heading out of the normal flow */
   top: 0;
-  /* Ensure it's at the top */
   left: 0;
-  /* Ensure it's at the left */
   margin: 0;
   padding: 10px 0;
-  /* Add some padding for aesthetics */
-  background-color: #ddd;
+  /* Contributes to height */
+  background-color: steelblue;
+  color: white;
   width: 100%;
-  z-index: 10;
-  /* Ensure heading stays above song content */
-  /* column-span: all; /* Not needed here as it's outside #song */
+  z-index: 1000;
+  height: var(--header-height);
+  box-sizing: border-box;
 }
 
+#heading a {
+  color: white;
+  text-decoration: none;
+}
+
+#heading td .nav-button {
+  /* Re-apply styles needed to make them look like buttons */
+  display: inline-block;
+  /* Important for padding/margins */
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  /*background-color: #eee;
+  color: #333;*/
+  text-decoration: none;
+  border-radius: 12px;
+  /* Add any other styles you had for .nav-button */
+}
+
+/* --- Header Home Icon Hover --- */
+/* Style the link containing the home icon */
+#heading td a {
+  display: inline-block;
+  /* Allows background to apply correctly */
+  text-decoration: none;
+  /* Remove underline if any */
+  transition: background-color 0.2s ease-in-out;
+  /* Smooth transition */
+}
+
+/* Apply background on hover */
+#heading td a:hover {
+  background-color: steelblue
+}
+
+#heading td .nav-button:hover {
+  /*background-color: #ddd;*/
+}
+
+/* --- Setlist Navigation Bar --- */
+#setlist-nav {
+  text-align: center;
+  padding: 10px 0;
+  /* Vertical padding */
+  margin-bottom: var(--content-top-gap);
+  /* Use variable for space below */
+  width: 100%;
+  /* Push the nav bar itself below the fixed header */
+  padding-top: var(--header-height);
+  /* Explicit height is optional, but helps calculation */
+  /* height: var(--nav-height); */
+  box-sizing: border-box;
+}
+
+/* --- Navigation Buttons --- */
+.nav-button {
+  display: inline-block;
+  /* Ensure proper block behavior */
+  background-color: rgb(50, 90, 170);
+  color: white;
+  /* Black text/arrow */
+  border: none;
+  /* Remove previous border */
+  padding: 12px 16px;
+  /* Adjust padding */
+  text-decoration: none;
+  border-radius: 12px;
+  /* Make it round */
+  font-size: 16px;
+  /* Adjust font size */
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0 5px;
+  transition: background-color 0.6s ease, color 0.6s ease;
+  /* Smooth transition */
+  line-height: 1;
+  /* Adjust line height for vertical centering if needed */
+  width: 100px;
+  /* Fixed width for roundness */
+  height: 30px;
+  /* Fixed height for roundness */
+  text-align: center;
+  /* Center the arrow */
+  box-sizing: border-box;
+}
+
+#heading .nav-button:hover {
+  background-color: white;
+  color: rgb(50, 90, 170);
+}
+
+/* --- Song Content Area --- */
 #song {
-  /* Adjust padding-top to be height of fixed header + desired space */
-  /* You might need to measure the actual height of #heading */
-  padding-top: 140px;
-  /* Example: Adjust this value based on heading height */
+  margin-top: 100px;
+  /* Push down to avoid overlap with header */
+  /* Calculate available height: Viewport minus header, nav, and gap */
+  /* Using max-height is often safer than height */
+  max-height: calc(100vh - var(--header-height) - var(--nav-height) - var(--content-top-gap));
+  /* If using height, ensure short songs don't look weird */
+  /* height: calc(100vh - var(--header-height) - var(--nav-height) - var(--content-top-gap)); */
+
+  /* Enable vertical scrolling *within* #song if content overflows max-height */
+  overflow-y: auto;
+  overflow-x: hidden;
+  /* Prevent horizontal scrollbars */
+
+  /* Horizontal padding */
   padding-left: 20px;
   padding-right: 20px;
-  /* Add some right padding too */
+  padding-top: 60px;
+  padding-bottom: 20px;
 
-  /* Create two columns */
+  box-sizing: border-box;
+  /* Include padding in width/height calculations */
+
+  /* --- Column styles --- */
   column-count: 2;
-
-  /* Adjust the gap between columns */
   column-gap: 40px;
+  column-fill: auto;
+  /* Fill columns sequentially */
 }
 
-/* Corrected selector for break-inside rules */
-/* Apply directly to children of #song */
+/* Prevent elements from breaking across columns */
 #song>table,
 #song>div,
 #song>span,
 #song>p {
   break-inside: avoid-column;
   page-break-inside: avoid;
-  /* Older property for compatibility */
+  /* Older property */
   -webkit-column-break-inside: avoid;
   /* Safari/Chrome */
 }
 
-/* Optional: Add responsiveness. On smaller screens, revert to a single column */
+/* --- Responsive Adjustments --- */
 @media (max-width: 768px) {
+  /* Allow body scrolling on mobile */
+  /* body { overflow: auto; } */
+
+  #setlist-nav {
+    padding-top: var(--header-height);
+    /* Still need to clear header */
+    /* Adjust nav height/gap if needed for mobile */
+  }
+
+  .nav-button {
+    font-size: 10pt;
+    padding: 6px 10px;
+  }
+
   #song {
     column-count: 1;
-    padding-top: 80px;
-    /* Ensure padding is consistent on mobile */
+    /* Single column */
+    column-fill: balance;
+    /* Not relevant for single column */
+    /* Revert height constraints, allow natural flow */
+    height: auto;
+    max-height: none;
+    overflow-y: visible;
+    /* Use main page scrollbar */
+    /* Add back top padding if needed, relative to nav */
+    padding-top: 40px;
+    /* Small gap below nav */
   }
 }
 
-/* Removed duplicate media query */
 
-
+/* --- Basic Lyric/Chord Styles --- */
 .lyrics,
 .lyrics_chorus {
   font-size: 22pt;
+  /* Consider using relative units like em or rem */
 }
 
 .lyrics_tab,
 .lyrics_chorus_tab {
-  font-family: "Courier New", Courier;
+  font-family: "Courier New", Courier, monospace;
+  /* Add monospace fallback */
   font-size: 18pt;
 }
 
@@ -102,8 +233,10 @@ body {
   font-size: 18pt;
   color: blue;
   padding-right: 4pt;
+  /* Consider using px or em */
 }
 
+/* --- Comment Styles --- */
 .comment,
 .comment_italic {
   color: Red;
@@ -113,17 +246,65 @@ body {
 .comment_box {
   background-color: #ffbbaa;
   text-align: center;
+  border: 1px solid #cc8877;
+  /* Use specific border */
+  padding: 10px;
+  margin: 10px 0;
 }
 
 .comment_italic {
   font-style: italic;
 }
 
-.comment_box {
-  border: solid;
-}
-
+/* --- Dim Style --- */
 .dim {
   color: #333;
-  /* Added '#' for hex color */
+}
+
+/* --- Setlist Table Styles (displayset.php) --- */
+.setlist-table {
+  width: 80%;
+  /* Adjust width as needed */
+  margin: 20px auto;
+  /* Center the table with some top/bottom margin */
+  border-collapse: collapse;
+  /* Collapse borders into a single line */
+  font-family: Arial, sans-serif;
+  /* Consistent font */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow */
+}
+
+.setlist-table th,
+.setlist-table td {
+  border: 1px solid #ddd;
+  /* Light grey borders */
+  padding: 10px 15px;
+  /* Padding inside cells */
+  text-align: left;
+  /* Align text to the left */
+}
+
+.setlist-table th {
+  background-color: steelblue;
+  font-weight: bold;
+  color: white;
+}
+
+/* Optional: Add hover effect for rows */
+.setlist-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.setlist-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Style the footer row (Total Duration) to match header */
+.setlist-table tfoot th,
+.setlist-table tfoot td {
+  background-color: steelblue;
+  /* Steel blue background */
+  color: white;
+  /* White text */
 }
