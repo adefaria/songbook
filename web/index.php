@@ -44,16 +44,90 @@
       this page will automatically update so you can come back here and get your
       copy.</p>
 
-    <?php
-    artistsDropdown();
-    setsDropdown();
-    songsDropdown();
-    ?>
+    <table>
+      <!-- Artists Dropdown Row -->
+      <tr>
+        <th><label for="artist-select">Artists:</label></th>
+        <td>
+          <form method="get" action="displayartist.php" name="artist_form" id="artist-form">
+            <select name="artist" id="artist-select" class="uniform-input-width">
+              <option value=''>Select an artist...</option>
+              <?php
+              if (isset($artists) && is_array($artists)) {
+                $sorted_artists = $artists; // Use a copy for sorting
+                sort($sorted_artists);
+                foreach ($sorted_artists as $artist_item) {
+                  echo "<option value=\"" . htmlspecialchars($artist_item) . "\">" . htmlspecialchars($artist_item) . "</option>";
+                }
+              }
+              ?>
+            </select>
+          </form>
+        </td>
+        <td><input type="submit" form="artist-form" value="Go"></td>
+      </tr>
 
-    <form method="get" action="search.php" name="search">
-      Search:&nbsp;<input type="text" name="q"><input type="submit" value="Search">
+      <!-- Sets Dropdown Row -->
+      <tr>
+        <th><label for="set-select">Sets:</label></th>
+        <td>
+          <form method="get" action="displayset.php" name="set_form" id="set-form">
+            <select name="set" id="set-select" class="uniform-input-width">
+              <option value=''>Select a set...</option>
+              <?php
+              if (isset($sets) && is_array($sets)) {
+                $sorted_sets = $sets; // Use a copy for sorting
+                sort($sorted_sets);
+                foreach ($sorted_sets as $set_item) {
+                  $title = basename($set_item, ".lst");
+                  echo "<option value=\"" . htmlspecialchars($title . ".lst") . "\">" . htmlspecialchars($title) . "</option>";
+                }
+              }
+              ?>
+            </select>
+          </form>
+        </td>
+        <td><input type="submit" form="set-form" value="Go"></td>
+      </tr>
 
-    </form>
+      <!-- Songs Dropdown Row -->
+      <tr>
+        <th><label for="song-select">Songs:</label></th>
+        <td>
+          <form method="get" action="webchord.cgi" name="song_form" id="song-form">
+            <select name="chordpro" id="song-select" class="uniform-input-width">
+              <option value=''>Select a song...</option>
+              <?php
+              if (isset($songs) && is_array($songs)) {
+                $sorted_songs = $songs; // Use a copy for sorting
+                sort($sorted_songs);
+                foreach ($sorted_songs as $song_item) {
+                  $title = basename($song_item, ".pro");
+                  // The original songsDropdown also showed artist, but the value was just the .pro file.
+                  // For simplicity here, just the title is used for display, matching the value.
+                  echo "<option value=\"" . htmlspecialchars($title . ".pro") . "\">" . htmlspecialchars($title) . "</option>";
+                }
+              }
+              ?>
+            </select>
+          </form>
+        </td>
+        <td><input type="submit" form="song-form" value="Go"></td>
+      </tr>
+
+      <!-- Search Row -->
+      <tr>
+        <th><label for="search-q">Search:</label></th>
+        <td>
+          <form method="get" action="search.php" name="search_form" id="search-form">
+            <input type="text" name="q" id="search-q" class="uniform-input-width">
+          </form>
+        </td>
+        <td><input type="submit" form="search-form" value="Search"></td>
+      </tr>
+
+    </table>
+
 </body>
 
 </html>
