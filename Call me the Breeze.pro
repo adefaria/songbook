@@ -21,7 +21,7 @@ And I ain't hidin' from nobody
 Nobody's hidin' from me
 Oh, that's the way its supposed to be
 
-[c:Guitar Solo}
+{c:Guitar Solo}
 
 Well, I got that green light baby
 I got to keep movin' on
