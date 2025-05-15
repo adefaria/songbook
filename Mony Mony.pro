@@ -1,6 +1,7 @@
 {title:Mony Mony}
 {subtitle:Billy Idol}
 {duration:5:02}
+{musicpath:Music/Mony Mony.mp3}
 {key:F#}
 
 [F#]
