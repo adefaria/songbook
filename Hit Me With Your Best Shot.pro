@@ -30,6 +30,6 @@ I'll get right back on my feet again
 
 {c:First verse}
 
-{c:Chorus} 2x
-
+{c:Chorus} 
+2x
 {c:Outro}
