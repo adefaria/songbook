@@ -21,7 +21,7 @@
     <tbody>
       <tr>
         <td align="left" style="padding-left: 10px;" valign="middle" width="50">
-          <a href="/songbook"><img alt="Home" border="0" src="/Icons/Home.ico"
+          <a href="/songbook"><img alt="Home" border="0" src="/songbook/Music.ico"
               style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0</a>
         </td>
         <td align=" center">
