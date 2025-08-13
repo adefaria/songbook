@@ -11,7 +11,7 @@ If I saw you in Heaven?
 
 I must be strong
 And carry on
-‘Cause I know I don't belong
+'Cause I know I don't belong
 Here in Heaven
 
 Would you hold my hand
@@ -21,7 +21,7 @@ If I saw you in Heaven?
 
 I'll find my way
 Through night and day
-‘Cause I know I just can't stay
+'Cause I know I just can't stay
 Here in Heaven
 
 Time can bring you down
