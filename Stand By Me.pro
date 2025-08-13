@@ -2,6 +2,7 @@
 {subtitle:John Lennon}
 {musicpath:Music/Stand By Me.mp3}
 {duration:2:58}
+{key:A}
 
 When the [D]night has come
 And the [Bm]land is dark
