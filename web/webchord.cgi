@@ -624,6 +624,12 @@ print $q->start_html (
         -href => '/songbook/question.mark.css'
       }
     ),
+    $q->Link ({
+        -rel  => 'shortcut icon',
+        -type => 'image/x-icon',          # Or image/png if it's a PNG file
+        -href => '/songbook/Music.ico'    # Path to your favicon
+      }
+    ),
     qq{<script src="}
       . $q->escapeHTML ('/songbook/songbook.js')
       . qq{"></script>},
@@ -636,7 +642,7 @@ print $q->start_html (
 my $home_link = $q->a (
   {-href => '/songbook'},
   $q->img ({
-      -src    => '/Icons/Home.ico',
+      -src    => '/songbook/Music.ico',
       -alt    => 'Home',
       -border => 0,
       -style  => 'width: 100%; height: auto;',

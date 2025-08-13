@@ -62,12 +62,13 @@
 <body style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
   <table width="100%" id="heading">
     <tbody>
-      <tr>
-        <td align="left" style="padding-left: 10px;" valign="middle" width="50"><a href="/songbook"><img alt=" Home"
-              src="/Icons/Home.ico" style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0</a></td>
-        <td align=" center">
-          <h1 style="color: white">Andrew DeFaria's Songbook</h1>
-        </td>
+      <td align="left" style="padding-left: 10px;" valign="middle" width="50">
+        <a href="/songbook"><img alt="Home" src="/songbook/Music.ico"
+            style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0
+      </td></a>
+      <td align=" center">
+        <h1 style="color: white">Andrew DeFaria's Songbook</h1>
+      </td>
       </tr>
     </tbody>
   </table>
