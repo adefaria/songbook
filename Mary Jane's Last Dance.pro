@@ -2,6 +2,7 @@
 {subtitle:Tom Petty}
 {musicpath:Music/Mary Jane's Last Dance.mp3}
 {duration:4:41}
+{key:Am}
 
 [A] [G] [D] 4x
 
