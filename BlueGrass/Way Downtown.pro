@@ -1,2 +1,0 @@
-{title:Way Downtown}
-{subtitle:}
