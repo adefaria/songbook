@@ -4,13 +4,13 @@
 {duration:3:43}
 {key:Gm}
 
-[Gm] 
+[Gm]
 
 [Gm]Down around the corner, half a mile from here
 See them long trains run, and you watch them disappear
 Without [Cm]love, where would you be now [Gm]
 Without [Eb]lo-[Dsus4]o-o-ove [Gm]
- 
+
 You know I saw miss Lucy down along the tracks
 She lost her home and her family and she won't be coming back
 Without love, where would you be right now

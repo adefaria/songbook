@@ -6,6 +6,36 @@ var bscrollpoint = 0;
 
 var song, interval, scroll, body;
 
+/**
+ * Navigates to the next song in the setlist if setlist data is available.
+ * This function relies on global variables `setlistSongs`, `currentSongIndex`,
+ * and `setlistName` being defined in the HTML page by the server.
+ */
+function goToNextSong() {
+  // Check if the necessary setlist variables exist.
+  if (
+    typeof setlistSongs !== "undefined" &&
+    typeof currentSongIndex !== "undefined" &&
+    typeof setlistName !== "undefined"
+  ) {
+    const nextSongIndex = currentSongIndex + 1;
+
+    // Check if there is a next song in the array.
+    if (nextSongIndex < setlistSongs.length) {
+      const nextSongFile = setlistSongs[nextSongIndex];
+      // Construct the URL for the next song page.
+      window.location.href = `webchord.cgi?chordpro=${encodeURIComponent(
+        nextSongFile
+      )}&setlist=${encodeURIComponent(setlistName)}&songidx=${nextSongIndex}`;
+    } else {
+      // Optionally, navigate back to the setlist display page when the set is over.
+      window.location.href = `displayset.php?set=${encodeURIComponent(
+        setlistName
+      )}`;
+    }
+  }
+}
+
 // Key constants
 const KEY_SPACE = "Space";
 const KEY_ARROW_LEFT = "ArrowLeft";
@@ -79,12 +109,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   song.addEventListener("ended", function () {
-    console.log("Debug: Audio ended event triggered.");
-    clearInterval(interval);
-    clearInterval(scroll);
-    song.currentTime = starttime;
-    if (ascrollpoint !== 0) window.scrollTo(0, ascrollpoint);
-    else window.scrollTo(0, 0);
+    // When the song ends, automatically navigate to the next song.
+    goToNextSong();
   });
 
   // If the song is already playing due to autoplay when this script runs
@@ -254,6 +280,26 @@ document.addEventListener("DOMContentLoaded", function () {
         window.location.href = targetUrl;
       }
     });
+  }
+
+  // Add event listener for the "Next Song" button
+  const nextSongButton = document.getElementById("next-song-btn");
+  if (nextSongButton) {
+    nextSongButton.addEventListener("click", function () {
+      goToNextSong();
+    });
+
+    // Conditionally show the button only if there is a next song.
+    if (
+      typeof setlistSongs !== "undefined" &&
+      typeof currentSongIndex !== "undefined" &&
+      currentSongIndex + 1 < setlistSongs.length
+    ) {
+      // Make sure the next song in the array is not null
+      if (setlistSongs[currentSongIndex + 1]) {
+        nextSongButton.style.display = "block"; // Or "inline-block"
+      }
+    }
   }
 });
 

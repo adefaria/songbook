@@ -17,7 +17,7 @@
 
   // --- Input Sanitization & Validation ---
   $set_param = $_REQUEST["set"] ?? ''; // Use null coalescing operator for safety
-
+  
   // Basic check: Ensure $set looks like a filename, ends with .lst, and prevent traversal.
   if (empty($set_param) || basename($set_param) !== $set_param || !str_ends_with(strtolower($set_param), '.lst')) {
     // Handle error appropriately - display message, log, exit
@@ -56,7 +56,7 @@
       <tr>
         <td align="left" style="padding-left: 10px;" valign="middle" width="50">
           <a href="/songbook"><img alt="Home" border="0" src="/songbook/Music.ico"
-              style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0</a>
+              style="width: 100%; height: auto;"><br>&nbsp;2.1</a>
         </td>
         <td align=" center">
           <h1 style="color: white"><?php echo $set_display_title; ?></h1>
@@ -77,7 +77,7 @@
           $song_details_list = []; // Array to hold processed song data
           $current_song_index = 0; // 0-based index for navigation parameters
           $set_name_from_file = ''; // To store the name from the first line
-
+        
           // Check if $set_lines is valid and has content
           if ($set_lines !== false && count($set_lines) > 0) {
             // Assume the first line is the set name and remove it from the array
@@ -109,7 +109,7 @@
               // Find song details using the function from songbook.php
               // Pass null for library to use the default search logic in findSong
               $song_data = findSong($title, null); // Contains file, artist, key, etc.
-
+        
               // Store necessary info for this song
               $details = [
                 'display_title' => htmlspecialchars($title), // Sanitize title from line
@@ -130,7 +130,7 @@
             debug("Setlist file was readable but empty after removing header/comments.");
           }
           // Note: The case where $set_lines === false is handled by the $error_message check above
-
+        
           // Print table column headers
           print <<<END
 <tr>
@@ -149,7 +149,7 @@ END;
           // --- Iterate through the collected details and display table rows ---
           $count = 0; // 1-based counter for display
           $totalDuration = 0; // Accumulator for total time
-
+        
           // Check if there are any songs to display
           if (empty($song_details_list)) {
             print '<tr><td colspan="7" class="centered">No songs found in this setlist.</td></tr>';
@@ -158,13 +158,13 @@ END;
               $count++;
               $song = $details['song_metadata']; // Get the metadata array from findSong
               $song_file_for_link = $song['file'] ?? ''; // Get the file path if found
-
+        
               // --- Build Link to webchord.cgi with Navigation Parameters ---
               if ($details['found']) {
                 // Use fileExists again to ensure we get the correctly cased filename
                 $actual_file_path = fileExists($song_file_for_link);
                 $actual_filename = basename($actual_file_path); // Get just the filename
-
+        
                 // Build query parameters using http_build_query for safe encoding
                 $link_params = http_build_query([
                   'chordpro' => $actual_file_path, // Pass the full path

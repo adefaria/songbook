@@ -22,7 +22,7 @@
       <tr>
         <td align="left" style="padding-left: 10px;" valign="middle" width="50">
           <a href="/songbook"><img alt="Home" border="0" src="/songbook/Music.ico"
-              style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0</a>
+              style="width: 100%; height: auto;"><br>&nbsp;2.1</a>
         </td>
         <td align=" center">
           <h1 style="color: white">Songs from <?php echo $artist; ?></h1>
