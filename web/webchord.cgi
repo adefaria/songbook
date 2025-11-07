@@ -79,6 +79,20 @@ sub trim {
   return $s;
 }    # trim
 
+# Custom JavaScript string escaper to avoid dependency on newer CGI.pm versions.
+sub escape_javascript {
+  my $str = shift;
+  return '' unless defined $str;
+
+  # Escape backslashes first, then other special characters.
+  $str =~ s/\\/\\\\/g;
+  $str =~ s/'/\\'/g;
+  $str =~ s/"/\\"/g;
+  $str =~ s/\n/\\n/g;
+  $str =~ s/\r/\\r/g;
+  return $str;
+}    # escape_javascript
+
 # Searches priority folders and base directory, case-insensitively.
 sub find_actual_song_path {
   my ($base_search_dir, $filename) = @_;
@@ -97,7 +111,8 @@ sub find_actual_song_path {
 
   foreach my $dir (@dirs_to_search) {
     next unless -d $dir;
-    opendir my $dh, $dir or do {warn "Cannot open directory '$dir': $!"; next;};
+    opendir my $dh, $dir
+      or do {warn "Cannot open directory '$dir': $!"; next;};
     debug ("[find_actual_song_path] Checking dir '$dir'");
     while (my $entry = readdir $dh) {
       if (lc ($entry) eq $lower_filename) {
@@ -324,7 +339,9 @@ sub chopro2html {
         $html_output .= "<tr>\n";
         for (my $j = 0; $j < @lyrics; $j++) {
           my $colspan =
-            ($j < $#lyrics || @chords == @lyrics) ? 1 : (@chords - @lyrics + 1);
+            ($j < $#lyrics || @chords == @lyrics)
+            ? 1
+            : (@chords - @lyrics + 1);
 
       # Display whatever was parsed as lyrics (likely includes escaped entities)
           my $lyric_display =
@@ -380,10 +397,6 @@ sub chopro2html {
   return (\%meta, $html_output);
 }    # chopro2html
 
-# ==================
-# === Main Logic ===
-# ==================
-
 # --- Validate Song File Parameter ---
 unless (defined $song_filename_param) {
   error ("No 'chordpro' parameter specified.");
@@ -424,9 +437,11 @@ open my $file_fh, '<', $infile
 close $file_fh;
 
 # --- Declare Nav Variables (outside the conditional block) ---
-my $nav_html       = '';
-my $prev_link_html = '';
-my $next_link_html = '';
+my $nav_html             = '';
+my $prev_link_html       = '';
+my $next_link_html       = '';
+my $setlist_js_block     = '';
+my $next_song_url_for_js = '';    # Will hold the URL for the JS to use
 
 # --- Generate Setlist Navigation HTML (Conditionally) ---
 if ( defined $setlist_name_param
@@ -451,6 +466,7 @@ if ( defined $setlist_name_param
     my $setlist_path = File::Spec->catfile ($list_dir, $setlist_name_param);
     debug ("Attempting to read setlist: $setlist_path");
     if (-f $setlist_path && -r _) {
+      my @all_song_paths_in_set;      # For JS array
       my @songs_in_list_filenames;    # Holds just the filenames found
       if (open my $setlist_fh, '<', $setlist_path) {
         my $is_first_line = 1;
@@ -476,15 +492,20 @@ if ( defined $setlist_name_param
 
           if ($actual_song_file_path) {
 
-            # Store only the filename part for the URL
-            my $file = fileparse ($actual_song_file_path);
-            push @songs_in_list_filenames, $file;
-            debug ("Found '$file' for setlist entry '$song_entry_title'");
+            # Store the full path for the JS array
+            push @all_song_paths_in_set, $actual_song_file_path;
+
+            # Store the full path for the Prev/Next buttons as well
+            push @songs_in_list_filenames, $actual_song_file_path;
+            debug (
+"Found '$actual_song_file_path' for setlist entry '$song_entry_title'"
+            );
           } else {
 
-            # Add undef placeholder to keep indices correct
+            # Add undef placeholders to keep indices correct
+            push @all_song_paths_in_set,   undef;
             push @songs_in_list_filenames, undef;
-          }
+          } ## end else [ if ($actual_song_file_path)]
         } ## end while (my $line = <$setlist_fh>)
         close $setlist_fh;
 
@@ -511,10 +532,13 @@ if ( defined $setlist_name_param
 
             # Manually build the query string...
             my @query_parts;
-            push @query_parts, "chordpro=" . $q->escape ($prev_song_file);
+
+            # Use fileparse here to get just the filename for the URL
+            push @query_parts,
+              "chordpro=" . $q->escape (fileparse ($prev_song_file));
             push @query_parts, "setlist=" . $q->escape ($setlist_name_param);
             push @query_parts, "songidx=" . $q->escape ($prev_idx);
-            my $prev_url_query_manual = "?" . join (';', @query_parts);
+            my $prev_url_query_manual = "?" . join ('&', @query_parts);
             my $script_basename       = fileparse ($q->script_name ());
 
             # Extract title for display
@@ -556,11 +580,20 @@ if ( defined $setlist_name_param
 
             # Manually build the query string...
             my @query_parts;
-            push @query_parts, "chordpro=" . $q->escape ($next_song_file);
+
+            # Use fileparse here to get just the filename for the URL
+            push @query_parts,
+              "chordpro=" . $q->escape (fileparse ($next_song_file));
             push @query_parts, "setlist=" . $q->escape ($setlist_name_param);
             push @query_parts, "songidx=" . $q->escape ($next_idx);
-            my $next_url_query_manual = "?" . join (';', @query_parts);
+            my $next_url_query_manual = "?" . join ('&', @query_parts);
             my $script_basename       = fileparse ($q->script_name ());
+
+         # --- NEW: Store the full URL for the audio player's data attribute ---
+            $next_song_url_for_js = $script_basename . $next_url_query_manual;
+            debug ("Next Song URL for JS: " . $next_song_url_for_js);
+
+            # --- END NEW ---
 
             # Extract title for display
             my ($next_title)       = fileparse ($next_song_file, qr/\.[^.]*$/);
@@ -573,10 +606,12 @@ if ( defined $setlist_name_param
               "Next &#10095;"
             );
 
-            # Wrap button and title
-            $next_link_html = $q->div ({-style => 'text-align: center;'},
-              $next_button_html, $q->br,
-              $q->span ({-class => 'nav-title'}, $escaped_next_title));
+            # Wrap button and title only if the button was created
+            if ($next_button_html) {
+              $next_link_html = $q->div ({-style => 'text-align: center;'},
+                $next_button_html, $q->br,
+                $q->span ({-class => 'nav-title'}, $escaped_next_title));
+            }
           } else {
             debug (
 "Next Button Check: File at index $next_idx was unexpectedly undef."
@@ -586,6 +621,31 @@ if ( defined $setlist_name_param
           debug ("Next Button Check: No valid next song found.");
         }
 
+        # --- NEW: Generate JavaScript block with setlist data ---
+        my $js_setlist_name = escape_javascript ($setlist_name_param);
+        my $js_song_idx     = $song_index_param;  # Already validated as integer
+
+        # Create the JS array of song paths
+        my @js_song_array_items;
+        foreach my $path (@all_song_paths_in_set) {
+          if (defined $path) {
+
+            # Escape the path for use inside a JS string literal
+            push @js_song_array_items, "'" . escape_javascript ($path) . "'";
+          } else {
+
+            # Use 'null' for songs that weren't found
+            push @js_song_array_items, 'null';
+          }
+        } ## end foreach my $path (@all_song_paths_in_set)
+        my $js_song_array_string = join (", ", @js_song_array_items);
+
+        $setlist_js_block = qq{
+<script>
+  const setlistName = '$js_setlist_name';
+  const currentSongIndex = $js_song_idx;
+  const setlistSongs = [$js_song_array_string];
+</script>};
       } else {
         warning ("Could not open setlist file '$setlist_path': $!");
       }
@@ -633,6 +693,7 @@ print $q->start_html (
     qq{<script src="}
       . $q->escapeHTML ('/songbook/songbook.js')
       . qq{"></script>},
+    $setlist_js_block,    # Add the setlist JS block here
     qq{<script src="}
       . $q->escapeHTML ('/songbook/question.mark.js')
       . qq{"></script>}
@@ -677,7 +738,7 @@ my $audio_player = '';
 if ($audio_source) {
   my $style_attr = 'padding:0; margin:0; width: 95%;';
   $audio_player =
-      qq{<audio id="song_audio_player" controls autoplay style="$style_attr">\n}
+qq{<audio id="song_audio_player" controls autoplay style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
     . $audio_source
     . qq{\nYour browser does not support HTML5 Audio.\n</audio>};
 } ## end if ($audio_source)
@@ -738,7 +799,7 @@ print $q->table (
         -valign => 'middle',
         -style  => 'padding-left: 10px;'    # Add padding to the cell
       },
-      $home_link . '<br><font size="5pt">&nbsp;&nbsp;2.0</font>'
+      $home_link . '<br><font size="5pt">&nbsp;2.1</font>'
     ),
 
     # Cell 2: Previous Button (only if it exists)
@@ -761,8 +822,11 @@ print $q->table (
     ),
 
     # Cell 4: Next Button (only if it exists)
-    $q->td (
-      {-align => 'left', -valign => 'middle', -style => 'padding-left: 10px;'},
+    $q->td ({
+        -align  => 'left',
+        -valign => 'middle',
+        -style  => 'padding-left: 10px;'
+      },
       $next_link_html || ''    # Output button or empty string
     ),
 

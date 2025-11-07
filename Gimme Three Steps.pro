@@ -4,8 +4,6 @@
 {duration:3:50}
 {key:D}
 
-{c:Lindsay sings}
-
 [D] [A] [D] [A] [D] 2x
 
 [D] [A] [D] [E] [A]
@@ -47,6 +45,8 @@ Gimme [A]three steps towards the door?
 [D]Gimme three steps, gimme three steps, mister
 And you'll [A]never see of me no [D]more
 For, sure
+
+{c:Train like lick}
 
 Well the crowd cleared away
 And I began to pray
