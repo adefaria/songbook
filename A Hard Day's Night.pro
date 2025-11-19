@@ -2,6 +2,7 @@
 {subtitle:Beatles}
 {duration:2:33}
 {key:G}
+{musicpath:Music/A Hard Day's Night.mp3}
 
 [Fadd2]
 
@@ -54,4 +55,3 @@ But when I get home to you I find the things that you do
 Will make me feel alright
 You know I feel alright
 You know I feel alright
-{musicpath:Music/A Hard Day's Night.mp3}
