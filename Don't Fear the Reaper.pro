@@ -1,0 +1,45 @@
+{title:Don't Fear the Reaper}
+{subtitle:Blue Öyster Cult}
+{duration:5:08}
+{musicpath:Music/Don't Fear the Reaper.mp3}
+{key:Am}
+
+All our times have come
+Here, but now they're gone
+Seasons don't fear the Reaper
+Nor do the wind, the sun, or the rain
+Come on, baby
+(Don't fear the Reaper) Baby, take my hand
+(Don't fear the Reaper) We'll be able to fly
+(Don't fear the Reaper) Baby, I'm your man
+La, la, la, la, la
+La, la, la, la, la
+
+Valentine is done
+Here, but now they're gone
+Romeo and Juliet
+Are together in eternity (Romeo and Juliet)
+40, 000 men and women everyday (like Romeo and Juliet)
+40, 000 men and women everyday (redefine happiness)
+Another 40, 000 coming everyday
+Come on, baby
+(Don't fear the Reaper) Baby, take my hand
+(Don't fear the Reaper) We'll be able to fly
+(Don't fear the Reaper) Baby, I'm your man
+La, la, la, la, la
+La, la, la, la, la
+
+Love of two is one
+Here, but now they're gone
+Came the last night of sadness
+And it was clear she couldn't go on
+And the door was open and the wind appeared
+The candles blew and then disappeared
+The curtains flew and then he appeared
+Come on, baby
+(And she had no fear) And she ran to him
+(Then they started to fly) They looked backward and said goodbye
+(She had become like they are) She had taken his hand
+(She had become like they are) Come on, baby
+(Don't fear the Reaper)
+
