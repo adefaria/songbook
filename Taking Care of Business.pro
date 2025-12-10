@@ -6,7 +6,7 @@
 
 {c:Intro}
 
-[B] [A] [E] {c:4x}
+[B] [A] [E] 4x
 
 [B]You get up every morning
 From your [A]alarm clock's warning
