@@ -4,7 +4,9 @@
 {duration:2:49}
 {key:C}
 
-{c:Intro} [C]
+{c:Intro}
+
+[C]
 
 {c:Chorus}
 
@@ -23,7 +25,9 @@ And it's all because
 
 {c:Chorus}
 
-[Bb]{c:Lead over the Verse} 
+[Bb]
+
+{c:Lead over the Verse} 
 
 [C] [D] [Eb] [E] [F]
 

@@ -2,18 +2,18 @@
 {subtitle:Bachman Turner Overdrive}
 {musicpath:Music/Taking Care of Business.mp3}
 {duration:4:57}
-{key:B}
+{key:c}
 
 {c:Intro}
 
-[B] [A] [E] 4x
+[C] [Bb] [F] 4x
 
-[B]You get up every morning
-From your [A]alarm clock's warning
-Take the [E]8:15 into the c[B]ity
+[C]You get up every morning
+From your [Bb]alarm clock's warning
+Take the [F]8:15 into the c[C]ity
 There's a whistle up above
-And people [A]pushin', people shovin'
-And the g[E]irls who try to look [B]pretty
+And people [Bb]pushin', people shovin'
+And the g[F]irls who try to look [C]pretty
 
 And if your train's on time
 You can get to work by nine
@@ -25,10 +25,10 @@ I love to work at nothing all day
 {c:Chorus}
 
 And I'll be
-[B]Taking care of business [A]every day
-[E]Taking care of business [B]every way
-I've been taking care of business, [A]it's all mine
-[E]Taking care of business and [B]working overtime
+[C]Taking care of business [Bb]every day
+[F]Taking care of business [C]every way
+I've been taking care of business, [Bb]it's all mine
+[F]Taking care of business and [C]working overtime
 Work out
 
 {c:Lead}
@@ -51,10 +51,10 @@ We love to work at nothing all day
 
 {c:Lead}
 
-[B] [E] [D] [A] 2x
+[C] [F] [Eb] [Bb] 2x
 
-[B]Take [E]good care o[D]f my [A]business
-[B]When I'[E]m away, [D]every [A]day whoo!
+[C]Take [F]good care o[Eb]f my [Bb]business
+[C]When I'[F]m away, [Eb]every [Bb]day whoo!
 
 {c:Lead}
 
@@ -76,10 +76,10 @@ I love to work at nothing all day
 
 Takin' care of business (4x)
 
-[B]Takin' care of business - [A]Everyday
-[E]Takin' care of business - [B]Everyway
-[B]Takin' care of business - [A]It's all mine
-[B]Takin' care of business - [B]And working overtime
+[C]Takin' care of business - [Bb]Everyday
+[F]Takin' care of business - [C]Everyway
+[C]Takin' care of business - [Bb]It's all mine
+[C]Takin' care of business - [C]And working overtime
 
 {c:Repeat and fade}
 
