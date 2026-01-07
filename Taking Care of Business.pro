@@ -2,7 +2,7 @@
 {subtitle:Bachman Turner Overdrive}
 {musicpath:Music/Taking Care of Business.mp3}
 {duration:4:57}
-{key:c}
+{key:C}
 
 {c:Intro}
 
