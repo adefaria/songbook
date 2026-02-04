@@ -12,11 +12,11 @@ Play the way you feel it
 But listen carefully
 
 To the sound of your loneliness
-Like a heartbeat drives you mad
-In the stillness of remembering what you had
-And what you lost
-And what you had
-And what you lost
+Like a (heart)heartbeat drives you (beat)mad
+In the (still)stillness of remembering(ness) what you had
+(Lonely)And what you lost (Ohh)
+And what you had (Ohh)
+And what you lost (Ahh)
 
 {c:Chorus}
 
