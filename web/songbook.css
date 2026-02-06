@@ -1,35 +1,113 @@
+/* Theme Variables */
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --header-bg: #1e1e1e;
+  --header-text: #e0e0e0;
+  --accent-color: rgb(251, 188, 5);
+  /* Google Yellow */
+  --input-bg: #2b2b2b;
+  --input-text: #ffffff;
+  --border-color: #444;
+  --link-color: #bb86fc;
+  --header-height: 120px;
+  --nav-btn-bg: #333;
+  --nav-btn-text: #e0e0e0;
+  --nav-btn-hover-bg: #555;
+  --nav-btn-hover-text: white;
+  color-scheme: dark;
+}
+
+/* Global Input Styling */
+input,
+select,
+textarea {
+  border-radius: 8px;
+  padding: 4px 8px;
+  /* Reduced vertical padding */
+  border: 1px solid var(--border-color);
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  font-size: 0.9rem;
+  /* Reduced font size */
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  background-color: var(--nav-btn-bg);
+  color: var(--nav-btn-text);
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+input[type="submit"]:hover {
+  background-color: var(--nav-btn-hover-bg);
+  color: var(--nav-btn-hover-text);
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #121212;
+  --header-bg: #f5f5f5;
+  /* Light Grey */
+  --header-text: #121212;
+  --accent-color: rgb(251, 188, 5);
+  /* Google Yellow */
+  --input-bg: #f0f0f0;
+  --input-text: #000000;
+  --border-color: #ccc;
+  --link-color: blue;
+  /* Or standard link color */
+  --nav-btn-bg: #e0e0e0;
+  --nav-btn-text: #121212;
+  --nav-btn-hover-text: black;
+  color-scheme: light;
+
+  /* Audio Player Background (match Next button) */
+  audio {
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    /* Common rounding for audio players */
+  }
+}
+
 body {
   padding: 0px;
   border: 0px;
   margin: 0px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#title {
+#title,
+#artist,
+h1,
+h2,
+h3,
+h4,
+h5,
+b,
+strong {
   text-align: center;
-  font-family: Arial, Helvetica;
-  font-size: 22pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--accent-color);
 }
 
-#artist {
-  text-align: center;
-  font-family: Arial, Helvetica;
+h1 {
   font-size: 22pt;
-}
-
-:root {
-  --header-height: 120px;
 }
 
 #heading {
   border: 0;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--border-color);
   position: fixed;
   top: 0;
   left: 0;
   margin: 0;
   padding: 10px 0;
-  background-color: steelblue;
-  color: white;
+  background-color: var(--header-bg);
+  color: var(--header-text);
   width: 100%;
   z-index: 1000;
   height: var(--header-height);
@@ -37,20 +115,36 @@ body {
 }
 
 .uniform-input-width {
-  width: 500px;
+  width: auto;
+  min-width: 300px;
+  /* Give it some base width so it's not too tiny, but let it grow/shrink */
+  max-width: 100%;
   box-sizing: border-box;
 }
 
 #heading a {
-  color: white;
+  color: var(--header-text);
   text-decoration: none;
+}
+
+/* Header spacing adjustments */
+#heading h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 5px;
+}
+
+#heading h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1.2rem;
 }
 
 #heading td .nav-button {
   display: inline-block;
   padding: 5px 10px;
-  border: 1px solid #ccc;
-  color: white;
+  border: 1px solid var(--border-color);
+  color: var(--accent-color);
   text-decoration: none;
   border-radius: 12px;
 }
@@ -64,14 +158,35 @@ body {
 
 /* Apply background on hover */
 #heading td a:hover {
-  background-color: steelblue
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+.home-icon {
+  display: inline-block;
+  color: var(--accent-color);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="light"] .home-icon {
+  color: var(--accent-color);
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+.version-text {
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--accent-color) !important;
 }
 
 /* --- Navigation Buttons --- */
 .nav-button {
   display: inline-block;
-  background-color: rgb(50, 90, 170);
-  color: white;
+  background-color: var(--nav-btn-bg);
+  color: var(--accent-color);
   border: none;
   padding: 12px 16px;
   text-decoration: none;
@@ -89,20 +204,16 @@ body {
 }
 
 #heading .nav-button:hover {
-  background-color: white;
-  color: rgb(50, 90, 170);
+  background-color: var(--nav-btn-hover-bg);
+  color: var(--nav-btn-hover-text);
 }
 
 #song {
   /* Ensure #song is positioned below the fixed header. */
   margin-top: var(--header-height);
-  /* Adjust height to fill viewport below the header. */
-  height: calc(100vh - var(--header-height));
-
-  /* Enable vertical scrolling *within* #song if content overflows its calculated height */
-  overflow-y: auto;
-  overflow-x: hidden;
-  /* Prevent horizontal scrollbars */
+  /* Allow natural height for scrolling */
+  height: auto;
+  overflow: visible;
 
   /* Horizontal padding */
   padding-left: 20px;
@@ -181,22 +292,62 @@ body {
 .chords_tab,
 .chords_chorus_tab {
   font-size: clamp(8px, 1.6vw, 22px);
-  color: blue;
+  color: var(--accent-color);
   padding-right: 4pt;
+}
+
+[data-theme="light"] .chords,
+[data-theme="light"] .chords_chorus,
+[data-theme="light"] .chords_tab,
+[data-theme="light"] .chords_chorus_tab {
+  color: var(--accent-color);
 }
 
 .comment,
 .comment_italic {
-  color: Red;
-  font-size: clamp(8px, 1.6vw, 30px);
+  color: #4caf50;
+  /* Green */
+}
+
+/* Re-define comment color for light mode if needed */
+[data-theme="light"] .comment,
+[data-theme="light"] .comment_italic {
+  color: #2e7d32;
+  /* Darker green for light mode */
 }
 
 .comment_box {
-  background-color: #ffbbaa;
+  background-color: var(--surface-color, #333);
+  color: var(--text-color);
   text-align: center;
-  border: 1px solid #cc8877;
+  border: 1px solid var(--border-color);
   padding: 10px;
   margin: 10px 0;
+}
+
+[data-theme="light"] .comment_box {
+  background-color: #e8f5e9;
+  /* Light green bg */
+  color: black;
+  border-color: #a5d6a7;
+}
+
+/* Helper Classes */
+.accent-text {
+  color: var(--accent-color) !important;
+  text-decoration: none;
+}
+
+.mark-label {
+  font-weight: bold;
+  color: var(--text-color);
+}
+
+.mark-value {
+  font-weight: normal;
+  color: var(--text-color);
+  font-family: Arial, Helvetica, sans-serif;
+  /* Ensure consistent font */
 }
 
 .comment_italic {
@@ -205,53 +356,73 @@ body {
 
 /* --- Dim Style --- */
 .dim {
-  color: #333;
+  color: var(--muted-color, #777);
 }
 
-/* --- Setlist Table Styles (displayset.php) --- */
 .setlist-table {
   width: 80%;
-  /* Adjust width as needed */
   margin: 20px auto;
-  /* Center the table with some top/bottom margin */
   border-collapse: collapse;
-  /* Collapse borders into a single line */
   font-family: Arial, sans-serif;
-  /* Consistent font */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  background-color: var(--surface-color, #1e1e1e);
+  color: var(--text-color);
+}
+
+[data-theme="light"] .setlist-table {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  /* Subtle shadow */
+  background-color: white;
 }
 
 .setlist-table th,
 .setlist-table td {
-  border: 1px solid #ddd;
-  /* Light grey borders */
+  border: 1px solid var(--border-color);
   padding: 10px 15px;
-  /* Padding inside cells */
   text-align: left;
-  /* Align text to the left */
 }
 
 .setlist-table th {
-  background-color: steelblue;
+  background-color: var(--header-bg);
   font-weight: bold;
-  color: white;
+  color: var(--header-text);
 }
 
 /* Optional: Add hover effect for rows */
 .setlist-table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="light"] .setlist-table tbody tr:hover {
   background-color: #f9f9f9;
 }
 
-.setlist-table tbody tr:hover {
-  background-color: #f9f9f9;
-}
-
-/* Style the footer row (Total Duration) to match header */
 .setlist-table tfoot th,
 .setlist-table tfoot td {
-  background-color: steelblue;
-  /* Steel blue background */
-  color: white;
-  /* White text */
+  background-color: var(--header-bg);
+  color: var(--header-text);
+}
+
+/* --- Song List Styles (Artist/Search Pages) --- */
+.song-list {
+  color: var(--text-color);
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.song-list a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.song-list a:hover {
+  text-decoration: underline;
+}
+
+.song-folder {
+  color: var(--muted-color, #888);
+  font-size: 0.9em;
+}
+
+[data-theme="light"] .song-folder {
+  color: #666;
 }

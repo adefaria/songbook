@@ -6,8 +6,7 @@
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook List</title>
   <!-- Ensure CSS paths are correct relative to your web server root -->
-  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css">
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/Music.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css?v=<?php echo time(); ?>">
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
 
@@ -54,12 +53,15 @@
   <table width="100%" id="heading">
     <tbody>
       <tr>
-        <td align="left" style="padding-left: 10px;" valign="middle" width="50">
-          <a href="/songbook"><img alt="Home" border="0" src="/songbook/Music.ico"
-              style="width: 100%; height: auto;"><br>&nbsp;2.1</a>
+        <td align="center" valign="middle" width="50">
+          <a href="/songs" target="_top" style="text-decoration: none;">
+            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+          </a>
+          <div class="version-text">3.0</div>
         </td>
-        <td align=" center">
-          <h1 style="color: white"><?php echo $set_display_title; ?></h1>
+        <td align="center">
+          <h1>Songbook</h1>
+          <h2>Set: <?php echo $set_display_title; ?></h2>
         </td>
       </tr>
     </tbody>
