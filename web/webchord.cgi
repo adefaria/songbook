@@ -743,11 +743,24 @@ if ($title) {
 } ## end if ($title)
 my $audio_player = '';
 if ($audio_source) {
-  my $style_attr = 'padding:0; margin:0; width: 95%;';
+  my $style_attr = 'padding:0; margin:0; width: 85%; vertical-align: middle;';
+
+  my $download_link = $q->a ({
+      -href     => $music_file_web_path,
+      -download => '',
+      -class    => 'accent-text',
+      -style    =>
+'text-decoration: none; margin-left: 5px; font-size: 1.5em; vertical-align: middle;',
+      -title => 'Download Audio'
+    },
+    '&#11015;'
+  );    # Down arrow
+
   $audio_player =
 qq{<audio id="song_audio_player" controls autoplay style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
     . $audio_source
-    . qq{\nYour browser does not support HTML5 Audio.\n</audio>};
+    . qq{\nYour browser does not support HTML5 Audio.\n</audio>}
+    . $download_link;
 } ## end if ($audio_source)
 
 # --- Build the content for the last cell (Audio/Marks) ---
