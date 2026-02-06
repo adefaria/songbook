@@ -34,18 +34,9 @@
   </table>
 
   <div id="content">
-    <p>As a professional musician do yourself a favor and invest in a tablet or if
-      you must an iPad and get either SongBook (for Android) or OnSong (for iPad) then
-      send me a request to sign up for Dropbox which integrates with these apps and
-      your "songbook" will be automated. Note that Songbook is also available for
-      Windows. More info on this is available <a href="songbook.html">here</a>. For
-      people who must remain with paper...</p>
+    <p>This is my songbook. It is designed to be a functional web app that can display lead sheets and play audio for the songs in the Songbook. It also uses the store of ChordPro formated files and set lists shared from my NextCloud server to the Songbook App on my Android Tablet.</p>
 
-    <p>The following songs are available here. Select an artist or a song and then
-      Go or type in a lyric or song title into the search box. You can print the
-      result if you wish to have a paper copy. If new songs are added by me or others
-      this page will automatically update so you can come back here and get your
-      copy.</p>
+    <p>Select an Artist, Set or Song or type in a lyric or song title in the search box.</p>
 
     <table>
       <!-- Artists Dropdown Row -->
