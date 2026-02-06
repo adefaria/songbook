@@ -5,8 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook: Search</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css">
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/Music.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css?v=<?php echo time(); ?>">
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
 
@@ -62,13 +61,17 @@
 <body style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
   <table width="100%" id="heading">
     <tbody>
-      <td align="left" style="padding-left: 10px;" valign="middle" width="50">
-        <a href="/songbook"><img alt="Home" src="/songbook/Music.ico"
-            style="width: 100%; height: auto;"><br>&nbsp;&nbsp;2.0
-      </td></a>
-      <td align=" center">
-        <h1 style="color: white">Andrew DeFaria's Songbook</h1>
-      </td>
+      <tr>
+        <td align="center" valign="middle" width="50">
+          <a href="/songs" target="_top" style="text-decoration: none;">
+            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+          </a>
+          <div class="version-text">3.0</div>
+        </td>
+        <td align="center">
+          <h1>Songbook</h1>
+          <h2>Search Results</h2>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -88,14 +91,14 @@
 
     <?php
     if (count($songmatches) > 0) {
-      print "<ol>";
+      print "<ol class='song-list'>";
     } // if
     
     foreach ($songmatches as $songmatch) {
       $title = basename($songmatch['file'], ".pro");
       print "<li><a href=\"webchord.cgi?chordpro=$songmatch[file]\">$title</a>";
       print " - <a href=\"displayartist.php?artist=$songmatch[artist]\">$songmatch[artist]</a>";
-      print " <font color=\"#ccc\"> $songmatch[folder]</font></li>";
+      print " <span class=\"song-folder\"> $songmatch[folder]</span></li>";
     } // foreach
     
     if (count($songmatches) > 0) {

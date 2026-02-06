@@ -5,9 +5,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/Music.css">
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
-  <link rel="stylesheet" type="text/css" href="songbook.css">
+  <link rel="stylesheet" type="text/css" href="songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
 
   <script src="songbook.js"></script>
@@ -21,10 +20,14 @@
   <table width="100%" id="heading">
     <tbody>
       <tr>
-        <td align="left" style="padding-left: 10px;" valign="middle" width="50"><img alt="Home"
-            src="/songbook/Music.ico" style="width: 100%; height: auto;"><br>&nbsp;2.1</td>
-        <td align=" center">
-          <h1 style="color: white">Andrew DeFaria's Songbook</h1>
+        <td align="center" valign="middle" width="50">
+          <a href="/songs" target="_top" style="text-decoration: none;">
+            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+          </a>
+          <div class="version-text">3.0</div>
+        </td>
+        <td align="center">
+          <h1>Songbook</h1>
         </td>
       </tr>
     </tbody>

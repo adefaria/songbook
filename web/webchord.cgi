@@ -210,6 +210,12 @@ sub chopro2html {
   if ($chopro_content =~ /^\{(?:st|subtitle):\s*(.+?)\s*\}/mi) {
     $meta{artist} = trim ($1);
   }
+  if ($chopro_content =~ /^\{key:\s*(.+?)\s*\}/mi) {
+    $meta{key} = trim ($1);
+  }
+  if ($chopro_content =~ /^\{capo:\s*(.+?)\s*\}/mi) {
+    $meta{capo} = trim ($1);
+  }
 
   my $mode     = 0;    # 0=lyrics, 1=chorus, 2=tab, 3=chorus_tab
   my @lClasses = ('lyrics', 'lyrics_chorus', 'lyrics_tab', 'lyrics_chorus_tab');
@@ -675,7 +681,7 @@ print $q->start_html (
     $q->Link ({
         -rel  => 'stylesheet',
         -type => 'text/css',
-        -href => '/songbook/songbook.css'
+        -href => '/songbook/songbook.css?v=' . time ()
       }
     ),
     $q->Link ({
@@ -717,7 +723,8 @@ my $title_link = $q->a (
 );
 my $artist_link = $q->a ({
     -href => "/songbook/displayartist.php?artist="
-      . $q->escape ($meta->{artist})
+      . $q->escape ($meta->{artist}),
+    -class => 'accent-text',
   },
   $q->escapeHTML ($meta->{artist})
 );
@@ -746,22 +753,17 @@ qq{<audio id="song_audio_player" controls autoplay style="$style_attr" data-next
 # --- Build the content for the last cell (Audio/Marks) ---
 my $last_cell_content = $audio_player;
 if ($audio_player) {
-  $last_cell_content .= $q->br . $q->p ({
+  $last_cell_content .= $q->br
+    . $q->p ({
       -align => 'center',
-      -style =>
-        'margin-top: 20px; color: white;'  # Set default color for the paragraph
+      -style => 'margin-top: 5px; color: var(--text-color); margin-bottom: 0;'
     },
-    $q->b ({-style => 'color: white;'}, "Mark A:"),  # Make label white and bold
-    $q->span (
-      {-id => 'a', -style => 'color: white; font-weight: bold;'}
-      ,            # Make value white and bold
-      "not set"    # Removed italics
-    ),
+    $q->span ({-class => 'mark-label'},                "Mark A: "),
+    $q->span ({-id    => 'a', -class => 'mark-value'}, "not set"),
     '&nbsp;&nbsp;',
-    $q->b ({-style => 'color: white;'}, "Mark B:"),  # Make label white and bold
-    $q->span ({-id => 'b', -style => 'color: white; font-weight: bold;'},
-      "not set")                                     # Make value white and bold
-  );
+    $q->span ({-class => 'mark-label'},                "Mark B: "),
+    $q->span ({-id    => 'b', -class => 'mark-value'}, "not set")
+    );
 } ## end if ($audio_player)
 
 # --- Print the Heading Table ---
@@ -792,48 +794,72 @@ print $q->table (
 
   $q->Tr (
 
-    # Cell 1: Home Icon
+    # Cell 1: Home Icon and Version
     $q->td ({
-        -align  => 'left',
-        -width  => '50',                    # Keep width if desired, or adjust
+        -align  => 'center',
+        -width  => '50',
         -valign => 'middle',
-        -style  => 'padding-left: 10px;'    # Add padding to the cell
       },
-      $home_link . '<br><font size="5pt">&nbsp;2.1</font>'
-    ),
-
-    # Cell 2: Previous Button (only if it exists)
-    $q->td ({
-        -align  => 'right',
-        -valign => 'middle',
-        -style  => 'padding-right: 10px;'
-      },
-      $prev_link_html || ''    # Output button or empty string
-    ),
-
-    # Cell 3: Title and Artist
-    $q->td (
-      $q->div (
-        {-align => 'center', -valign => 'middle'},
-        $q->div ({-id => 'title'},  $setlist_link_html_wrapped),
-        $q->div ({-id => 'title'},  'Title: ' . $title_link),
-        $q->div ({-id => 'artist'}, 'Artist: ' . $artist_link)
+      $q->a ({
+          -href   => '/songs',
+          -target => '_top',
+          -style  => 'text-decoration: none;'
+        },
+        $q->span ({
+            -class => 'home-icon',
+            -style => 'font-size: 40px; line-height: 1;',
+          },
+          '&#9835;'
+        )
       ),
+      $q->div ({
+          -class => 'version-text',
+        },
+        "3.0"
+      )
     ),
 
-    # Cell 4: Next Button (only if it exists)
-    $q->td ({
-        -align  => 'left',
-        -valign => 'middle',
-        -style  => 'padding-left: 10px;'
-      },
-      $next_link_html || ''    # Output button or empty string
-    ),
-
-    # Cell 5: Audio Player and A/B Marks
+    # Cell 2: Navigation Buttons (Previous)
     $q->td (
-      {-align => 'right', -width => '300', -valign => 'middle'}
-      ,                        # Use middle valign
+      {-align => 'center', -valign => 'middle', -width => '10%'},
+      $prev_link_html || ''
+    ),
+
+    # Cell 3: Title and Links
+    $q->td ({
+        -align => 'center',
+      },
+      $q->h1 ("Songbook"),
+      $q->h2 ($title_link),
+
+      # Links Row (Artist, etc.)
+      $q->div (
+        {-class => 'dim', -style => 'font-size: 10pt; margin-top: -5px;'},
+        "by ",
+        $artist_link,
+        $q->span (" | Key: "),
+        $q->span (
+          {-class => 'accent-text'},
+          $q->escapeHTML ($meta->{key} || 'Unknown')
+        ),
+        $q->span (" | Capo: "),
+        $q->span (
+          {-class => 'accent-text'},
+          $q->escapeHTML ($meta->{capo} || '0')
+        ),
+      ),
+      $setlist_link_html_wrapped
+    ),
+
+    # Cell 4: Navigation Buttons (Next)
+    $q->td (
+      {-align => 'center', -valign => 'middle', -width => '10%'},
+      $next_link_html || ''
+    ),
+
+    # Cell 5: Audio Player / Marks
+    $q->td (
+      {-align => 'center', -width => '300', -valign => 'middle'},
       $last_cell_content
     )
   )
