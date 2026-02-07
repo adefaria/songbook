@@ -373,3 +373,26 @@ document.addEventListener("DOMContentLoaded", function () {
     resizeTimeout = setTimeout(fitSongContent, 250); // Adjust debounce delay as needed (250ms)
   });
 })();
+
+// Theme Manager
+(function () {
+  function applyTheme() {
+    // Check for system preference
+    const systemPrefersLight = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
+
+    // Apply theme based on system preference (Default is dark via CSS)
+    if (systemPrefersLight) {
+      document.documentElement.setAttribute("data-theme", "light");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
+  }
+
+  // Apply on execution (safe if script is in head as documentElement exists)
+  applyTheme();
+
+  // Listen for system changes
+  if (window.matchMedia) {
+    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', applyTheme);
+  }
+})();
