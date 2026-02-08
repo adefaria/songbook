@@ -32,7 +32,9 @@ And she's lovin' him with that body, I just know it
 And he's holding her in his arms late, late at night
 You know I wish that I had Jesse's girl
 
-{c:Chorus} 2x
+{c:Chorus}
+
+2x
 
 {c:Bridge}
 
