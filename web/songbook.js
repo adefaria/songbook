@@ -308,69 +308,60 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function fitSongContent() {
     const songElement = document.getElementById("song");
-    if (!songElement) {
-      return;
-    }
+    if (!songElement) return;
 
     // Reset to CSS-defined font size first.
-    // This allows getComputedStyle to get the base font size for calculations
-    // and handles cases where the window is enlarged.
     songElement.style.fontSize = "";
 
-    // If clientHeight is 0 after reset, the container is likely not yet rendered correctly,
-    // is hidden (display:none), or has no actual height defined by CSS.
-    const containerHeight = songElement.clientHeight;
-    if (containerHeight <= 0) {
-      // You could implement a retry mechanism if this is a common timing issue:
-      // setTimeout(fitSongContent, 100);
-      return;
-    }
+    // Calculate available height
+    const header = document.getElementById('heading');
+    const headerHeight = header ? header.offsetHeight : 0;
+    // Buffer for padding/margins. 
+    // The user requested "4px more" padding, so let's ensure our calculation is safe.
+    // 40px is a reasonable buffer for bottom margin/safe area.
+    const availableHeight = window.innerHeight - headerHeight - 40;
 
-    const originalComputedFontSize = parseFloat(
-      window.getComputedStyle(songElement).fontSize
-    );
+    // Helper to get current content height
+    const getContentHeight = () => songElement.scrollHeight; // Since height is auto, scrollHeight ~= offsetHeight
 
-    // If no font size is computable (e.g. display:none, or no font-size set anywhere up the chain), abort.
-    if (isNaN(originalComputedFontSize) || originalComputedFontSize <= 0) {
-      console.warn(
-        "Debug: Cannot determine original font size for #song element."
-      );
-      return;
-    }
+    // Get original computed font size
+    const style = window.getComputedStyle(songElement);
+    const originalFontSize = parseFloat(style.fontSize);
 
-    let currentFontSize = originalComputedFontSize;
-    const MIN_FONT_SIZE = 8; // Minimum readable font size in pixels
-    const FONT_STEP = 0.5; // How much to decrease font size by each step (in pixels)
+    if (isNaN(originalFontSize) || originalFontSize <= 0) return;
 
-    // Set initial font size for the loop to the original/max
-    songElement.style.fontSize = currentFontSize + "px";
-
+    let currentFontSize = originalFontSize;
+    const MIN_FONT_SIZE = 8;
+    const FONT_STEP = 0.5;
+    const MAX_ITERATIONS = 50;
     let iterations = 0;
-    const MAX_ITERATIONS = 50; // Safety break to prevent infinite loops
 
+    // Initial check
+    if (getContentHeight() <= availableHeight) return;
+
+    // Loop to shrink font
     while (
-      songElement.scrollHeight > containerHeight &&
+      getContentHeight() > availableHeight &&
       currentFontSize > MIN_FONT_SIZE &&
       iterations < MAX_ITERATIONS
     ) {
       currentFontSize -= FONT_STEP;
       songElement.style.fontSize = currentFontSize + "px";
       iterations++;
-      console.log(
-        `Debug: Iteration ${iterations}, Font: ${currentFontSize}px, ScrollH: ${songElement.scrollHeight}, ClientH: ${containerHeight}`
-      );
     }
+    
+    // Debugging output can be useful if needed, but keeping it clean for prod
+    // console.log(`Resized to ${currentFontSize}px in ${iterations} iterations`);
   }
 
   // Run when the initial HTML document has been completely loaded and parsed
   window.addEventListener("DOMContentLoaded", fitSongContent);
 
-  // Run on window resize (with a debounce to avoid excessive calls)
+  // Run on window resize (with a debounce)
   let resizeTimeout;
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimeout);
-    // fitSongContent itself will reset the font size to the CSS default before recalculating
-    resizeTimeout = setTimeout(fitSongContent, 250); // Adjust debounce delay as needed (250ms)
+    resizeTimeout = setTimeout(fitSongContent, 250);
   });
 })();
 
