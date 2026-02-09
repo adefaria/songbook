@@ -4,7 +4,7 @@
 {musicpath:Music/Brass in Pocket.mp3}
 {key:A}
 
-[A] [Aadd2}I got brass [Asus4] [A]in a pocket
+[A] [Aadd2]I got brass [Asus4] [A]in a pocket
 [A] [Aadd2]I got bottle, [Asus4] [A]I'm gonna use it
 [F#m] [F#sus4]Intention, [D] [F#m] I feel inventive
 [D]Gonna make you, make you, [E]make you notice
