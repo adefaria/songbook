@@ -20,5 +20,5 @@
 - [ ] Search results not embedded and in lightmode - [Pending Verification] (Added Theme Manager to `songbook.js` to persist theme preference. Added chord stripping.)
 
 ## Layout
-- [x] Jesse's Girl (and perhaps others) doesn't fit on the page - **FIXED** (Enabled vertical scrolling: `#song` has `overflow-y: auto`, `#lyrics-scroller` has `height: auto` to grow vertically in 2 columns. Font reduces to minimum 8px, then vertical scroll appears if still doesn't fit.)
-- [x] Move Set line just below the Songbook title and slightly bigger font - **FIXED** (Moved to appear below "Songbook" with 1.1em font size)
+- [x] Jesse's Girl (and perhaps others) doesn't fit on the page - **FIXED** (Implemented split-column layout: JavaScript splits lyrics in half, displayed side-by-side with flexbox. Vertical scrolling only, no horizontal overflow. Font reduces from 16px to minimum 8px.)
+- [ ] Move Set line just below the Songbook title and slightly bigger font - **FIXED** (Moved to appear below "Songbook" with 1.1em font size)
