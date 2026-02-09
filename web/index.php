@@ -22,7 +22,7 @@
       <tr>
         <td align="center" valign="middle" width="50">
           <a href="/songs" target="_top" style="text-decoration: none;">
-            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+            <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
           <div class="version-text">3.0</div>
         </td>
@@ -34,7 +34,9 @@
   </table>
 
   <div id="content">
-    <p>This is my songbook. It is designed to be a functional web app that can display lead sheets and play audio for the songs in the Songbook. It also uses the store of ChordPro formated files and set lists shared from my NextCloud server to the Songbook App on my Android Tablet.</p>
+    <p>This is my songbook. It is designed to be a functional web app that can display lead sheets and play audio for
+      the songs in the Songbook. It also uses the store of ChordPro formated files and set lists shared from my
+      NextCloud server to the Songbook App on my Android Tablet.</p>
 
     <p>Select an Artist, Set or Song or type in a lyric or song title in the search box.</p>
 

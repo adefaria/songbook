@@ -43,6 +43,7 @@ const KEY_ARROW_RIGHT = "ArrowRight";
 const KEY_A = "KeyA"; // For 'seta'
 const KEY_B = "KeyB"; // For 'setb'
 const KEY_C = "KeyC"; // For 'cleara' (historically 'C')
+const KEY_D = "KeyD"; // For 'download'
 const KEY_R = "KeyR"; // For 'return2start'=
 
 const howmanysecs = 10;
@@ -75,6 +76,11 @@ document.addEventListener("DOMContentLoaded", function () {
     );
     return;
   }
+
+  // Prevent audio player from stealing focus (which breaks shortcuts)
+  song.addEventListener("focus", function () {
+    this.blur();
+  });
 
   // Initialize times. `endtime` will be accurately set on `loadedmetadata`.
   starttime = 0; // Default start is the very beginning
@@ -193,7 +199,7 @@ document.addEventListener("DOMContentLoaded", function () {
           endtime = song.duration; // Implicitly clear B marker
           const bElement = document.getElementById("b");
           if (bElement)
-            bElement.innerHTML = "<font color=#666><i>not set</i></font>";
+            bElement.innerHTML = '<span class="not-set">not set</span>';
         }
         starttime = song.currentTime;
         const secsA = Math.floor(starttime % 60);
@@ -228,11 +234,19 @@ document.addEventListener("DOMContentLoaded", function () {
         bscrollpoint = 0;
         const elA = document.getElementById("a");
         const elB = document.getElementById("b");
-        if (elA) elA.innerHTML = "<font color=#666><i>not set</i></font>";
-        if (elB) elB.innerHTML = "<font color=#666><i>not set</i></font>";
+        if (elA) elA.innerHTML = '<span class="not-set">not set</span>';
+        if (elB) elB.innerHTML = '<span class="not-set">not set</span>';
         // If paused and at end, and then cleared, pressing play should start from 0
         if (song.paused && song.currentTime === endtime) {
           // This state is now handled by spacebar logic
+        }
+        break;
+
+      case KEY_D: // download (D key)
+        e.preventDefault();
+        const downloadLink = document.getElementById("download-link");
+        if (downloadLink) {
+          downloadLink.click();
         }
         break;
     }

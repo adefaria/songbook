@@ -743,9 +743,10 @@ if ($title) {
 } ## end if ($title)
 my $audio_player = '';
 if ($audio_source) {
-  my $style_attr = 'padding:0; margin:0; width: 85%; vertical-align: middle;';
+  my $style_attr = 'padding:0; margin:0; width: 70%; vertical-align: middle;';
 
   my $download_link = $q->a ({
+      -id       => 'download-link',
       -href     => $music_file_web_path,
       -download => '',
       -class    => 'accent-text',
@@ -760,7 +761,17 @@ if ($audio_source) {
 qq{<audio id="song_audio_player" controls autoplay style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
     . $audio_source
     . qq{\nYour browser does not support HTML5 Audio.\n</audio>}
-    . $download_link;
+    . $download_link
+    . $q->span ({
+      -class => 'accent-text',
+      -style =>
+'color: #4285F4; cursor: pointer; margin-left: 5px; font-size: 1.5em; vertical-align: middle;',
+      -title   => 'Keyboard Shortcuts',
+      -onclick =>
+"document.getElementById('helpUnderlay').classList.add('help-isVisible');"
+    },
+    '&#63;'    # Question mark
+    );
 } ## end if ($audio_source)
 
 # --- Build the content for the last cell (Audio/Marks) ---
@@ -771,11 +782,17 @@ if ($audio_player) {
       -align => 'center',
       -style => 'margin-top: 5px; color: var(--text-color); margin-bottom: 0;'
     },
-    $q->span ({-class => 'mark-label'},                "Mark A: "),
-    $q->span ({-id    => 'a', -class => 'mark-value'}, "not set"),
+    $q->span ({-class => 'mark-label'}, "Mark A: "),
+    $q->span (
+      {-id => 'a', -class => 'mark-value'},
+      $q->span ({-class => 'not-set'}, "not set")
+    ),
     '&nbsp;&nbsp;',
-    $q->span ({-class => 'mark-label'},                "Mark B: "),
-    $q->span ({-id    => 'b', -class => 'mark-value'}, "not set")
+    $q->span ({-class => 'mark-label'}, "Mark B: "),
+    $q->span (
+      {-id => 'b', -class => 'mark-value'},
+      $q->span ({-class => 'not-set'}, "not set")
+    )
     );
 } ## end if ($audio_player)
 
@@ -820,7 +837,7 @@ print $q->table (
         },
         $q->span ({
             -class => 'home-icon',
-            -style => 'font-size: 40px; line-height: 1;',
+            -style => 'font-size: 40px; line-height: 1; color: #4285F4;',
           },
           '&#9835;'
         )
