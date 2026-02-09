@@ -14,7 +14,7 @@ Been driving, Detroit leaning
 No reason, just seems so pleasing
 Gonna make you, make you, make you notice
 
-[A] [Aadd2}Gonna use my arms, gonna use [Esus4] [E]my legs
+[A] [Aadd2]Gonna use my arms, gonna use [Esus4] [E]my legs
 [A] [Aadd2]Gonna use my style, gonna use [Esus4] [E]my sidestep
 [A] [Aadd2]Gonna use my fingers, gonna use [Esus4] [E]my, my, my
 Imagination

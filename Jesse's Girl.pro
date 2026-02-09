@@ -53,4 +53,6 @@ Ain't that the way love's supposed to be?
 
 {c:Lead back in original key}
 
-{c:Chorus} 2x
+{c:Chorus}
+
+2x
