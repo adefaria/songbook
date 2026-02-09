@@ -60,7 +60,7 @@
           <div class="version-text">3.0</div>
         </td>
         <td align="center">
-          <h1>Songbook</h1>
+          <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
           <h2>Set: <?php echo $set_display_title; ?></h2>
         </td>
       </tr>
@@ -169,7 +169,7 @@ END;
         
                 // Build query parameters using http_build_query for safe encoding
                 $link_params = http_build_query([
-                  'chordpro' => $actual_file_path, // Pass the full path
+                  'chordpro' => $actual_filename, // Pass just the filename (webchord.cgi will search for it)
                   'setlist' => $set,           // Pass the original setlist filename (e.g., MySet.lst)
                   'songidx' => $details['index'] // Pass the 0-based index
                 ]);
@@ -242,6 +242,8 @@ END;
     <?php endif; // End check for $error_message ?>
 
   </div> <!-- End #content -->
+
+
 
 </body> <!-- Added closing body tag -->
 

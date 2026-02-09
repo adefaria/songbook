@@ -26,7 +26,7 @@
           <div class="version-text">3.0</div>
         </td>
         <td align="center">
-          <h1>Songbook</h1>
+          <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
           <h2>Songs from <?php echo $artist; ?></h2>
         </td>
       </tr>
@@ -92,6 +92,8 @@
     
     print "</div>"; // Close song-list-container
     ?>
+
+
 
 </body>
 

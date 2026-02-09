@@ -27,6 +27,7 @@ use File::Basename;
 use File::Spec;
 use Cwd 'abs_path';
 use HTML::Entities;
+use POSIX qw(strftime);
 
 my $base_dir = "/opt/songbook";
 my $song_dir = $base_dir;
@@ -190,6 +191,47 @@ sub find_next_valid_index {
   }
   return undef;
 }    # find_next_valid_index
+
+# --- Navigation Helper Subroutines (Ported from songbook.php) ---
+sub get_artist_from_file {
+  my ($file) = @_;
+  return "" unless -r $file;
+  open my $fh, '<', $file or return "";
+  my $content = do {local $/; <$fh>};
+  close $fh;
+  if ($content =~ /\{(?:st|subtitle):\s*(.*)\}/i) {
+    return trim ($1);
+  }
+  return "";
+} ## end sub get_artist_from_file
+
+sub get_all_artists {
+  my ($dir) = @_;
+  my %artists;
+  my @files = glob ("$dir/*.pro");
+  foreach my $file (@files) {
+    my $artist = get_artist_from_file ($file);
+    $artists{$artist} = 1 if $artist ne "";
+  }
+  my @sorted_artists = sort keys %artists;
+  return \@sorted_artists;
+} ## end sub get_all_artists
+
+sub get_all_sets {
+  my ($dir)       = @_;
+  my @files       = glob ("$dir/*.lst");
+  my @sorted_sets = sort @files;
+  return \@sorted_sets;
+} ## end sub get_all_sets
+
+sub get_all_songs {
+  my ($dir)        = @_;
+  my @files        = glob ("$dir/*.pro");
+  my @sorted_songs = sort @files;
+  return \@sorted_songs;
+} ## end sub get_all_songs
+
+# ------------------------------------------------------------------
 
 # Takes ChordPro content string and the original filepath
 # Returns a list: ($metadata_hashref, $html_string)
@@ -551,17 +593,16 @@ if ( defined $setlist_name_param
             my ($prev_title)       = fileparse ($prev_song_file, qr/\.[^.]*$/);
             my $escaped_prev_title = $q->escapeHTML ($prev_title || '');
 
-            my $prev_button_html = $q->a ({
+            # Create compact prev link: arrow + song title
+            $prev_link_html = $q->a ({
                 -href  => $script_basename . $prev_url_query_manual,
-                -class => 'nav-button prev-button'
+                -class => 'nav-link prev-link',
+                -title => 'Previous: ' . $escaped_prev_title
               },
-              "&#10094; Prev"
+              $q->span ({-class => 'nav-arrow'}, "&#10094;"),
+              ' ',
+              $q->span ({-class => 'nav-song-title'}, $escaped_prev_title)
             );
-
-            # Wrap button and title
-            $prev_link_html = $q->div ({-style => 'text-align: center;'},
-              $prev_button_html, $q->br,
-              $q->span ({-class => 'nav-title'}, $escaped_prev_title));
           } else {
             debug (
 "Prev Button Check: File at index $prev_idx was unexpectedly undef."
@@ -605,19 +646,16 @@ if ( defined $setlist_name_param
             my ($next_title)       = fileparse ($next_song_file, qr/\.[^.]*$/);
             my $escaped_next_title = $q->escapeHTML ($next_title || '');
 
-            my $next_button_html = $q->a ({
+            # Create compact next link: song title + arrow
+            $next_link_html = $q->a ({
                 -href  => $script_basename . $next_url_query_manual,
-                -class => 'nav-button next-button'
+                -class => 'nav-link next-link',
+                -title => 'Next: ' . $escaped_next_title
               },
-              "Next &#10095;"
+              $q->span ({-class => 'nav-song-title'}, $escaped_next_title),
+              ' ',
+              $q->span ({-class => 'nav-arrow'}, "&#10095;")
             );
-
-            # Wrap button and title only if the button was created
-            if ($next_button_html) {
-              $next_link_html = $q->div ({-style => 'text-align: center;'},
-                $next_button_html, $q->br,
-                $q->span ({-class => 'nav-title'}, $escaped_next_title));
-            }
           } else {
             debug (
 "Next Button Check: File at index $next_idx was unexpectedly undef."
@@ -697,7 +735,7 @@ print $q->start_html (
       }
     ),
     qq{<script src="}
-      . $q->escapeHTML ('/songbook/songbook.js')
+      . $q->escapeHTML ('/songbook/songbook.js?v=' . time ())
       . qq{"></script>},
     $setlist_js_block,    # Add the setlist JS block here
     qq{<script src="}
@@ -758,19 +796,28 @@ if ($audio_source) {
   );    # Down arrow
 
   $audio_player =
-qq{<audio id="song_audio_player" controls autoplay style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
+qq{<audio id="song_audio_player" controls autoplay controlslist="nodownload noplaybackrate" style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
     . $audio_source
     . qq{\nYour browser does not support HTML5 Audio.\n</audio>}
     . $download_link
     . $q->span ({
       -class => 'accent-text',
       -style =>
-'color: #4285F4; cursor: pointer; margin-left: 5px; font-size: 1.5em; vertical-align: middle;',
+'color: #4285F4; cursor: pointer; margin-left: 10px; font-size: 1.0em; vertical-align: middle;',
+      -title   => 'Copy Link to Clipboard',
+      -onclick => "copyCurrentUrlToClipboard()"
+    },
+    '&#128279;'    # Link symbol
+    )
+    . $q->span ({
+      -class => 'accent-text',
+      -style =>
+'color: #4285F4; cursor: pointer; margin-left: 10px; font-size: 1.5em; vertical-align: middle;',
       -title   => 'Keyboard Shortcuts',
       -onclick =>
 "document.getElementById('helpUnderlay').classList.add('help-isVisible');"
     },
-    '&#63;'    # Question mark
+    '&#63;'        # Question mark
     );
 } ## end if ($audio_source)
 
@@ -827,7 +874,7 @@ print $q->table (
     # Cell 1: Home Icon and Version
     $q->td ({
         -align  => 'center',
-        -width  => '50',
+        -width  => '10%',      # Adjusted width
         -valign => 'middle',
       },
       $q->a ({
@@ -849,54 +896,232 @@ print $q->table (
       )
     ),
 
-    # Cell 2: Navigation Buttons (Previous)
-    $q->td (
-      {-align => 'center', -valign => 'middle', -width => '10%'},
-      $prev_link_html || ''
-    ),
-
-    # Cell 3: Title and Links
+    # Cell 2: Title and Links (Merged center)
     $q->td ({
         -align => 'center',
+        -width => '60%',
       },
-      $q->h1 ("Songbook"),
-      $q->h2 ($title_link),
+      $q->h1 (
+        $q->a ({
+            -href   => '/songs',
+            -target => '_top',
+            -style  => 'text-decoration: none; color: inherit;'
+          },
+          "Songbook"
+        )
+      ),
 
-      # Links Row (Artist, etc.)
-      $q->div (
-        {-class => 'dim', -style => 'font-size: 10pt; margin-top: -5px;'},
-        "by ",
-        $artist_link,
-        $q->span (" | Key: "),
+      # Set line (if in setlist context) - directly below Songbook title
+      (
+        $setlist_link_html_wrapped
+        ? $q->div ({
+            -style =>
+              'font-size: 1.1em; margin: 5px 0 10px 0; text-align: center;'
+          },
+          $setlist_link_html_wrapped
+          )
+        : ''
+      ),
+
+      # Song title with navigation buttons (if in setlist context)
+      $q->div ({
+          -style =>
+'display: flex; align-items: center; justify-content: center; gap: 15px; margin: 10px 0;'
+        },
+        ($prev_link_html ? $prev_link_html : ''),
+        $q->h2 ({-style => 'margin: 0;'}, $title_link),
+        ($next_link_html ? $next_link_html : '')
+      ),
+
+      # Artist / Key / Capo Info - Centered
+      $q->div ({
+          -style => 'text-align: center; margin-bottom: 5px; font-weight: bold;'
+        },
+        $q->span ({-style => 'color: var(--header-text);'}, "Artist: "),
+        $q->a ({
+            -href => "/songbook/displayartist.php?artist="
+              . $q->escape ($meta->{artist})
+          },
+          $q->span (
+            {-class => 'accent-text'},
+            $q->escapeHTML ($meta->{artist} || 'Unknown')
+          )
+        ),
+        $q->span ({-style => 'color: var(--header-text);'}, " | Key: "),
         $q->span (
           {-class => 'accent-text'},
           $q->escapeHTML ($meta->{key} || 'Unknown')
         ),
-        $q->span (" | Capo: "),
-        $q->span (
-          {-class => 'accent-text'},
-          $q->escapeHTML ($meta->{capo} || '0')
-        ),
-      ),
-      $setlist_link_html_wrapped
+
+        # Capo Section - Only show if present and not 0
+        ($meta->{capo} && $meta->{capo} ne '0')
+        ? (
+          $q->span ({-style => 'color: var(--header-text);'}, " | Capo: "),
+          $q->span ({-class => 'accent-text'}, $q->escapeHTML ($meta->{capo}))
+          )
+        : ()
+      )
     ),
 
-    # Cell 4: Navigation Buttons (Next)
+    # Cell 3: Audio Player / Marks
     $q->td (
-      {-align => 'center', -valign => 'middle', -width => '10%'},
-      $next_link_html || ''
-    ),
-
-    # Cell 5: Audio Player / Marks
-    $q->td (
-      {-align => 'center', -width => '300', -valign => 'middle'},
+      {-align => 'center', -width => '30%', -valign => 'middle'},
       $last_cell_content
     )
   )
 );
 
+# --- Generate Navigation Tabs (Dropdowns) ---
+# Only generate if we want to show them (User request: "come in to the website such that there are tabs")
+my $nav_tabs_html = '';
+{
+  my $artists_ref = get_all_artists ($song_dir);
+  my $sets_ref    = get_all_sets ($song_dir);
+  my $songs_ref   = get_all_songs ($song_dir);
+
+  # Start Table
+  $nav_tabs_html .= $q->table ({
+      -style =>
+'margin: 10px auto; border-collapse: separate; border-spacing: 5px; background: transparent; padding: 10px; border-radius: 8px; border: none;'
+    },    # Removed border/bg per request
+
+    # --- Artists Row ---
+    $q->Tr (
+
+      # Removed Labels per request
+      $q->td (
+        $q->start_form (
+          -method => 'GET',
+          -action => 'displayartist.php',
+          -style  => 'margin:0;'
+        ),
+'<select name="artist" class="uniform-input-width" onchange="this.form.submit()" style="margin:0;">',
+        '<option value="">Artists...</option>',    # Placeholder
+        (
+          map {
+                '<option value="'
+              . $q->escapeHTML ($_) . '">'
+              . $q->escapeHTML ($_)
+              . '</option>'
+          } @$artists_ref
+        ),
+        '</select>',
+        $q->end_form ()
+      ),
+
+      # --- Sets Row ---
+      $q->td (
+        $q->start_form (
+          -method => 'GET',
+          -action => 'displayset.php',
+          -style  => 'margin:0;'
+        ),
+'<select name="set" class="uniform-input-width" onchange="this.form.submit()" style="margin:0;">',
+        '<option value="">Sets...</option>',    # Placeholder
+        (
+          map {
+            my $val  = $_;
+            my $disp = $val;
+            $disp =~ s/\.lst$//;
+            '<option value="'
+              . $q->escapeHTML ($val) . '">'
+              . $q->escapeHTML ($disp)
+              . '</option>'
+          } @$sets_ref
+        ),
+        '</select>',
+        $q->end_form ()
+      ),
+
+      # --- Songs Row ---
+      $q->td (
+        $q->start_form (
+          -method => 'GET',
+          -action => 'webchord.cgi',
+          -style  => 'margin:0;'
+        ),
+'<select name="chordpro" class="uniform-input-width" onchange="this.form.submit()" style="margin:0;">',
+        '<option value="">Songs...</option>',    # Placeholder
+        (
+          map {
+            my $val  = $_;
+            my $disp = $val;
+            $disp =~ s/\.pro$//;
+            '<option value="'
+              . $q->escapeHTML ($val) . '">'
+              . $q->escapeHTML ($disp)
+              . '</option>'
+          } @$songs_ref
+        ),
+        '</select>',
+        $q->end_form ()
+      )
+    )    # End Tr
+  );
+}
+
+# Print the Navigation Tabs
+print $nav_tabs_html;
+
 # --- Print Song Content ---
-print $q->div ({-id => 'song'}, $song_html);
+# --- Footer Generation ---
+my $email    = 'Andrew@DeFaria.com';
+my $year_str = 1900 + (localtime)[5];
+my $mod_time =
+  POSIX::strftime ("%B %d %Y @ %I:%M %p", localtime ((stat ($infile))[9]));
+
+# Determine Prev/Next buttons
+# If we have setlist navigation links ($prev_link_html, $next_link_html), use them.
+# Otherwise, use history.back() / history.forward() buttons.
+
+my $left_button = $prev_link_html;
+if (!$left_button) {
+  $left_button = qq{
+    <button class="footer-nav-btn left" onclick="history.back()" aria-label="Previous Page" title="Go Back">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+  };
+} ## end if (!$left_button)
+
+my $right_button = $next_link_html;
+if (!$right_button) {
+  $right_button = qq{
+    <button class="footer-nav-btn right" onclick="history.forward()" aria-label="Next Page" title="Go Forward">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+  };
+} ## end if (!$right_button)
+
+# Search HTML (identical to site-functions.php but in Perl)
+my $search_html = qq{
+    <form method="get" action="/songbook/search.php" style="display: inline-flex; align-items: center; margin: 0;">
+      <input type="text" name="q" class="search-input" placeholder="Search title or lyrics" onclick="this.value=''">
+    </form>
+};
+
+print $q->div ({-id => 'song'},
+  $q->div ({-id => 'lyrics-scroller'}, $song_html));
+
+print qq{
+<footer class="copyright" style="display: flex; align-items: center; justify-content: space-between; padding: 10px 20px;">
+  <div style="display: flex; align-items: center; gap: 15px; flex-shrink: 0;">
+    $left_button
+    $search_html
+  </div>
+
+  <div style="flex-grow: 1; text-align: center;">
+    <div class="footer-line"><span id="footer-mod-date">This page was last modified: $mod_time</span></div>
+    <div class="footer-line">Copyright &copy; $year_str - All rights reserved <a href="mailto:$email">$email</a></div>
+    <div class="footer-line">Website by Andrew DeFaria with the help of his AI friend - Gemini</div>
+  </div>
+
+  $right_button
+</footer>
+};
 
 print $q->end_html;
 

@@ -47,9 +47,7 @@ const KEY_D = "KeyD"; // For 'download'
 const KEY_R = "KeyR"; // For 'return2start'=
 
 const howmanysecs = 10;
-const scrollby = 1;
 const oneSec = 1000;
-const scrollTime = 400;
 
 function loop() {
   // If endtime is not set then we can't loop
@@ -62,9 +60,8 @@ function loop() {
   } // if
 } // loop
 
-function scrollLyrics() {
-  window.scrollBy(0, scrollby);
-} // scrollLyrics
+
+
 
 document.addEventListener("DOMContentLoaded", function () {
   song = document.getElementById("song_audio_player");
@@ -96,9 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   song.addEventListener("play", function () {
     clearInterval(interval); // Clear existing intervals to prevent duplicates
-    clearInterval(scroll);
     interval = setInterval(loop, oneSec);
-    scroll = setInterval(scrollLyrics, scrollTime);
 
     // Scroll to A marker or top when play starts
     if (ascrollpoint !== 0) {
@@ -111,7 +106,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   song.addEventListener("pause", function () {
     clearInterval(interval);
-    clearInterval(scroll);
   });
 
   song.addEventListener("ended", function () {
@@ -181,15 +175,13 @@ document.addEventListener("DOMContentLoaded", function () {
       case KEY_ARROW_LEFT:
         e.preventDefault();
         song.currentTime -= howmanysecs;
-        window.scrollBy(0, 50); // Original scrolled down, kept for consistency
-        if (song.paused) song.play(); // Play if paused, as per original
+        if (song.paused) song.play(); 
         break;
 
       case KEY_ARROW_RIGHT:
         e.preventDefault();
         song.currentTime += howmanysecs;
-        window.scrollBy(0, -50); // Corrected typo and kept original scroll up
-        if (song.paused) song.play(); // Play if paused, as per original
+        if (song.paused) song.play(); 
         break;
 
       case KEY_A: // seta (A key)
@@ -317,87 +309,232 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
+// Custom Logic for Two-Column Scrolling
 (function () {
-  // IIFE to avoid polluting global scope and run immediately
+  // We need to override or augment the scrolling logic because we are now
+  // scrolling an inner div (#lyrics-scroller) via margin-top to achieve the
+  // "flow up" effect in a fixed-height container, rather than scrolling the window.
 
-  function fitSongContent() {
-    const songElement = document.getElementById("song");
-    if (!songElement) return;
+  // State for our custom scroller
+  let currentScrollY = 0; // Represents pixels scrolled DOWN (negative margin)
 
-    // Reset to CSS-defined font size first.
-    songElement.style.fontSize = "";
-
-    // Calculate available height
-    const header = document.getElementById('heading');
-    const headerHeight = header ? header.offsetHeight : 0;
-    // Buffer for padding/margins. 
-    // The user requested "4px more" padding, so let's ensure our calculation is safe.
-    // 40px is a reasonable buffer for bottom margin/safe area.
-    const availableHeight = window.innerHeight - headerHeight - 40;
-
-    // Helper to get current content height
-    const getContentHeight = () => songElement.scrollHeight; // Since height is auto, scrollHeight ~= offsetHeight
-
-    // Get original computed font size
-    const style = window.getComputedStyle(songElement);
-    const originalFontSize = parseFloat(style.fontSize);
-
-    if (isNaN(originalFontSize) || originalFontSize <= 0) return;
-
-    let currentFontSize = originalFontSize;
-    const MIN_FONT_SIZE = 8;
-    const FONT_STEP = 0.5;
-    const MAX_ITERATIONS = 50;
-    let iterations = 0;
-
-    // Initial check
-    if (getContentHeight() <= availableHeight) return;
-
-    // Loop to shrink font
-    while (
-      getContentHeight() > availableHeight &&
-      currentFontSize > MIN_FONT_SIZE &&
-      iterations < MAX_ITERATIONS
-    ) {
-      currentFontSize -= FONT_STEP;
-      songElement.style.fontSize = currentFontSize + "px";
-      iterations++;
-    }
-    
-    // Debugging output can be useful if needed, but keeping it clean for prod
-    // console.log(`Resized to ${currentFontSize}px in ${iterations} iterations`);
+  function getScroller() {
+    return document.getElementById("lyrics-scroller");
   }
 
-  // Run when the initial HTML document has been completely loaded and parsed
-  window.addEventListener("DOMContentLoaded", fitSongContent);
+  function getContainer() {
+    return document.getElementById("song");
+  }
 
-  // Run on window resize (with a debounce)
+  // Re-implement Fit Content to work with the new structure
+  window.fitSongContent = function() {
+    const scroller = getScroller();
+    const container = getContainer();
+    if (!scroller || !container) return;
+
+    // Reset styles
+    scroller.style.fontSize = "";
+    
+    // We only resize if we are in desktop/fixed-height mode
+    if (window.getComputedStyle(container).height === 'auto') return;
+    
+    // Use requestAnimationFrame to ensure layout is complete
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        performFit();
+      });
+    });
+    
+    function performFit() {
+      let fontSize = parseFloat(window.getComputedStyle(scroller).fontSize);
+      const minFontSize = 8; // Lowered from 10px to fit very long songs in embedded context
+      const maxIterations = 50;
+      let iterations = 0;
+      
+      // Check if content actually overflows
+      function hasOverflow() {
+        // Force reflow
+        const _ = scroller.offsetHeight;
+        
+        // Vertical overflow: content taller than its container
+        const verticalOverflow = scroller.scrollHeight > scroller.clientHeight + 2;
+        
+        // Horizontal overflow: content wider than its container (indicates >2 columns)
+        const horizontalOverflow = scroller.scrollWidth > scroller.clientWidth + 2;
+        
+        return verticalOverflow || horizontalOverflow;
+      }
+      
+      // Iteratively shrink only if there's actual overflow
+      while (hasOverflow() && fontSize > minFontSize && iterations < maxIterations) {
+        fontSize -= 0.5;
+        scroller.style.fontSize = `${fontSize}px`;
+        iterations++;
+      }
+    }
+  };
+
+  // Split lyrics into two columns for vertical scrolling
+  window.splitLyricsIntoColumns = function() {
+    const scroller = getScroller();
+    if (!scroller) return;
+    
+    // Check if already split (has .lyrics-column children)
+    if (scroller.querySelector('.lyrics-column')) return;
+    
+    // Get all direct children of the scroller
+    const children = Array.from(scroller.children);
+    if (children.length === 0) return;
+    
+    // Calculate split point (middle)
+    const midpoint = Math.ceil(children.length / 2);
+    
+    // Create two column containers
+    const leftColumn = document.createElement('div');
+    leftColumn.className = 'lyrics-column lyrics-column-left';
+    
+    const rightColumn = document.createElement('div');
+    rightColumn.className = 'lyrics-column lyrics-column-right';
+    
+    // Move first half to left column
+    for (let i = 0; i < midpoint; i++) {
+      leftColumn.appendChild(children[i]);
+    }
+    
+    // Move second half to right column
+    for (let i = midpoint; i < children.length; i++) {
+      rightColumn.appendChild(children[i]);
+    }
+    
+    // Clear scroller and add columns
+    scroller.innerHTML = '';
+    scroller.appendChild(leftColumn);
+    scroller.appendChild(rightColumn);
+  };
+
+  // Call split function first, then fit content
+  window.addEventListener("DOMContentLoaded", () => {
+    window.splitLyricsIntoColumns();
+    window.fitSongContent();
+  });
+  
   let resizeTimeout;
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimeout);
-    resizeTimeout = setTimeout(fitSongContent, 250);
+    resizeTimeout = setTimeout(window.fitSongContent, 250);
   });
 })();
 
 // Theme Manager
 (function () {
-  function applyTheme() {
-    // Check for system preference
-    const systemPrefersLight = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
+  const getStoredTheme = () => localStorage.getItem('theme');
+  const setStoredTheme = theme => localStorage.setItem('theme', theme);
 
-    // Apply theme based on system preference (Default is dark via CSS)
-    if (systemPrefersLight) {
-      document.documentElement.setAttribute("data-theme", "light");
-    } else {
-      document.documentElement.removeAttribute("data-theme");
+  const getPreferredTheme = () => {
+    const storedTheme = getStoredTheme();
+    if (storedTheme) {
+      return storedTheme;
     }
-  }
+    return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  };
 
-  // Apply on execution (safe if script is in head as documentElement exists)
+  const setTheme = theme => {
+    if (theme === 'auto') {
+      document.documentElement.removeAttribute('data-theme');
+      localStorage.removeItem('theme');
+    } else {
+      document.documentElement.setAttribute('data-theme', theme);
+      setStoredTheme(theme);
+    }
+  };
+
+  const applyTheme = () => {
+    const theme = getPreferredTheme();
+    // Start with data-theme set based on preference to avoid flash
+    // But if auto, we want to remove data-theme or set it to match system?
+    // songbook.css uses @media (prefers-color-scheme: light) for light mode.
+    // Default is dark.
+    // So if system is light, we need data-theme="light" OR rely on media query.
+    // However, if manual override is 'dark', we need data-theme="dark".
+    // If manual override is 'light', we need data-theme="light".
+    // If auto (no override), we remove data-theme and let CSS handle it.
+    
+    const stored = getStoredTheme();
+    if (stored) {
+      document.documentElement.setAttribute('data-theme', stored);
+    } else {
+      // Auto mode: Remove attribute and let CSS media queries work.
+      // EXCEPT: The previous logic forced data-theme="light" if system was light. 
+      // This suggests the CSS might rely on data-theme="light" for light mode?
+      // Let's check songbook.css.
+      // [data-theme="light"] .class { ... }
+      // @media (prefers-color-scheme: light) { :root { ... } }
+      // So CSS handles variables via media query.
+      // But specific overrides like `.chords` color use `[data-theme="light"]`.
+      // So we MUST set data-theme="light" if system is light, even in auto mode, 
+      // OR ensure the CSS selectors use :root:not([data-theme="dark"])?
+      // No, the previous JS did: if (systemLight) setAttribute('data-theme', 'light').
+      // So I should preserve that behavior for Auto mode.
+      
+      if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+        document.documentElement.setAttribute('data-theme', 'light');
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+      }
+    }
+  };
+
   applyTheme();
 
   // Listen for system changes
-  if (window.matchMedia) {
-    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', applyTheme);
-  }
+  window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', applyTheme);
+
+  // Expose toggle function
+  window.toggleTheme = () => {
+    const current = document.documentElement.getAttribute('data-theme') || 
+                   (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    const next = current === 'light' ? 'dark' : 'light';
+    setTheme(next);
+  };
 })();
+
+
+// Toast Notification Function
+function showToast(message) {
+  let toast = document.getElementById("toast-notification");
+  if (!toast) {
+    toast = document.createElement("div");
+    toast.id = "toast-notification";
+    toast.className = "toast";
+    document.body.appendChild(toast);
+  }
+  toast.innerText = message;
+  toast.classList.add("show");
+  setTimeout(function(){ toast.classList.remove("show"); }, 3000);
+}
+
+// Copy Link Function
+window.copyCurrentUrlToClipboard = function() {
+  const url = window.location.href;
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(url).then(() => {
+      showToast("Link copied to clipboard!");
+    }).catch(err => {
+      console.error('Failed to copy: ', err);
+      prompt("Copy this link:", url);
+    });
+  } else {
+    // Fallback for older browsers
+    const textArea = document.createElement("textarea");
+    textArea.value = url;
+    document.body.appendChild(textArea);
+    textArea.select();
+    try {
+      document.execCommand('copy');
+      showToast("Link copied to clipboard!");
+    } catch (err) {
+      prompt("Copy this link:", url);
+    }
+    document.body.removeChild(textArea);
+  }
+};

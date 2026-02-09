@@ -10,7 +10,7 @@
   --input-text: #ffffff;
   --border-color: #444;
   --link-color: #bb86fc;
-  --header-height: 120px;
+  --header-height: 90px;
   --nav-btn-bg: #333;
   --nav-btn-text: #e0e0e0;
   --nav-btn-hover-bg: #555;
@@ -31,6 +31,29 @@ textarea {
   font-size: 0.9rem;
   /* Reduced font size */
 }
+
+.search-input {
+  border-radius: 20px;
+  /* More rounded as requested */
+  border: 1px solid var(--border-color);
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  padding: 5px 10px;
+  width: 200px;
+}
+
+/* Hide audio player 3-dot menu - comprehensive selectors */
+audio::-webkit-media-controls-overflow-button,
+audio::-webkit-media-controls-enclosure-overflow-button,
+audio::-internal-media-controls-overflow-button {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  pointer-events: none !important;
+}
+
 
 input[type="submit"] {
   cursor: pointer;
@@ -63,11 +86,56 @@ input[type="submit"]:hover {
   --nav-btn-hover-text: black;
   color-scheme: light;
 
-  /* Audio Player Background (match Next button) */
+  [data-theme="light"] {
+    /* ... Light theme vars ... */
+
+    /* Audio Player - Light Grey for light mode */
+    audio {
+      background-color: #f1f3f4;
+    }
+  }
+
+  /* Audio Player - Darker Grey for dark mode (default) */
   audio {
-    background-color: #e0e0e0;
+    background-color: #aaaaaa;
+    /* Darker grey */
     border-radius: 25px;
-    /* Common rounding for audio players */
+    transition: all 0.3s ease;
+    color-scheme: light;
+    /* Ensure controls are dark */
+  }
+
+  /* Toast Notification */
+  .toast {
+    visibility: hidden;
+    min-width: 250px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1001;
+    /* Above footer */
+    left: 50%;
+    bottom: 80px;
+    /* Above footer */
+    transform: translateX(-50%);
+    font-size: 17px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    transition: opacity 0.5s, visibility 0.5s;
+  }
+
+  .toast.show {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  [data-theme="light"] .toast {
+    background-color: #f1f3f4;
+    color: #333;
+    border: 1px solid #ccc;
   }
 }
 
@@ -105,7 +173,7 @@ h1 {
   top: 0;
   left: 0;
   margin: 0;
-  padding: 10px 0;
+  padding: 5px 0;
   background-color: var(--header-bg);
   color: var(--header-text);
   width: 100%;
@@ -131,7 +199,7 @@ h1 {
 #heading h1 {
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 5px;
+  padding-top: 0;
 }
 
 #heading h2 {
@@ -209,59 +277,146 @@ h1 {
   color: var(--nav-btn-hover-text);
 }
 
-#song {
-  /* Ensure #song is positioned below the fixed header. */
-  margin-top: var(--header-height);
-  /* Allow natural height for scrolling */
+/* Smaller navigation buttons in header */
+#heading .nav-button {
+  padding: 6px 10px;
+  font-size: 13px;
+  width: auto;
+  min-width: 70px;
   height: auto;
-  overflow: visible;
+}
+
+#heading .nav-title {
+  font-size: 11px;
+  display: block;
+  margin-top: 3px;
+}
+
+/* Inline navigation links (arrow + song title) */
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: opacity 0.3s ease;
+  max-width: 200px;
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
+.nav-arrow {
+  color: var(--accent-color);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-song-title {
+  font-size: 13px;
+  color: var(--text-color);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#heading .prev-link {
+  justify-content: flex-start;
+}
+
+#heading .next-link {
+  justify-content: flex-end;
+}
+
+
+
+/* Footer navigation buttons (history back/forward) */
+.footer-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--nav-btn-bg);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  min-width: 80px;
+  height: 36px;
+}
+
+.footer-nav-btn:hover {
+  background-color: var(--nav-btn-hover-bg);
+  border-color: var(--accent-color);
+}
+
+.footer-nav-btn svg {
+  stroke: currentColor;
+}
+
+#song {
+  /* Positioned below fixed header */
+  margin-top: var(--header-height);
+
+  /* Fixed height to fill viewport */
+  height: calc(100vh - var(--header-height) - 60px);
+  /* Adjusted for 50px footer */
+  /* 40px buffer */
+
+  /* Enable vertical scrolling for long songs */
+  overflow-y: auto;
+  overflow-x: hidden;
 
   /* Horizontal padding */
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
-  padding-bottom: 15px;
+  padding-bottom: 120px;
 
   box-sizing: border-box;
+}
 
-  column-count: 2;
-  column-gap: 40px;
-  column-fill: auto;
+#lyrics-scroller {
+  /* Use flexbox for side-by-side columns instead of CSS multi-column */
+  display: flex;
+  gap: 40px;
+
+  /* Height 100% to fill parent container */
+  height: 100%;
+
+  /* Prevent horizontal overflow */
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+
+.lyrics-column {
+  flex: 1;
+  min-width: 0;
+  /* Prevent flex items from overflowing */
 }
 
 /* Prevent elements from breaking across columns */
-#song>table,
-#song>div,
-#song>span,
-#song>p {
-  break-inside: avoid-column;
+#lyrics-scroller>table,
+#lyrics-scroller>div,
+#lyrics-scroller>span,
+#lyrics-scroller>p {
+  break-inside: avoid;
   page-break-inside: avoid;
   -webkit-column-break-inside: avoid;
 }
 
 /* --- Responsive Adjustments --- */
 @media (max-width: 768px) {
-
-  /* Allow body scrolling on mobile */
-  /* body { overflow: auto; } */
-  .nav-button {
-    font-size: 10pt;
-    padding: 6px 10px;
+  #song {
+    /* Keep vertical scrolling even on smaller screens */
+    overflow-y: auto;
+    overflow-x: hidden;
   }
 
-  #song {
-    column-count: 1;
-    /* Single column */
-    column-fill: balance;
-    /* Not relevant for single column */
-    /* Revert height constraints, allow natural flow */
+  #lyrics-scroller {
+    /* Keep 2 columns on all screen sizes */
     height: auto;
-    max-height: none;
-    overflow-y: visible;
-    /* Use main page scrollbar */
-    /* Add back top padding if needed, relative to nav */
-    padding-top: 40px;
-    /* Small gap below nav */
   }
 }
 
@@ -453,6 +608,8 @@ h1 {
   flex-wrap: wrap;
   gap: 15px;
   padding: 10px;
+  padding-bottom: 80px;
+  /* Add padding to prevent cutoff by footer */
 }
 
 .song-card {
