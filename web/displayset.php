@@ -55,7 +55,7 @@
       <tr>
         <td align="center" valign="middle" width="50">
           <a href="/songs" target="_top" style="text-decoration: none;">
-            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+            <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
           <div class="version-text">3.0</div>
         </td>

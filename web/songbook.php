@@ -292,3 +292,27 @@ function s2ms($s)
 {
     return intdiv($s, 60) . ':' . $s % 60;
 } // s2ms
+
+// Helper to extract lyrics preview
+function getLyricsPreview($songfile)
+{
+    $content = @file_get_contents($songfile);
+    if ($content === false)
+        return "";
+
+    // Remove ChordPro directives {word: ...}
+    $content = preg_replace('/\{.*?\}/', '', $content);
+
+    // Remove chords [A], [Gm7], etc.
+    $content = preg_replace('/\[.*?\]/', '', $content);
+
+    // Remove multiple newlines/spaces
+    $content = preg_replace('/\s+/', ' ', $content);
+
+    $content = trim($content);
+
+    if (strlen($content) > 45) {
+        return substr($content, 0, 45) . "...";
+    }
+    return $content;
+} // getLyricsPreview

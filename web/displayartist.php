@@ -21,7 +21,7 @@
       <tr>
         <td align="center" valign="middle" width="50">
           <a href="/songs" target="_top" style="text-decoration: none;">
-            <span class="home-icon" style="font-size: 40px; line-height: 1;">&#9835;</span>
+            <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
           <div class="version-text">3.0</div>
         </td>
@@ -60,13 +60,37 @@
       } // if
     } // foreach
     
-    print "<ol class='song-list'>";
+    print "<div class='song-list-container'>";
 
     foreach ($artistsSongs as $artistSong) {
-      print "<li><a href=\"webchord.cgi?chordpro=$artistSong[file]\">"
-        . basename($artistSong['file'], ".pro")
-        . "</a> <span class=\"song-folder\"> $artistSong[folder]</span></li>";
+      // Parse song to get details (Key, Capo)
+      $songData = parseSong($artistSong['file']);
+
+      $title = basename($artistSong['file'], ".pro");
+      // Link to rendered Song page
+      $proLink = "webchord.cgi?chordpro=" . urlencode($artistSong['file']);
+
+      $artistName = $artistSong['artist'];
+      // Link to artist page (reload)
+      $artistLink = "displayartist.php?artist=" . urlencode($artistName);
+
+      $keyHTML = $songData['key'] ? " | Key: " . htmlspecialchars($songData['key']) : "";
+      $capoHTML = $songData['capo'] ? " | Capo: " . htmlspecialchars($songData['capo']) : "";
+
+      // Metadata Line: "by <artist> | <key> | <capo>"
+      $metaLine = "by <a href=\"$artistLink\">" . htmlspecialchars($artistName) . "</a>" . $keyHTML . $capoHTML;
+
+      // Lyrics Preview
+      $preview = htmlspecialchars(getLyricsPreview($artistSong['file']));
+
+      print "<div class='song-card'>";
+      print "<div class='song-card-title'><a href=\"$proLink\">$title</a></div>";
+      print "<div class='song-card-meta'>$metaLine</div>";
+      print "<div class='song-card-lyrics'>$preview</div>";
+      print "</div>";
     } // foreach
+    
+    print "</div>"; // Close song-list-container
     ?>
 
 </body>
