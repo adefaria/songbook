@@ -10,7 +10,7 @@
   --input-text: #ffffff;
   --border-color: #444;
   --link-color: #bb86fc;
-  --header-height: 90px;
+  --header-height: 60px;
   --nav-btn-bg: #333;
   --nav-btn-text: #e0e0e0;
   --nav-btn-hover-bg: #555;
@@ -35,11 +35,27 @@ textarea {
 .search-input {
   border-radius: 20px;
   /* More rounded as requested */
-  border: 1px solid var(--border-color);
-  background-color: var(--input-bg);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.1);
   color: var(--input-text);
-  padding: 5px 10px;
+  padding: 8px 16px;
   width: 200px;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.search-input:focus {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+[data-theme="light"] .search-input {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: rgba(0, 0, 0, 0.1);
+  color: black;
+}
+
+[data-theme="light"] .search-input:focus {
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 /* Hide audio player 3-dot menu - comprehensive selectors */
@@ -85,58 +101,65 @@ input[type="submit"]:hover {
   --nav-btn-text: #121212;
   --nav-btn-hover-text: black;
   color-scheme: light;
+}
 
-  [data-theme="light"] {
-    /* ... Light theme vars ... */
+/* Audio Player - Set base to transparent */
+audio {
+  background-color: transparent;
+  /* Transparent to avoid artifacts at rounded edges */
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  color-scheme: dark;
+  /* Dark color scheme for white controls in dark mode */
+}
 
-    /* Audio Player - Light Grey for light mode */
-    audio {
-      background-color: #f1f3f4;
-    }
-  }
+/* Target the actual media controls panel for background color */
+audio::-webkit-media-controls-panel {
+  background-color: #3a3a3a !important;
+  /* Dark grey for dark mode */
+}
 
-  /* Audio Player - Darker Grey for dark mode (default) */
-  audio {
-    background-color: #aaaaaa;
-    /* Darker grey */
-    border-radius: 25px;
-    transition: all 0.3s ease;
-    color-scheme: light;
-    /* Ensure controls are dark */
-  }
+[data-theme="light"] audio {
+  color-scheme: light;
+  /* Light color scheme for dark controls in light mode */
+}
 
-  /* Toast Notification */
-  .toast {
-    visibility: hidden;
-    min-width: 250px;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 8px;
-    padding: 16px;
-    position: fixed;
-    z-index: 1001;
-    /* Above footer */
-    left: 50%;
-    bottom: 80px;
-    /* Above footer */
-    transform: translateX(-50%);
-    font-size: 17px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    opacity: 0;
-    transition: opacity 0.5s, visibility 0.5s;
-  }
+[data-theme="light"] audio::-webkit-media-controls-panel {
+  background-color: #e8e8e8 !important;
+  /* Green for light mode (testing) */
+}
 
-  .toast.show {
-    visibility: visible;
-    opacity: 1;
-  }
+/* Toast Notification */
+.toast {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1001;
+  /* Above footer */
+  left: 50%;
+  bottom: 80px;
+  /* Above footer */
+  transform: translateX(-50%);
+  font-size: 17px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity 0.5s, visibility 0.5s;
+}
 
-  [data-theme="light"] .toast {
-    background-color: #f1f3f4;
-    color: #333;
-    border: 1px solid #ccc;
-  }
+.toast.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+[data-theme="light"] .toast {
+  background-color: #f1f3f4;
+  color: #333;
+  border: 1px solid #ccc;
 }
 
 body {
@@ -146,6 +169,10 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  /* Prevent body scrollbar - #song handles all scrolling */
+  height: 100vh;
+  /* Ensure body fills viewport */
 }
 
 #title,
@@ -272,9 +299,11 @@ h1 {
   box-sizing: border-box;
 }
 
-#heading .nav-button:hover {
-  background-color: var(--nav-btn-hover-bg);
-  color: var(--nav-btn-hover-text);
+#heading .nav-button:hover,
+#heading .nav-button:hover * {
+  background-color: #4285F4;
+  /* Google Blue */
+  color: #ffffff !important;
 }
 
 /* Smaller navigation buttons in header */
@@ -307,6 +336,8 @@ h1 {
 }
 
 .nav-arrow {
+  display: none;
+  /* Hide on desktop - only show on mobile */
   color: var(--accent-color);
   font-size: 18px;
   font-weight: bold;
@@ -371,7 +402,7 @@ h1 {
   /* Horizontal padding */
   padding-left: 20px;
   padding-right: 20px;
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 120px;
 
   box-sizing: border-box;
@@ -380,6 +411,8 @@ h1 {
 #lyrics-scroller {
   /* Use flexbox for side-by-side columns instead of CSS multi-column */
   display: flex;
+  align-items: flex-start;
+  /* Ensure both columns align at the top */
   gap: 40px;
 
   /* Height 100% to fill parent container */

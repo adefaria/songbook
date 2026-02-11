@@ -406,6 +406,16 @@ document.addEventListener("DOMContentLoaded", function () {
       rightColumn.appendChild(children[i]);
     }
     
+    // Remove leading BR tags from both columns to ensure alignment
+    function removeLeadingBRs(column) {
+      while (column.firstChild && column.firstChild.tagName === 'BR') {
+        column.removeChild(column.firstChild);
+      }
+    }
+    
+    removeLeadingBRs(leftColumn);
+    removeLeadingBRs(rightColumn);
+    
     // Clear scroller and add columns
     scroller.innerHTML = '';
     scroller.appendChild(leftColumn);
@@ -416,12 +426,88 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("DOMContentLoaded", () => {
     window.splitLyricsIntoColumns();
     window.fitSongContent();
+
+    // Check if we should autoplay (when accessed via direct link)
+    const urlParams = new URLSearchParams(window.location.search);
+    const inIframe = window.self !== window.top;
+    
+    // Autoplay if we're in an iframe and have a chordpro parameter
+    if (inIframe && urlParams.has('chordpro')) {
+      const audio = document.querySelector('audio');
+      if (audio) {
+        // Robust Autoplay Logic
+        const attemptPlay = () => {
+          const playPromise = audio.play();
+          if (playPromise !== undefined) {
+            playPromise.then(_ => {
+              // Autoplay started!
+            }).catch(error => {
+              console.log('Autoplay prevented by browser:', error);
+              
+              // Fallback: Play on first interaction (invisible to user)
+              const playOnInteraction = () => {
+                // Ensure we unmute before playing!
+                audio.muted = false; 
+                audio.play().then(() => {
+                  // Success - remove listeners
+                  ['click', 'keydown', 'touchstart'].forEach(e => 
+                    document.removeEventListener(e, playOnInteraction));
+                }).catch(e => console.log('Interaction play failed:', e));
+              };
+
+              // Listen for any user interaction
+              ['click', 'keydown', 'touchstart'].forEach(e => 
+                document.addEventListener(e, playOnInteraction));
+                
+              // Also try muted as a backup, so it at least starts visually
+              audio.muted = true;
+              audio.play().then(() => {
+                  // If muted autoplay works, we still want the interaction to UNMUTE it
+                  // The listeners above will handle that (calling play() on unmuted audio)
+                  showToast("Playing muted. Click to unmute.");
+              }).catch(e => console.log('Muted autoplay also prevented'));
+            });
+          }
+        };
+
+        if (audio.readyState >= 3) {
+            attemptPlay();
+        } else {
+            audio.addEventListener('canplay', attemptPlay, { once: true });
+        }
+      }
+    }
+  
+    // Update URL in Parent Window
+    if (inIframe) {
+      try {
+        const songPath = window.location.pathname + window.location.search;
+        // We expect songPath to look like /songbook/webchord.cgi?chordpro=...
+        // and we want parent URL to look like /songs/webchord.cgi?chordpro=...
+        // If path doesn't contain /songbook/, fallback to simple replace or just append
+        let parentPath = songPath.replace('/songbook/', '/songs/');
+        
+        // Safety check: if replace didn't do anything (maybe path is different), 
+        // ensure we start with /songs/ if strictly songbook content
+        if (parentPath === songPath && songPath.includes('webchord.cgi')) {
+             parentPath = '/songs' + songPath;
+        }
+
+        window.top.history.replaceState(null, '', parentPath);
+      } catch (e) {
+        // Cross-origin, can't update parent URL
+        console.log('Could not update parent URL:', e);
+      }
+    }
   });
   
   let resizeTimeout;
-  window.addEventListener("resize", () => {
+  window.addEventListener('resize', () => {
     clearTimeout(resizeTimeout);
-    resizeTimeout = setTimeout(window.fitSongContent, 250);
+    resizeTimeout = setTimeout(() => {
+      window.splitLyricsIntoColumns();
+      window.fitSongContent();
+    }, 100);
   });
 })();
 
@@ -515,7 +601,33 @@ function showToast(message) {
 
 // Copy Link Function
 window.copyCurrentUrlToClipboard = function() {
-  const url = window.location.href;
+  // Check if we're in an iframe
+  const inIframe = window.self !== window.top;
+  
+  let url;
+  if (inIframe) {
+    // Get the current iframe URL
+    const iframeUrl = window.location.href;
+    
+    // Extract the songbook path (e.g., /songbook/webchord.cgi?chordpro=American+Girl.pro)
+    const songbookPath = iframeUrl.replace(/^.*\/songbook\//, '/songbook/');
+    
+    // Construct the parent URL: /songs/webchord.cgi?chordpro=...
+    const parentPath = songbookPath.replace('/songbook/', '/songs/');
+    
+    // Get the parent's origin
+    try {
+      url = window.top.location.origin + parentPath;
+    } catch (e) {
+      // Cross-origin, use current origin
+      url = window.location.origin + parentPath;
+    }
+  } else {
+    // Not in iframe, use current URL
+    url = window.location.href;
+  }
+  
+  // Copy to clipboard
   if (navigator.clipboard) {
     navigator.clipboard.writeText(url).then(() => {
       showToast("Link copied to clipboard!");
@@ -538,3 +650,4 @@ window.copyCurrentUrlToClipboard = function() {
     document.body.removeChild(textArea);
   }
 };
+

@@ -596,7 +596,7 @@ if ( defined $setlist_name_param
             # Create compact prev link: arrow + song title
             $prev_link_html = $q->a ({
                 -href  => $script_basename . $prev_url_query_manual,
-                -class => 'nav-link prev-link',
+                -class => 'nav-button prev-link',
                 -title => 'Previous: ' . $escaped_prev_title
               },
               $q->span ({-class => 'nav-arrow'}, "&#10094;"),
@@ -649,7 +649,7 @@ if ( defined $setlist_name_param
             # Create compact next link: song title + arrow
             $next_link_html = $q->a ({
                 -href  => $script_basename . $next_url_query_manual,
-                -class => 'nav-link next-link',
+                -class => 'nav-button next-link',
                 -title => 'Next: ' . $escaped_next_title
               },
               $q->span ({-class => 'nav-song-title'}, $escaped_next_title),
@@ -911,17 +911,7 @@ print $q->table (
         )
       ),
 
-      # Set line (if in setlist context) - directly below Songbook title
-      (
-        $setlist_link_html_wrapped
-        ? $q->div ({
-            -style =>
-              'font-size: 1.1em; margin: 5px 0 10px 0; text-align: center;'
-          },
-          $setlist_link_html_wrapped
-          )
-        : ''
-      ),
+      # Set line moved to right column
 
       # Song title with navigation buttons (if in setlist context)
       $q->div ({
@@ -966,6 +956,18 @@ print $q->table (
     # Cell 3: Audio Player / Marks
     $q->td (
       {-align => 'center', -width => '30%', -valign => 'middle'},
+
+      # Set line (if in setlist context) - above audio player
+      (
+        $setlist_link_html_wrapped
+        ? $q->div ({
+            -style =>
+              'font-size: 1.1em; margin: 0 0 10px 0; text-align: center;'
+          },
+          $setlist_link_html_wrapped
+          )
+        : ''
+      ),
       $last_cell_content
     )
   )
