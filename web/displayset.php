@@ -245,6 +245,20 @@ END;
 
 
 
+  <script>
+    // Update parent URL for deep linking
+    if (window.self !== window.top) {
+      try {
+        const setName = "<?php echo htmlspecialchars(basename($set, '.lst')); ?>";
+        // Preserve other query params if any?
+        // But we want clean URL: /sets/SetName
+        const newUrl = '/sets/' + encodeURIComponent(setName);
+        window.top.history.replaceState(null, '', newUrl);
+      } catch (e) {
+        console.log('Could not update parent URL:', e);
+      }
+    }
+  </script>
 </body> <!-- Added closing body tag -->
 
 </html>
