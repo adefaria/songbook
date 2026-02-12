@@ -16,7 +16,7 @@ And [D]he's [A]holding [Bm]her in [G]his [A]arms late, late at [D]night [A]
 
 {c:Chorus}
 
-[A}You know I wish that I had [D]Jesse's girl [A] [Bm] [A] [Bm] [A]
+[A]You know I wish that I had [D]Jesse's girl [A] [Bm] [A] [Bm] [A]
 I wish that I had Jesse's [A] [Bm]girl [A] [Bm] [A]
 Where [G]can I [A]find a woman like that?
 
