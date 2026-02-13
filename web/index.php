@@ -16,7 +16,7 @@
 
 </head>
 
-<body style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
+<body style="margin-top: 80px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
   <table width="100%" id="heading">
     <tbody>
       <tr>
@@ -75,22 +75,7 @@
         </select>
       </form>
 
-      <!-- Songs -->
-      <form method="get" action="webchord.cgi" style="margin:0;">
-        <select name="chordpro" class="uniform-input-width" onchange="this.form.submit()" style="margin:0;">
-          <option value=''>Songs...</option>
-          <?php
-          if (isset($songs) && is_array($songs)) {
-            $sorted_songs = $songs;
-            sort($sorted_songs);
-            foreach ($sorted_songs as $song_item) {
-              $title = basename($song_item, ".pro");
-              echo "<option value=\"" . htmlspecialchars($title . ".pro") . "\">" . htmlspecialchars($title) . "</option>";
-            }
-          }
-          ?>
-        </select>
-      </form>
+
 
     </div>
 

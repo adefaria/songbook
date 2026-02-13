@@ -1098,13 +1098,6 @@ if (!$right_button) {
   };
 } ## end if (!$right_button)
 
-# Search HTML (identical to site-functions.php but in Perl)
-my $search_html = qq{
-    <form method="get" action="/songbook/search.php" style="display: inline-flex; align-items: center; margin: 0;">
-      <input type="text" name="q" class="search-input" placeholder="Search title or lyrics" onclick="this.value=''">
-    </form>
-};
-
 print $q->div ({-id => 'song'},
   $q->div ({-id => 'lyrics-scroller'}, $song_html));
 
@@ -1112,7 +1105,6 @@ print qq{
 <footer class="copyright" style="display: flex; align-items: center; justify-content: space-between; padding: 10px 20px;">
   <div style="display: flex; align-items: center; gap: 15px; flex-shrink: 0;">
     $left_button
-    $search_html
   </div>
 
   <div style="flex-grow: 1; text-align: center;">

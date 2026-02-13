@@ -316,3 +316,25 @@ function getLyricsPreview($songfile)
     }
     return $content;
 } // getLyricsPreview
+
+// Extract clean lyrics for full-text search
+function getSearchableLyrics($songfile)
+{
+    $content = @file_get_contents($songfile);
+    if ($content === false)
+        return "";
+
+    // Remove ChordPro directives {directive: value}
+    $content = preg_replace('/\{[^}]+\}/', ' ', $content);
+
+    // Remove chords [A], [Gm7], etc.
+    $content = preg_replace('/\[[^\]]+\]/', ' ', $content);
+
+    // Remove comments starting with #
+    $content = preg_replace('/^#.*$/m', '', $content);
+
+    // Normalize whitespace (replace cleartabs, newlines with spaces)
+    $content = preg_replace('/\s+/', ' ', $content);
+
+    return trim($content);
+} // getSearchableLyrics
