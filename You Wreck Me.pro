@@ -10,7 +10,7 @@ Rescue me Should I go down
 If I stay too long In trouble town
 Oh yeah!
 
-{c:Chourus}
+{c:Chorus}
 
 You wreck me baby!
 Yeah, you break me in two
@@ -23,7 +23,7 @@ Rescue me Should I go wrong
 If I dig too deep If I stay too long
 Oh yeah!
 
-{c:Chourus}
+{c:Chorus}
 
 I'll be the boy In the corduroy pants
 You be the girl At the high school dance
