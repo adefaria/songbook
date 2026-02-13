@@ -47,7 +47,7 @@ Ain't that the way love's supposed to be?
 
 {c:Key Change to F#}
 
-[F#] [A] [B]
+[F#] [B] [B] [B] [A] [B]
 
 {c:key change back}
 
