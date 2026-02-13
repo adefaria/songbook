@@ -1,0 +1,1 @@
+/home/andrew/.config/antigravity/common-rules/browser-perms.md

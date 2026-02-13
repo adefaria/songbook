@@ -274,19 +274,172 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  const songDropdown = document.getElementById("song-select");
-  if (songDropdown) {
-    songDropdown.addEventListener("change", function () {
-      const selectedSong = this.value;
-      if (selectedSong) {
-        // *** Adjust URL structure as needed ***
-        const targetUrl = `webchord.cgi?chordpro=${encodeURIComponent(
-          selectedSong
-        )}`;
-        window.location.href = targetUrl;
+  // *** Autocomplete Logic for Songs ***
+  // *** Autocomplete Logic for Songs ***
+  const searchInputs = document.querySelectorAll(".song-search-input, #song-search");
+
+  // Helper to init a pair
+  function initAutocomplete(songSearchInput, songResultsContainer) {
+      if (!songSearchInput || !songResultsContainer) return;
+
+      let currentFocus = -1;
+
+      if (typeof allSongs === 'undefined') {
+          console.error("allSongs variable is undefined! Check index.php generation.");
+          return;
       }
-    });
+      
+      // Filter function
+      function filterSongs(query) {
+        if (!query) {
+          closeAllLists();
+          return;
+        }
+        
+        if (!Array.isArray(allSongs)) {
+            return;
+        }
+  
+        const lowerQuery = query.toLowerCase();
+        // Filter songs that contain the query string (case-insensitive) in title OR lyrics
+        const matches = allSongs.filter(song => 
+          song.title.toLowerCase().includes(lowerQuery) || 
+          (song.lyrics && song.lyrics.toLowerCase().includes(lowerQuery))
+        );
+  
+        displayResults(matches, lowerQuery);
+      }
+  
+      // Display results function
+      function displayResults(matches, query) {
+        // Clear previous results
+        songResultsContainer.innerHTML = "";
+        currentFocus = -1;
+  
+        if (matches.length === 0) {
+          songResultsContainer.classList.remove("show");
+          return;
+        }
+        
+        const safeQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp(`(${safeQuery})`, "gi");
+  
+        matches.forEach(song => {
+          const item = document.createElement("div");
+          item.className = "autocomplete-item";
+          
+          let displayHTML = "";
+          
+          // Highlight title match
+          if (song.title.toLowerCase().includes(query)) {
+             displayHTML = song.title.replace(regex, "<strong>$1</strong>");
+          } else {
+             displayHTML = song.title; // No title match, just display title
+          }
+           
+          // Indicate lyric match if title doesn't match
+          if (!song.title.toLowerCase().includes(query) && song.lyrics && song.lyrics.toLowerCase().includes(query)) {
+              displayHTML += " <small style='opacity:0.7'><i>(Lyrics match)</i></small>";
+          }
+  
+          item.innerHTML = displayHTML;
+          item.dataset.file = song.file; // Store filename
+  
+          item.addEventListener("click", function () {
+            // Navigate to the song
+            window.location.href = `webchord.cgi?chordpro=${encodeURIComponent(song.file)}`;
+          });
+  
+          songResultsContainer.appendChild(item);
+        });
+  
+        songResultsContainer.classList.add("show");
+      }
+  
+      // Event Listeners for Input
+      songSearchInput.addEventListener("input", function () {
+        filterSongs(this.value);
+      });
+      
+      songSearchInput.addEventListener("focus", function() {
+        // Optional: Trigger search on focus?
+      });
+  
+      songSearchInput.addEventListener("keydown", function (e) {
+        let x = songResultsContainer.getElementsByTagName("div");
+        if (e.keyCode === 40) { // Arrow Down
+          currentFocus++;
+          addActive(x);
+        } else if (e.keyCode === 38) { // Arrow Up
+          currentFocus--;
+          addActive(x);
+        } else if (e.keyCode === 13) { // Enter
+          e.preventDefault();
+          if (currentFocus > -1) {
+            if (x) x[currentFocus].click();
+          } else if (x && x.length > 0) {
+               x[0].click();
+          }
+        }
+      });
+
+      function addActive(x) {
+        if (!x) return false;
+        removeActive(x);
+        if (currentFocus >= x.length) currentFocus = 0;
+        if (currentFocus < 0) currentFocus = (x.length - 1);
+        x[currentFocus].classList.add("active");
+        x[currentFocus].scrollIntoView({block: "nearest"});
+      }
+  
+      function removeActive(x) {
+        for (let i = 0; i < x.length; i++) {
+          x[i].classList.remove("active");
+        }
+      }
   }
+
+  // Iterate all found inputs and init
+  searchInputs.forEach(input => {
+      // Find sibling container
+      // index.php structure: input + div.autocomplete-results
+      // site-functions.php structure: input + div.autocomplete-results
+      // Using parentNode is safest if they are siblings
+      const container = input.parentNode.querySelector(".autocomplete-results");
+      if (container) {
+          initAutocomplete(input, container);
+      }
+  });
+
+  // Global close listener
+  function closeAllLists(elmnt) {
+    const items = document.getElementsByClassName("autocomplete-results");
+    for (let i = 0; i < items.length; i++) {
+        // If clicked element is NOT the input associated with this list...
+        // But we don't know which input is associated easily here without map.
+        // Simplified: If clicked element is not an input and not the list itself
+        if (elmnt.classList && (elmnt.classList.contains("song-search-input") || elmnt.id === "song-search" || elmnt.id === "footer-song-search")) {
+             // Let that input handle its own list logic (or keep it open)
+             // But we should close OTHERS?
+             // For now, close all except if we are typing in one.
+             // Actually, input event opens it.
+        } else {
+           items[i].classList.remove("show");
+        }
+    }
+  }
+
+  document.addEventListener("click", function (e) {
+    // If click is inside an input, initAutocomplete handles it (or rather input event).
+    // If click is outside, close all.
+    // If click is inside a list item, that item handles it.
+    
+    // Check if target is an input
+    const isInput = e.target.classList.contains("song-search-input") || e.target.id === "song-search" || e.target.id === "footer-song-search";
+    if (!isInput) {
+        closeAllLists(e.target);
+    }
+  });
 
   // Add event listener for the "Next Song" button
   const nextSongButton = document.getElementById("next-song-btn");
