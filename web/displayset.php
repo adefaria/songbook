@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<html class="scroll-enabled">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -49,7 +49,7 @@
   ?>
 </head>
 
-<body style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
+<body class="scroll-enabled" style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
   <table width="100%" id="heading">
     <tbody>
       <tr>

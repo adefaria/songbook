@@ -779,3 +779,15 @@ h1 {
   background-color: #e8f0fe;
   color: #1967d2;
 }
+
+/* Allow scrolling on specific pages like search.php */
+html.scroll-enabled body {
+  height: auto !important;
+  overflow: auto !important;
+  overflow-y: auto !important;
+}
+
+html.scroll-enabled {
+  height: auto !important;
+  overflow: auto !important;
+}
