@@ -160,7 +160,7 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
 
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<html class="scroll-enabled">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -196,12 +196,9 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
     console.log("allSongs loaded in search.php:", allSongs.length);
   </script>
 
-  <style>
-    body {
-      overflow-y: auto !important;
-      /* Allow scrolling */
-    }
 
+
+  <style>
     .card-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -226,7 +223,7 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
   </style>
 </head>
 
-<body style="margin-top: 110px; margin-right: 10px; margin-left: 10px; margin-bottom: 120px;">
+<body class="scroll-enabled" style="margin-top: 110px; margin-right: 10px; margin-left: 10px; margin-bottom: 120px;">
   <!-- Added bottom margin for footer -->
 
   <table width="100%" id="heading">
