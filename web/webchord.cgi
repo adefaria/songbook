@@ -711,6 +711,37 @@ $title = $meta->{title};    # Use title extracted by chopro2html
 updateMusicpath ($chopro_content, $infile) if $title;
 
 # --- Prepare HTML Output ---
+# --- Generate allSongs JavaScript Data for Autocomplete (Mobile Search) ---
+my $all_songs_js_block = '';
+{
+  my $songs_ref = get_all_songs ($song_dir);
+  my @js_song_objects;
+  foreach my $song_file (@$songs_ref) {
+    next unless defined $song_file;
+    my $title = fileparse ($song_file, qr/\.[^.]*$/);
+
+    # Escape for JS string
+    my $safe_title = $title;
+    $safe_title =~ s/\\/\\\\/g;
+    $safe_title =~ s/'/\\'/g;
+
+    my $basename  = basename ($song_file);
+    my $safe_file = $basename;
+    $safe_file =~ s/\\/\\\\/g;
+    $safe_file =~ s/'/\\'/g;
+
+    # We only need title and file for basic autocomplete
+    push @js_song_objects, "{'title': '$safe_title', 'file': '$safe_file'}";
+  } ## end foreach my $song_file (@$songs_ref)
+  my $js_array_content = join (", ", @js_song_objects);
+  $all_songs_js_block = qq{
+  <script>
+    // Injected by webchord.cgi for mobile autocomplete
+    var allSongs = [$js_array_content];
+  </script>
+  };
+}
+
 print $q->header (-type => 'text/html', -charset => 'utf-8');
 print $q->start_html (
   -title => $title || "Song",
@@ -738,9 +769,120 @@ print $q->start_html (
       . $q->escapeHTML ('/songbook/songbook.js?v=' . time ())
       . qq{"></script>},
     $setlist_js_block,    # Add the setlist JS block here
+                          # Add viewport meta tag for mobile responsiveness
+    $q->meta (
+      {-name => 'viewport', -content => 'width=device-width, initial-scale=1'}
+    ),
+
+    # Add mobile search CSS and fix to hide copyright banner on mobile
+    qq{
+    <style>
+      /* Mobile Search Bar Styling */
+      #mobile-search-bar {
+        display: none;
+      }
+      \@media (max-width: 768px) {
+        /* Hide the middle div which contains the copyright text */
+        footer.copyright > div:nth-child(2) {
+          display: none !important;
+        }
+        .footer-line {
+          display: none !important;
+        }
+        
+        /* Ensure nav buttons are big enough */
+        .footer-nav-btn {
+          min-width: 44px !important;
+          min-height: 44px !important;
+        }
+
+        /* Show Mobile Search Bar */
+        #mobile-search-bar-top {
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+          /* Moved to Top of content due to iframe scrolling issues on mobile */
+          margin-bottom: 15px; 
+          padding: 10px 15px;
+          background-color: var(--surface-color); 
+          border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        #mobile-search-bar-top input {
+          width: 100%;
+          border-radius: 20px;
+          padding: 10px 15px;
+          border: 1px solid rgba(255, 255, 255, 0.2);
+          background: rgba(255, 255, 255, 0.1);
+          color: var(--text-color);
+          font-size: 16px; /* Prevent zoom on focus */
+          box-sizing: border-box;
+        }
+        
+        #mobile-search-bar-top input:focus {
+           background: rgba(255, 255, 255, 0.15);
+           outline: none;
+           border-color: var(--accent-color);
+        }
+
+        /* Adjust autocomplete position for this static header */
+        #mobile-search-bar-top .autocomplete-results {
+             top: 100%;
+             bottom: auto;
+             border-radius: 0 0 8px 8px;
+             border-top: none; 
+             border-bottom: 1px solid var(--border-color);
+             max-height: 200px;
+             overflow-y: auto;
+             z-index: 10000;
+        }
+
+        /* Ensure content clears the fixed bottom tabs (approx 120px) */
+        body {
+            /* 
+              We need enough padding so the last line of lyrics isn't hidden 
+              behind the parent site's bottom tabs (bottom: 60px, height: 60px).
+              Plus a little extra for breathing room.
+            */
+            padding-bottom: 120px !important; 
+        }
+
+        /* --- Hide Elements on Mobile (User Request) --- */
+        
+        /* 1. Hide "Blue Notes" Icon / Header Image */
+        #heading img {
+            display: none !important;
+        }
+
+        /* 2. Hide Artists and Sets Dropdowns */
+        /* Note: We target the specific selects by name or context if possible, 
+           or use general selector if they are the only ones in that row.
+           Based on code, they are in a table row. Let's try to hide the row or cell?
+           Actually, just hiding the selects is safer. */
+        select[name="set"],
+        select[name="chordpro"] {
+             display: none !important;
+        }
+        
+        /* User also mentioned "remove the blue notes at the top". 
+           If that means the whole header table might be too big? 
+           For now, hiding the image is the direct request. */
+
+        /* 3. Increase Media Player Size */
+        audio {
+            width: 100% !important;
+            height: 40px; /* Make it a bit taller for touch */
+        }
+      }
+
+
+    </style>
+    },
+
     qq{<script src="}
       . $q->escapeHTML ('/songbook/question.mark.js')
-      . qq{"></script>}
+      . qq{"></script>},
+    $all_songs_js_block
   ]
 );
 
@@ -865,6 +1007,65 @@ if (defined $setlist_name_param && $setlist_name_param ne '') {
   $setlist_link_html_wrapped =
     $q->div ({-id => 'title'}, 'Set: ' . $setlist_link);
 } ## end if (defined $setlist_name_param...)
+
+# --- Insert Mobile Search Bar Here (Top of Content) ---
+# --- Insert Mobile Search Bar Here (Top of Content) ---
+print qq{
+<div id="mobile-search-bar-top">
+    <div style="position: relative;">
+        <input type="text" id="footer-song-search" placeholder="Search Song..." autocomplete="off">
+        <div class="autocomplete-results"></div>
+    </div>
+    <form action="/songbook/search.php" method="get" style="margin: 0;">
+        <input type="text" name="q" placeholder="Search Title / Lyrics">
+        <input type="hidden" name="type" value="lyrics">
+    </form>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('footer-song-search');
+    var container = input.parentNode.querySelector('.autocomplete-results');
+    if (input && container && typeof initAutocomplete === 'function') {
+        initAutocomplete(input, container);
+    }
+    
+    // --- Tap to Play/Pause Logic ---
+    const audio = document.getElementById('song_audio_player');
+    if (audio) {
+        document.body.addEventListener('click', function(e) {
+            // Check if the click target is interactive (link, input, button, audio itself)
+            const target = e.target;
+            const tagName = target.tagName.toLowerCase();
+            
+            // Do NOT toggle if clicking these:
+            if (tagName === 'a' || 
+                tagName === 'input' || 
+                tagName === 'button' || 
+                tagName === 'select' || 
+                tagName === 'textarea' ||
+                tagName === 'audio' ||
+                target.closest('.autocomplete-results') ||
+                target.closest('#mobile-search-bar-top') ||
+                target.closest('footer') || /* Footer buttons */
+                target.closest('.sidebar-wrapper') /* Parent tabs if reachable */
+               ) {
+                return;
+            }
+            
+            // Prevent default? Maybe not, just toggle.
+            // Toggle Play/Pause
+            if (audio.paused) {
+                audio.play();
+                showToast("Playing");
+            } else {
+                audio.pause();
+                showToast("Paused");
+            }
+        });
+    }
+});
+</script>
+};
 
 print $q->table (
   {-id => 'heading'},

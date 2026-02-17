@@ -164,11 +164,28 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook: Search Results</title>
   <link rel="stylesheet" type="text/css" href="songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
+
   <script src="songbook.js"></script>
   <?php include_once "songbook.php"; ?>
+  <style>
+    /* Force hide the copyright TEXT only, keep navigation */
+    footer .copyright,
+    .footer-line,
+    footer td:nth-child(3) {
+      display: none !important;
+    }
+
+    /* Ensure nav buttons are big enough */
+    .footer-nav-btn {
+      min-width: 44px !important;
+      min-height: 44px !important;
+    }
+  </style>
 
   <!-- Inject allSongs for Autocomplete -->
   <script>

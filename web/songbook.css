@@ -791,3 +791,9 @@ html.scroll-enabled {
   height: auto !important;
   overflow: auto !important;
 }
+
+@media (max-width: 768px) {
+  footer.copyright {
+    display: none !important;
+  }
+}
