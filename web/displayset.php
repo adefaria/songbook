@@ -3,12 +3,14 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook List</title>
   <!-- Ensure CSS paths are correct relative to your web server root -->
-  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css?v=<?php echo time(); ?>">
-  <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
+  <link rel="stylesheet" type="text/css" href="/songbook/songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
+  <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
+
 
   <?php
   // Include shared functions and variables
@@ -47,6 +49,20 @@
     $error_message = null; // No error encountered yet
   }
   ?>
+  <style>
+    /* Force hide the copyright TEXT only, keep navigation */
+    footer .copyright,
+    .footer-line,
+    footer td:nth-child(3) {
+      display: none !important;
+    }
+
+    /* Ensure nav buttons are big enough */
+    .footer-nav-btn {
+      min-width: 44px !important;
+      min-height: 44px !important;
+    }
+  </style>
 </head>
 
 <body class="scroll-enabled" style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
