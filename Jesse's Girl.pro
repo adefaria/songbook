@@ -16,7 +16,7 @@ And [D]he's [A]holding [Bm]her in [G]his [A]arms late, late at [D]night [A]
 
 {c:Chorus}
 
-[A}You know I wish that I had [D]Jesse's girl [A] [Bm] [A] [Bm] [A]
+[A]You know I wish that I had [D]Jesse's girl [A] [Bm] [A] [Bm] [A]
 I wish that I had Jesse's [A] [Bm]girl [A] [Bm] [A]
 Where [G]can I [A]find a woman like that?
 
@@ -32,7 +32,9 @@ And she's lovin' him with that body, I just know it
 And he's holding her in his arms late, late at night
 You know I wish that I had Jesse's girl
 
-{c:Chorus} 2x
+{c:Chorus}
+
+2x
 
 {c:Bridge}
 
@@ -45,10 +47,12 @@ Ain't that the way love's supposed to be?
 
 {c:Key Change to F#}
 
-[F#] [A] [B]
+[F#] [B] [B] [B] [A] [B]
 
 {c:key change back}
 
 {c:Lead back in original key}
 
-{c:Chorus} 2x
+{c:Chorus}
+
+2x

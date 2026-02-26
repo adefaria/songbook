@@ -839,39 +839,7 @@ print $q->start_html (
 
         /* Ensure content clears the fixed bottom tabs (approx 120px) */
         body {
-            /* 
-              We need enough padding so the last line of lyrics isn't hidden 
-              behind the parent site's bottom tabs (bottom: 60px, height: 60px).
-              Plus a little extra for breathing room.
-            */
-            padding-bottom: 120px !important; 
-        }
-
-        /* --- Hide Elements on Mobile (User Request) --- */
-        
-        /* 1. Hide "Blue Notes" Icon / Header Image */
-        #heading img {
-            display: none !important;
-        }
-
-        /* 2. Hide Artists and Sets Dropdowns */
-        /* Note: We target the specific selects by name or context if possible, 
-           or use general selector if they are the only ones in that row.
-           Based on code, they are in a table row. Let's try to hide the row or cell?
-           Actually, just hiding the selects is safer. */
-        select[name="set"],
-        select[name="chordpro"] {
-             display: none !important;
-        }
-        
-        /* User also mentioned "remove the blue notes at the top". 
-           If that means the whole header table might be too big? 
-           For now, hiding the image is the direct request. */
-
-        /* 3. Increase Media Player Size */
-        audio {
-            width: 100% !important;
-            height: 40px; /* Make it a bit taller for touch */
+            padding-bottom: 150px !important;
         }
       }
 
@@ -1027,41 +995,6 @@ document.addEventListener('DOMContentLoaded', function() {
     var container = input.parentNode.querySelector('.autocomplete-results');
     if (input && container && typeof initAutocomplete === 'function') {
         initAutocomplete(input, container);
-    }
-    
-    // --- Tap to Play/Pause Logic ---
-    const audio = document.getElementById('song_audio_player');
-    if (audio) {
-        document.body.addEventListener('click', function(e) {
-            // Check if the click target is interactive (link, input, button, audio itself)
-            const target = e.target;
-            const tagName = target.tagName.toLowerCase();
-            
-            // Do NOT toggle if clicking these:
-            if (tagName === 'a' || 
-                tagName === 'input' || 
-                tagName === 'button' || 
-                tagName === 'select' || 
-                tagName === 'textarea' ||
-                tagName === 'audio' ||
-                target.closest('.autocomplete-results') ||
-                target.closest('#mobile-search-bar-top') ||
-                target.closest('footer') || /* Footer buttons */
-                target.closest('.sidebar-wrapper') /* Parent tabs if reachable */
-               ) {
-                return;
-            }
-            
-            // Prevent default? Maybe not, just toggle.
-            // Toggle Play/Pause
-            if (audio.paused) {
-                audio.play();
-                showToast("Playing");
-            } else {
-                audio.pause();
-                showToast("Paused");
-            }
-        });
     }
 });
 </script>

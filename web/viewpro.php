@@ -17,8 +17,23 @@ if (isset($_GET['file'])) {
     $filePath = $songDirectory . $fileName;
 
     if (file_exists($filePath) && is_readable($filePath)) {
-        header('Content-Type: text/plain; charset=utf-8');
-        readfile($filePath);
+        // Change Content-Type to HTML for styling
+        header('Content-Type: text/html; charset=utf-8');
+
+        echo "<!DOCTYPE html>\n";
+        echo "<html>\n<head>\n";
+        echo '<meta charset="utf-8">' . "\n";
+        echo '<title>' . htmlspecialchars($fileName) . '</title>' . "\n";
+        echo '<link rel="stylesheet" type="text/css" href="songbook.css?v=' . time() . '">' . "\n";
+        echo '<script src="songbook.js?v=' . time() . '"></script>' . "\n";
+        echo "</head>\n<body>\n";
+
+        echo "<pre>";
+        $content = file_get_contents($filePath);
+        echo htmlspecialchars($content);
+        echo "</pre>\n";
+
+        echo "</body>\n</html>";
         exit;
     } else {
         header("HTTP/1.0 404 Not Found");
