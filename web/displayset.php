@@ -1,15 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<html class="scroll-enabled">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="GENERATOR" content="Mozilla/4.61 [en] (Win98; U) [Netscape]">
   <title>Songbook List</title>
   <!-- Ensure CSS paths are correct relative to your web server root -->
-  <link rel="stylesheet" type="text/css" media="screen" href="/songbook/songbook.css">
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/Music.css">
-  <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
+  <link rel="stylesheet" type="text/css" href="/songbook/songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
+  <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
+
 
   <?php
   // Include shared functions and variables
@@ -48,18 +49,35 @@
     $error_message = null; // No error encountered yet
   }
   ?>
+  <style>
+    /* Force hide the copyright TEXT only, keep navigation */
+    footer .copyright,
+    .footer-line,
+    footer td:nth-child(3) {
+      display: none !important;
+    }
+
+    /* Ensure nav buttons are big enough */
+    .footer-nav-btn {
+      min-width: 44px !important;
+      min-height: 44px !important;
+    }
+  </style>
 </head>
 
-<body style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
+<body class="scroll-enabled" style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
   <table width="100%" id="heading">
     <tbody>
       <tr>
-        <td align="left" style="padding-left: 10px;" valign="middle" width="50">
-          <a href="/songbook"><img alt="Home" border="0" src="/songbook/Music.ico"
-              style="width: 100%; height: auto;"><br>&nbsp;2.1</a>
+        <td align="center" valign="middle" width="50">
+          <a href="/songs" target="_top" style="text-decoration: none;">
+            <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
+          </a>
+          <div class="version-text">3.0</div>
         </td>
-        <td align=" center">
-          <h1 style="color: white"><?php echo $set_display_title; ?></h1>
+        <td align="center">
+          <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
+          <h2>Set: <?php echo $set_display_title; ?></h2>
         </td>
       </tr>
     </tbody>
@@ -167,7 +185,7 @@ END;
         
                 // Build query parameters using http_build_query for safe encoding
                 $link_params = http_build_query([
-                  'chordpro' => $actual_file_path, // Pass the full path
+                  'chordpro' => $actual_filename, // Pass just the filename (webchord.cgi will search for it)
                   'setlist' => $set,           // Pass the original setlist filename (e.g., MySet.lst)
                   'songidx' => $details['index'] // Pass the 0-based index
                 ]);
@@ -241,6 +259,22 @@ END;
 
   </div> <!-- End #content -->
 
+
+
+  <script>
+    // Update parent URL for deep linking
+    if (window.self !== window.top) {
+      try {
+        const setName = "<?php echo htmlspecialchars(basename($set, '.lst')); ?>";
+        // Preserve other query params if any?
+        // But we want clean URL: /sets/SetName
+        const newUrl = '/sets/' + encodeURIComponent(setName);
+        window.top.history.replaceState(null, '', newUrl);
+      } catch (e) {
+        console.log('Could not update parent URL:', e);
+      }
+    }
+  </script>
 </body> <!-- Added closing body tag -->
 
 </html>

@@ -1,35 +1,208 @@
+/* Theme Variables */
+:root {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --header-bg: #1e1e1e;
+  --header-text: #e0e0e0;
+  --accent-color: rgb(251, 188, 5);
+  /* Google Yellow */
+  --input-bg: #2b2b2b;
+  --input-text: #ffffff;
+  --border-color: #444;
+  --link-color: #bb86fc;
+  --header-height: 60px;
+  --nav-btn-bg: #333;
+  --nav-btn-text: #e0e0e0;
+  --nav-btn-hover-bg: #555;
+  --nav-btn-hover-text: white;
+  color-scheme: dark;
+}
+
+/* Global Input Styling */
+input,
+select,
+textarea {
+  border-radius: 8px;
+  padding: 4px 8px;
+  /* Reduced vertical padding */
+  border: 1px solid var(--border-color);
+  background-color: var(--input-bg);
+  color: var(--input-text);
+  font-size: 0.9rem;
+  /* Reduced font size */
+}
+
+.search-input {
+  border-radius: 20px;
+  /* More rounded as requested */
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--input-text);
+  padding: 8px 16px;
+  width: 200px;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.search-input:focus {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+[data-theme="light"] .search-input {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: rgba(0, 0, 0, 0.1);
+  color: black;
+}
+
+[data-theme="light"] .search-input:focus {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Hide audio player 3-dot menu - comprehensive selectors */
+audio::-webkit-media-controls-overflow-button,
+audio::-webkit-media-controls-enclosure-overflow-button,
+audio::-internal-media-controls-overflow-button {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  pointer-events: none !important;
+}
+
+
+input[type="submit"] {
+  cursor: pointer;
+  background-color: var(--nav-btn-bg);
+  color: var(--nav-btn-text);
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+input[type="submit"]:hover {
+  background-color: var(--nav-btn-hover-bg);
+  color: var(--nav-btn-hover-text);
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #121212;
+  --header-bg: #f5f5f5;
+  /* Light Grey */
+  --header-text: #121212;
+  --accent-color: rgb(251, 188, 5);
+  /* Google Yellow */
+  --input-bg: #f0f0f0;
+  --input-text: #000000;
+  --border-color: #ccc;
+  --link-color: blue;
+  /* Or standard link color */
+  --nav-btn-bg: #e0e0e0;
+  --nav-btn-text: #121212;
+  --nav-btn-hover-text: black;
+  color-scheme: light;
+}
+
+/* Audio Player - Set base to transparent */
+audio {
+  background-color: transparent;
+  /* Transparent to avoid artifacts at rounded edges */
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  color-scheme: dark;
+  /* Dark color scheme for white controls in dark mode */
+}
+
+/* Target the actual media controls panel for background color */
+audio::-webkit-media-controls-panel {
+  background-color: #3a3a3a !important;
+  /* Dark grey for dark mode */
+}
+
+[data-theme="light"] audio {
+  color-scheme: light;
+  /* Light color scheme for dark controls in light mode */
+}
+
+[data-theme="light"] audio::-webkit-media-controls-panel {
+  background-color: #e8e8e8 !important;
+  /* Green for light mode (testing) */
+}
+
+/* Toast Notification */
+.toast {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1001;
+  /* Above footer */
+  left: 50%;
+  bottom: 80px;
+  /* Above footer */
+  transform: translateX(-50%);
+  font-size: 17px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity 0.5s, visibility 0.5s;
+}
+
+.toast.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+[data-theme="light"] .toast {
+  background-color: #f1f3f4;
+  color: #333;
+  border: 1px solid #ccc;
+}
+
 body {
   padding: 0px;
   border: 0px;
   margin: 0px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  /* Prevent body scrollbar - #song handles all scrolling */
+  height: 100vh;
+  /* Ensure body fills viewport */
 }
 
-#title {
+#title,
+#artist,
+h1,
+h2,
+h3,
+h4,
+h5,
+b,
+strong {
   text-align: center;
-  font-family: Arial, Helvetica;
-  font-size: 22pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--accent-color);
 }
 
-#artist {
-  text-align: center;
-  font-family: Arial, Helvetica;
+h1 {
   font-size: 22pt;
-}
-
-:root {
-  --header-height: 120px;
 }
 
 #heading {
   border: 0;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--border-color);
   position: fixed;
   top: 0;
   left: 0;
   margin: 0;
-  padding: 10px 0;
-  background-color: steelblue;
-  color: white;
+  padding: 5px 0;
+  background-color: var(--header-bg);
+  color: var(--header-text);
   width: 100%;
   z-index: 1000;
   height: var(--header-height);
@@ -37,20 +210,36 @@ body {
 }
 
 .uniform-input-width {
-  width: 500px;
+  width: auto;
+  min-width: 300px;
+  /* Give it some base width so it's not too tiny, but let it grow/shrink */
+  max-width: 100%;
   box-sizing: border-box;
 }
 
 #heading a {
-  color: white;
+  color: var(--header-text);
   text-decoration: none;
+}
+
+/* Header spacing adjustments */
+#heading h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+}
+
+#heading h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1.2rem;
 }
 
 #heading td .nav-button {
   display: inline-block;
   padding: 5px 10px;
-  border: 1px solid #ccc;
-  color: white;
+  border: 1px solid var(--border-color);
+  color: var(--accent-color);
   text-decoration: none;
   border-radius: 12px;
 }
@@ -64,14 +253,36 @@ body {
 
 /* Apply background on hover */
 #heading td a:hover {
-  background-color: steelblue
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+/* Theme the Music Note Icon (Home) */
+.home-icon {
+  display: inline-block;
+  color: var(--accent-color);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="light"] .home-icon {
+  color: var(--accent-color);
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+.version-text {
+  text-align: center;
+  font-size: 0.8em;
+  color: #4285F4 !important;
+  /* Google Blue */
 }
 
 /* --- Navigation Buttons --- */
 .nav-button {
   display: inline-block;
-  background-color: rgb(50, 90, 170);
-  color: white;
+  background-color: var(--nav-btn-bg);
+  color: var(--accent-color);
   border: none;
   padding: 12px 16px;
   text-decoration: none;
@@ -88,68 +299,157 @@ body {
   box-sizing: border-box;
 }
 
-#heading .nav-button:hover {
-  background-color: white;
-  color: rgb(50, 90, 170);
+#heading .nav-button:hover,
+#heading .nav-button:hover * {
+  background-color: #4285F4;
+  /* Google Blue */
+  color: #ffffff !important;
+}
+
+/* Smaller navigation buttons in header */
+#heading .nav-button {
+  padding: 6px 10px;
+  font-size: 13px;
+  width: auto;
+  min-width: 70px;
+  height: auto;
+}
+
+#heading .nav-title {
+  font-size: 11px;
+  display: block;
+  margin-top: 3px;
+}
+
+/* Inline navigation links (arrow + song title) */
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: opacity 0.3s ease;
+  max-width: 200px;
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
+.nav-arrow {
+  display: none;
+  /* Hide on desktop - only show on mobile */
+  color: var(--accent-color);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-song-title {
+  font-size: 13px;
+  color: var(--text-color);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#heading .prev-link {
+  justify-content: flex-start;
+}
+
+#heading .next-link {
+  justify-content: flex-end;
+}
+
+
+
+/* Footer navigation buttons (history back/forward) */
+.footer-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--nav-btn-bg);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  min-width: 80px;
+  height: 36px;
+}
+
+.footer-nav-btn:hover {
+  background-color: var(--nav-btn-hover-bg);
+  border-color: var(--accent-color);
+}
+
+.footer-nav-btn svg {
+  stroke: currentColor;
 }
 
 #song {
-  /* Ensure #song is positioned below the fixed header. */
+  /* Positioned below fixed header */
   margin-top: var(--header-height);
-  /* Adjust height to fill viewport below the header. */
-  height: calc(100vh - var(--header-height));
 
-  /* Enable vertical scrolling *within* #song if content overflows its calculated height */
+  /* Fixed height to fill viewport */
+  height: calc(100vh - var(--header-height) - 60px);
+  /* Adjusted for 50px footer */
+  /* 40px buffer */
+
+  /* Enable vertical scrolling for long songs */
   overflow-y: auto;
   overflow-x: hidden;
-  /* Prevent horizontal scrollbars */
 
   /* Horizontal padding */
   padding-left: 20px;
   padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 120px;
 
   box-sizing: border-box;
+}
 
-  column-count: 2;
-  column-gap: 40px;
-  column-fill: auto;
+#lyrics-scroller {
+  /* Use flexbox for side-by-side columns instead of CSS multi-column */
+  display: flex;
+  align-items: flex-start;
+  /* Ensure both columns align at the top */
+  gap: 40px;
+
+  /* Height 100% to fill parent container */
+  height: 100%;
+
+  /* Prevent horizontal overflow */
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+
+.lyrics-column {
+  flex: 1;
+  min-width: 0;
+  /* Prevent flex items from overflowing */
 }
 
 /* Prevent elements from breaking across columns */
-#song>table,
-#song>div,
-#song>span,
-#song>p {
-  break-inside: avoid-column;
+#lyrics-scroller>table,
+#lyrics-scroller>div,
+#lyrics-scroller>span,
+#lyrics-scroller>p {
+  break-inside: avoid;
   page-break-inside: avoid;
   -webkit-column-break-inside: avoid;
 }
 
 /* --- Responsive Adjustments --- */
 @media (max-width: 768px) {
-
-  /* Allow body scrolling on mobile */
-  /* body { overflow: auto; } */
-  .nav-button {
-    font-size: 10pt;
-    padding: 6px 10px;
+  #song {
+    /* Keep vertical scrolling even on smaller screens */
+    overflow-y: auto;
+    overflow-x: hidden;
   }
 
-  #song {
-    column-count: 1;
-    /* Single column */
-    column-fill: balance;
-    /* Not relevant for single column */
-    /* Revert height constraints, allow natural flow */
+  #lyrics-scroller {
+    /* Keep 2 columns on all screen sizes */
     height: auto;
-    max-height: none;
-    overflow-y: visible;
-    /* Use main page scrollbar */
-    /* Add back top padding if needed, relative to nav */
-    padding-top: 40px;
-    /* Small gap below nav */
   }
 }
 
@@ -181,22 +481,81 @@ body {
 .chords_tab,
 .chords_chorus_tab {
   font-size: clamp(8px, 1.6vw, 22px);
-  color: blue;
+  /* Google Red */
+  color: #EA4335;
   padding-right: 4pt;
+}
+
+[data-theme="light"] .chords,
+[data-theme="light"] .chords_chorus,
+[data-theme="light"] .chords_tab,
+[data-theme="light"] .chords_chorus_tab {
+  /* Google Red */
+  color: #EA4335;
 }
 
 .comment,
 .comment_italic {
-  color: Red;
-  font-size: clamp(8px, 1.6vw, 30px);
+  /* Google Blue */
+  color: #4285F4;
+  font-size: clamp(10px, 1.8vw, 25px);
+  /* Slightly larger than chords */
+  font-style: italic;
+}
+
+/* Re-define comment color for light mode if needed */
+[data-theme="light"] .comment,
+[data-theme="light"] .comment_italic {
+  /* Google Blue */
+  color: #4285F4;
 }
 
 .comment_box {
-  background-color: #ffbbaa;
+  background-color: var(--surface-color, #333);
+  color: var(--text-color);
   text-align: center;
-  border: 1px solid #cc8877;
+  border: 1px solid var(--border-color);
   padding: 10px;
   margin: 10px 0;
+}
+
+[data-theme="light"] .comment_box {
+  background-color: #e8f5e9;
+  /* Light green bg */
+  color: black;
+  border-color: #a5d6a7;
+}
+
+/* Helper Classes */
+.accent-text {
+  color: #34A853 !important;
+  /* Google Green */
+  text-decoration: none;
+}
+
+/* Specific Header Title Override */
+#heading h2,
+#heading h2 a {
+  color: #4285F4;
+  /* Google Blue */
+}
+
+.mark-label {
+  color: #EA4335;
+  /* Google Red */
+}
+
+.mark-value {
+  font-weight: normal;
+  color: #34A853;
+  /* Google Green (when set) */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mark-value .not-set {
+  color: #80868B;
+  /* Google Gray */
+  font-style: italic;
 }
 
 .comment_italic {
@@ -205,53 +564,236 @@ body {
 
 /* --- Dim Style --- */
 .dim {
-  color: #333;
+  color: var(--muted-color, #777);
 }
 
-/* --- Setlist Table Styles (displayset.php) --- */
 .setlist-table {
   width: 80%;
-  /* Adjust width as needed */
   margin: 20px auto;
-  /* Center the table with some top/bottom margin */
   border-collapse: collapse;
-  /* Collapse borders into a single line */
   font-family: Arial, sans-serif;
-  /* Consistent font */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  background-color: var(--surface-color, #1e1e1e);
+  color: var(--text-color);
+}
+
+[data-theme="light"] .setlist-table {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  /* Subtle shadow */
+  background-color: white;
 }
 
 .setlist-table th,
 .setlist-table td {
-  border: 1px solid #ddd;
-  /* Light grey borders */
+  border: 1px solid var(--border-color);
   padding: 10px 15px;
-  /* Padding inside cells */
   text-align: left;
-  /* Align text to the left */
 }
 
 .setlist-table th {
-  background-color: steelblue;
+  background-color: var(--header-bg);
   font-weight: bold;
-  color: white;
+  color: var(--header-text);
 }
 
 /* Optional: Add hover effect for rows */
 .setlist-table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="light"] .setlist-table tbody tr:hover {
   background-color: #f9f9f9;
 }
 
-.setlist-table tbody tr:hover {
-  background-color: #f9f9f9;
-}
-
-/* Style the footer row (Total Duration) to match header */
 .setlist-table tfoot th,
 .setlist-table tfoot td {
-  background-color: steelblue;
-  /* Steel blue background */
-  color: white;
-  /* White text */
+  background-color: var(--header-bg);
+  color: var(--header-text);
+}
+
+/* --- Song List Styles (Artist/Search Pages) --- */
+.song-list {
+  color: var(--text-color);
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.song-list a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.song-list a:hover {
+  text-decoration: underline;
+}
+
+.song-folder {
+  color: var(--muted-color, #888);
+  font-size: 0.9em;
+}
+
+[data-theme="light"] .song-folder {
+  color: #666;
+}
+
+/* Song Card Styles */
+.song-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 10px;
+  padding-bottom: 80px;
+  /* Add padding to prevent cutoff by footer */
+}
+
+.song-card {
+  background-color: var(--surface-color, #1e1e1e);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 15px;
+  width: 300px;
+  flex-grow: 1;
+  flex-basis: 300px;
+  max-width: 350px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+[data-theme="light"] .song-card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.song-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="light"] .song-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.song-card-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: var(--accent-color);
+}
+
+.song-card-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.song-card-meta {
+  font-size: 0.9em;
+  color: var(--text-color);
+  margin-bottom: 8px;
+  opacity: 0.8;
+}
+
+.song-card-meta a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.song-card-lyrics {
+  font-size: 0.8em;
+  color: var(--text-color);
+  opacity: 0.6;
+  line-height: 1.2;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+/* Autocomplete Styles */
+.autocomplete-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: var(--input-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 0 0 8px 8px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 2000;
+  display: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.autocomplete-results.show {
+  display: block;
+}
+
+/* Footer Autocomplete (Pop-up) */
+.footer-search-form .autocomplete-results {
+  top: auto;
+  bottom: 100%;
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  border-top: 1px solid var(--border-color);
+}
+
+.autocomplete-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  color: var(--input-text);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.autocomplete-item:last-child {
+  border-bottom: none;
+}
+
+.autocomplete-item:hover,
+.autocomplete-item.active {
+  background-color: var(--accent-color);
+  color: #121212;
+  /* Dark text on bright accent */
+}
+
+.autocomplete-item strong {
+  color: inherit;
+  font-weight: bold;
+}
+
+[data-theme="light"] .autocomplete-results {
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .autocomplete-item {
+  color: #333;
+  border-bottom: 1px solid #eee;
+}
+
+[data-theme="light"] .autocomplete-item:hover,
+[data-theme="light"] .autocomplete-item.active {
+  background-color: #e8f0fe;
+  color: #1967d2;
+}
+
+/* Allow scrolling on specific pages like search.php */
+html.scroll-enabled body {
+  height: auto !important;
+  overflow: auto !important;
+  overflow-y: auto !important;
+}
+
+html.scroll-enabled {
+  height: auto !important;
+  overflow: auto !important;
+}
+
+@media (max-width: 768px) {
+  footer.copyright {
+    display: none !important;
+  }
 }

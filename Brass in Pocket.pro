@@ -4,7 +4,7 @@
 {musicpath:Music/Brass in Pocket.mp3}
 {key:A}
 
-[A] [Aadd2}I got brass [Asus4] [A]in a pocket
+[A] [Aadd2]I got brass [Asus4] [A]in a pocket
 [A] [Aadd2]I got bottle, [Asus4] [A]I'm gonna use it
 [F#m] [F#sus4]Intention, [D] [F#m] I feel inventive
 [D]Gonna make you, make you, [E]make you notice
@@ -14,7 +14,7 @@ Been driving, Detroit leaning
 No reason, just seems so pleasing
 Gonna make you, make you, make you notice
 
-[A] [Aadd2}Gonna use my arms, gonna use [Esus4] [E]my legs
+[A] [Aadd2]Gonna use my arms, gonna use [Esus4] [E]my legs
 [A] [Aadd2]Gonna use my style, gonna use [Esus4] [E]my sidestep
 [A] [Aadd2]Gonna use my fingers, gonna use [Esus4] [E]my, my, my
 Imagination

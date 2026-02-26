@@ -3,7 +3,7 @@
 {musicpath:Music/Summer Wind.mp3}
 {duration:4:11}
 {key:A}
-{c:capo:2}
+{capo:2}
 
 [Aadd2] [F#m] [D] [E]
 
