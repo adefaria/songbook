@@ -1,6 +1,6 @@
-{title:Kashmir}
+{title:Kashmir2}
 {subtitle:Led Zeppelin}
-{musicpath:Music/Kashmir - Bass & Keys.mp3}
+{musicpath:Music/Kashmir2.mp3}
 {duration:8:38}
 {key:D}
 {tuning:D A D G A D}
