@@ -666,7 +666,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Theme Manager
 (function () {
-  const getStoredTheme = () => localStorage.getItem('theme');
+  // Check both our own key and the parent shell's key (user_theme_override)
+  const getStoredTheme = () =>
+    localStorage.getItem('theme') || localStorage.getItem('user_theme_override');
   const setStoredTheme = theme => localStorage.setItem('theme', theme);
 
   const getPreferredTheme = () => {
@@ -727,6 +729,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Listen for system changes
   window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', applyTheme);
+
+  // Listen for theme changes sent by the parent shell via postMessage
+  window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'themeChange' && event.data.theme) {
+      const theme = event.data.theme;
+      document.documentElement.setAttribute('data-theme', theme);
+      // Also persist so subsequent pages in this iframe start with the right theme
+      try { localStorage.setItem('theme', theme); } catch(e) {}
+    }
+  });
 
   // Expose toggle function
   window.toggleTheme = () => {

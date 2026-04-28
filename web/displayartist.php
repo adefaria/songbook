@@ -9,6 +9,7 @@
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
   <link rel="stylesheet" type="text/css" href="songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
+  <script src="songbook.js?v=<?php echo time(); ?>"></script>
 
   <?php
   include_once "songbook.php";

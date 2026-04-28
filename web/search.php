@@ -170,7 +170,7 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
   <link rel="stylesheet" type="text/css" href="songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
 
-  <script src="songbook.js"></script>
+  <script src="songbook.js?v=<?php echo time(); ?>"></script>
   <?php include_once "songbook.php"; ?>
   <style>
     /* Force hide the copyright TEXT only, keep navigation */
