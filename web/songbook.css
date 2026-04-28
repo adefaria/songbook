@@ -1,4 +1,5 @@
 /* Theme Variables */
+/* Default to dark mode values (overridden by [data-theme="light"] or media query) */
 :root {
   --bg-color: #121212;
   --text-color: #ffffff;
@@ -15,7 +16,30 @@
   --nav-btn-text: #e0e0e0;
   --nav-btn-hover-bg: #555;
   --nav-btn-hover-text: white;
+  /* color-scheme is set by media query or data-theme attribute below */
+}
+
+/* System default: light OS = light native controls */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+  }
+}
+
+/* System default: dark OS = dark native controls */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+  }
+}
+
+/* Manual overrides via JS-set data-theme attribute */
+[data-theme="dark"] {
   color-scheme: dark;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
 }
 
 /* Global Input Styling */
@@ -100,7 +124,7 @@ input[type="submit"]:hover {
   --nav-btn-bg: #e0e0e0;
   --nav-btn-text: #121212;
   --nav-btn-hover-text: black;
-  color-scheme: light;
+  /* color-scheme already set by the rule above */
 }
 
 /* Audio Player - Set base to transparent */
