@@ -1,0 +1,45 @@
+{title:Hanging on the Telephone}
+{subtitle:Blondie}
+{duration:2:17}
+{musicpath:Music/Hanging on the Telephone.mp3}
+{key:B}
+
+I'm in the phone booth, it's the one across the hall
+If you don't answer, I'll just ring it off the wall
+I know he's there, but I just had to call
+Don't leave me hanging on the telephone
+Don't leave me hanging on the telephone
+
+I heard your mother, now she's going out the door
+Did she go to work or just go to the store?
+All those things she said, I told you to ignore
+Oh, why can't we talk again?
+Oh, why can't we talk again?
+Oh, why can't we talk again?
+Don't leave me hanging on the telephone
+Don't leave me hanging on the telephone
+
+It's good to hear your voice, you know it's been so long
+If I don't get your calls, then everything goes wrong
+
+I want to tell you something you've known all along
+
+{c:Solo}
+
+Don't leave me hanging on the telephone
+I had to interrupt and stop this conversation
+Your voice across the line gives me a strange sensation
+I'd like to talk when I can show you my affection
+Oh, I can't control myself
+Oh, I can't control myself
+Oh, I can't control myself
+
+Don't leave me hanging on the telephone
+Hang up and run to me
+Oh, hang up and run to me
+Hang up and run to me
+Oh, hang up and run to me
+Hang up and run to me
+Oh, hang up and run to me
+Hang up and run to me
+Oh, oh, oh, oh, run to me, yeah
