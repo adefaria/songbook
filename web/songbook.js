@@ -728,6 +728,13 @@ document.addEventListener("DOMContentLoaded", function () {
   // Listen for system changes
   window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', applyTheme);
 
+  // Listen for theme changes from parent window (iframe embedding)
+  window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'themeChange' && event.data.theme) {
+      setTheme(event.data.theme);
+    }
+  });
+
   // Expose toggle function
   window.toggleTheme = () => {
     const current = document.documentElement.getAttribute('data-theme') || 
