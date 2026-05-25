@@ -10,7 +10,7 @@
   <link rel="stylesheet" type="text/css" href="/songbook/songbook.css?v=<?php echo time(); ?>">
   <link rel="SHORTCUT ICON" href="/songbook/Music.ico" type="image/png">
   <link rel="stylesheet" type="text/css" media="print" href="/css/Print.css">
-
+  <script src="/songbook/songbook.js?v=<?php echo time(); ?>"></script>
 
   <?php
   // Include shared functions and variables
