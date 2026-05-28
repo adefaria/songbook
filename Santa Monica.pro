@@ -2,11 +2,12 @@
 {subtitle:Everclear}
 {duration:3:13}
 {key:G}
+{musicpath:Music/Santa Monica.mp3}
 
 [G] [Em] [G] 3x
 I am still living with your [G]ghost
 [Em]Lonely and [G]dreaming [Em]of the w[G]est coast [Em]
-I don't wa[G]nt to be [Em]your [D]down[Em]time[C]
+I don't wa[G]nt to be [Em]your [D]down[Em]town[C]
 I don't [C]want to [Am]be your [G]stupid game [Em] [G]
 
 With my big black boots and an old suitcase
@@ -37,4 +38,4 @@ I just want to find some place to be alone
 
 {c:Chorus 4x}
 
-Yeah, watch the world die 4x{musicpath:Music/Santa Monica.mp3}
+Yeah, watch the world die 4x
