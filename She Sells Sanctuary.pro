@@ -37,8 +37,10 @@ Make my back, make my back burn, yeah
 The fire in your eyes keeps me alive
 And the fire in your eyes keeps me alive
 
-{soc}Inside her you'll find sanctuary
-Inside her you'll find sanctuary{eoc}
+{soc}
+Inside her you'll find sanctuary
+Inside her you'll find sanctuary
+{eoc}
 
 And the world, the world turns around
 And the world, and the world, the world drags me down
