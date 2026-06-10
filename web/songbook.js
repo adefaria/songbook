@@ -634,7 +634,16 @@ document.addEventListener("DOMContentLoaded", function () {
     // Update URL in Parent Window
     if (inIframe) {
       try {
-        const songPath = window.location.pathname + window.location.search;
+        let songPath = window.location.pathname + window.location.search;
+        
+        // Strip out any ?url= or &url= parameters from the query string to keep it clean
+        if (window.location.search) {
+          const params = new URLSearchParams(window.location.search);
+          params.delete('url');
+          const newSearch = params.toString();
+          songPath = window.location.pathname + (newSearch ? '?' + newSearch : '');
+        }
+
         // We expect songPath to look like /songbook/webchord.cgi?chordpro=...
         // and we want parent URL to look like /songs/webchord.cgi?chordpro=...
         // If path doesn't contain /songbook/, fallback to simple replace or just append
@@ -644,6 +653,11 @@ document.addEventListener("DOMContentLoaded", function () {
         // ensure we start with /songs/ if strictly songbook content
         if (parentPath === songPath && songPath.includes('webchord.cgi')) {
              parentPath = '/songs' + songPath;
+        }
+
+        // Normalize /songs/index.php to just /songs
+        if (parentPath === '/songs/index.php') {
+          parentPath = '/songs';
         }
 
         window.top.history.replaceState(null, '', parentPath);
