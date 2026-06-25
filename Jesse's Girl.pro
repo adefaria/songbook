@@ -32,9 +32,7 @@ And she's lovin' him with that body, I just know it
 And he's holding her in his arms late, late at night
 You know I wish that I had Jesse's girl
 
-{c:Chorus}
-
-2x
+{c:Chorus} 2x
 
 {c:Bridge}
 
@@ -47,12 +45,10 @@ Ain't that the way love's supposed to be?
 
 {c:Key Change to F#}
 
-[F#] [B] [B] [B] [A] [B]
+[F#] [A] [B]
 
 {c:key change back}
 
 {c:Lead back in original key}
 
-{c:Chorus}
-
-2x
+{c:Chorus} 2x
