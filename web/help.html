@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Songbook Explainer & Guide</title>
+  <style>
+    :root {
+      --primary-color: #4285F4;
+      --accent-color: #fbbc05;
+      --bg-color: #f8f9fa;
+      --card-bg: #ffffff;
+      --text-color: #333333;
+      --muted-text: #666666;
+      --border-color: #e0e0e0;
+      --badge-bg: #e8f0fe;
+      --badge-color: #1967d2;
+    }
+
+    /* Simple dark mode detection */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-color: #121212;
+        --card-bg: #1e1e1e;
+        --text-color: #e0e0e0;
+        --muted-text: #aaaaaa;
+        --border-color: #333333;
+        --badge-bg: #1a237e;
+        --badge-color: #8ab4f8;
+      }
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+      border-bottom: 2px solid var(--primary-color);
+      padding-bottom: 20px;
+    }
+
+    h1 {
+      color: var(--primary-color);
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      font-size: 1.1rem;
+      color: var(--muted-text);
+    }
+
+    section {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: var(--primary-color);
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 8px;
+    }
+
+    p {
+      margin: 15px 0;
+    }
+
+    sup {
+      background: var(--badge-bg);
+      color: var(--badge-color);
+      font-weight: bold;
+      border-radius: 50%;
+      padding: 2px 6px;
+      font-size: 0.75rem;
+      margin-left: 2px;
+      display: inline-block;
+      line-height: 1;
+      vertical-align: super;
+    }
+
+    .image-container {
+      margin: 20px 0;
+      padding: 15px;
+      background: var(--bg-color);
+      border: 1px dashed var(--border-color);
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .image-container img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .image-placeholder {
+      padding: 40px 20px;
+      color: var(--muted-text);
+      font-style: italic;
+      font-size: 0.95rem;
+    }
+
+    .image-placeholder svg {
+      fill: var(--muted-text);
+      margin-bottom: 10px;
+    }
+
+    ul, ol {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .accent {
+      color: var(--primary-color);
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding: 20px;
+      color: var(--muted-text);
+      font-size: 0.9rem;
+      border-top: 1px solid var(--border-color);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
+    <p class="subtitle">Quick Start User Guide & Explainer</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Introduction</h2>
+      <p>The Songbook application (<a href="/songbook" target="_top">https://defaria.com/songbook</a>) is customized to present leadsheets and play audio dynamically. To navigate back to the main landing page of the Songbook at any time, you can click either the little music note in the top left<sup>1</sup> or the main "Songbook" title header<sup>2</sup>.</p>
+    </section>
+
+    <section>
+      <h2>Artist and Set Navigation</h2>
+      <p>The system provides two intuitive selection dropdowns to locate your music: one for <span class="accent">Artists</span><sup>3</sup> and one for <span class="accent">Sets</span><sup>4</sup>. </p>
+      <p>There is also an interactive <span class="accent">Search song title / lyrics</span><sup>6</sup> tool. This allows you to find songs by typing key terms present in the title or the body of the lyrics. There is no need to type the exact title; choosing a relatively unique keyword yields the best results. For example, searching for "love" will return too many matches, whereas a unique word like "breeze" is far more efficient. As you type, qualifying matches will immediately appear below the search bar.</p>
+      
+      <div class="image-container">
+        <!-- If Image1.png is uploaded to this directory, it will display here automatically -->
+        <img src="Image1.png" alt="Search and Autocomplete Interface" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <div class="image-placeholder" style="display:none;">
+          <svg width="48" height="48" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 5H5l3.5-4.5z"/></svg>
+          <div>[Screenshot Placeholder: Image1.png - Autocomplete List for "breeze"]</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Omni Search Cards</h2>
+      <p>Located on the left is the <span class="accent">Omni Search</span><sup>5</sup> box. The Omni Search scans multiple criteria at once, querying for individual songs<sup>2</sup> as well as artists<sup>1</sup>, and organizing the findings into clean cards for your selection. The song titles<sup>3</sup> and artist profiles<sup>4</sup> are mapped with links for immediate navigation.</p>
+      
+      <div class="image-container">
+        <img src="Image2.png" alt="Omni Search Cards" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <div class="image-placeholder" style="display:none;">
+          <svg width="48" height="48" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 5H5l3.5-4.5z"/></svg>
+          <div>[Screenshot Placeholder: Image2.png - Omni Search Grid Cards]</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Setlist Player</h2>
+      <p>Once you select an Artist or a Set (e.g. Set &rarr; <span class="accent">RRSet1</span>), the setlist details will load. The interface lists all songs included in the set along with their key signature and capo settings. </p>
+      <p>Selecting any song title<sup>1</sup> will open the song player page. While in setlist mode, the system automatically advances to the next song in the set list once the current track completes. The footer display also shows the calculated total duration<sup>2</sup> of the entire set list.</p>
+      
+      <div class="image-container">
+        <img src="Image3.png" alt="Setlist View" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <div class="image-placeholder" style="display:none;">
+          <svg width="48" height="48" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 5H5l3.5-4.5z"/></svg>
+          <div>[Screenshot Placeholder: Image3.png - Set List Table & Navigation]</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Song Player & Controls</h2>
+      <p>The song page renders lyrics and chord symbols (when available) in a clean, readable two-column layout. When you load a song from a setlist, the page activates supplementary navigation controls:</p>
+      
+      <div class="image-container">
+        <img src="Image4.png" alt="Song Playback View" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <div class="image-placeholder" style="display:none;">
+          <svg width="48" height="48" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 5H5l3.5-4.5z"/></svg>
+          <div>[Screenshot Placeholder: Image4.png - Chords & Lyrics Display Page]</div>
+        </div>
+      </div>
+
+      <p>Navigation options include:</p>
+      <ul>
+        <li><span class="accent">Previous Song</span><sup>1</sup></li>
+        <li><span class="accent">Song Title Link</span><sup>2</sup> (reveals the raw text files)</li>
+        <li><span class="accent">Next Song</span><sup>3</sup> (supports uninterrupted rehearsing)</li>
+      </ul>
+
+      <p>The top-right corner displays the custom media player<sup>4</sup>. It is equipped with quick utility controls: the download icon (down-arrow)<sup>5</sup> saves the MP3 locally, the share icon<sup>6</sup> copies a direct URL of the song page, and the question mark (?) icon<sup>7</sup> displays the modal containing keyboard shortcut mappings.</p>
+      
+      <div class="image-container">
+        <img src="Image5.png" alt="Playback Control Details" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+        <div class="image-placeholder" style="display:none;">
+          <svg width="48" height="48" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 5H5l3.5-4.5z"/></svg>
+          <div>[Screenshot Placeholder: Image5.png - Audio Player Controls Detail]</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Mark A &amp; B Loop Modifiers</h2>
+      <p>The <span class="accent">Mark A</span><sup>9</sup> and <span class="accent">Mark B</span> loop points are extremely useful for practicing. You can isolate any segment of a song to loop continuously during playback. To define loop limits during a song, simply type <kbd>a</kbd> on your keyboard to set the start marker and <kbd>b</kbd> to set the end marker. The player will instantly repeat the selection, helping you lock down challenging transitions.</p>
+    </section>
+  </main>
+
+</body>
+</html>
