@@ -203,9 +203,8 @@
       xhr.onreadystatechange = function () {
         a(xhr); // pass xhr to a
       };
-      xhr.open("POST", "question.mark.html", true); // Using POST, but GET might be more appropriate if not sending data
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded"); // Usually for POST with data
-      xhr.send(null); // No data sent for POST, consider GET
+      xhr.open("GET", "/songbook/question.mark.html", true);
+      xhr.send(null);
     } else {
       var bodyEl = document.getElementsByTagName("body")[0];
       if (bodyEl) {

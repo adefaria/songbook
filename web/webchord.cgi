@@ -880,11 +880,13 @@ print $q->start_html (
     },
 
     qq{<script src="}
-      . $q->escapeHTML ('/songbook/question.mark.js')
+      . $q->escapeHTML ('/songbook/question.mark.js?v=' . time ())
       . qq{"></script>},
     $all_songs_js_block
   ]
 );
+
+print qq{<div class="help-icon"><a href="/songs/help.html" target="_top" title="Help / User Guide">&#128735;</a></div>\n};
 
 my $home_link = $q->a (
   {-href => '/songbook'},
@@ -1093,7 +1095,7 @@ print $q->table (
       $q->div ({
           -class => 'version-text',
         },
-        "3.0"
+        "3.1"
       )
     ),
 

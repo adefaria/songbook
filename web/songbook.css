@@ -797,3 +797,22 @@ html.scroll-enabled {
     display: none !important;
   }
 }
+
+/* Help Icon Style */
+.help-icon {
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  font-size: 28px;
+  line-height: 1;
+  z-index: 2000;
+  cursor: pointer;
+  user-select: none;
+}
+.help-icon a {
+  text-decoration: none;
+  color: #4285F4 !important;
+}
+.help-icon a:hover {
+  opacity: 0.8;
+}

@@ -32,6 +32,9 @@
 </head>
 
 <body class="scroll-enabled" style="margin-top: 130px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;">
+  <div class="help-icon">
+    <a href="/songs/help.html" target="_top" title="Help / User Guide">🛟</a>
+  </div>
   <table width="100%" id="heading">
     <tbody>
       <tr>
@@ -39,7 +42,7 @@
           <a href="/songs" target="_top" style="text-decoration: none;">
             <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
-          <div class="version-text">3.0</div>
+          <div class="version-text">3.1</div>
         </td>
         <td align="center">
           <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
