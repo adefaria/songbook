@@ -1,6 +1,6 @@
 {title:La Bamba}
 {subtitle:Los Lobos}
-{duration:2:512:51}
+{duration:2:51}
 {musicpath:Music/La Bamba.mp3}
 {key:C}
 
