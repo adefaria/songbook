@@ -912,6 +912,7 @@ my $artist_link = $q->a ({
 );
 my $audio_source        = '';
 my $music_file_web_path = '';
+my $icons_html          = '';
 
 # Check for music file using the potentially updated title
 if ($title) {
@@ -939,12 +940,7 @@ if ($audio_source) {
     '&#11015;'
   );    # Down arrow
 
-  $audio_player =
-qq{<audio id="song_audio_player" controls autoplay controlslist="nodownload noplaybackrate" style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
-    . $audio_source
-    . qq{\nYour browser does not support HTML5 Audio.\n</audio>}
-    . $download_link
-    . $q->span ({
+  my $clipboard_icon = $q->span ({
       -class => 'accent-text',
       -style =>
 'color: #4285F4; cursor: pointer; margin-left: 10px; font-size: 1.0em; vertical-align: middle;',
@@ -952,8 +948,9 @@ qq{<audio id="song_audio_player" controls autoplay controlslist="nodownload nopl
       -onclick => "copyCurrentUrlToClipboard()"
     },
     '&#128279;'    # Link symbol
-    )
-    . $q->span ({
+  );
+
+  my $help_icon = $q->span ({
       -class => 'accent-text',
       -style =>
 'color: #4285F4; cursor: pointer; margin-left: 10px; font-size: 1.5em; vertical-align: middle;',
@@ -962,7 +959,19 @@ qq{<audio id="song_audio_player" controls autoplay controlslist="nodownload nopl
 "document.getElementById('helpUnderlay').classList.add('help-isVisible');"
     },
     '&#63;'        # Question mark
-    );
+  );
+
+  $icons_html = $q->span (
+    { -style => 'vertical-align: middle;' },
+    $download_link,
+    $clipboard_icon,
+    $help_icon
+  );
+
+  $audio_player =
+qq{<audio id="song_audio_player" controls controlslist="nodownload noplaybackrate" style="$style_attr" data-next-song-url="$next_song_url_for_js">\n}
+    . $audio_source
+    . qq{\nYour browser does not support HTML5 Audio.\n</audio>};
 } ## end if ($audio_source)
 
 # --- Build the content for the last cell (Audio/Marks) ---
@@ -1095,7 +1104,21 @@ print $q->table (
       $q->div ({
           -class => 'version-text',
         },
-        "3.1"
+        "3.2"
+      ),
+      $q->div ({
+        -style => 'margin-top: 5px; color: var(--text-color);'
+      },
+        $q->input ({
+          -type => 'checkbox',
+          -id => 'autoplay_toggle',
+          -name => 'autoplay_toggle',
+          -style => 'vertical-align: middle; cursor: pointer;'
+        }),
+        $q->label ({
+            -for => 'autoplay_toggle',
+            -style => 'cursor: pointer; margin-left: 4px; font-size: 0.9em; vertical-align: middle;'
+        }, "Autoplay")
       )
     ),
 
@@ -1160,16 +1183,12 @@ print $q->table (
     $q->td (
       {-align => 'center', -width => '30%', -valign => 'middle'},
 
-      # Set line (if in setlist context) - above audio player
-      (
-        $setlist_link_html_wrapped
-        ? $q->div ({
-            -style =>
-              'font-size: 1.1em; margin: 0 0 10px 0; text-align: center;'
-          },
-          $setlist_link_html_wrapped
-          )
-        : ''
+      # Set line and icons (centered above audio player)
+      $q->div ({
+          -style => 'font-size: 1.1em; margin: 0 0 10px 0; text-align: center; display: flex; align-items: center; justify-content: center; gap: 15px;'
+        },
+        ($setlist_link_html_wrapped ? $setlist_link_html_wrapped : ''),
+        ($icons_html ? $icons_html : '')
       ),
       $last_cell_content
     )

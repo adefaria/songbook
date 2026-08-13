@@ -1,4 +1,25 @@
 // Javascript functions for controlling audio
+function setCookie(name, value, days) {
+  let expires = "";
+  if (days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    expires = "; expires=" + date.toUTCString();
+  }
+  document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+
+function getCookie(name) {
+  const nameEQ = name + "=";
+  const ca = document.cookie.split(';');
+  for(let i=0;i < ca.length;i++) {
+    let c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+
 var starttime = 0;
 var endtime = 0;
 var ascrollpoint = 0;
@@ -109,8 +130,11 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   song.addEventListener("ended", function () {
-    // When the song ends, automatically navigate to the next song.
-    goToNextSong();
+    const autoplayEnabled = getCookie("songbook_autoplay") !== "false";
+    if (autoplayEnabled) {
+      // When the song ends, automatically navigate to the next song.
+      goToNextSong();
+    }
   });
 
   // If the song is already playing due to autoplay when this script runs
@@ -584,8 +608,28 @@ document.addEventListener("DOMContentLoaded", function () {
     const urlParams = new URLSearchParams(window.location.search);
     const inIframe = window.self !== window.top;
     
+    const autoplayEnabled = getCookie("songbook_autoplay") !== "false";
+    
+    // Set checkbox state and listener
+    const autoplayToggle = document.getElementById('autoplay_toggle');
+    if (autoplayToggle) {
+        autoplayToggle.checked = autoplayEnabled;
+        autoplayToggle.addEventListener('change', (e) => {
+            const isEnabled = e.target.checked;
+            setCookie("songbook_autoplay", isEnabled ? "true" : "false", 365);
+            const audio = document.querySelector('audio');
+            if (audio) {
+                if (isEnabled) {
+                    audio.play().catch(err => console.log('Play prevented by browser:', err));
+                } else {
+                    audio.pause();
+                }
+            }
+        });
+    }
+
     // Autoplay if we're in an iframe and have a chordpro parameter
-    if (inIframe && urlParams.has('chordpro')) {
+    if (autoplayEnabled && inIframe && urlParams.has('chordpro')) {
       const audio = document.querySelector('audio');
       if (audio) {
         // Robust Autoplay Logic
