@@ -4,46 +4,45 @@
 {musicpath:Music/La Bamba.mp3}
 {key:C}
 
-{c:Coro}
+{c:Intro}
 
 Para bailar La Bamba
 Para bailar La Bamba
 Se necesita una poca de gracia
 Una poca de gracia
-Pa' mí, pa' ti, arriba, y arriba
+Pa' mi, pa' ti, arriba, y arriba
 Y arriba, y arriba
-Por ti seré, por ti seré, por ti seré
-
-{c:Verso}
+Por ti sere, por ti sere, por ti sere
 
 Yo no soy marinero
-Yo no soy marinero, soy capitán
-Soy capitán, soy capitán
+Yo no soy marinero, soy capitan
+Soy capitan, soy capitan
+
+{c:Coro}
+
 Bamba, bamba
 Bamba, bamba
 Bamba, bamba, bamba
 
-{c:Coro}
-
 Para bailar La Bamba
 Para bailar La Bamba
 Se necesita una poca de gracia
 Una poca de gracia
-Pa' mí, pa' ti, arriba, y arriba
+Pa' mi, pa' ti, arriba, y arriba
 
-{c:Puente}
+{c:Puente 10x}
 
 Rrr, jaja
 
-{c:Coro}
+{c:Beginning}
 
 Para bailar La Bamba
 Para bailar La Bamba
 Se necesita una poca de gracia
 Una poca de gracia
-Pa' mí, pa' ti, arriba, y arriba
+Pa' mi, pa' ti, arriba, y arriba
 Y arriba, y arriba
-Por ti seré, por ti seré, por ti seré
+Por ti sere, por ti sere, por ti sere
 
 {c:Outro}
 
