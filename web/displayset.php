@@ -76,17 +76,36 @@
           <a href="/songs" target="_top" style="text-decoration: none;">
             <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
-          <div class="version-text">3.1</div>
+          <div class="version-text">4.0</div>
         </td>
         <td align="center">
           <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
-          <h2>Set: <?php echo $set_display_title; ?></h2>
+          <h2 style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
+            <span>Set:</span>
+            <select class="set-heading-select" onchange="if(this.value) window.location.href='displayset.php?set=' + encodeURIComponent(this.value);">
+              <?php
+              if (isset($sets) && is_array($sets)) {
+                $sorted_sets = $sets;
+                sort($sorted_sets);
+                foreach ($sorted_sets as $set_item) {
+                  $set_fname = basename($set_item);
+                  $set_t = basename($set_item, ".lst");
+                  $selected = (strtolower($set_fname) === strtolower($set)) ? 'selected' : '';
+                  echo "<option value=\"" . htmlspecialchars($set_fname) . "\" $selected>" . htmlspecialchars($set_t) . "</option>";
+                }
+              }
+              ?>
+            </select>
+            <a href="editset.php?set=<?php echo urlencode($set); ?>" class="btn btn-blue" style="font-size: 0.8rem; padding: 4px 10px; vertical-align: middle; text-decoration: none;">✏️ Edit Set List</a>
+            <button type="button" onclick="window.print();" class="btn btn-blue print-btn" style="font-size: 0.8rem; padding: 4px 10px; vertical-align: middle; cursor: pointer;">🖨️ Print Set</button>
+          </h2>
         </td>
       </tr>
     </tbody>
   </table>
 
   <div id="content">
+    <div class="print-only-title" style="display:none;">Set: <?php echo $set_display_title; ?></div>
 
     <?php if ($error_message): /* Display error if file reading failed */ ?>
       <p style="color: red; font-weight: bold;"><?php echo $error_message; ?></p>

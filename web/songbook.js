@@ -628,8 +628,8 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Autoplay if we're in an iframe and have a chordpro parameter
-    if (autoplayEnabled && inIframe && urlParams.has('chordpro')) {
+    // Autoplay if we have a chordpro parameter and autoplay is enabled
+    if (autoplayEnabled && urlParams.has('chordpro')) {
       const audio = document.querySelector('audio');
       if (audio) {
         // Robust Autoplay Logic

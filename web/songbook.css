@@ -5,7 +5,7 @@
   --header-bg: #1e1e1e;
   --header-text: #e0e0e0;
   --accent-color: rgb(251, 188, 5);
-  /* Google Yellow */
+  /* Google Yellow for Dark Mode */
   --input-bg: #2b2b2b;
   --input-text: #ffffff;
   --border-color: #444;
@@ -90,8 +90,8 @@ input[type="submit"]:hover {
   --header-bg: #f5f5f5;
   /* Light Grey */
   --header-text: #121212;
-  --accent-color: rgb(251, 188, 5);
-  /* Google Yellow */
+  --accent-color: #EA4335;
+  /* Red for Light Mode */
   --input-bg: #f0f0f0;
   --input-text: #000000;
   --border-color: #ccc;
@@ -187,6 +187,15 @@ strong {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: var(--accent-color);
+}
+
+#heading h1,
+#heading h1 a,
+h1,
+h1 a,
+h2,
+h3 {
+  color: var(--accent-color) !important;
 }
 
 h1 {
@@ -815,4 +824,398 @@ html.scroll-enabled {
 }
 .help-icon a:hover {
   opacity: 0.8;
+}
+
+/* ==========================================================================
+   Set List Editor Styles
+   ========================================================================== */
+.editor-section {
+  margin-bottom: 18px;
+}
+
+.editor-label,
+.editor-heading-red {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #EA4335 !important;
+  font-size: 1rem;
+}
+
+.editor-input-title {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 14px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  background-color: var(--input-bg);
+  color: var(--input-text);
+}
+
+.editor-search-bar {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 16px;
+  font-size: 1rem;
+  border-radius: 20px;
+}
+
+.badge {
+  background-color: #4285F4 !important;
+  color: #ffffff !important;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border: 1px solid #4285F4;
+  display: inline-block;
+}
+
+.empty-notice {
+  padding: 20px;
+  text-align: center;
+  border: 2px dashed var(--border-color);
+  border-radius: 8px;
+  color: var(--text-color);
+  opacity: 0.7;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.setlist-editor-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 25px 0;
+  min-height: 50px;
+}
+
+.setlist-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+  background-color: var(--input-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  cursor: grab;
+  user-select: none;
+  transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+
+.setlist-item:hover {
+  border-color: var(--accent-color);
+}
+
+.setlist-item.dragging {
+  opacity: 0.4;
+  background-color: rgba(251, 188, 5, 0.1);
+  border: 2px dashed var(--accent-color);
+}
+
+.setlist-item.touch-dragging {
+  opacity: 0.85;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  background-color: var(--input-bg);
+  border-color: var(--accent-color);
+}
+
+.placeholder-item {
+  background: transparent;
+  border: 2px dashed var(--accent-color);
+  opacity: 0.5;
+}
+
+.drag-handle {
+  font-size: 1.2rem;
+  letter-spacing: -2px;
+  margin-right: 12px;
+  cursor: grab;
+  opacity: 0.6;
+  padding: 0 4px;
+}
+
+.drag-handle:hover {
+  opacity: 1.0;
+  color: var(--accent-color);
+}
+
+.item-number {
+  font-weight: bold;
+  color: var(--accent-color) !important;
+  min-width: 28px;
+  font-size: 0.95rem;
+}
+
+.setlist-table a,
+.item-title-link {
+  flex-grow: 1;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-color);
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.setlist-table a:hover,
+.item-title-link:hover {
+  color: #4285F4 !important;
+  text-decoration: none !important;
+}
+
+.item-duration {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: var(--text-color);
+  opacity: 0.85;
+  margin-left: 12px;
+  margin-right: 12px;
+  white-space: nowrap;
+}
+
+.item-duration.empty {
+  opacity: 0.3;
+}
+
+.remove-song-btn {
+  background: none !important;
+  border: none !important;
+  color: #ff4444 !important;
+  font-size: 1.5rem !important;
+  font-weight: bold !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+  padding: 2px 8px !important;
+  border-radius: 4px !important;
+  transition: background-color 0.2s, color 0.2s;
+  margin-left: auto !important;
+  display: inline-block !important;
+  opacity: 0.9 !important;
+}
+
+.remove-song-btn:hover {
+  background-color: rgba(255, 68, 68, 0.2) !important;
+  color: #ff0000 !important;
+  opacity: 1.0 !important;
+}
+
+.add-custom-item {
+  border-top: 1px dashed var(--border-color);
+  color: #4285F4 !important;
+  font-weight: bold;
+}
+
+.add-custom-item:hover {
+  background-color: #4285F4 !important;
+  color: #ffffff !important;
+}
+
+.set-heading-select {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  border: 2px solid #000000 !important;
+  border-radius: 8px;
+  padding: 4px 10px;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.set-heading-select:hover,
+.set-heading-select:focus {
+  border-color: #4285F4;
+}
+
+.editor-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  padding-top: 15px;
+  border-top: 1px solid var(--border-color);
+}
+
+.btn {
+  padding: 10px 18px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn-primary {
+  background-color: #2e7d32 !important;
+  color: #ffffff !important;
+  border-color: #2e7d32 !important;
+}
+
+.btn-primary:hover {
+  background-color: #1b5e20 !important;
+  color: #ffffff !important;
+}
+
+.btn-secondary {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-color: #ccc !important;
+}
+
+.btn-secondary:hover {
+  background-color: #f0f0f0 !important;
+  color: #000000 !important;
+}
+
+.btn-blue {
+  background-color: #4285F4 !important;
+  color: #ffffff !important;
+  border-color: #4285F4 !important;
+}
+
+.btn-blue:hover {
+  background-color: #3367d6 !important;
+  color: #ffffff !important;
+}
+
+.btn-danger {
+  background-color: #d32f2f;
+  color: white;
+  border-color: #b71c1c;
+  margin-left: 0;
+}
+
+.btn-danger:hover {
+  background-color: #b71c1c;
+}
+
+/* ==========================================================================
+   Print Stylesheet for Set List Printing (displayset.php)
+   Clean stage printout: Song Number & Title (NO boxes/borders)
+   ========================================================================== */
+/* ==========================================================================
+   Print Stylesheet for Set List Printing (displayset.php & editset.php)
+   Clean stage printout: Song Number & Title (NO boxes/borders/Not Found tags)
+   ========================================================================== */
+@media print {
+  body {
+    margin: 0 !important;
+    padding: 15pt !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  /* Eliminate ALL page elements except song number and song title */
+  #heading,
+  .print-only-title,
+  .help-icon,
+  footer,
+  .copyright,
+  .footer-line,
+  .btn,
+  .print-btn,
+  .set-heading-select,
+  thead,
+  tfoot,
+  th,
+  td:nth-child(3), /* Artist */
+  td:nth-child(4), /* Key */
+  td:nth-child(5), /* Capo */
+  td:nth-child(6), /* Duration */
+  .editor-section,
+  #editor-song-search,
+  .autocomplete-results,
+  #song-count-badge,
+  .empty-notice,
+  .editor-actions,
+  .drag-handle,
+  .remove-song-btn,
+  .item-duration,
+  small {
+    display: none !important;
+  }
+
+  #content {
+    margin-top: 0 !important;
+    padding: 0 !important;
+  }
+
+  table.setlist-table,
+  table.setlist-table tr,
+  table.setlist-table td,
+  .setlist-editor-list,
+  .setlist-item {
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+
+  table.setlist-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 0 !important;
+  }
+
+  /* Uniform 28pt bold font for ALL song titles (whether in <a> links or plain text) */
+  table.setlist-table td,
+  table.setlist-table td a,
+  table.setlist-table a,
+  .setlist-item,
+  .setlist-item .item-title-link,
+  .setlist-item .item-title {
+    font-size: 28pt !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+    line-height: 1.2 !important;
+    text-decoration: none !important;
+    vertical-align: baseline !important;
+  }
+
+  table.setlist-table td.centered,
+  .setlist-item .item-number {
+    width: 45pt !important;
+    min-width: 45pt !important;
+    text-align: right !important;
+    padding-right: 15pt !important;
+    font-size: 28pt !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+  }
+
+  table.setlist-table td.centered::after {
+    content: ".";
+  }
+
+  .setlist-editor-list {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .setlist-item {
+    display: flex !important;
+    align-items: baseline !important;
+    padding: 8pt 0 !important;
+    margin: 0 !important;
+  }
 }
