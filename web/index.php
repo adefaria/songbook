@@ -86,7 +86,7 @@
           <a href="/songs" target="_top" style="text-decoration: none;">
             <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
-          <div class="version-text">3.1</div>
+          <div class="version-text">4.0</div>
         </td>
         <td align="center">
           <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
@@ -121,7 +121,7 @@
       </form>
 
       <!-- Sets -->
-      <form method="get" action="displayset.php" style="margin:0;">
+      <form method="get" action="displayset.php" style="margin:0; display: flex; gap: 8px; align-items: center;">
         <select name="set" class="uniform-input-width" onchange="this.form.submit()" style="margin:0;">
           <option value=''>Sets...</option>
           <?php
@@ -135,6 +135,7 @@
           }
           ?>
         </select>
+        <a href="editset.php" class="btn btn-blue" style="font-size: 0.85rem; padding: 5px 10px; text-decoration: none;" title="Create a new set list"><span style="font-weight: bold; font-size: 1.1em; color: #ffffff; margin-right: 2px;">+</span> New Set</a>
       </form>
 
 

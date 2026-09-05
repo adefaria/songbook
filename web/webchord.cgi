@@ -1104,7 +1104,7 @@ print $q->table (
       $q->div ({
           -class => 'version-text',
         },
-        "3.2"
+        "4.0"
       ),
       $q->div ({
         -style => 'margin-top: 5px; color: var(--text-color);'

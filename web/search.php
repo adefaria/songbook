@@ -253,7 +253,7 @@ $totalMatches = count($artistMatches) + count($setMatches) + count($songMatches)
           <a href="/songs" target="_top" style="text-decoration: none;">
             <span class="home-icon" style="font-size: 40px; line-height: 1; color: #4285F4;">&#9835;</span>
           </a>
-          <div class="version-text">3.1</div>
+          <div class="version-text">4.0</div>
         </td>
         <td align="center">
           <h1><a href="/songs" target="_top" style="text-decoration: none; color: inherit;">Songbook</a></h1>
