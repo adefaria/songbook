@@ -48,6 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             // Save file
             if (file_put_contents($target_filepath, $content_to_write) !== false) {
+                @chmod($target_filepath, 0664);
                 header("Location: displayset.php?set=" . urlencode(basename($target_filename)));
                 exit;
             } else {
