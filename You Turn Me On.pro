@@ -31,9 +31,3 @@ Hold me close and don't let go
 Let the feeling start to grow
 
 {c:Chorus}
-
-You turn me on, you light the fire
-Taking me higher and higher
-There's nothing else that I need
-Just letting go and feeling free
-You turn me on

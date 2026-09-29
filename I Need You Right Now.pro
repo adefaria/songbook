@@ -35,12 +35,4 @@ Just the warmth of being close beside the evening fire
 
 {c:Chorus}
 
-I need you right now,
-With your hand in mine
-Nothing else matters,
-We're doing just fine
-Forget about tomorrow, let the rest fade out
-You're all that my heart is thinking about
-Right here, right now...
-
 {c:Acoustic Solo}
