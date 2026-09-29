@@ -15,7 +15,7 @@ Not quite sure where the journey begins.
 The same old tune begins to play,
 Chasing all the heavy clouds away.
 
-{c:Chorus 1}
+{c:Chorus}
 
 Oh, the merry-go-round keeps turning,
 A fire gently burning.
@@ -37,16 +37,7 @@ No need to rush, no need to care.
 Every circle brings us home,
 No more a need to wildly roam.
 
-{c:Chorus 2}
-
-Oh, the merry-go-round keeps turning,
-A fire gently burning.
-We pass the same familiar trees,
-Carried on a steady breeze.
-There's comfort in the loops we make,
-Every sweet and gentle break.
-In the spinning, we are found,
-On this joyful merry-go-round.
+{c:Chorus}
 
 {c:Outro}
 

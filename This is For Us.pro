@@ -14,24 +14,28 @@ We had no map no grand design
 Just your hand finding mine
 And every ordinary little thing
 Feel like a door thrown open wide
-This is for us babe all of it
 
 {c:Chorus}
 
+This is for us babe all of it
 We borrowed time the room we're in
 The laugh that catches halfway through
 A thousand small roads back to you
+
 This is for us babe take it slow
 There's more ahead than we can know
 If the whole world opens
 Let it start with your name resting in my heart
 
-{c:Verse 2}
+{c:Chorus ending 1}
 
 I love the way you say my name
 When you're pretending not to smile
 The way you leave your book face down
 And steal the blanket for a while
+
+{c:Verse 2}
+
 No promise needs a polished frame
 No perfect words to make it true
 I find the best part of my life
@@ -39,21 +43,14 @@ In all the simple days with you
 
 {c:Chorus}
 
-This is for us babe all of it
-We borrowed time the room we're in
-The laugh that catches halfway through
-The thousand small roads back to you
-This is for us babe take it slow
-There's more ahead than we can know
-If the whole world opens
-Let it start with your name resting in my heart
-
-{c:Bridge}
+{c:Chorus ending 2}
 
 And if the seasons change their minds
 And some bright morning turns to grey
 I'll meet you where the moment is
 And choose you in the same old way
+
+{c:Lead}
 
 {c:Chorus}
 
