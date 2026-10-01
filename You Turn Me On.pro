@@ -13,6 +13,8 @@ I want it all over again
 Every move you make is right
 Electricity tonight
 
+Oh yeah, hey!
+
 {c:Chorus}
 
 You turn me on, you light the fire
@@ -20,6 +22,18 @@ Taking me higher and higher
 There's nothing else that I need
 Just letting go and feeling free
 You turn me on
+
+Oh
+
+You turn me on, you light the fire
+Taking me higher and higher
+There's nothing else that I need
+Feeling free
+You turn me on
+
+Oh, oh, oh, oh
+
+{c:Lead}
 
 {c:Verse 2}
 
@@ -29,5 +43,7 @@ Nothing matters in this space
 When I'm lost inside your embrace
 Hold me close and don't let go
 Let the feeling start to grow
+
+Oh yeah, yay!
 
 {c:Chorus}
