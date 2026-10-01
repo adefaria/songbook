@@ -24,8 +24,8 @@ A thousand small roads back to you
 
 This is for us babe take it slow
 There's more ahead than we can know
-If the whole world opens
-Let it start with your name resting in my heart
+If the whole world opens let it start 
+With your name resting in my heart
 
 {c:Chorus ending 1}
 
@@ -60,8 +60,8 @@ The life we haven't lived just yet
 The sweetest chance I've ever met
 This is for us babe hand in hand
 A little house of borrowed plans
-If the whole world opens
-Let it be a place where you keep choosing me
+If the whole world opens let it be
+A place where you keep choosing me
 
 {c:Outro}
 
