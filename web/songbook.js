@@ -113,13 +113,14 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   song.addEventListener("play", function () {
+    this.muted = false;
     clearInterval(interval); // Clear existing intervals to prevent duplicates
     interval = setInterval(loop, oneSec);
 
     // Scroll to A marker or top when play starts
     if (ascrollpoint !== 0) {
       window.scrollTo(0, ascrollpoint);
-    } else if (starttime === 0) {
+    } else if (starttime === 0 && song.currentTime === 0) {
       // If no A marker and starting from beginning
       window.scrollTo(0, 0);
     }
@@ -148,26 +149,48 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   document.addEventListener("keydown", function (e) {
-    const currentAudioElementInDOM =
-      document.getElementById("song_audio_player");
-
     if (!song) return; // Ensure song element is available
 
-    const targetTagName = e.target.tagName.toLowerCase();
-    // Allow spacebar to work as expected in input fields
+    const targetTagName = e.target.tagName ? e.target.tagName.toLowerCase() : "";
+    // Allow standard typing in input fields, textareas, and contentEditable
     if (
-      (targetTagName === "input" || targetTagName === "textarea") &&
-      e.code === KEY_SPACE
+      targetTagName === "input" ||
+      targetTagName === "textarea" ||
+      e.target.isContentEditable
     ) {
       return;
     }
 
-    // For other shortcuts, you might also want to disable them if an input/textarea has focus,
-    // depending on desired behavior. For now, only spacebar is special-cased.
+    // Ignore if modifier keys are pressed (e.g. Ctrl, Alt, Meta/Command)
+    if (e.ctrlKey || e.altKey || e.metaKey) {
+      return;
+    }
+
+    // Number keys 0-9: start playback at 0%, 10%, 20%, ..., 90% of the audio
+    if (/^[0-9]$/.test(e.key)) {
+      e.preventDefault();
+      const digit = parseInt(e.key, 10);
+      const fraction = digit * 0.10;
+      if (song.duration && !isNaN(song.duration)) {
+        song.currentTime = song.duration * fraction;
+      } else if (digit === 0) {
+        song.currentTime = 0;
+      }
+      if (digit === 0) {
+        window.scrollTo(0, 0);
+      }
+      song.muted = false;
+      song.play().catch(err => console.log('Playback start error:', err));
+      if (typeof showToast === 'function') {
+        showToast(`Playing at ${digit * 10}%`);
+      }
+      return;
+    }
 
     switch (e.code) {
       case KEY_SPACE:
         e.preventDefault();
+        song.muted = false;
         if (song.paused) {
           // If A marker is set, and we are not already past it, jump to A.
           // Or, always jump to A if set. The original logic was:
@@ -199,12 +222,14 @@ document.addEventListener("DOMContentLoaded", function () {
       case KEY_ARROW_LEFT:
         e.preventDefault();
         song.currentTime -= howmanysecs;
+        song.muted = false;
         if (song.paused) song.play(); 
         break;
 
       case KEY_ARROW_RIGHT:
         e.preventDefault();
         song.currentTime += howmanysecs;
+        song.muted = false;
         if (song.paused) song.play(); 
         break;
 
@@ -632,45 +657,67 @@ document.addEventListener("DOMContentLoaded", function () {
     if (autoplayEnabled && urlParams.has('chordpro')) {
       const audio = document.querySelector('audio');
       if (audio) {
+        audio.muted = false;
+
         // Robust Autoplay Logic
         const attemptPlay = () => {
+          audio.muted = false;
           const playPromise = audio.play();
           if (playPromise !== undefined) {
             playPromise.then(_ => {
-              // Autoplay started!
+              // Autoplay started with sound!
             }).catch(error => {
-              console.log('Autoplay prevented by browser:', error);
+              console.log('Autoplay prevented by browser policy:', error);
               
-              // Fallback: Play on first interaction (invisible to user)
-              const playOnInteraction = () => {
-                // Ensure we unmute before playing!
-                audio.muted = false; 
-                audio.play().then(() => {
-                  // Success - remove listeners
-                  ['click', 'keydown', 'touchstart'].forEach(e => 
-                    document.removeEventListener(e, playOnInteraction));
-                }).catch(e => console.log('Interaction play failed:', e));
+              // Do NOT play muted as a fallback. Silent playback advances the track
+              // invisibly and leaves audio.muted = true, causing manual play to be silent.
+              audio.muted = false;
+              audio.pause();
+              audio.currentTime = 0;
+
+              let interactionHandled = false;
+              const removeInteractionListeners = () => {
+                ['click', 'keydown', 'pointerdown', 'touchstart'].forEach(e => {
+                  document.removeEventListener(e, playOnInteraction, true);
+                  window.removeEventListener(e, playOnInteraction, true);
+                });
               };
 
+              // Fallback: Start playback on first interaction
+              const playOnInteraction = (e) => {
+                if (interactionHandled) return;
+                // Ignore modifier keys
+                if (e.type === 'keydown' && (e.ctrlKey || e.altKey || e.metaKey)) return;
+
+                interactionHandled = true;
+                removeInteractionListeners();
+                audio.muted = false;
+                audio.play().catch(err => console.log('Interaction play failed:', err));
+              };
+
+              // If the user clicks the native audio controls play button directly
+              audio.addEventListener('play', () => {
+                audio.muted = false;
+                interactionHandled = true;
+                removeInteractionListeners();
+              }, { once: true });
+
               // Listen for any user interaction
-              ['click', 'keydown', 'touchstart'].forEach(e => 
-                document.addEventListener(e, playOnInteraction));
-                
-              // Also try muted as a backup, so it at least starts visually
-              audio.muted = true;
-              audio.play().then(() => {
-                  // If muted autoplay works, we still want the interaction to UNMUTE it
-                  // The listeners above will handle that (calling play() on unmuted audio)
-                  showToast("Playing muted. Click to unmute.");
-              }).catch(e => console.log('Muted autoplay also prevented'));
+              ['click', 'keydown', 'pointerdown', 'touchstart'].forEach(e => {
+                document.addEventListener(e, playOnInteraction, { once: true, capture: true });
+                window.addEventListener(e, playOnInteraction, { once: true, capture: true });
+              });
             });
           }
         };
 
-        if (audio.readyState >= 3) {
-            attemptPlay();
+        if (audio.readyState >= 2) {
+          attemptPlay();
         } else {
-            audio.addEventListener('canplay', attemptPlay, { once: true });
+          audio.addEventListener('canplay', attemptPlay, { once: true });
+          audio.addEventListener('loadedmetadata', () => {
+            if (audio.paused && !audio.currentTime) attemptPlay();
+          }, { once: true });
         }
       }
     }

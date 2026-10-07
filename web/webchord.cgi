@@ -1066,12 +1066,17 @@ document.addEventListener('DOMContentLoaded', function() {
             // Prevent default? Maybe not, just toggle.
             // Toggle Play/Pause
             if (audio.paused) {
+                audio.muted = false;
                 audio.play();
                 showToast("Playing");
             } else {
                 audio.pause();
                 showToast("Paused");
             }
+        });
+
+        audio.addEventListener('play', function() {
+            this.muted = false;
         });
     }
 });
