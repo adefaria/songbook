@@ -166,21 +166,20 @@
   // MODIFIED FUNCTION u(responseText, callback)
   function u(responseText, callback) {
     if (!document.getElementById("helpUnderlay")) {
-      var bodyEl = document.getElementsByTagName("body")[0];
-      if (bodyEl) {
-        // Create a temporary container element
-        var tempContainer = document.createElement("div");
-        // Set its innerHTML to the response text. This is safe as it's a new, detached element.
-        tempContainer.innerHTML = responseText;
-        // Append all children of the new container directly to the body.
-        // This assumes responseText contains top-level elements like <div id="helpUnderlay">...</div>
-        while (tempContainer.firstChild) {
-          bodyEl.appendChild(tempContainer.firstChild);
+      var appendToBody = function () {
+        var bodyEl = document.body || document.getElementsByTagName("body")[0];
+        if (bodyEl) {
+          var tempContainer = document.createElement("div");
+          tempContainer.innerHTML = responseText;
+          while (tempContainer.firstChild) {
+            bodyEl.appendChild(tempContainer.firstChild);
+          }
+          callback();
+        } else {
+          document.addEventListener("DOMContentLoaded", appendToBody, { once: true });
         }
-        callback(); // Call the original callback (s)
-      } else {
-        console.error("Cannot append help content: body element not found.");
-      }
+      };
+      appendToBody();
     }
   }
   function a(e) {
@@ -203,7 +202,7 @@
       xhr.onreadystatechange = function () {
         a(xhr); // pass xhr to a
       };
-      xhr.open("GET", "/songbook/question.mark.html", true);
+      xhr.open("GET", "/songbook/question.mark.html?v=" + new Date().getTime(), true);
       xhr.send(null);
     } else {
       var bodyEl = document.getElementsByTagName("body")[0];

@@ -77,6 +77,21 @@
       margin: 15px 0;
     }
 
+    kbd {
+      background-color: var(--bg-color);
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+      color: var(--text-color);
+      display: inline-block;
+      font-size: 0.85em;
+      font-family: inherit;
+      font-weight: 600;
+      line-height: 1.2;
+      padding: 2px 6px;
+      white-space: nowrap;
+    }
+
     sup {
       background: var(--badge-bg);
       color: var(--badge-color);
@@ -229,6 +244,22 @@
     <section>
       <h2>Mark A &amp; B Loop Modifiers</h2>
       <p>The <span class="accent">Mark A</span><sup>9</sup> and <span class="accent">Mark B</span> loop points are extremely useful for practicing. You can isolate any segment of a song to loop continuously during playback. To define loop limits during a song, simply type <kbd>a</kbd> on your keyboard to set the start marker and <kbd>b</kbd> to set the end marker. The player will instantly repeat the selection, helping you lock down challenging transitions.</p>
+    </section>
+    <section>
+      <h2>Keyboard Shortcuts</h2>
+      <p>Songbook features single-key keyboard shortcuts for rapid rehearsal and playback control on the song page:</p>
+      <ul>
+        <li><kbd>Space</kbd> &ndash; <span class="accent">Pause / Play</span> toggle.</li>
+        <li><kbd>r</kbd> &ndash; <span class="accent">Return to start</span> (or back to Mark A point if set).</li>
+        <li><kbd>&larr;</kbd> / <kbd>&rarr;</kbd> &ndash; <span class="accent">Rewind / Fast forward</span> by 10 seconds.</li>
+        <li><kbd>1</kbd>&ndash;<kbd>9</kbd> &ndash; <span class="accent">Jump to 10%&ndash;90%</span> of the song (e.g. <kbd>1</kbd> starts at 10%, <kbd>5</kbd> at 50%, <kbd>9</kbd> at 90%).</li>
+        <li><kbd>0</kbd> &ndash; <span class="accent">Restart from beginning (0%)</span>.</li>
+        <li><kbd>a</kbd> &ndash; <span class="accent">Set Mark A</span> loop start marker.</li>
+        <li><kbd>b</kbd> &ndash; <span class="accent">Set Mark B</span> loop end marker.</li>
+        <li><kbd>c</kbd> &ndash; <span class="accent">Clear</span> the active A/B loop.</li>
+        <li><kbd>d</kbd> &ndash; <span class="accent">Download</span> the song audio file.</li>
+        <li><kbd>?</kbd> &ndash; Open the <span class="accent">Keyboard Shortcuts</span> overlay modal.</li>
+      </ul>
     </section>
   </main>
 
