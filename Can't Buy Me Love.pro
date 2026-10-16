@@ -1,4 +1,4 @@
-{title:Can’t Buy Me Love}
+{title:Can't Buy Me Love}
 {subtitle:Beatles}
 {key:C}
 
