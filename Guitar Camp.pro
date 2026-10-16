@@ -18,7 +18,7 @@ Shared a laugh and shared a name
 Down at guitar camp we play
 Stringing chords to steal the day
 From Texas plains to Tennessee
-We’re all locked in the melody
+We're all locked in the melody
 Yeah, six strings talking loud and clear
 We found our kind of heaven here
 
@@ -29,7 +29,7 @@ All the roads and all we lost
 Comparing notes from days gone by
 Underneath the open sky
 Left Dallas in the rearview glass
-Found a groove that’s gonna last
+Found a groove that's gonna last
 
 {c:Chorus}
 

@@ -4,12 +4,12 @@
 {musicpath:Music/Georgia Howled.mp3}
 {key:E}
 
-[E]I’ve known [B]Georgia since she was 23,
+[E]I've known [B]Georgia since she was 23,
 [E]I lost my [B]mind counting all our crazy schemes. 
-[E]Let’s go run[B]ning around the neighborhood,
+[E]Let's go run[B]ning around the neighborhood,
 doing whatever we ought we should.
 
-[F#]I’ve been wondering Georg[A]ia,
+[F#]I've been wondering Georg[A]ia,
 about what to say
 [F#]With you making me feel [A]like you do,
 

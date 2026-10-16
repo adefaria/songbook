@@ -7,9 +7,9 @@
 {c:Verse 1}
 
 Dust on the dashboard, coffee running cold
-Counting every yellow line that’s turned to gold
+Counting every yellow line that's turned to gold
 Suitcase in the back seat, heavy on the floor
-I've had enough of leaving through somebody else’s door
+I've had enough of leaving through somebody else's door
 
 Tail-lights fading in the rear-view glass
 Watching every shadow from the highway pass
