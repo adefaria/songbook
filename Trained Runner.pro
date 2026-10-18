@@ -1,5 +1,6 @@
 {title:Trained Runner}
 {subtitle:Andrew DeFaria}
+{duration:4:58}
 {musicpath:Music/Trained Runner.mp3}
 {key:F#m}
 
