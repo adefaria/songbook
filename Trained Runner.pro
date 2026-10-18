@@ -1,5 +1,5 @@
 {title:Trained Runner}
-{subtitle:Tempest}
+{subtitle:Andrew DeFaria}
 {musicpath:Music/Trained Runner.mp3}
 {key:F#m}
 
