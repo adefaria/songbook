@@ -19,8 +19,10 @@ Girl, won't you make up your mind?
 We're running out of daylight, burning up time
 Are you staying or going? Is it green light or red?
 Stop leaving all the answers hanging by a thread
-Yeah, make up your mind
+Make up your mind
 Before we leave another good day behind
+Make up your mind
+Before we leave another good day babe behind
 
 {c:Verse 2}
 
@@ -35,9 +37,9 @@ And nobody knows how you really feel
 
 Girl, won't you make up your mind?
 We're running out of daylight, burning up time
-Are you staying or going? Is it green light or red?
+Are you staying or going? Is it make up your mind
 Stop leaving all the answers hanging by a thread
-Yeah, make up your mind
+Yeah, make up your mind not a good day behind
 Before we leave another good day behind
 
 {c:Bridge}
@@ -63,4 +65,7 @@ Before we leave another good day behind
 Yeah, yes or no... high or low...
 Just tell me where we're supposed to go
 Make up your mind...
+Make up your mind...
+Make up your mind...
 Make up your mind, babe.
+Make up your mind...
