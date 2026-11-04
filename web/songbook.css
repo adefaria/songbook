@@ -617,6 +617,11 @@ h1 {
   font-weight: normal;
   display: inline-block;
   transition: background-color 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.mark-value:hover {
+  outline: 1px dashed #666;
 }
 
 .mark-value.set {
@@ -635,9 +640,34 @@ h1 {
   color: #777;
 }
 
+[data-theme="light"] .mark-value:hover {
+  outline: 1px dashed #999;
+}
+
 [data-theme="light"] .mark-value.set {
   background-color: #28a745;
   color: white;
+}
+
+.mark-val-input {
+  width: 55px;
+  font-family: monospace;
+  font-size: 0.9rem;
+  padding: 1px 3px;
+  border: 1px solid #4da3ff;
+  border-radius: 3px;
+  text-align: center;
+  background: #2b2b2b;
+  color: #eee;
+  outline: none;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+[data-theme="light"] .mark-val-input {
+  background: #fff;
+  color: #222;
+  border-color: #007bff;
 }
 
 .comment_italic {

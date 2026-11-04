@@ -22,10 +22,37 @@ function getCookie(name) {
 
 var starttime = 0;
 var endtime = 0;
+var isMarkASet = false;
+var isMarkBSet = false;
 var ascrollpoint = 0;
 var bscrollpoint = 0;
 
 var song, interval, scroll, body;
+
+function parseTime(input) {
+  if (typeof input === "number") return input;
+  if (!input) return null;
+  input = String(input).trim();
+  if (!input || input.toLowerCase() === "not set") return null;
+
+  const parts = input.split(":").map(p => p.trim());
+  if (parts.length === 1) {
+    const secs = parseFloat(parts[0]);
+    return isNaN(secs) ? null : Math.max(0, secs);
+  } else if (parts.length === 2) {
+    const mins = parseFloat(parts[0]);
+    const secs = parseFloat(parts[1]);
+    if (isNaN(mins) || isNaN(secs)) return null;
+    return Math.max(0, mins * 60 + secs);
+  } else if (parts.length === 3) {
+    const hours = parseFloat(parts[0]);
+    const mins = parseFloat(parts[1]);
+    const secs = parseFloat(parts[2]);
+    if (isNaN(hours) || isNaN(mins) || isNaN(secs)) return null;
+    return Math.max(0, hours * 3600 + mins * 60 + secs);
+  }
+  return null;
+}
 
 /**
  * Navigates to the next song in the setlist if setlist data is available.
@@ -72,11 +99,11 @@ const oneSec = 1000;
 
 function loop() {
   // If endtime is not set then we can't loop
-  if (endtime == 0) return;
+  if (!isMarkBSet || endtime == 0) return;
 
   // if we're past the endtime then it's time to start back at the A marker
   if (song.currentTime > endtime) {
-    song.currentTime = starttime;
+    song.currentTime = isMarkASet ? starttime : 0;
     if (ascrollpoint != 0) window.scrollTo(0, ascrollpoint);
   } // if
 } // loop
@@ -146,47 +173,66 @@ document.addEventListener("DOMContentLoaded", function () {
     // If intervals aren't starting for autoplay, you might need:
     // if (!interval) interval = setInterval(loop, oneSec);
     // if (!scroll) scroll = setInterval(scrollLyrics, scrollTime);
-  function setMarkA() {
-    if (!song) return;
-    // Reset endtime if setting a new A marker
-    if (endtime !== song.duration) {
-      endtime = song.duration; // Implicitly clear B marker
-      const bElement = document.getElementById("b");
-      if (bElement) {
+  function formatSongbookTime(seconds) {
+    if (isNaN(seconds) || seconds === null) return "not set";
+    const total = Math.max(0, Math.floor(seconds));
+    const mins = Math.floor(total / 60);
+    const secs = total % 60;
+    const formattedSecs = secs < 10 ? "0" + secs : secs;
+    return `${mins}:${formattedSecs}`;
+  }
+
+  function updateSongbookMarkerUI() {
+    const aElement = document.getElementById("a");
+    if (aElement) {
+      if (aElement.querySelector("input")) return;
+      if (isMarkASet) {
+        aElement.classList.add("set");
+        aElement.innerHTML = formatSongbookTime(starttime);
+      } else {
+        aElement.classList.remove("set");
+        aElement.innerHTML = '<span class="not-set">not set</span>';
+      }
+    }
+    const bElement = document.getElementById("b");
+    if (bElement) {
+      if (bElement.querySelector("input")) return;
+      if (isMarkBSet && endtime > 0 && endtime <= (song.duration || Infinity)) {
+        bElement.classList.add("set");
+        bElement.innerHTML = formatSongbookTime(endtime);
+      } else {
         bElement.classList.remove("set");
         bElement.innerHTML = '<span class="not-set">not set</span>';
       }
     }
-    starttime = song.currentTime;
-    const secsA = Math.floor(starttime % 60);
-    const formattedSecsA = secsA < 10 ? "0" + secsA : secsA;
-    const aElement = document.getElementById("a");
-    if (aElement) {
-      aElement.classList.add("set");
-      aElement.innerHTML =
-        Math.floor(starttime / 60) + ":" + formattedSecsA;
+  }
+
+  function setMarkA(val) {
+    if (!song) return;
+    const newTime = typeof val === "number" ? val : song.currentTime;
+    if (isMarkBSet && endtime <= newTime) {
+      endtime = song.duration;
+      isMarkBSet = false;
     }
+    starttime = newTime;
+    isMarkASet = true;
     ascrollpoint = window.pageYOffset;
+    updateSongbookMarkerUI();
     if (typeof showToast === 'function') {
-      showToast(`Mark A: ${Math.floor(starttime / 60)}:${formattedSecsA}`);
+      showToast(`Mark A: ${formatSongbookTime(starttime)}`);
     }
   }
 
-  function setMarkB() {
+  function setMarkB(val) {
     if (!song) return;
-    if (song.currentTime > starttime) {
-      endtime = song.currentTime;
-      const secsB = Math.floor(endtime % 60);
-      const formattedSecsB = secsB < 10 ? "0" + secsB : secsB;
-      const bElement = document.getElementById("b");
-      if (bElement) {
-        bElement.classList.add("set");
-        bElement.innerHTML =
-          Math.floor(endtime / 60) + ":" + formattedSecsB;
-      }
+    const newTime = typeof val === "number" ? val : song.currentTime;
+    if (!isMarkASet || newTime > starttime) {
+      endtime = newTime;
+      isMarkBSet = true;
       bscrollpoint = window.pageYOffset;
+      updateSongbookMarkerUI();
       if (typeof showToast === 'function') {
-        showToast(`Mark B: ${Math.floor(endtime / 60)}:${formattedSecsB}`);
+        showToast(`Mark B: ${formatSongbookTime(endtime)}`);
       }
     } else if (typeof showToast === 'function') {
       showToast("Mark B must be after Mark A");
@@ -197,21 +243,99 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!song) return;
     starttime = 0;
     endtime = song.duration;
+    isMarkASet = false;
+    isMarkBSet = false;
     ascrollpoint = 0;
     bscrollpoint = 0;
-    const elA = document.getElementById("a");
-    const elB = document.getElementById("b");
-    if (elA) {
-      elA.classList.remove("set");
-      elA.innerHTML = '<span class="not-set">not set</span>';
-    }
-    if (elB) {
-      elB.classList.remove("set");
-      elB.innerHTML = '<span class="not-set">not set</span>';
-    }
+    updateSongbookMarkerUI();
     if (typeof showToast === 'function') {
       showToast("A-B Loop cleared");
     }
+  }
+
+  function startEditingSongbookMarker(isMarkerA) {
+    const el = document.getElementById(isMarkerA ? "a" : "b");
+    if (!el || !song) return;
+    if (el.querySelector("input")) return;
+
+    let initialText = "";
+    if (isMarkerA) {
+      initialText = isMarkASet ? formatSongbookTime(starttime) : (song.currentTime > 0 ? formatSongbookTime(song.currentTime) : "0:00");
+    } else {
+      initialText = (isMarkBSet && endtime > 0 && endtime <= (song.duration || Infinity))
+        ? formatSongbookTime(endtime)
+        : (song.currentTime > 0 ? formatSongbookTime(song.currentTime) : "0:00");
+    }
+
+    const input = document.createElement("input");
+    input.type = "text";
+    input.className = "mark-val-input";
+    input.value = initialText;
+    input.title = "Enter time (e.g. 9, 0:09, 1:30)";
+
+    el.innerHTML = "";
+    el.appendChild(input);
+    input.focus();
+    input.select();
+
+    let committed = false;
+
+    function finish(save) {
+      if (committed) return;
+      committed = true;
+
+      if (save) {
+        const parsed = parseTime(input.value);
+        if (parsed !== null && !isNaN(parsed)) {
+          const targetTime = Math.min(song.duration || Infinity, Math.max(0, parsed));
+          if (isMarkerA) {
+            setMarkA(targetTime);
+          } else {
+            setMarkB(targetTime);
+          }
+        }
+      }
+      updateSongbookMarkerUI();
+    }
+
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        finish(true);
+      } else if (e.key === "Escape") {
+        e.preventDefault();
+        finish(false);
+      }
+      e.stopPropagation();
+    });
+
+    input.addEventListener("blur", function () {
+      finish(true);
+    });
+
+    input.addEventListener("click", function (e) {
+      e.stopPropagation();
+    });
+  }
+
+  const elA = document.getElementById("a");
+  if (elA) {
+    elA.title = "Click to edit time";
+    elA.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      startEditingSongbookMarker(true);
+    });
+  }
+
+  const elB = document.getElementById("b");
+  if (elB) {
+    elB.title = "Click to edit time";
+    elB.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      startEditingSongbookMarker(false);
+    });
   }
 
   const btnMarkA = document.getElementById("btn-mark-a");
@@ -282,12 +406,9 @@ document.addEventListener("DOMContentLoaded", function () {
         e.preventDefault();
         song.muted = false;
         if (song.paused) {
-          // If A marker is set, and we are not already past it, jump to A.
-          // Or, always jump to A if set. The original logic was:
-          // if (starttime != 0) { song.currentTime = starttime; }
-          if (starttime !== 0) {
+          if (isMarkASet && song.currentTime < starttime) {
             song.currentTime = starttime;
-          } else if (song.currentTime === song.duration && starttime === 0) {
+          } else if (song.currentTime === song.duration && !isMarkASet) {
             // If song ended and no A/B loop, restart from actual beginning
             song.currentTime = 0;
           }
@@ -300,7 +421,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       case KEY_R: // return2start (R key)
         e.preventDefault();
-        if (starttime !== 0) {
+        if (isMarkASet) {
           song.currentTime = starttime;
           if (ascrollpoint !== 0) window.scrollTo(0, ascrollpoint);
         } else {

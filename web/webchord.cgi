@@ -1065,6 +1065,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 tagName === 'select' || 
                 tagName === 'textarea' ||
                 tagName === 'audio' ||
+                target.closest('.mark-value') ||
+                target.closest('.mark-label') ||
+                target.closest('.mark-link') ||
+                target.closest('.clear-btn') ||
                 target.closest('.autocomplete-results') ||
                 target.closest('#mobile-search-bar-top') ||
                 target.closest('footer') || /* Footer buttons */
