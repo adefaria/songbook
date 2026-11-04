@@ -308,9 +308,10 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function startEditingSongbookMarker(isMarkerA) {
-    cancelActiveSongbookEdit();
     const el = document.getElementById(isMarkerA ? "a" : "b");
-    if (!el || !song) return;
+    if (!el || !song || el.querySelector("input")) return;
+
+    cancelActiveSongbookEdit();
 
     let initialText = "";
     if (isMarkerA) {
@@ -339,9 +340,13 @@ document.addEventListener("DOMContentLoaded", function () {
       committed = true;
       activeSongbookEditFinish = null;
 
+      const raw = input.value.trim();
+      if (input.parentNode) {
+        input.parentNode.removeChild(input);
+      }
+
       if (!wasCancelled) {
         if (save) {
-          const raw = input.value.trim();
           if (!raw) {
             if (isMarkerA) {
               isMarkASet = false;
