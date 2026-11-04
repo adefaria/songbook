@@ -982,17 +982,27 @@ if ($audio_player) {
       -align => 'center',
       -style => 'margin-top: 5px; color: var(--text-color); margin-bottom: 0;'
     },
-    $q->span ({-class => 'mark-label'}, "Mark A: "),
+    $q->a (
+      {-id => 'btn-mark-a', -class => 'mark-link', -href => '#', -title => 'Set Mark A (A)'},
+      $q->span ({-class => 'mark-label'}, "Mark A:")
+    ),
+    ' ',
     $q->span (
       {-id => 'a', -class => 'mark-value'},
       $q->span ({-class => 'not-set'}, "not set")
     ),
     '&nbsp;&nbsp;',
-    $q->span ({-class => 'mark-label'}, "Mark B: "),
+    $q->a (
+      {-id => 'btn-mark-b', -class => 'mark-link', -href => '#', -title => 'Set Mark B (B)'},
+      $q->span ({-class => 'mark-label'}, "Mark B:")
+    ),
+    ' ',
     $q->span (
       {-id => 'b', -class => 'mark-value'},
       $q->span ({-class => 'not-set'}, "not set")
-    )
+    ),
+    '&nbsp;&nbsp;',
+    '<button type="button" id="clear-loop" class="clear-btn" title="Clear A-B Loop (C)">Clear</button>'
     );
 } ## end if ($audio_player)
 

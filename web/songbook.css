@@ -550,21 +550,94 @@ h1 {
 }
 
 .mark-label {
-  color: #EA4335;
-  /* Google Red */
+  font-weight: bold;
+  color: var(--text-color, #ffffff);
+}
+
+.mark-link {
+  color: #4da3ff;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.mark-link:hover {
+  color: #80bfff;
+  text-decoration: underline;
+}
+
+[data-theme="light"] .mark-link {
+  color: #007bff;
+}
+
+[data-theme="light"] .mark-link:hover {
+  color: #0056b3;
+}
+
+.clear-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 22px;
+  padding: 0 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background: #2b2b2b;
+  color: #aaa;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  vertical-align: middle;
+}
+
+.clear-btn:hover {
+  background: #dc3545;
+  color: white;
+  border-color: #dc3545;
+}
+
+[data-theme="light"] .clear-btn {
+  background: #fff;
+  color: #555;
+  border-color: #ccc;
+}
+
+[data-theme="light"] .clear-btn:hover {
+  background: #dc3545;
+  color: white;
+  border-color: #dc3545;
 }
 
 .mark-value {
+  font-family: monospace;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background-color: #333;
+  color: #aaa;
   font-weight: normal;
-  color: #34A853;
-  /* Google Green (when set) */
-  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.mark-value.set {
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
 }
 
 .mark-value .not-set {
-  color: #80868B;
-  /* Google Gray */
-  font-style: italic;
+  color: inherit;
+  font-style: normal;
+}
+
+[data-theme="light"] .mark-value {
+  background-color: #eee;
+  color: #777;
+}
+
+[data-theme="light"] .mark-value.set {
+  background-color: #28a745;
+  color: white;
 }
 
 .comment_italic {

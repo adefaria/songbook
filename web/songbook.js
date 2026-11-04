@@ -146,6 +146,96 @@ document.addEventListener("DOMContentLoaded", function () {
     // If intervals aren't starting for autoplay, you might need:
     // if (!interval) interval = setInterval(loop, oneSec);
     // if (!scroll) scroll = setInterval(scrollLyrics, scrollTime);
+  function setMarkA() {
+    if (!song) return;
+    // Reset endtime if setting a new A marker
+    if (endtime !== song.duration) {
+      endtime = song.duration; // Implicitly clear B marker
+      const bElement = document.getElementById("b");
+      if (bElement) {
+        bElement.classList.remove("set");
+        bElement.innerHTML = '<span class="not-set">not set</span>';
+      }
+    }
+    starttime = song.currentTime;
+    const secsA = Math.floor(starttime % 60);
+    const formattedSecsA = secsA < 10 ? "0" + secsA : secsA;
+    const aElement = document.getElementById("a");
+    if (aElement) {
+      aElement.classList.add("set");
+      aElement.innerHTML =
+        Math.floor(starttime / 60) + ":" + formattedSecsA;
+    }
+    ascrollpoint = window.pageYOffset;
+    if (typeof showToast === 'function') {
+      showToast(`Mark A: ${Math.floor(starttime / 60)}:${formattedSecsA}`);
+    }
+  }
+
+  function setMarkB() {
+    if (!song) return;
+    if (song.currentTime > starttime) {
+      endtime = song.currentTime;
+      const secsB = Math.floor(endtime % 60);
+      const formattedSecsB = secsB < 10 ? "0" + secsB : secsB;
+      const bElement = document.getElementById("b");
+      if (bElement) {
+        bElement.classList.add("set");
+        bElement.innerHTML =
+          Math.floor(endtime / 60) + ":" + formattedSecsB;
+      }
+      bscrollpoint = window.pageYOffset;
+      if (typeof showToast === 'function') {
+        showToast(`Mark B: ${Math.floor(endtime / 60)}:${formattedSecsB}`);
+      }
+    } else if (typeof showToast === 'function') {
+      showToast("Mark B must be after Mark A");
+    }
+  }
+
+  function clearMarkers() {
+    if (!song) return;
+    starttime = 0;
+    endtime = song.duration;
+    ascrollpoint = 0;
+    bscrollpoint = 0;
+    const elA = document.getElementById("a");
+    const elB = document.getElementById("b");
+    if (elA) {
+      elA.classList.remove("set");
+      elA.innerHTML = '<span class="not-set">not set</span>';
+    }
+    if (elB) {
+      elB.classList.remove("set");
+      elB.innerHTML = '<span class="not-set">not set</span>';
+    }
+    if (typeof showToast === 'function') {
+      showToast("A-B Loop cleared");
+    }
+  }
+
+  const btnMarkA = document.getElementById("btn-mark-a");
+  if (btnMarkA) {
+    btnMarkA.addEventListener("click", function (e) {
+      e.preventDefault();
+      setMarkA();
+    });
+  }
+
+  const btnMarkB = document.getElementById("btn-mark-b");
+  if (btnMarkB) {
+    btnMarkB.addEventListener("click", function (e) {
+      e.preventDefault();
+      setMarkB();
+    });
+  }
+
+  const btnClear = document.getElementById("clear-loop");
+  if (btnClear) {
+    btnClear.addEventListener("click", function (e) {
+      e.preventDefault();
+      clearMarkers();
+    });
   }
 
   document.addEventListener("keydown", function (e) {
@@ -235,52 +325,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
       case KEY_A: // seta (A key)
         e.preventDefault();
-        // Reset endtime if setting a new A marker
-        if (endtime !== song.duration) {
-          endtime = song.duration; // Implicitly clear B marker
-          const bElement = document.getElementById("b");
-          if (bElement)
-            bElement.innerHTML = '<span class="not-set">not set</span>';
-        }
-        starttime = song.currentTime;
-        const secsA = Math.floor(starttime % 60);
-        const formattedSecsA = secsA < 10 ? "0" + secsA : secsA;
-        const aElement = document.getElementById("a");
-        if (aElement)
-          aElement.innerHTML =
-            Math.floor(starttime / 60) + ":" + formattedSecsA;
-        ascrollpoint = window.pageYOffset;
+        setMarkA();
         break;
 
       case KEY_B: // setb (B key)
         e.preventDefault();
-        if (song.currentTime > starttime) {
-          endtime = song.currentTime;
-          // song.currentTime = starttime; // Original jumped back to A, kept this behavior
-          const secsB = Math.floor(endtime % 60);
-          const formattedSecsB = secsB < 10 ? "0" + secsB : secsB;
-          const bElement = document.getElementById("b");
-          if (bElement)
-            bElement.innerHTML =
-              Math.floor(endtime / 60) + ":" + formattedSecsB;
-          bscrollpoint = window.pageYOffset; // bscrollpoint is set but not used by loop/scroll
-        }
+        setMarkB();
         break;
 
       case KEY_C: // cleara (C key) - clears both A and B
         e.preventDefault();
-        starttime = 0;
-        endtime = song.duration; // Ensure this uses the actual duration
-        ascrollpoint = 0;
-        bscrollpoint = 0;
-        const elA = document.getElementById("a");
-        const elB = document.getElementById("b");
-        if (elA) elA.innerHTML = '<span class="not-set">not set</span>';
-        if (elB) elB.innerHTML = '<span class="not-set">not set</span>';
-        // If paused and at end, and then cleared, pressing play should start from 0
-        if (song.paused && song.currentTime === endtime) {
-          // This state is now handled by spacebar logic
-        }
+        clearMarkers();
         break;
 
       case KEY_D: // download (D key)
