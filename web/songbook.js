@@ -209,12 +209,28 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  let activeSongbookEditFinish = null;
+
+  function cancelActiveSongbookEdit() {
+    if (activeSongbookEditFinish) {
+      activeSongbookEditFinish(false, true);
+      activeSongbookEditFinish = null;
+    }
+  }
+
   function setMarkA(val) {
     if (!song) return;
     const newTime = typeof val === "number" ? val : song.currentTime;
-    if (isMarkBSet && endtime <= newTime) {
-      endtime = song.duration;
+    if (isMarkBSet && newTime >= endtime) {
+      isMarkASet = false;
+      starttime = 0;
       isMarkBSet = false;
+      endtime = song.duration;
+      updateSongbookMarkerUI();
+      if (typeof showToast === 'function') {
+        showToast('Invalid range: Mark A & B unset');
+      }
+      return;
     }
     starttime = newTime;
     isMarkASet = true;
@@ -228,20 +244,56 @@ document.addEventListener("DOMContentLoaded", function () {
   function setMarkB(val) {
     if (!song) return;
     const newTime = typeof val === "number" ? val : song.currentTime;
-    if (!isMarkASet || newTime > starttime) {
-      endtime = newTime;
-      isMarkBSet = true;
-      bscrollpoint = window.pageYOffset;
+    if (isMarkASet && newTime <= starttime) {
+      isMarkASet = false;
+      starttime = 0;
+      isMarkBSet = false;
+      endtime = song.duration;
       updateSongbookMarkerUI();
       if (typeof showToast === 'function') {
-        showToast(`Mark B: ${formatSongbookTime(endtime)}`);
+        showToast('Invalid range: Mark A & B unset');
       }
-    } else if (typeof showToast === 'function') {
-      showToast("Mark B must be after Mark A");
+      return;
+    }
+    endtime = newTime;
+    isMarkBSet = true;
+    bscrollpoint = window.pageYOffset;
+    updateSongbookMarkerUI();
+    if (typeof showToast === 'function') {
+      showToast(`Mark B: ${formatSongbookTime(endtime)}`);
+    }
+  }
+
+  function toggleMarkA() {
+    cancelActiveSongbookEdit();
+    if (isMarkASet) {
+      isMarkASet = false;
+      starttime = 0;
+      updateSongbookMarkerUI();
+      if (typeof showToast === 'function') {
+        showToast('Mark A unset');
+      }
+    } else {
+      setMarkA(song.currentTime);
+    }
+  }
+
+  function toggleMarkB() {
+    cancelActiveSongbookEdit();
+    if (isMarkBSet) {
+      isMarkBSet = false;
+      endtime = song.duration;
+      updateSongbookMarkerUI();
+      if (typeof showToast === 'function') {
+        showToast('Mark B unset');
+      }
+    } else {
+      setMarkB(song.currentTime);
     }
   }
 
   function clearMarkers() {
+    cancelActiveSongbookEdit();
     if (!song) return;
     starttime = 0;
     endtime = song.duration;
@@ -256,9 +308,9 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function startEditingSongbookMarker(isMarkerA) {
+    cancelActiveSongbookEdit();
     const el = document.getElementById(isMarkerA ? "a" : "b");
     if (!el || !song) return;
-    if (el.querySelector("input")) return;
 
     let initialText = "";
     if (isMarkerA) {
@@ -282,37 +334,65 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let committed = false;
 
-    function finish(save) {
+    function finish(save, wasCancelled) {
       if (committed) return;
       committed = true;
+      activeSongbookEditFinish = null;
 
-      if (save) {
-        const parsed = parseTime(input.value);
-        if (parsed !== null && !isNaN(parsed)) {
-          const targetTime = Math.min(song.duration || Infinity, Math.max(0, parsed));
-          if (isMarkerA) {
-            setMarkA(targetTime);
+      if (!wasCancelled) {
+        if (save) {
+          const raw = input.value.trim();
+          if (!raw) {
+            if (isMarkerA) {
+              isMarkASet = false;
+              starttime = 0;
+              if (typeof showToast === 'function') showToast('Mark A unset');
+            } else {
+              isMarkBSet = false;
+              endtime = song.duration;
+              if (typeof showToast === 'function') showToast('Mark B unset');
+            }
           } else {
-            setMarkB(targetTime);
+            const parsed = parseTime(raw);
+            if (parsed !== null && !isNaN(parsed)) {
+              const targetTime = Math.min(song.duration || Infinity, Math.max(0, parsed));
+              if (isMarkerA) {
+                setMarkA(targetTime);
+              } else {
+                setMarkB(targetTime);
+              }
+            } else {
+              if (isMarkerA) {
+                isMarkASet = false;
+                starttime = 0;
+                if (typeof showToast === 'function') showToast('Invalid time: Mark A unset');
+              } else {
+                isMarkBSet = false;
+                endtime = song.duration;
+                if (typeof showToast === 'function') showToast('Invalid time: Mark B unset');
+              }
+            }
           }
         }
       }
       updateSongbookMarkerUI();
     }
 
+    activeSongbookEditFinish = finish;
+
     input.addEventListener("keydown", function (e) {
       if (e.key === "Enter") {
         e.preventDefault();
-        finish(true);
+        finish(true, false);
       } else if (e.key === "Escape") {
         e.preventDefault();
-        finish(false);
+        finish(false, true);
       }
       e.stopPropagation();
     });
 
     input.addEventListener("blur", function () {
-      finish(true);
+      finish(true, false);
     });
 
     input.addEventListener("click", function (e) {
@@ -344,7 +424,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (btnMarkA) {
     btnMarkA.addEventListener("click", function (e) {
       e.preventDefault();
-      setMarkA();
+      toggleMarkA();
     });
   }
 
@@ -352,12 +432,15 @@ document.addEventListener("DOMContentLoaded", function () {
   if (btnMarkB) {
     btnMarkB.addEventListener("click", function (e) {
       e.preventDefault();
-      setMarkB();
+      toggleMarkB();
     });
   }
 
   const btnClear = document.getElementById("clear-loop");
   if (btnClear) {
+    btnClear.addEventListener("mousedown", function () {
+      clearMarkers();
+    });
     btnClear.addEventListener("click", function (e) {
       e.preventDefault();
       clearMarkers();
@@ -446,14 +529,14 @@ document.addEventListener("DOMContentLoaded", function () {
         if (song.paused) song.play(); 
         break;
 
-      case KEY_A: // seta (A key)
+      case KEY_A: // Toggle Mark A
         e.preventDefault();
-        setMarkA();
+        toggleMarkA();
         break;
 
-      case KEY_B: // setb (B key)
+      case KEY_B: // Toggle Mark B
         e.preventDefault();
-        setMarkB();
+        toggleMarkB();
         break;
 
       case KEY_C: // cleara (C key) - clears both A and B
