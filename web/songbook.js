@@ -173,6 +173,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // If intervals aren't starting for autoplay, you might need:
     // if (!interval) interval = setInterval(loop, oneSec);
     // if (!scroll) scroll = setInterval(scrollLyrics, scrollTime);
+  }
+
   function formatSongbookTime(seconds) {
     if (isNaN(seconds) || seconds === null) return "not set";
     const total = Math.max(0, Math.floor(seconds));
