@@ -525,7 +525,12 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         }
         song.muted = false;
-        song.play();
+        const playPromise = song.play();
+        if (playPromise !== undefined) {
+          playPromise.catch((err) => {
+            console.warn('Playback on Return failed:', err);
+          });
+        }
         break;
 
       case KEY_ARROW_LEFT:
