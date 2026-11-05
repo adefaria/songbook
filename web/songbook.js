@@ -514,10 +514,18 @@ document.addEventListener("DOMContentLoaded", function () {
         if (isMarkASet) {
           song.currentTime = starttime;
           if (ascrollpoint !== 0) window.scrollTo(0, ascrollpoint);
+          if (typeof showToast === 'function') {
+            showToast(`Return to Mark A (${formatSongbookTime(starttime)})`);
+          }
         } else {
           song.currentTime = 0;
           window.scrollTo(0, 0);
+          if (typeof showToast === 'function') {
+            showToast('Return to start');
+          }
         }
+        song.muted = false;
+        song.play();
         break;
 
       case KEY_ARROW_LEFT:
