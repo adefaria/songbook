@@ -1,8 +1,8 @@
 {title:Make Up Your Mind}
 {subtitle:Andrew DeFaria}
 {duration:3:39}
-{musicpath:Music/Make Up Your Mind.flac}
-{key:B}
+{musicpath:Music/Make Up Your Mind.mp3}
+{key:D}
 
 {c:Verse 1}
 
