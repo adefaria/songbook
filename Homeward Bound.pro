@@ -1,7 +1,7 @@
 {title:Homeward Bound}
 {subtitle:Andrew DeFaria}
 {duration:3:09}
-{musicpath:Music/Homeward Bound.flac}
+{musicpath:Music/Homeward Bound.mp3}
 {key:Em}
 
 {c:Verse 1}
@@ -34,11 +34,7 @@ Cutting clean through the cool late night
 
 {c:Chorus}
 
-Oh, I'm heading home
-Down the only road that never lets me go
-Hear the gravel turn, see the porch light glow
-Put the miles behind me, let the engine moan
-Yeah, I'm heading home
+{c:Guitar / Instrumental Break}
 
 {c:Bridge}
 
@@ -46,15 +42,7 @@ No more rented rooms, no more highway sound
 Just boots on the boards on familiar ground
 Everything I carried finally setting down
 
-{c:Guitar / Instrumental Break}
-
 {c:Chorus}
-
-Oh, I'm heading home
-Down the only road that never lets me go
-Hear the gravel turn, see the porch light glow
-Put the miles behind me, let the engine moan
-Yeah, I'm heading home
 
 {c:Outro and studio fade out}
 
