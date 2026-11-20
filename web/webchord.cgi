@@ -1034,11 +1034,11 @@ if (defined $setlist_name_param && $setlist_name_param ne '') {
 print qq{
 <div id="mobile-search-bar-top">
     <div style="position: relative;">
-        <input type="text" id="footer-song-search" placeholder="Search Song..." autocomplete="off">
+        <input type="text" id="footer-song-search" placeholder="Search Song..." data-bwignore="true" autocomplete="off">
         <div class="autocomplete-results"></div>
     </div>
     <form action="/songbook/search.php" method="get" style="margin: 0;">
-        <input type="text" name="q" placeholder="Search Title / Lyrics">
+        <input type="text" name="q" placeholder="Search Title / Lyrics" data-bwignore="true" autocomplete="off">
         <input type="hidden" name="type" value="lyrics">
     </form>
 </div>
