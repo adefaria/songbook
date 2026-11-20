@@ -84,6 +84,66 @@ function goToNextSong() {
   }
 }
 
+/**
+ * Navigates to the next song in the setlist if available.
+ * Prefers the server-generated next link, falling back to setlistSongs.
+ * @returns {boolean} True if navigation was initiated, false otherwise.
+ */
+function navigateToNextSong() {
+  const nextLink = document.querySelector("a.nav-button.next-link");
+  if (nextLink && nextLink.href) {
+    window.location.href = nextLink.href;
+    return true;
+  }
+
+  if (
+    typeof setlistSongs !== "undefined" &&
+    typeof currentSongIndex !== "undefined" &&
+    typeof setlistName !== "undefined"
+  ) {
+    for (let i = currentSongIndex + 1; i < setlistSongs.length; i++) {
+      if (setlistSongs[i]) {
+        window.location.href = `webchord.cgi?chordpro=${encodeURIComponent(
+          setlistSongs[i]
+        )}&setlist=${encodeURIComponent(setlistName)}&songidx=${i}`;
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+
+/**
+ * Navigates to the previous song in the setlist if available.
+ * Prefers the server-generated previous link, falling back to setlistSongs.
+ * @returns {boolean} True if navigation was initiated, false otherwise.
+ */
+function navigateToPrevSong() {
+  const prevLink = document.querySelector("a.nav-button.prev-link");
+  if (prevLink && prevLink.href) {
+    window.location.href = prevLink.href;
+    return true;
+  }
+
+  if (
+    typeof setlistSongs !== "undefined" &&
+    typeof currentSongIndex !== "undefined" &&
+    typeof setlistName !== "undefined"
+  ) {
+    for (let i = currentSongIndex - 1; i >= 0; i--) {
+      if (setlistSongs[i]) {
+        window.location.href = `webchord.cgi?chordpro=${encodeURIComponent(
+          setlistSongs[i]
+        )}&setlist=${encodeURIComponent(setlistName)}&songidx=${i}`;
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+
 // Key constants
 const KEY_SPACE = "Space";
 const KEY_ARROW_LEFT = "ArrowLeft";
@@ -92,6 +152,8 @@ const KEY_A = "KeyA"; // For 'seta'
 const KEY_B = "KeyB"; // For 'setb'
 const KEY_C = "KeyC"; // For 'cleara' (historically 'C')
 const KEY_D = "KeyD"; // For 'download'
+const KEY_N = "KeyN"; // For 'next song'
+const KEY_P = "KeyP"; // For 'previous song'
 const KEY_R = "KeyR"; // For 'return2start'=
 
 const howmanysecs = 10;
@@ -788,6 +850,36 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
   }
+
+  // Keyboard accelerators for Next (N) and Previous (P) song in a setlist.
+  // Registered independently of the audio player so they work even on songs without audio.
+  document.addEventListener("keydown", function (e) {
+    const targetTagName = e.target && e.target.tagName ? e.target.tagName.toLowerCase() : "";
+    if (
+      targetTagName === "input" ||
+      targetTagName === "textarea" ||
+      targetTagName === "select" ||
+      (e.target && e.target.isContentEditable)
+    ) {
+      return;
+    }
+
+    if (e.ctrlKey || e.altKey || e.metaKey) {
+      return;
+    }
+
+    if (e.code === KEY_N) {
+      e.preventDefault();
+      if (!navigateToNextSong() && typeof showToast === "function") {
+        showToast("No next song");
+      }
+    } else if (e.code === KEY_P) {
+      e.preventDefault();
+      if (!navigateToPrevSong() && typeof showToast === "function") {
+        showToast("No previous song");
+      }
+    }
+  });
 });
 
 // Custom Logic for Two-Column Scrolling
