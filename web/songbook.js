@@ -201,10 +201,74 @@ document.addEventListener("DOMContentLoaded", function () {
     // This ensures loop() uses the correct duration from the start.
   });
 
+  // Cast keepalive indicator: draws a tiny 30fps equalizer in the corner while
+  // audio plays so tab-casting receives continuous video frames for A/V sync.
+  let castKeepaliveRaf = null;
+  let castKeepaliveCanvas = null;
+  let castKeepaliveLastFrame = 0;
+
+  function ensureCastKeepaliveCanvas() {
+    if (castKeepaliveCanvas) return castKeepaliveCanvas;
+    const canvas = document.createElement("canvas");
+    canvas.id = "cast_keepalive_indicator";
+    canvas.width = 16;
+    canvas.height = 14;
+    canvas.title = "Audio playing";
+    canvas.style.cssText =
+      "position:fixed;bottom:8px;right:8px;width:16px;height:14px;" +
+      "pointer-events:none;z-index:9999;opacity:0.45;display:none;";
+    document.body.appendChild(canvas);
+    castKeepaliveCanvas = canvas;
+    return canvas;
+  }
+
+  function renderCastKeepaliveFrame(timestamp) {
+    if (!song || song.paused || song.ended) {
+      stopCastKeepalive();
+      return;
+    }
+    if (timestamp - castKeepaliveLastFrame >= 33) {
+      castKeepaliveLastFrame = timestamp;
+      const canvas = ensureCastKeepaliveCanvas();
+      const ctx = canvas.getContext("2d");
+      if (ctx) {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.fillStyle = "#4a9eff";
+        const t = timestamp * 0.008;
+        const barWidth = 3;
+        const gap = 3;
+        for (let i = 0; i < 3; i++) {
+          const h = Math.max(3, Math.round(7 + 6 * Math.sin(t + i * 1.7)));
+          ctx.fillRect(1 + i * (barWidth + gap), canvas.height - h, barWidth, h);
+        }
+      }
+    }
+    castKeepaliveRaf = requestAnimationFrame(renderCastKeepaliveFrame);
+  }
+
+  function startCastKeepalive() {
+    if (castKeepaliveRaf !== null) return;
+    const canvas = ensureCastKeepaliveCanvas();
+    canvas.style.display = "block";
+    castKeepaliveLastFrame = 0;
+    castKeepaliveRaf = requestAnimationFrame(renderCastKeepaliveFrame);
+  }
+
+  function stopCastKeepalive() {
+    if (castKeepaliveRaf !== null) {
+      cancelAnimationFrame(castKeepaliveRaf);
+      castKeepaliveRaf = null;
+    }
+    if (castKeepaliveCanvas) {
+      castKeepaliveCanvas.style.display = "none";
+    }
+  }
+
   song.addEventListener("play", function () {
     this.muted = false;
     clearInterval(interval); // Clear existing intervals to prevent duplicates
     interval = setInterval(loop, oneSec);
+    startCastKeepalive();
 
     // Scroll to A marker or top when play starts
     if (ascrollpoint !== 0) {
@@ -217,9 +281,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   song.addEventListener("pause", function () {
     clearInterval(interval);
+    stopCastKeepalive();
   });
 
   song.addEventListener("ended", function () {
+    stopCastKeepalive();
     const autoplayEnabled = getCookie("songbook_autoplay") !== "false";
     if (autoplayEnabled) {
       // When the song ends, automatically navigate to the next song.
@@ -229,12 +295,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // If the song is already playing due to autoplay when this script runs
   if (!song.paused) {
-    // Trigger the play handler's logic manually if needed,
-    // or ensure the 'play' event fires correctly for autoplay.
-    // Modern browsers should fire 'play' for autoplay.
-    // If intervals aren't starting for autoplay, you might need:
-    // if (!interval) interval = setInterval(loop, oneSec);
-    // if (!scroll) scroll = setInterval(scrollLyrics, scrollTime);
+    startCastKeepalive();
   }
 
   function formatSongbookTime(seconds) {
